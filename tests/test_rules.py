@@ -4,12 +4,14 @@ import json
 import sys
 from collections.abc import Callable
 from pathlib import Path
+from types import TracebackType
 from typing import Any
 
 import pytest
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RULESET_PATH = PROJECT_ROOT / "content" / "core" / "ruleset.json"
+MAX_RULESET_BYTES = 4 * 1024 * 1024
 
 
 def _rules_api() -> tuple[type[Exception], Callable[[Path], Any]]:
@@ -341,6 +343,133 @@ def test_oversized_growth_cost_is_not_echoed_in_diagnostic(tmp_path: Path) -> No
 
     assert oversized_cost not in str(captured.value)
     assert len(str(captured.value)) < 300
+
+
+def test_large_frozen_integer_mismatch_has_bounded_typed_diagnostic(
+    tmp_path: Path,
+) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_integer = "9" * 1_000
+    serialized = RULESET_PATH.read_text(encoding="utf-8").replace(
+        '"hours_per_day": 24',
+        f'"hours_per_day": {oversized_integer}',
+        1,
+    )
+    path = tmp_path / "oversized-frozen-integer.json"
+    path.write_text(serialized, encoding="utf-8")
+
+    previous_limit = sys.get_int_max_str_digits()
+    try:
+        sys.set_int_max_str_digits(640)
+        with pytest.raises(error_type) as captured:
+            load_ruleset(path)
+    finally:
+        sys.set_int_max_str_digits(previous_limit)
+
+    message = str(captured.value)
+    assert "calendar.hours_per_day" in message
+    assert "integer" in message
+    assert oversized_integer not in message
+    assert len(message) < 300
+
+
+def test_large_string_mismatch_has_bounded_deterministic_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_string = "x" * 10_000
+    path = _write_mutated_ruleset(
+        tmp_path,
+        lambda document: document.update({"ruleset_id": oversized_string}),
+    )
+
+    with pytest.raises(error_type) as first_captured:
+        load_ruleset(path)
+    with pytest.raises(error_type) as second_captured:
+        load_ruleset(path)
+
+    first_message = str(first_captured.value)
+    assert first_message == str(second_captured.value)
+    assert "ruleset_id" in first_message
+    assert "string" in first_message
+    assert "length=10000" in first_message
+    assert oversized_string not in first_message
+    assert len(first_message) < 300
+
+
+def test_large_container_mismatch_has_bounded_deterministic_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_container: list[None] = [None] * 10_000
+    path = _write_mutated_ruleset(
+        tmp_path,
+        lambda document: document.update({"start_modes": oversized_container}),
+    )
+
+    with pytest.raises(error_type) as first_captured:
+        load_ruleset(path)
+    with pytest.raises(error_type) as second_captured:
+        load_ruleset(path)
+
+    first_message = str(first_captured.value)
+    assert first_message == str(second_captured.value)
+    assert "start_modes" in first_message
+    assert "array" in first_message
+    assert "length=10000" in first_message
+    assert len(first_message) < 300
+
+
+def test_ruleset_larger_than_loader_limit_is_rejected(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    path = tmp_path / "oversized-ruleset.json"
+    path.write_bytes(b" " * (MAX_RULESET_BYTES + 1))
+
+    with pytest.raises(error_type, match=r"exceeds maximum size of 4194304 bytes"):
+        load_ruleset(path)
+
+
+def test_ruleset_loader_caps_its_file_read(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    error_type, load_ruleset = _rules_api()
+    requested_sizes: list[int] = []
+
+    class BoundedReadProbe:
+        def __enter__(self) -> BoundedReadProbe:
+            return self
+
+        def __exit__(
+            self,
+            exception_type: type[BaseException] | None,
+            exception: BaseException | None,
+            traceback: TracebackType | None,
+        ) -> None:
+            del exception_type, exception, traceback
+
+        def read(self, size: int = -1) -> bytes:
+            requested_sizes.append(size)
+            if size != MAX_RULESET_BYTES + 1:
+                raise AssertionError(f"uncapped or unexpected ruleset read size: {size}")
+            return b" " * size
+
+    probe = BoundedReadProbe()
+
+    def open_probe(
+        path: Path,
+        mode: str = "r",
+        buffering: int = -1,
+        encoding: str | None = None,
+        errors: str | None = None,
+        newline: str | None = None,
+    ) -> BoundedReadProbe:
+        del path, buffering, encoding, errors, newline
+        assert mode == "rb"
+        return probe
+
+    monkeypatch.setattr(Path, "open", open_probe)
+
+    with pytest.raises(error_type, match=r"exceeds maximum size of 4194304 bytes"):
+        load_ruleset(tmp_path / "read-probe.json")
+
+    assert requested_sizes == [MAX_RULESET_BYTES + 1]
 
 
 def test_unknown_ruleset_field_is_rejected(tmp_path: Path) -> None:

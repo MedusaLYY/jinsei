@@ -28,6 +28,10 @@ class _JsonIntegerLimitError(ValueError):
 
 
 _MAX_JSON_INTEGER_DIGITS = 4_300
+# Rulesets are compact constitutional documents; cap input before decoding or parsing.
+_MAX_RULESET_BYTES = 4 * 1024 * 1024
+_MAX_DIAGNOSTIC_STRING_CHARS = 48
+_MAX_DIAGNOSTIC_INTEGER_MAGNITUDE = 10**18
 
 
 _EXPECTED_MAGIC_THRESHOLDS: dict[str, JsonValue] = {
@@ -293,16 +297,25 @@ class Ruleset:
 
 
 def load_ruleset(path: str | Path) -> Ruleset:
-    """Load ``path`` and reject malformed or constitutionally inconsistent rules."""
+    """Load a ruleset of at most 4 MiB and reject inconsistent content."""
     rules_path = Path(path)
     try:
-        serialized = rules_path.read_text(encoding="utf-8")
+        with rules_path.open("rb") as rules_file:
+            serialized_bytes = rules_file.read(_MAX_RULESET_BYTES + 1)
+    except OSError as error:
+        raise RulesetValidationError(f"{rules_path}: cannot read ruleset: {error}") from error
+
+    if len(serialized_bytes) > _MAX_RULESET_BYTES:
+        raise RulesetValidationError(
+            f"{rules_path}: ruleset exceeds maximum size of {_MAX_RULESET_BYTES} bytes"
+        )
+
+    try:
+        serialized = serialized_bytes.decode("utf-8")
     except UnicodeDecodeError as error:
         raise RulesetValidationError(
             f"{rules_path}: ruleset is not valid UTF-8 at byte {error.start}"
         ) from error
-    except OSError as error:
-        raise RulesetValidationError(f"{rules_path}: cannot read ruleset: {error}") from error
 
     try:
         parsed = cast(
@@ -420,7 +433,30 @@ def _expect(document: JsonObject, field_path: tuple[str, ...], expected: JsonVal
     actual = _at(document, field_path)
     if not _json_values_equal_with_strict_types(actual, expected):
         dotted_path = ".".join(field_path)
-        raise RulesetValidationError(f"{dotted_path} must be {expected!r}; got {actual!r}")
+        raise RulesetValidationError(
+            f"{dotted_path} must be {_render_diagnostic_value(expected)}; "
+            f"got {_render_diagnostic_value(actual)}"
+        )
+
+
+def _render_diagnostic_value(value: JsonValue) -> str:
+    """Render a deterministic typed summary without expanding attacker-sized values."""
+    if value is None:
+        return "null"
+    if isinstance(value, bool):
+        return f"boolean(value={'true' if value else 'false'})"
+    if isinstance(value, int):
+        if -_MAX_DIAGNOSTIC_INTEGER_MAGNITUDE <= value <= _MAX_DIAGNOSTIC_INTEGER_MAGNITUDE:
+            return f"integer(value={value})"
+        sign = "negative" if value < 0 else "positive"
+        return f"integer(sign={sign}, bit_length={value.bit_length()})"
+    if isinstance(value, str):
+        if len(value) <= _MAX_DIAGNOSTIC_STRING_CHARS:
+            return f"string(value={value!r})"
+        return f"string(length={len(value)})"
+    if isinstance(value, list):
+        return f"array(length={len(value)})"
+    return f"object(length={len(value)})"
 
 
 def _json_values_equal_with_strict_types(actual: JsonValue, expected: JsonValue) -> bool:
