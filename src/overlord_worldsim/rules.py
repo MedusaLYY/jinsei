@@ -13,6 +13,8 @@ from typing import cast
 type JsonScalar = str | int | bool | None
 type JsonValue = JsonScalar | list[JsonValue] | dict[str, JsonValue]
 type JsonObject = dict[str, JsonValue]
+type _FieldPathComponent = str | int
+type _FieldPath = tuple[_FieldPathComponent, ...]
 
 
 class RulesetValidationError(ValueError):
@@ -22,6 +24,10 @@ class RulesetValidationError(ValueError):
 class _DuplicateJsonKeyError(ValueError):
     """Internal signal used to reject ambiguous JSON objects."""
 
+    def __init__(self, key: str) -> None:
+        super().__init__("duplicate JSON object key")
+        self.key = key
+
 
 class _JsonIntegerLimitError(ValueError):
     """Internal signal used when a JSON integer exceeds the loader-owned limit."""
@@ -30,8 +36,11 @@ class _JsonIntegerLimitError(ValueError):
 _MAX_JSON_INTEGER_DIGITS = 4_300
 # Rulesets are compact constitutional documents; cap input before decoding or parsing.
 _MAX_RULESET_BYTES = 4 * 1024 * 1024
-_MAX_DIAGNOSTIC_STRING_CHARS = 48
+_MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS = 64
 _MAX_DIAGNOSTIC_INTEGER_MAGNITUDE = 10**18
+_MAX_DIAGNOSTIC_PATH_CHARS = 320
+_MAX_DIAGNOSTIC_MESSAGE_CHARS = 480
+_DIAGNOSTIC_TRUNCATION_SUFFIX = "...<truncated>"
 
 
 _EXPECTED_MAGIC_THRESHOLDS: dict[str, JsonValue] = {
@@ -274,22 +283,52 @@ class Ruleset:
         """Return the frozen growth cost for a target level from 1 through 100."""
         if type(target_level) is not int:
             raise ValueError(
-                f"target level must be an integer from 1 through 100; got {target_level!r}"
+                _bounded_diagnostic_message(
+                    "target level must be an integer from 1 through 100; got ",
+                    _render_diagnostic_value(target_level),
+                )
             )
         try:
             return self._growth_costs[target_level]
         except KeyError as error:
+            rendered_target = (
+                _render_small_decimal(target_level)
+                if -_MAX_DIAGNOSTIC_INTEGER_MAGNITUDE
+                <= target_level
+                <= _MAX_DIAGNOSTIC_INTEGER_MAGNITUDE
+                else _render_diagnostic_value(target_level)
+            )
             raise ValueError(
-                f"target level must be from 1 through 100; got {target_level}"
+                _bounded_diagnostic_message(
+                    "target level must be from 1 through 100; got ", rendered_target
+                )
             ) from error
 
     def minimum_level_for_magic_tier(self, tier: str | int) -> int:
         """Return the minimum caster level for a numbered tier or ``super``."""
-        normalized_tier = str(tier)
+        if type(tier) is int:
+            if not 0 <= tier <= 10:
+                rendered_tier = (
+                    _render_small_decimal(tier)
+                    if -_MAX_DIAGNOSTIC_INTEGER_MAGNITUDE
+                    <= tier
+                    <= _MAX_DIAGNOSTIC_INTEGER_MAGNITUDE
+                    else _render_diagnostic_value(tier)
+                )
+                raise ValueError(_bounded_diagnostic_message("unknown magic tier: ", rendered_tier))
+            normalized_tier = _render_small_decimal(tier)
+        elif isinstance(tier, str):
+            normalized_tier = tier
+        else:
+            raise ValueError(
+                _bounded_diagnostic_message("unknown magic tier: ", _render_diagnostic_value(tier))
+            )
         try:
             return self._magic_thresholds[normalized_tier]
         except KeyError as error:
-            raise ValueError(f"unknown magic tier: {normalized_tier}") from error
+            raise ValueError(
+                _bounded_diagnostic_message("unknown magic tier: ", _render_diagnostic_value(tier))
+            ) from error
 
     def to_dict(self) -> JsonObject:
         """Return a detached JSON-compatible copy of the ruleset document."""
@@ -299,22 +338,34 @@ class Ruleset:
 def load_ruleset(path: str | Path) -> Ruleset:
     """Load a ruleset of at most 4 MiB and reject inconsistent content."""
     rules_path = Path(path)
+    rendered_rules_path = _render_diagnostic_rules_path(rules_path)
     try:
         with rules_path.open("rb") as rules_file:
             serialized_bytes = rules_file.read(_MAX_RULESET_BYTES + 1)
     except OSError as error:
-        raise RulesetValidationError(f"{rules_path}: cannot read ruleset: {error}") from error
+        raise RulesetValidationError(
+            _bounded_diagnostic_message(rendered_rules_path, ": cannot read ruleset")
+        ) from error
 
     if len(serialized_bytes) > _MAX_RULESET_BYTES:
         raise RulesetValidationError(
-            f"{rules_path}: ruleset exceeds maximum size of {_MAX_RULESET_BYTES} bytes"
+            _bounded_diagnostic_message(
+                rendered_rules_path,
+                ": ruleset exceeds maximum size of ",
+                _render_small_decimal(_MAX_RULESET_BYTES),
+                " bytes",
+            )
         )
 
     try:
         serialized = serialized_bytes.decode("utf-8")
     except UnicodeDecodeError as error:
         raise RulesetValidationError(
-            f"{rules_path}: ruleset is not valid UTF-8 at byte {error.start}"
+            _bounded_diagnostic_message(
+                rendered_rules_path,
+                ": ruleset is not valid UTF-8 at byte ",
+                _render_small_decimal(error.start),
+            )
         ) from error
 
     try:
@@ -328,20 +379,40 @@ def load_ruleset(path: str | Path) -> Ruleset:
         )
     except json.JSONDecodeError as error:
         raise RulesetValidationError(
-            f"{rules_path}: malformed JSON at line {error.lineno}, "
-            f"column {error.colno}: {error.msg}"
+            _bounded_diagnostic_message(
+                rendered_rules_path,
+                ": malformed JSON at line ",
+                _render_small_decimal(error.lineno),
+                ", column ",
+                _render_small_decimal(error.colno),
+                ": ",
+                _render_diagnostic_string_literal(error.msg),
+            )
         ) from error
     except _DuplicateJsonKeyError as error:
-        raise RulesetValidationError(f"{rules_path}: malformed JSON: {error}") from error
+        raise RulesetValidationError(
+            _bounded_diagnostic_message(
+                rendered_rules_path,
+                ": malformed JSON: duplicate object key ",
+                _render_diagnostic_key(error.key),
+            )
+        ) from error
     except _JsonIntegerLimitError as error:
         raise RulesetValidationError(
-            f"{rules_path}: malformed JSON: JSON integer exceeds the safe digit limit"
+            _bounded_diagnostic_message(
+                rendered_rules_path,
+                ": malformed JSON: JSON integer exceeds the safe digit limit",
+            )
         ) from error
     except RecursionError as error:
-        raise RulesetValidationError(f"{rules_path}: JSON nesting is too deep") from error
+        raise RulesetValidationError(
+            _bounded_diagnostic_message(rendered_rules_path, ": JSON nesting is too deep")
+        ) from error
 
     if not isinstance(parsed, dict):
-        raise RulesetValidationError(f"{rules_path}: ruleset root must be a JSON object")
+        raise RulesetValidationError(
+            _bounded_diagnostic_message(rendered_rules_path, ": ruleset root must be a JSON object")
+        )
 
     document = cast(JsonObject, parsed)
     try:
@@ -353,7 +424,9 @@ def load_ruleset(path: str | Path) -> Ruleset:
             _expect(document, field_path, expected)
         validated_document = copy.deepcopy(document)
     except RecursionError as error:
-        raise RulesetValidationError(f"{rules_path}: JSON nesting is too deep") from error
+        raise RulesetValidationError(
+            _bounded_diagnostic_message(rendered_rules_path, ": JSON nesting is too deep")
+        ) from error
 
     return Ruleset(
         ruleset_id=cast(str, document["ruleset_id"]),
@@ -382,7 +455,7 @@ def _object_with_unique_keys(pairs: list[tuple[str, JsonValue]]) -> JsonObject:
     result: JsonObject = {}
     for key, value in pairs:
         if key in result:
-            raise _DuplicateJsonKeyError(f"duplicate object key {key!r}")
+            raise _DuplicateJsonKeyError(key)
         result[key] = value
     return result
 
@@ -404,7 +477,12 @@ def _at(document: JsonObject, field_path: tuple[str, ...]) -> JsonValue:
     for part in field_path:
         traversed.append(part)
         if not isinstance(current, dict) or part not in current:
-            raise RulesetValidationError(f"missing required field {'.'.join(traversed)!r}")
+            raise RulesetValidationError(
+                _bounded_diagnostic_message(
+                    "missing required field ",
+                    _render_diagnostic_key(_render_diagnostic_field_path(tuple(traversed))),
+                )
+            )
         current = current[part]
     return current
 
@@ -425,38 +503,135 @@ def _validate_no_unknown_fields(document: JsonObject) -> None:
             continue
         unknown_keys = sorted(value.keys() - allowed_keys)
         if unknown_keys:
-            prefix = f"{'.'.join(parent_path)}." if parent_path else ""
-            raise RulesetValidationError(f"unknown field {prefix + unknown_keys[0]!r}")
+            unknown_key = unknown_keys[0]
+            rendered_field = (
+                _render_diagnostic_field_path((*parent_path, unknown_key))
+                if parent_path
+                else _render_diagnostic_key(unknown_key)
+            )
+            raise RulesetValidationError(
+                _bounded_diagnostic_message("unknown field ", rendered_field)
+            )
 
 
 def _expect(document: JsonObject, field_path: tuple[str, ...], expected: JsonValue) -> None:
     actual = _at(document, field_path)
     if not _json_values_equal_with_strict_types(actual, expected):
-        dotted_path = ".".join(field_path)
         raise RulesetValidationError(
-            f"{dotted_path} must be {_render_diagnostic_value(expected)}; "
-            f"got {_render_diagnostic_value(actual)}"
+            _bounded_diagnostic_message(
+                _render_diagnostic_field_path(field_path),
+                " must be ",
+                _render_diagnostic_value(expected),
+                "; got ",
+                _render_diagnostic_value(actual),
+            )
         )
 
 
-def _render_diagnostic_value(value: JsonValue) -> str:
+def _bounded_diagnostic_message(*parts: str) -> str:
+    """Join safe diagnostic parts and enforce a final fixed-size ceiling."""
+    return _truncate_diagnostic_text("".join(parts), _MAX_DIAGNOSTIC_MESSAGE_CHARS)
+
+
+def _truncate_diagnostic_text(value: str, maximum_chars: int) -> str:
+    if len(value) <= maximum_chars:
+        return value
+    retained_chars = maximum_chars - len(_DIAGNOSTIC_TRUNCATION_SUFFIX)
+    return value[:retained_chars] + _DIAGNOSTIC_TRUNCATION_SUFFIX
+
+
+def _render_small_decimal(value: int) -> str:
+    """Render an integer already proven small enough for safe conversion."""
+    return format(value, "d")
+
+
+def _render_diagnostic_string_literal(value: str) -> str:
+    preview = value[:_MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS]
+    rendered = ascii(preview)
+    if len(value) <= len(preview):
+        return rendered
+    return rendered[:-1] + "…" + rendered[-1]
+
+
+def _render_diagnostic_key(key: str) -> str:
+    rendered = _render_diagnostic_string_literal(key)
+    if len(key) <= _MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS:
+        return rendered
+    return rendered + " (length=" + _render_small_decimal(len(key)) + ")"
+
+
+def _render_diagnostic_rules_path(path: Path) -> str:
+    raw_path = path.__fspath__()
+    return (
+        "ruleset path(name="
+        + _render_diagnostic_key(path.name)
+        + ", length="
+        + _render_small_decimal(len(raw_path))
+        + ")"
+    )
+
+
+def _render_diagnostic_value(value: object) -> str:
     """Render a deterministic typed summary without expanding attacker-sized values."""
     if value is None:
         return "null"
     if isinstance(value, bool):
-        return f"boolean(value={'true' if value else 'false'})"
+        return "boolean(value=" + ("true" if value else "false") + ")"
     if isinstance(value, int):
         if -_MAX_DIAGNOSTIC_INTEGER_MAGNITUDE <= value <= _MAX_DIAGNOSTIC_INTEGER_MAGNITUDE:
-            return f"integer(value={value})"
+            return "integer(value=" + _render_small_decimal(value) + ")"
         sign = "negative" if value < 0 else "positive"
-        return f"integer(sign={sign}, bit_length={value.bit_length()})"
+        return (
+            "integer(sign="
+            + sign
+            + ", bit_length="
+            + _render_small_decimal(value.bit_length())
+            + ")"
+        )
     if isinstance(value, str):
-        if len(value) <= _MAX_DIAGNOSTIC_STRING_CHARS:
-            return f"string(value={value!r})"
-        return f"string(length={len(value)})"
+        if len(value) <= _MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS:
+            return "string(value=" + _render_diagnostic_string_literal(value) + ")"
+        return (
+            "string(length="
+            + _render_small_decimal(len(value))
+            + ", prefix="
+            + _render_diagnostic_string_literal(value)
+            + ")"
+        )
     if isinstance(value, list):
-        return f"array(length={len(value)})"
-    return f"object(length={len(value)})"
+        return "array(length=" + _render_small_decimal(len(value)) + ")"
+    if isinstance(value, dict):
+        return "object(length=" + _render_small_decimal(len(value)) + ")"
+    return "value(type=" + _render_diagnostic_key(type(value).__name__) + ")"
+
+
+def _is_simple_field_key(key: str) -> bool:
+    if not key or len(key) > _MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS:
+        return False
+    first = key[0]
+    if not ("a" <= first <= "z" or "A" <= first <= "Z" or first == "_"):
+        return False
+    return all(
+        "a" <= character <= "z"
+        or "A" <= character <= "Z"
+        or "0" <= character <= "9"
+        or character == "_"
+        for character in key[1:]
+    )
+
+
+def _render_diagnostic_field_path(field_path: _FieldPath) -> str:
+    if not field_path:
+        return "<root>"
+    rendered = ""
+    for component in field_path:
+        if isinstance(component, int):
+            rendered += "[" + _render_small_decimal(component) + "]"
+        elif _is_simple_field_key(component):
+            rendered += ("." if rendered else "") + component
+        else:
+            rendered += "[" + _render_diagnostic_key(component) + "]"
+    return _truncate_diagnostic_text(rendered, _MAX_DIAGNOSTIC_PATH_CHARS)
 
 
 def _json_values_equal_with_strict_types(actual: JsonValue, expected: JsonValue) -> bool:
@@ -478,18 +653,20 @@ def _json_values_equal_with_strict_types(actual: JsonValue, expected: JsonValue)
     return actual == expected
 
 
-def _reject_floating_point(value: JsonValue, field_path: str = "<root>") -> None:
+def _reject_floating_point(value: JsonValue, field_path: _FieldPath = ()) -> None:
     if isinstance(value, float):
         raise RulesetValidationError(
-            f"{field_path} contains a floating-point number; authoritative numbers must be integers"
+            _bounded_diagnostic_message(
+                _render_diagnostic_field_path(field_path),
+                " contains a floating-point number; authoritative numbers must be integers",
+            )
         )
     if isinstance(value, list):
         for index, item in enumerate(value):
-            _reject_floating_point(item, f"{field_path}[{index}]")
+            _reject_floating_point(item, (*field_path, index))
     elif isinstance(value, dict):
         for key, item in value.items():
-            child_path = key if field_path == "<root>" else f"{field_path}.{key}"
-            _reject_floating_point(item, child_path)
+            _reject_floating_point(item, (*field_path, key))
 
 
 def _validate_growth_costs(document: JsonObject) -> dict[int, int]:
@@ -546,5 +723,9 @@ def _validate_damage_phases(document: JsonObject) -> None:
         if not isinstance(raw_phase, str):
             raise RulesetValidationError("combat.damage_resolution.phases must contain strings")
         if raw_phase in seen:
-            raise RulesetValidationError(f"duplicate damage phase {raw_phase!r}")
+            raise RulesetValidationError(
+                _bounded_diagnostic_message(
+                    "duplicate damage phase ", _render_diagnostic_value(raw_phase)
+                )
+            )
         seen.add(raw_phase)

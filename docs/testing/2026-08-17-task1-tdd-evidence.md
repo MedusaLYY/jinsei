@@ -232,6 +232,236 @@ Command and output:
 Success: no issues found in 6 source files
 ```
 
+## Unified bounded diagnostics: fresh red
+
+Spec re-review found raw formatting outside `_expect`: public lookup arguments, duplicate JSON keys,
+unknown keys, floating-point field paths, and duplicate damage phases. Behavioral tests were added
+for all families plus CLI projections for a large string, container, and key. The public integer
+tests set the interpreter digit guard to 640 around a 1,000-digit integer.
+
+Command:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest tests\test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers tests\test_rules.py::test_public_lookup_large_integer_is_safe_under_python_digit_guard tests\test_rules.py::test_large_duplicate_damage_phase_has_bounded_diagnostic tests\test_rules.py::test_large_duplicate_json_key_has_bounded_diagnostic tests\test_rules.py::test_large_unknown_field_has_bounded_diagnostic tests\test_rules.py::test_large_floating_point_field_path_has_bounded_diagnostic tests\test_cli.py::test_rules_command_bounds_large_duplicate_phase_diagnostic tests\test_cli.py::test_rules_command_bounds_large_container_diagnostic tests\test_cli.py::test_rules_command_bounds_large_duplicate_key_diagnostic -q --tb=short
+```
+
+Output, captured before modifying production code:
+
+```text
+FFFFFFFFFFFFF.F                                                          [100%]
+================================== FAILURES ===================================
+_ test_public_lookup_diagnostics_bound_strings_and_containers[growth-cost-string] _
+tests\test_rules.py:224: in test_public_lookup_diagnostics_bound_strings_and_containers
+    assert len(message) < 500
+E   assert 10058 < 500
+E    +  where 10058 = len("target level must be an integer from 1 through 100; got 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'")
+_ test_public_lookup_diagnostics_bound_strings_and_containers[growth-cost-array] _
+tests\test_rules.py:224: in test_public_lookup_diagnostics_bound_strings_and_containers
+    assert len(message) < 500
+E   AssertionError: assert 60056 < 500
+E    +  where 60056 = len('target level must be an integer from 1 through 100; got [None, None, None, None, None, None, None, None, None, None, ...one, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]')
+_ test_public_lookup_diagnostics_bound_strings_and_containers[growth-cost-object] _
+tests\test_rules.py:224: in test_public_lookup_diagnostics_bound_strings_and_containers
+    assert len(message) < 500
+E   AssertionError: assert 118946 < 500
+E    +  where 118946 = len('target level must be an integer from 1 through 100; got {0: None, 1: None, 2: None, 3: None, 4: None, 5: None, 6: Non...990: None, 9991: None, 9992: None, 9993: None, 9994: None, 9995: None, 9996: None, 9997: None, 9998: None, 9999: None}')
+_ test_public_lookup_diagnostics_bound_strings_and_containers[magic-tier-string] _
+tests\test_rules.py:224: in test_public_lookup_diagnostics_bound_strings_and_containers
+    assert len(message) < 500
+E   AssertionError: assert 10020 < 500
+E    +  where 10020 = len('unknown magic tier: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+_ test_public_lookup_diagnostics_bound_strings_and_containers[magic-tier-array] _
+tests\test_rules.py:224: in test_public_lookup_diagnostics_bound_strings_and_containers
+    assert len(message) < 500
+E   AssertionError: assert 60020 < 500
+E    +  where 60020 = len('unknown magic tier: [None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, ...one, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]')
+_ test_public_lookup_diagnostics_bound_strings_and_containers[magic-tier-object] _
+tests\test_rules.py:224: in test_public_lookup_diagnostics_bound_strings_and_containers
+    assert len(message) < 500
+E   AssertionError: assert 118910 < 500
+E    +  where 118910 = len('unknown magic tier: {0: None, 1: None, 2: None, 3: None, 4: None, 5: None, 6: None, 7: None, 8: None, 9: None, 10: No...990: None, 9991: None, 9992: None, 9993: None, 9994: None, 9995: None, 9996: None, 9997: None, 9998: None, 9999: None}')
+_ test_public_lookup_large_integer_is_safe_under_python_digit_guard[growth-cost] _
+tests\test_rules.py:265: in test_public_lookup_large_integer_is_safe_under_python_digit_guard
+    assert expected_context in message
+E   AssertionError: assert 'target level must be from 1 through 100' in 'Exceeds the limit (640 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit'
+_ test_public_lookup_large_integer_is_safe_under_python_digit_guard[magic-tier] _
+tests\test_rules.py:265: in test_public_lookup_large_integer_is_safe_under_python_digit_guard
+    assert expected_context in message
+E   AssertionError: assert 'unknown magic tier' in 'Exceeds the limit (640 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit'
+__________ test_large_duplicate_damage_phase_has_bounded_diagnostic ___________
+tests\test_rules.py:317: in test_large_duplicate_damage_phase_has_bounded_diagnostic
+    assert len(message) < 500
+E   assert 10031 < 500
+E    +  where 10031 = len("duplicate damage phase 'phase-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'")
+____________ test_large_duplicate_json_key_has_bounded_diagnostic _____________
+tests\test_rules.py:385: in test_large_duplicate_json_key_has_bounded_diagnostic
+    assert len(message) < 500
+E   assert 10160 < 500
+E    +  where 10160 = len("C:\\Users\\Medusa\\AppData\\Local\\Temp\\pytest-of-Medusa\\pytest-362\\test_large_duplicate_json_key_0\\large-duplica...kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk'")
+_______________ test_large_unknown_field_has_bounded_diagnostic _______________
+tests\test_rules.py:621: in test_large_unknown_field_has_bounded_diagnostic
+    assert len(message) < 500
+E   assert 10016 < 500
+E    +  where 10016 = len("unknown field 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'")
+_________ test_large_floating_point_field_path_has_bounded_diagnostic _________
+tests\test_rules.py:639: in test_large_floating_point_field_path_has_bounded_diagnostic
+    assert len(message) < 500
+E   AssertionError: assert 10081 < 500
+E    +  where 10081 = len('effects.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz contains a floating-point number; authoritative numbers must be integers')
+_________ test_rules_command_bounds_large_duplicate_phase_diagnostic __________
+tests\test_cli.py:175: in test_rules_command_bounds_large_duplicate_phase_diagnostic
+    assert len(completed.stderr) < 500
+E   assert 10039 < 500
+E    +  where 10039 = len("error: duplicate damage phase 'phase-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'\n")
+E    +    where "error: duplicate damage phase 'phase-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'\n" = CompletedProcess(args=['C:\\AAA_OVERLORD\\.venv\\Scripts\\python.exe', '-m', 'overlord_worldsim', 'rules', '--path', '...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'\n").stderr
+__________ test_rules_command_bounds_large_duplicate_key_diagnostic ___________
+tests\test_cli.py:211: in test_rules_command_bounds_large_duplicate_key_diagnostic
+    assert len(completed.stderr) < 500
+E   assert 10168 < 500
+E    +  where 10168 = len("error: C:\\Users\\Medusa\\AppData\\Local\\Temp\\pytest-of-Medusa\\pytest-362\\test_rules_command_bounds_larg2\\large-...kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk'\n")
+E    +    where "error: C:\\Users\\Medusa\\AppData\\Local\\Temp\\pytest-of-Medusa\\pytest-362\\test_rules_command_bounds_larg2\\large-...kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk'\n" = CompletedProcess(args=['C:\\AAA_OVERLORD\\.venv\\Scripts\\python.exe', '-m', 'overlord_worldsim', 'rules', '--path', '...kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk'\n").stderr
+=========================== short test summary info ===========================
+FAILED tests/test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers[growth-cost-string]
+FAILED tests/test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers[growth-cost-array]
+FAILED tests/test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers[growth-cost-object]
+FAILED tests/test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers[magic-tier-string]
+FAILED tests/test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers[magic-tier-array]
+FAILED tests/test_rules.py::test_public_lookup_diagnostics_bound_strings_and_containers[magic-tier-object]
+FAILED tests/test_rules.py::test_public_lookup_large_integer_is_safe_under_python_digit_guard[growth-cost]
+FAILED tests/test_rules.py::test_public_lookup_large_integer_is_safe_under_python_digit_guard[magic-tier]
+FAILED tests/test_rules.py::test_large_duplicate_damage_phase_has_bounded_diagnostic
+FAILED tests/test_rules.py::test_large_duplicate_json_key_has_bounded_diagnostic
+FAILED tests/test_rules.py::test_large_unknown_field_has_bounded_diagnostic
+FAILED tests/test_rules.py::test_large_floating_point_field_path_has_bounded_diagnostic
+FAILED tests/test_cli.py::test_rules_command_bounds_large_duplicate_phase_diagnostic
+FAILED tests/test_cli.py::test_rules_command_bounds_large_duplicate_key_diagnostic
+14 failed, 1 passed in 1.05s
+```
+
+The CLI container test passed in the red run because the preceding `_expect` fix already bounded
+that route. It remains as explicit subprocess coverage. All other new cases failed for the intended
+raw-format or integer-conversion reason.
+
+The same command after routing those diagnostics through the shared renderer produced:
+
+```text
+...............                                                          [100%]
+15 passed in 0.81s
+```
+
+## Filesystem-path diagnostic: fresh red and green
+
+A follow-up raw-format audit found that unreadable-file errors still echoed the supplied filesystem
+path twice: directly and through `OSError`. A focused regression was added before changing that
+boundary.
+
+Command:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest tests\test_rules.py::test_unreadable_large_ruleset_path_has_bounded_diagnostic -q --tb=short
+```
+
+Red output:
+
+```text
+F                                                                        [100%]
+================================== FAILURES ===================================
+__________ test_unreadable_large_ruleset_path_has_bounded_diagnostic __________
+tests\test_rules.py:362: in test_unreadable_large_ruleset_path_has_bounded_diagnostic
+    assert len(message) < 500
+E   assert 20064 < 500
+E    +  where 20064 = len("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.json'")
+=========================== short test summary info ===========================
+FAILED tests/test_rules.py::test_unreadable_large_ruleset_path_has_bounded_diagnostic
+1 failed in 0.41s
+```
+
+The loader now reports a bounded filename-and-length descriptor and omits raw `OSError` text. The
+path regression plus the full diagnostic group then produced:
+
+```text
+................                                                         [100%]
+16 passed in 0.71s
+```
+
+## Final verification after unified diagnostic fixes
+
+### Pytest and coverage
+
+Command:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest --cov=overlord_worldsim --cov-report=term-missing
+```
+
+Output:
+
+```text
+============================= test session starts =============================
+platform win32 -- Python 3.14.5, pytest-8.4.2, pluggy-1.6.0
+rootdir: C:\AAA_OVERLORD
+configfile: pyproject.toml
+testpaths: tests
+plugins: hypothesis-6.165.10, cov-6.3.0
+collected 68 items
+
+tests\test_cli.py ..........                                             [ 14%]
+tests\test_package.py .                                                  [ 16%]
+tests\test_rules.py .................................................... [ 92%]
+.....                                                                    [100%]
+
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.14.5-final-0 _______________
+
+Name                                Stmts   Miss Branch BrPart  Cover   Missing
+-------------------------------------------------------------------------------
+src\overlord_worldsim\__main__.py      29      1      4      1    94%   41
+src\overlord_worldsim\rules.py        268      6    120      4    97%   407-408, 503, 613, 625, 642
+-------------------------------------------------------------------------------
+TOTAL                                 300      7    124      5    97%
+
+1 file skipped due to complete coverage.
+Required test coverage of 95.0% reached. Total coverage: 97.17%
+============================= 68 passed in 5.98s ==============================
+```
+
+### Ruff lint
+
+Command and output:
+
+```powershell
+> .\.venv\Scripts\python.exe -m ruff check .
+All checks passed!
+```
+
+### Ruff format
+
+Command and output:
+
+```powershell
+> .\.venv\Scripts\python.exe -m ruff format --check .
+12 files already formatted
+```
+
+### Mypy
+
+Command and output:
+
+```powershell
+> .\.venv\Scripts\python.exe -m mypy src tests
+Success: no issues found in 6 source files
+```
+
+### Diff check
+
+Command:
+
+```powershell
+git diff --check
+```
+
+Output: empty; exit status 0.
+
 ## Bounded diagnostics and total byte limit: fresh red
 
 The next quality review found that frozen-field mismatch diagnostics still rendered arbitrary JSON

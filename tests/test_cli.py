@@ -156,3 +156,60 @@ def test_rules_command_rejects_ruleset_larger_than_loader_limit(tmp_path: Path) 
     assert "exceeds maximum size of 4194304 bytes" in completed.stderr
     assert len(completed.stderr) < 500
     assert "Traceback" not in completed.stderr
+
+
+def test_rules_command_bounds_large_duplicate_phase_diagnostic(tmp_path: Path) -> None:
+    oversized_phase = "phase-" + "x" * 10_000
+    document = json.loads(RULESET_PATH.read_text(encoding="utf-8"))
+    document["combat"]["damage_resolution"]["phases"] = [
+        oversized_phase,
+        oversized_phase,
+    ]
+    path = tmp_path / "large-duplicate-phase.json"
+    path.write_text(json.dumps(document), encoding="utf-8")
+
+    completed = _run_rules_subprocess(path)
+
+    assert completed.returncode == 2
+    assert completed.stdout == ""
+    assert len(completed.stderr) < 500
+    assert oversized_phase not in completed.stderr
+    assert "duplicate damage phase" in completed.stderr
+    assert "length=10006" in completed.stderr
+    assert "Traceback" not in completed.stderr
+
+
+def test_rules_command_bounds_large_container_diagnostic(tmp_path: Path) -> None:
+    document = json.loads(RULESET_PATH.read_text(encoding="utf-8"))
+    document["start_modes"] = [None] * 10_000
+    path = tmp_path / "large-container.json"
+    path.write_text(json.dumps(document), encoding="utf-8")
+
+    completed = _run_rules_subprocess(path)
+
+    assert completed.returncode == 2
+    assert completed.stdout == ""
+    assert len(completed.stderr) < 500
+    assert "start_modes" in completed.stderr
+    assert "array" in completed.stderr
+    assert "length=10000" in completed.stderr
+    assert "Traceback" not in completed.stderr
+
+
+def test_rules_command_bounds_large_duplicate_key_diagnostic(tmp_path: Path) -> None:
+    oversized_key = "k" * 10_000
+    path = tmp_path / "large-duplicate-key.json"
+    path.write_text(
+        '{"' + oversized_key + '":1,"' + oversized_key + '":2}',
+        encoding="utf-8",
+    )
+
+    completed = _run_rules_subprocess(path)
+
+    assert completed.returncode == 2
+    assert completed.stdout == ""
+    assert len(completed.stderr) < 500
+    assert oversized_key not in completed.stderr
+    assert "duplicate object key" in completed.stderr
+    assert "length=10000" in completed.stderr
+    assert "Traceback" not in completed.stderr

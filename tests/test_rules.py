@@ -14,7 +14,7 @@ RULESET_PATH = PROJECT_ROOT / "content" / "core" / "ruleset.json"
 MAX_RULESET_BYTES = 4 * 1024 * 1024
 
 
-def _rules_api() -> tuple[type[Exception], Callable[[Path], Any]]:
+def _rules_api() -> tuple[type[Exception], Callable[[str | Path], Any]]:
     from overlord_worldsim.rules import RulesetValidationError, load_ruleset
 
     return RulesetValidationError, load_ruleset
@@ -84,6 +84,7 @@ def test_magic_thresholds_cover_tiers_zero_through_super() -> None:
         "10": 64,
         "super": 70,
     }
+    assert ruleset.minimum_level_for_magic_tier(1) == 1
 
 
 def test_d100_formulas_and_audit_fields_are_explicit() -> None:
@@ -185,6 +186,123 @@ def test_ruleset_lookup_errors_are_clear() -> None:
         ruleset.minimum_level_for_magic_tier(11)
 
 
+@pytest.mark.parametrize(
+    ("invalid_value", "rendered_type"),
+    [
+        pytest.param("x" * 10_000, "string", id="string"),
+        pytest.param([None] * 10_000, "array", id="array"),
+        pytest.param(dict.fromkeys(range(10_000)), "object", id="object"),
+    ],
+)
+@pytest.mark.parametrize(
+    ("lookup", "expected_context"),
+    [
+        pytest.param(
+            lambda ruleset, value: ruleset.growth_cost_for(value),
+            "target level must be an integer",
+            id="growth-cost",
+        ),
+        pytest.param(
+            lambda ruleset, value: ruleset.minimum_level_for_magic_tier(value),
+            "unknown magic tier",
+            id="magic-tier",
+        ),
+    ],
+)
+def test_public_lookup_diagnostics_bound_strings_and_containers(
+    invalid_value: Any,
+    rendered_type: str,
+    lookup: Callable[[Any, Any], int],
+    expected_context: str,
+) -> None:
+    _, load_ruleset = _rules_api()
+    ruleset = load_ruleset(RULESET_PATH)
+
+    with pytest.raises(ValueError) as captured:
+        lookup(ruleset, invalid_value)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert expected_context in message
+    assert rendered_type in message
+    assert "length=10000" in message
+
+
+@pytest.mark.parametrize(
+    ("lookup", "expected_context"),
+    [
+        pytest.param(
+            lambda ruleset, value: ruleset.growth_cost_for(value),
+            "target level must be from 1 through 100",
+            id="growth-cost",
+        ),
+        pytest.param(
+            lambda ruleset, value: ruleset.minimum_level_for_magic_tier(value),
+            "unknown magic tier",
+            id="magic-tier",
+        ),
+    ],
+)
+def test_public_lookup_large_integer_is_safe_under_python_digit_guard(
+    lookup: Callable[[Any, Any], int],
+    expected_context: str,
+) -> None:
+    _, load_ruleset = _rules_api()
+    ruleset = load_ruleset(RULESET_PATH)
+    integer_literal = "9" * 1_000
+    oversized_integer = int(integer_literal)
+
+    previous_limit = sys.get_int_max_str_digits()
+    try:
+        sys.set_int_max_str_digits(640)
+        with pytest.raises(ValueError) as captured:
+            lookup(ruleset, oversized_integer)
+    finally:
+        sys.set_int_max_str_digits(previous_limit)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert integer_literal not in message
+    assert expected_context in message
+    assert "integer" in message
+
+
+@pytest.mark.parametrize(
+    ("invalid_value", "rendered_value"),
+    [
+        pytest.param(None, "null", id="null"),
+        pytest.param((), "value(type='tuple')", id="generic-type"),
+    ],
+)
+def test_public_lookup_diagnostics_cover_other_runtime_types(
+    invalid_value: Any,
+    rendered_value: str,
+) -> None:
+    _, load_ruleset = _rules_api()
+    ruleset = load_ruleset(RULESET_PATH)
+
+    with pytest.raises(ValueError) as captured:
+        ruleset.growth_cost_for(invalid_value)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert rendered_value in message
+
+
+def test_public_lookup_diagnostic_has_a_total_message_ceiling() -> None:
+    _, load_ruleset = _rules_api()
+    ruleset = load_ruleset(RULESET_PATH)
+    escaped_payload = "\N{GRINNING FACE}" * 64
+
+    with pytest.raises(ValueError) as captured:
+        ruleset.minimum_level_for_magic_tier(escaped_payload)
+
+    message = str(captured.value)
+    assert len(message) == 480
+    assert escaped_payload not in message
+    assert message.endswith("...<truncated>")
+
+
 def test_ruleset_document_copy_is_detached() -> None:
     _, load_ruleset = _rules_api()
     ruleset = load_ruleset(RULESET_PATH)
@@ -217,6 +335,29 @@ def test_rejects_duplicate_damage_phases(tmp_path: Path) -> None:
         load_ruleset(path)
 
 
+def test_large_duplicate_damage_phase_has_bounded_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_phase = "phase-" + "x" * 10_000
+
+    def duplicate_large_phase(document: dict[str, Any]) -> None:
+        document["combat"]["damage_resolution"]["phases"] = [
+            oversized_phase,
+            oversized_phase,
+        ]
+
+    path = _write_mutated_ruleset(tmp_path, duplicate_large_phase)
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(path)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert oversized_phase not in message
+    assert "duplicate damage phase" in message
+    assert "string" in message
+    assert "length=10006" in message
+
+
 def test_rejects_repeated_growth_target_levels(tmp_path: Path) -> None:
     error_type, load_ruleset = _rules_api()
 
@@ -247,6 +388,20 @@ def test_missing_ruleset_fails_with_read_context(tmp_path: Path) -> None:
         load_ruleset(path)
 
 
+def test_unreadable_large_ruleset_path_has_bounded_diagnostic() -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_path = "x" * 10_000 + ".json"
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(oversized_path)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert oversized_path not in message
+    assert "cannot read ruleset" in message
+    assert "length=10005" in message
+
+
 def test_non_utf8_ruleset_fails_with_decode_context(tmp_path: Path) -> None:
     error_type, load_ruleset = _rules_api()
     path = tmp_path / "non-utf8.json"
@@ -263,6 +418,25 @@ def test_duplicate_json_object_key_is_rejected(tmp_path: Path) -> None:
 
     with pytest.raises(error_type, match="duplicate object key 'ruleset_id'"):
         load_ruleset(path)
+
+
+def test_large_duplicate_json_key_has_bounded_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_key = "k" * 10_000
+    path = tmp_path / "large-duplicate-key.json"
+    path.write_text(
+        '{"' + oversized_key + '":1,"' + oversized_key + '":2}',
+        encoding="utf-8",
+    )
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(path)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert oversized_key not in message
+    assert "duplicate object key" in message
+    assert "length=10000" in message
 
 
 def test_non_object_ruleset_root_is_rejected(tmp_path: Path) -> None:
@@ -481,6 +655,43 @@ def test_unknown_ruleset_field_is_rejected(tmp_path: Path) -> None:
 
     with pytest.raises(error_type, match="unknown field 'unregistered_extension'"):
         load_ruleset(path)
+
+
+def test_large_unknown_field_has_bounded_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_key = "z" * 10_000
+    path = _write_mutated_ruleset(
+        tmp_path,
+        lambda document: document.update({oversized_key: True}),
+    )
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(path)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert oversized_key not in message
+    assert "unknown field" in message
+    assert "length=10000" in message
+
+
+def test_large_floating_point_field_path_has_bounded_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    oversized_key = "z" * 10_000
+    path = _write_mutated_ruleset(
+        tmp_path,
+        lambda document: document.update({"effects": {oversized_key: [1.5]}}),
+    )
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(path)
+
+    message = str(captured.value)
+    assert len(message) < 500
+    assert oversized_key not in message
+    assert "effects" in message
+    assert "length=10000" in message
+    assert "authoritative numbers must be integers" in message
 
 
 def test_rejects_modified_action_expiration_policy(tmp_path: Path) -> None:
