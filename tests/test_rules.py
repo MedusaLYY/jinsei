@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import sys
 from collections.abc import Callable
 from pathlib import Path
 from typing import Any
@@ -161,6 +162,15 @@ def test_cross_system_constitutional_policies_are_machine_frozen() -> None:
     }
 
 
+def test_naming_threshold_is_a_one_way_obligation() -> None:
+    _, load_ruleset = _rules_api()
+    document: Any = load_ruleset(RULESET_PATH).to_dict()
+    scarcity = document["scarcity"]
+
+    assert scarcity["all_npcs_at_or_above_level_must_be_named"] == 45
+    assert "named_npc_minimum_level" not in scarcity
+
+
 def test_ruleset_lookup_errors_are_clear() -> None:
     _, load_ruleset = _rules_api()
     ruleset = load_ruleset(RULESET_PATH)
@@ -273,6 +283,64 @@ def test_excessive_json_nesting_fails_clearly(tmp_path: Path) -> None:
 
     with pytest.raises(error_type, match="JSON nesting is too deep"):
         load_ruleset(path)
+
+
+def test_decoder_integer_above_safe_digit_limit_fails_clearly(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    path = tmp_path / "too-many-digits.json"
+    path.write_text('{"ruleset_id":' + "9" * 5_000 + "}", encoding="utf-8")
+
+    previous_limit = sys.get_int_max_str_digits()
+    try:
+        sys.set_int_max_str_digits(0)
+        with pytest.raises(error_type, match="JSON integer exceeds the safe digit limit"):
+            load_ruleset(path)
+    finally:
+        sys.set_int_max_str_digits(previous_limit)
+
+
+def test_growth_target_level_is_bounded_before_arithmetic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    serialized = RULESET_PATH.read_text(encoding="utf-8")
+    oversized_level = "9" * 3_000
+    serialized = serialized.replace(
+        '"target_level": 1',
+        f'"target_level": {oversized_level}',
+        1,
+    )
+    path = tmp_path / "oversized-target-level.json"
+    path.write_text(serialized, encoding="utf-8")
+
+    previous_limit = sys.get_int_max_str_digits()
+    try:
+        sys.set_int_max_str_digits(0)
+        with pytest.raises(error_type, match="target_level must be from 1 through 100") as captured:
+            load_ruleset(path)
+    finally:
+        sys.set_int_max_str_digits(previous_limit)
+
+    assert oversized_level not in str(captured.value)
+    assert len(str(captured.value)) < 300
+
+
+def test_oversized_growth_cost_is_not_echoed_in_diagnostic(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    serialized = RULESET_PATH.read_text(encoding="utf-8")
+    oversized_cost = "8" * 3_000
+    serialized = serialized.replace('"cost": 100', f'"cost": {oversized_cost}', 1)
+    path = tmp_path / "oversized-growth-cost.json"
+    path.write_text(serialized, encoding="utf-8")
+
+    previous_limit = sys.get_int_max_str_digits()
+    try:
+        sys.set_int_max_str_digits(0)
+        with pytest.raises(error_type, match="cost must be 100 for target level 1") as captured:
+            load_ruleset(path)
+    finally:
+        sys.set_int_max_str_digits(previous_limit)
+
+    assert oversized_cost not in str(captured.value)
+    assert len(str(captured.value)) < 300
 
 
 def test_unknown_ruleset_field_is_rejected(tmp_path: Path) -> None:

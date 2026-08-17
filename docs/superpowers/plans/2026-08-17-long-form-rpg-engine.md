@@ -698,7 +698,8 @@ faction treasury, food, population/manpower, logistics, stability, legitimacy, i
 intelligence, and territory. Markets use stock and price indices. Armies use strength, training,
 morale, supply, command, terrain, and magic. Derive age from birth date; keep agelessness separate
 from death immunity. Resolve important life events individually and background demographics yearly.
-Enforce all scarcity caps at generation and simulation boundaries.
+Enforce all scarcity caps at generation and simulation boundaries. Every NPC at level 45 or above
+must be named, while lower-level NPCs remain eligible to be named.
 
 - [ ] **Step 4: run knowledge-leak and world invariant tests**
 

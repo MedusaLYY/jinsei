@@ -675,7 +675,7 @@
   "scarcity": {
     "sapient_population_below_level_20_minimum_basis_points": 9900,
     "random_generation_maximum_level": 34,
-    "named_npc_minimum_level": 45,
+    "all_npcs_at_or_above_level_must_be_named": 45,
     "native_population_caps": [
       {
         "minimum_level": 60,

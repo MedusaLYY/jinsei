@@ -155,8 +155,9 @@ and equipment use mode budgets. Custom mode may exceed ordinary budgets only whe
 marked custom, and can never break total-level or reference invariants.
 
 At least 99% of sapient population is below level 20. Random generators may not produce level 35 or
-higher. Every level-45-or-higher person is named. Native populations are capped at 24 people from
-levels 60–74, nine from 75–89, and two from 90–99; no public native is level 100.
+higher. Every level-45-or-higher person must be named; this is a one-way obligation, and lower-level
+people may also be named. Native populations are capped at 24 people from levels 60–74, nine from
+75–89, and two from 90–99; no public native is level 100.
 
 ## Command and transaction interfaces
 

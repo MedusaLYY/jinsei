@@ -23,6 +23,13 @@ class _DuplicateJsonKeyError(ValueError):
     """Internal signal used to reject ambiguous JSON objects."""
 
 
+class _JsonIntegerLimitError(ValueError):
+    """Internal signal used when a JSON integer exceeds the loader-owned limit."""
+
+
+_MAX_JSON_INTEGER_DIGITS = 4_300
+
+
 _EXPECTED_MAGIC_THRESHOLDS: dict[str, JsonValue] = {
     "0": 0,
     "1": 1,
@@ -231,7 +238,7 @@ _EXPECTED_FIELDS: tuple[tuple[tuple[str, ...], JsonValue], ...] = (
     ),
     (("scarcity", "sapient_population_below_level_20_minimum_basis_points"), 9_900),
     (("scarcity", "random_generation_maximum_level"), 34),
-    (("scarcity", "named_npc_minimum_level"), 45),
+    (("scarcity", "all_npcs_at_or_above_level_must_be_named"), 45),
     (
         ("scarcity", "native_population_caps"),
         [
@@ -300,7 +307,11 @@ def load_ruleset(path: str | Path) -> Ruleset:
     try:
         parsed = cast(
             object,
-            json.loads(serialized, object_pairs_hook=_object_with_unique_keys),
+            json.loads(
+                serialized,
+                object_pairs_hook=_object_with_unique_keys,
+                parse_int=_parse_bounded_json_integer,
+            ),
         )
     except json.JSONDecodeError as error:
         raise RulesetValidationError(
@@ -309,6 +320,10 @@ def load_ruleset(path: str | Path) -> Ruleset:
         ) from error
     except _DuplicateJsonKeyError as error:
         raise RulesetValidationError(f"{rules_path}: malformed JSON: {error}") from error
+    except _JsonIntegerLimitError as error:
+        raise RulesetValidationError(
+            f"{rules_path}: malformed JSON: JSON integer exceeds the safe digit limit"
+        ) from error
     except RecursionError as error:
         raise RulesetValidationError(f"{rules_path}: JSON nesting is too deep") from error
 
@@ -357,6 +372,17 @@ def _object_with_unique_keys(pairs: list[tuple[str, JsonValue]]) -> JsonObject:
             raise _DuplicateJsonKeyError(f"duplicate object key {key!r}")
         result[key] = value
     return result
+
+
+def _parse_bounded_json_integer(literal: str) -> int:
+    digits = literal[1:] if literal.startswith("-") else literal
+    if len(digits) > _MAX_JSON_INTEGER_DIGITS:
+        raise _JsonIntegerLimitError
+
+    value = 0
+    for digit in digits:
+        value = value * 10 + (ord(digit) - ord("0"))
+    return -value if literal.startswith("-") else value
 
 
 def _at(document: JsonObject, field_path: tuple[str, ...]) -> JsonValue:
@@ -447,6 +473,8 @@ def _validate_growth_costs(document: JsonObject) -> dict[int, int]:
         cost = raw_entry["cost"]
         if not isinstance(target_level, int) or isinstance(target_level, bool):
             raise RulesetValidationError(f"{entry_path}.target_level must be an integer")
+        if not 1 <= target_level <= 100:
+            raise RulesetValidationError(f"{entry_path}.target_level must be from 1 through 100")
         if not isinstance(cost, int) or isinstance(cost, bool):
             raise RulesetValidationError(f"{entry_path}.cost must be an integer")
         if target_level in costs:
@@ -457,8 +485,7 @@ def _validate_growth_costs(document: JsonObject) -> dict[int, int]:
         expected_cost = 100 * target_level**2
         if cost != expected_cost:
             raise RulesetValidationError(
-                f"{entry_path}.cost must be {expected_cost} for target level "
-                f"{target_level}; got {cost}"
+                f"{entry_path}.cost must be {expected_cost} for target level {target_level}"
             )
         costs[target_level] = cost
 
