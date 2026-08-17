@@ -1,0 +1,34 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Test, type-checker, linter, and coverage caches
+.pytest_cache/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+
+# Runtime state (keep authored JSON under content/ versioned)
+saves/*
+!saves/.gitkeep
+backups/*
+!backups/.gitkeep
+exports/*
+!exports/.gitkeep
+
+# Local editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

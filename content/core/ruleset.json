@@ -1,0 +1,704 @@
+{
+  "ruleset_id": "urn:overlord-worldsim:ruleset:core",
+  "schema_version": "1.0.0",
+  "rules_version": "1.0.0",
+  "compatibility": {
+    "minimum_engine_version": "0.1.0",
+    "expansion_policy": "controlled_versioned_only"
+  },
+  "numeric_policy": {
+    "authoritative_values": "signed_integers",
+    "binary_floating_point_allowed": false,
+    "fixed_point_scale": 10000,
+    "ratio_unit": "basis_points",
+    "basis_points_per_whole": 10000,
+    "rounding": "half_away_from_zero"
+  },
+  "calendar": {
+    "months_per_year": 12,
+    "days_per_month": 30,
+    "intercalary_days": 5,
+    "days_per_year": 365,
+    "hours_per_day": 24,
+    "minutes_per_hour": 60,
+    "seconds_per_minute": 60
+  },
+  "progression": {
+    "maximum_total_level": 100,
+    "level_caps": {
+      "base": 15,
+      "advanced": 10,
+      "rare": 5,
+      "hidden": 5,
+      "legendary": 5,
+      "world": 5
+    },
+    "growth_cost_formula": "100 * target_level^2",
+    "target_level_growth_costs": [
+      {
+        "target_level": 1,
+        "cost": 100
+      },
+      {
+        "target_level": 2,
+        "cost": 400
+      },
+      {
+        "target_level": 3,
+        "cost": 900
+      },
+      {
+        "target_level": 4,
+        "cost": 1600
+      },
+      {
+        "target_level": 5,
+        "cost": 2500
+      },
+      {
+        "target_level": 6,
+        "cost": 3600
+      },
+      {
+        "target_level": 7,
+        "cost": 4900
+      },
+      {
+        "target_level": 8,
+        "cost": 6400
+      },
+      {
+        "target_level": 9,
+        "cost": 8100
+      },
+      {
+        "target_level": 10,
+        "cost": 10000
+      },
+      {
+        "target_level": 11,
+        "cost": 12100
+      },
+      {
+        "target_level": 12,
+        "cost": 14400
+      },
+      {
+        "target_level": 13,
+        "cost": 16900
+      },
+      {
+        "target_level": 14,
+        "cost": 19600
+      },
+      {
+        "target_level": 15,
+        "cost": 22500
+      },
+      {
+        "target_level": 16,
+        "cost": 25600
+      },
+      {
+        "target_level": 17,
+        "cost": 28900
+      },
+      {
+        "target_level": 18,
+        "cost": 32400
+      },
+      {
+        "target_level": 19,
+        "cost": 36100
+      },
+      {
+        "target_level": 20,
+        "cost": 40000
+      },
+      {
+        "target_level": 21,
+        "cost": 44100
+      },
+      {
+        "target_level": 22,
+        "cost": 48400
+      },
+      {
+        "target_level": 23,
+        "cost": 52900
+      },
+      {
+        "target_level": 24,
+        "cost": 57600
+      },
+      {
+        "target_level": 25,
+        "cost": 62500
+      },
+      {
+        "target_level": 26,
+        "cost": 67600
+      },
+      {
+        "target_level": 27,
+        "cost": 72900
+      },
+      {
+        "target_level": 28,
+        "cost": 78400
+      },
+      {
+        "target_level": 29,
+        "cost": 84100
+      },
+      {
+        "target_level": 30,
+        "cost": 90000
+      },
+      {
+        "target_level": 31,
+        "cost": 96100
+      },
+      {
+        "target_level": 32,
+        "cost": 102400
+      },
+      {
+        "target_level": 33,
+        "cost": 108900
+      },
+      {
+        "target_level": 34,
+        "cost": 115600
+      },
+      {
+        "target_level": 35,
+        "cost": 122500
+      },
+      {
+        "target_level": 36,
+        "cost": 129600
+      },
+      {
+        "target_level": 37,
+        "cost": 136900
+      },
+      {
+        "target_level": 38,
+        "cost": 144400
+      },
+      {
+        "target_level": 39,
+        "cost": 152100
+      },
+      {
+        "target_level": 40,
+        "cost": 160000
+      },
+      {
+        "target_level": 41,
+        "cost": 168100
+      },
+      {
+        "target_level": 42,
+        "cost": 176400
+      },
+      {
+        "target_level": 43,
+        "cost": 184900
+      },
+      {
+        "target_level": 44,
+        "cost": 193600
+      },
+      {
+        "target_level": 45,
+        "cost": 202500
+      },
+      {
+        "target_level": 46,
+        "cost": 211600
+      },
+      {
+        "target_level": 47,
+        "cost": 220900
+      },
+      {
+        "target_level": 48,
+        "cost": 230400
+      },
+      {
+        "target_level": 49,
+        "cost": 240100
+      },
+      {
+        "target_level": 50,
+        "cost": 250000
+      },
+      {
+        "target_level": 51,
+        "cost": 260100
+      },
+      {
+        "target_level": 52,
+        "cost": 270400
+      },
+      {
+        "target_level": 53,
+        "cost": 280900
+      },
+      {
+        "target_level": 54,
+        "cost": 291600
+      },
+      {
+        "target_level": 55,
+        "cost": 302500
+      },
+      {
+        "target_level": 56,
+        "cost": 313600
+      },
+      {
+        "target_level": 57,
+        "cost": 324900
+      },
+      {
+        "target_level": 58,
+        "cost": 336400
+      },
+      {
+        "target_level": 59,
+        "cost": 348100
+      },
+      {
+        "target_level": 60,
+        "cost": 360000
+      },
+      {
+        "target_level": 61,
+        "cost": 372100
+      },
+      {
+        "target_level": 62,
+        "cost": 384400
+      },
+      {
+        "target_level": 63,
+        "cost": 396900
+      },
+      {
+        "target_level": 64,
+        "cost": 409600
+      },
+      {
+        "target_level": 65,
+        "cost": 422500
+      },
+      {
+        "target_level": 66,
+        "cost": 435600
+      },
+      {
+        "target_level": 67,
+        "cost": 448900
+      },
+      {
+        "target_level": 68,
+        "cost": 462400
+      },
+      {
+        "target_level": 69,
+        "cost": 476100
+      },
+      {
+        "target_level": 70,
+        "cost": 490000
+      },
+      {
+        "target_level": 71,
+        "cost": 504100
+      },
+      {
+        "target_level": 72,
+        "cost": 518400
+      },
+      {
+        "target_level": 73,
+        "cost": 532900
+      },
+      {
+        "target_level": 74,
+        "cost": 547600
+      },
+      {
+        "target_level": 75,
+        "cost": 562500
+      },
+      {
+        "target_level": 76,
+        "cost": 577600
+      },
+      {
+        "target_level": 77,
+        "cost": 592900
+      },
+      {
+        "target_level": 78,
+        "cost": 608400
+      },
+      {
+        "target_level": 79,
+        "cost": 624100
+      },
+      {
+        "target_level": 80,
+        "cost": 640000
+      },
+      {
+        "target_level": 81,
+        "cost": 656100
+      },
+      {
+        "target_level": 82,
+        "cost": 672400
+      },
+      {
+        "target_level": 83,
+        "cost": 688900
+      },
+      {
+        "target_level": 84,
+        "cost": 705600
+      },
+      {
+        "target_level": 85,
+        "cost": 722500
+      },
+      {
+        "target_level": 86,
+        "cost": 739600
+      },
+      {
+        "target_level": 87,
+        "cost": 756900
+      },
+      {
+        "target_level": 88,
+        "cost": 774400
+      },
+      {
+        "target_level": 89,
+        "cost": 792100
+      },
+      {
+        "target_level": 90,
+        "cost": 810000
+      },
+      {
+        "target_level": 91,
+        "cost": 828100
+      },
+      {
+        "target_level": 92,
+        "cost": 846400
+      },
+      {
+        "target_level": 93,
+        "cost": 864900
+      },
+      {
+        "target_level": 94,
+        "cost": 883600
+      },
+      {
+        "target_level": 95,
+        "cost": 902500
+      },
+      {
+        "target_level": 96,
+        "cost": 921600
+      },
+      {
+        "target_level": 97,
+        "cost": 940900
+      },
+      {
+        "target_level": 98,
+        "cost": 960400
+      },
+      {
+        "target_level": 99,
+        "cost": 980100
+      },
+      {
+        "target_level": 100,
+        "cost": 1000000
+      }
+    ],
+    "clock": "game_time_only",
+    "growth_event_stream": "unified_audited",
+    "eligible_activity_domains": [
+      "combat",
+      "research",
+      "politics",
+      "trade",
+      "governance",
+      "training"
+    ],
+    "repetitive_riskless_or_under_level_yield_may_be_zero": true,
+    "pending_allocation_requires_player_choice": true,
+    "prerequisites": {
+      "operators": [
+        "all",
+        "any",
+        "not"
+      ],
+      "checked_at": "acquisition_time",
+      "ordered_history_required": true,
+      "later_condition_loss_revokes_level": false
+    }
+  },
+  "magic": {
+    "minimum_caster_level_by_tier": {
+      "0": 0,
+      "1": 1,
+      "2": 8,
+      "3": 15,
+      "4": 22,
+      "5": 29,
+      "6": 36,
+      "7": 43,
+      "8": 50,
+      "9": 57,
+      "10": 64,
+      "super": 70
+    },
+    "traditions_combine_implicitly": false,
+    "class_contribution_rates_require_registered_content": true,
+    "tier_minimums_do_not_bypass_content_prerequisites": true
+  },
+  "effects": {
+    "execution_model": "registered_declarative_opcodes",
+    "arbitrary_python_allowed": false,
+    "unknown_opcode_policy": "reject_content_load"
+  },
+  "checks": {
+    "die": "d100",
+    "roll_minimum": 1,
+    "roll_maximum": 100,
+    "roll_total_formula": "d100 + action_rating + situational_modifier",
+    "opposed_target_formula": "50 + defense_rating",
+    "non_opposed_target": "explicit_fixed_dc",
+    "success_condition": "roll_total >= target",
+    "natural_1_automatic_failure": false,
+    "natural_100_automatic_success": false,
+    "natural_rolls_override_feasibility": false,
+    "audit_fields": [
+      "roll",
+      "action_rating",
+      "situational_modifiers",
+      "defense_or_fixed_dc",
+      "margin"
+    ],
+    "visibility": {
+      "player_roll_visible": true,
+      "known_modifiers_visible": true,
+      "secret_defense_or_dc_hidden": true,
+      "hidden_rolls_hidden": true
+    }
+  },
+  "combat": {
+    "round_seconds": 6,
+    "action_economy": {
+      "move_per_turn": 1,
+      "major_per_turn": 1,
+      "minor_per_turn": 1,
+      "reaction_per_round": 1,
+      "unused_actions": "expire",
+      "reaction_refresh": "start_of_round"
+    },
+    "damage_resolution": {
+      "phases": [
+        "hit",
+        "raw_power",
+        "penetration",
+        "defense",
+        "resistance",
+        "shield",
+        "hp"
+      ],
+      "final_damage_may_be_zero": true
+    },
+    "resistance": {
+      "unit": "basis_points",
+      "maximum_without_immunity": 9000,
+      "explicit_immunity_required": true,
+      "immunity_bypasses_damage": true
+    }
+  },
+  "life": {
+    "states": [
+      "alive",
+      "incapacitated",
+      "dying",
+      "dead"
+    ],
+    "thresholds": {
+      "alive": "hp > 0",
+      "incapacitated": "hp == 0",
+      "dying": "-max_hp / 2 < hp < 0",
+      "dead": "hp <= -max_hp / 2",
+      "integer_evaluation": "compare 2 * hp with -max_hp"
+    },
+    "direct_death": {
+      "valid_execution": true,
+      "registered_instant_death_effect": true
+    },
+    "ordinary_healing_clears_dead": false,
+    "resurrection_requires_registered_ability": true,
+    "continuity": "true_death_with_branch_reload"
+  },
+  "time": {
+    "progression_clock": "game_time_only",
+    "wall_clock_progression": false,
+    "long_jump": {
+      "threshold_game_hours": 24,
+      "comparison": "strictly_greater_than",
+      "activity_precedence": [
+        "explicit_long_term_activity",
+        "stored_routine",
+        "safe_maintenance"
+      ],
+      "fallback_activity": "safe_maintenance",
+      "safe_maintenance_scope": [
+        "ordinary_food",
+        "ordinary_rest",
+        "ordinary_shelter_upkeep"
+      ],
+      "safe_maintenance_free_growth": 0,
+      "interruptions": [
+        "lethal_danger",
+        "capture",
+        "forced_relocation",
+        "exhausted_required_resources",
+        "pending_player_level_allocation"
+      ]
+    }
+  },
+  "content": {
+    "minimum_counts": {
+      "racial_nodes": 60,
+      "job_class_nodes": 180,
+      "distinct_abilities": 800,
+      "spells": 360,
+      "items": 500
+    },
+    "numeric_upgrades_count_as_distinct_abilities": false,
+    "spell_tiers_required": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "super"
+    ],
+    "spell_roles_required": [
+      "attack",
+      "defense",
+      "control",
+      "support",
+      "scouting",
+      "counter"
+    ],
+    "item_categories_required": [
+      "equipment",
+      "consumable",
+      "material",
+      "key_item"
+    ],
+    "unusable_filler_counts_toward_item_minimum": false
+  },
+  "world": {
+    "minimum_counts": {
+      "sovereign_polities": 14,
+      "major_organizations": 48,
+      "full_important_npcs": 120
+    },
+    "summary_npcs_required": true,
+    "aggregate_population_required": true,
+    "public_and_gm_hidden_projections_separate": true
+  },
+  "start_modes": [
+    {
+      "id": "ordinary",
+      "level": 1
+    },
+    {
+      "id": "heroic",
+      "level": 35
+    },
+    {
+      "id": "legendary",
+      "level": 60
+    },
+    {
+      "id": "otherworld_player",
+      "level": 100
+    },
+    {
+      "id": "custom",
+      "minimum_level": 1,
+      "maximum_level": 100
+    }
+  ],
+  "character_creation": {
+    "legal_ordered_acquisition_history_required": true,
+    "restricted_node_authorization": "origin_authorization_or_achievement_token",
+    "mode_budgets": [
+      "talent",
+      "wealth",
+      "equipment"
+    ],
+    "custom_budget_override_marks_save_custom": true,
+    "custom_may_break_total_level_cap": false,
+    "custom_may_break_reference_integrity": false,
+    "level_100_equipment_requires_player_choice": true,
+    "stop_before_prologue": true
+  },
+  "scarcity": {
+    "sapient_population_below_level_20_minimum_basis_points": 9900,
+    "random_generation_maximum_level": 34,
+    "named_npc_minimum_level": 45,
+    "native_population_caps": [
+      {
+        "minimum_level": 60,
+        "maximum_level": 74,
+        "maximum_count": 24
+      },
+      {
+        "minimum_level": 75,
+        "maximum_level": 89,
+        "maximum_count": 9
+      },
+      {
+        "minimum_level": 90,
+        "maximum_level": 99,
+        "maximum_count": 2
+      }
+    ],
+    "public_native_level_100_allowed": false
+  },
+  "authored_content": {
+    "scale": "encyclopedia",
+    "canon_policy": "fixed",
+    "seeded_noncritical_detail": true,
+    "expansion_policy": "controlled_versioned_only"
+  }
+}
