@@ -1,0 +1,403 @@
+{
+  "batch_id": "V016",
+  "source_volume": 16,
+  "source_unit_ids": [
+    "U0283",
+    "U0284",
+    "U0285",
+    "U0286",
+    "U0287",
+    "U0288",
+    "U0289",
+    "U0290",
+    "U0291",
+    "U0292",
+    "U0293",
+    "U0294",
+    "U0295",
+    "U0296",
+    "U0297",
+    "U0298",
+    "U0299",
+    "U0300"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0136",
+      "name": "雷欧",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 16,
+      "introduced_line": 142736,
+      "description": "鲁迪乌斯召唤的守护魔兽，德路迪亚村的狗，忠实守护家人。"
+    },
+    {
+      "entity_id": "E0137",
+      "name": "贝多贝",
+      "aliases": [
+        "贝多贝陛下"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 16,
+      "introduced_line": 146402,
+      "description": "图书迷宫的史莱姆魔王，喜爱书籍。"
+    },
+    {
+      "entity_id": "E0138",
+      "name": "卡瓦尼斯·司里安·阿斯拉",
+      "aliases": [
+        "卡瓦尼斯王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 16,
+      "introduced_line": 146112,
+      "description": "阿斯拉王国的创始王，拉普拉斯战役后期的人族领导者。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特",
+        "菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，爱丽儿的护卫。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，受爱丽儿雇用为护卫。"
+    },
+    {
+      "entity_id": "E0029",
+      "name": "佩尔基乌斯",
+      "aliases": [
+        "佩尔基乌斯·朵拉",
+        "甲龙王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 17520,
+      "description": "甲龙王，杀死魔神的三英雄之一，决定支持爱丽儿登上王位。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，立志成为女王。"
+    },
+    {
+      "entity_id": "E0045",
+      "name": "路克·诺托斯·格雷拉特",
+      "aliases": [
+        "路克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "爱丽儿的护卫骑士，被怀疑是人神的使徒。"
+    },
+    {
+      "entity_id": "E0046",
+      "name": "迪利克·雷特巴特",
+      "aliases": [
+        "迪利克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "爱丽儿的守护术师，为保护爱丽儿而死，留下记述其理想的日记。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0174",
+      "entity_id": "E0136",
+      "predicate": "身份",
+      "object_value": "鲁迪乌斯召唤的守护魔兽",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          142736,
+          142840
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 16,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0175",
+      "entity_id": "E0029",
+      "predicate": "经历",
+      "object_value": "同意协助爱丽儿成为阿斯拉女王",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          147434,
+          147530
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 16,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0176",
+      "entity_id": "E0044",
+      "predicate": "经历",
+      "object_value": "说服佩尔基乌斯成为自己的后盾",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          147434,
+          147530
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 16,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0177",
+      "entity_id": "E0046",
+      "predicate": "经历",
+      "object_value": "留下记述爱丽儿与路克的日记",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          146512,
+          146642
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 16,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0178",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "召唤守护魔兽雷欧保护家人",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          142736,
+          142840
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 16,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0050",
+      "source_id": "E0001",
+      "target_id": "E0136",
+      "rel_type": "契约主从",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          142628,
+          142734
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 16,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0064",
+      "owner_id": "E0001",
+      "fact_id": "F0178",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道雷欧是守护魔兽。"
+    },
+    {
+      "knowledge_id": "K0065",
+      "owner_id": "E0001",
+      "fact_id": "F0175",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道佩尔基乌斯同意协助爱丽儿。"
+    },
+    {
+      "knowledge_id": "K0066",
+      "owner_id": "E0044",
+      "fact_id": "F0176",
+      "certainty": "EXPLICIT",
+      "note": "爱丽儿知道自己说服了佩尔基乌斯。"
+    },
+    {
+      "knowledge_id": "K0067",
+      "owner_id": "E0001",
+      "fact_id": "F0177",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道迪利克留下了日记。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0060",
+      "title": "召唤守护魔兽",
+      "description": "鲁迪乌斯使用奥尔斯帝德提供的魔法阵召唤出守护魔兽雷欧。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0136"
+      ],
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          142736,
+          142840
+        ]
+      ]
+    },
+    {
+      "event_id": "T0061",
+      "title": "图书迷宫探索",
+      "description": "鲁迪乌斯一行进入图书迷宫调查卡瓦尼斯王并发现迪利克的日记。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0044",
+        "E0006",
+        "E0045",
+        "E0021",
+        "E0022",
+        "E0137"
+      ],
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          145620,
+          145716
+        ]
+      ]
+    },
+    {
+      "event_id": "T0062",
+      "title": "佩尔基乌斯协助",
+      "description": "爱丽儿答出卡瓦尼斯王理想王者的答案，佩尔基乌斯宣布支持其登上王位。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0044",
+        "E0029",
+        "E0001",
+        "E0006",
+        "E0045"
+      ],
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          147434,
+          147530
+        ]
+      ]
+    },
+    {
+      "event_id": "T0063",
+      "title": "前往阿斯拉王国",
+      "description": "爱丽儿一行决定返回阿斯拉王国参加王位争夺战。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0044",
+        "E0001",
+        "E0006",
+        "E0045"
+      ],
+      "evidence_volumes": [
+        16
+      ],
+      "evidence_lines": [
+        [
+          147832,
+          147902
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

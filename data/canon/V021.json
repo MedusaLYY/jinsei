@@ -1,0 +1,319 @@
+{
+  "batch_id": "V021",
+  "source_volume": 21,
+  "source_unit_ids": [
+    "U0364",
+    "U0365",
+    "U0366",
+    "U0367",
+    "U0368",
+    "U0369",
+    "U0370",
+    "U0371",
+    "U0372",
+    "U0373",
+    "U0374",
+    "U0375",
+    "U0376",
+    "U0377",
+    "U0378",
+    "U0379",
+    "U0380"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0152",
+      "name": "克蕾雅·拉托雷亚",
+      "aliases": [
+        "克蕾雅"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 21,
+      "introduced_line": 191160,
+      "description": "塞妮丝的母亲，拉托雷亚家的当家夫人。"
+    },
+    {
+      "entity_id": "E0153",
+      "name": "神子",
+      "aliases": [
+        "米里斯教团的神子"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 21,
+      "introduced_line": 188164,
+      "description": "米里斯教团的神子，拥有超凡能力的少女，后加入奥尔斯帝德麾下。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，失忆后由拉托雷亚家带回米里斯。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁德佣兵团的智囊。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "冒险者，被揭示为人神的使徒后叛逃。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙，加入奥尔斯帝德阵营。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0199",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "由鲁迪乌斯与爱夏带回米里斯拉托雷亚家",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          191450,
+          191546
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0200",
+      "entity_id": "E0057",
+      "predicate": "经历",
+      "object_value": "被揭示为人神的使徒并叛逃",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          192792,
+          192892
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0201",
+      "entity_id": "E0153",
+      "predicate": "经历",
+      "object_value": "加入奥尔斯帝德麾下",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          192336,
+          192462
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0202",
+      "entity_id": "E0152",
+      "predicate": "身份",
+      "object_value": "塞妮丝的母亲，拉托雷亚家当家夫人",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          191160,
+          191252
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0054",
+      "source_id": "E0152",
+      "target_id": "E0003",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          191160,
+          191252
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0084",
+      "owner_id": "E0001",
+      "fact_id": "F0199",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝回到拉托雷亚家。"
+    },
+    {
+      "knowledge_id": "K0085",
+      "owner_id": "E0001",
+      "fact_id": "F0200",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道基斯是人神的使徒。"
+    },
+    {
+      "knowledge_id": "K0086",
+      "owner_id": "E0001",
+      "fact_id": "F0201",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道神子加入奥尔斯帝德麾下。"
+    },
+    {
+      "knowledge_id": "K0087",
+      "owner_id": "E0001",
+      "fact_id": "F0202",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道克蕾雅是塞妮丝的母亲。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0077",
+      "title": "米里斯教团冲突",
+      "description": "鲁迪乌斯为救塞妮丝与米里斯教团对立，被审判后挟持神子脱身。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0153",
+        "E0152",
+        "E0003",
+        "E0008",
+        "E0057"
+      ],
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          188594,
+          188724
+        ]
+      ]
+    },
+    {
+      "event_id": "T0078",
+      "title": "神子入伙",
+      "description": "神子加入奥尔斯帝德麾下。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0153",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          192336,
+          192462
+        ]
+      ]
+    },
+    {
+      "event_id": "T0079",
+      "title": "基斯叛逃",
+      "description": "基斯被揭示为人神使徒后叛逃。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0057",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        21
+      ],
+      "evidence_lines": [
+        [
+          192792,
+          192892
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

@@ -103,3 +103,31 @@ Extraction proceeds strictly by volume order; do not skip ahead.
   not be declared with an earlier `visible_from_volume`.
 - No speculation as fact: mark inference with the confidence ladder.
 - Never edit prior batches; later volumes may only add new facts or phases.
+
+## Completion status (M4 finished)
+
+All 26 main-story volumes are extracted, verified clean, and applied to
+`data/db/canon.sqlite3`:
+
+| Batch | Volumes 1-26 | Entity ID range  E0001-E0166 | Facts F0001-F0226
+| Relationships R0001-R0065 | Knowledge K0001-K0107 | Events T0001-T0098
+
+Final registry: 145 entities, 226 facts, 65 relationships, 106 knowledge
+rows, 98 timeline events, 12 character phases. Tail CROSSOVER units (short
+stories after volume 26) were intentionally left as retrieval-only chunks and
+are not extracted.
+
+Correction log:
+
+- V022: the child born to 希露菲 in volume 22 is 齐格哈尔德 (E0160), named in
+  volume 23; the record E0159 莉莉·格雷拉特 was therefore reassigned to
+  洛琪希与鲁迪乌斯的女儿 (born ~10 years after the final battle, volume 26).
+  Corrected V022/V023 were re-applied (idempotent batch replace) and V026
+  upserts the corrected E0159 record.
+- Enum corrections: `RelationshipKind` has no `SOCIAL`; `EntityKind` has no
+  `SPECIES`/`OTHER`; transfer incident year is 甲龙历417 (Gaidens).
+
+Gates: `pytest tests/canon` 146 passed, canon-package coverage 98.81% (>=95%),
+`ruff check`/`ruff format --check` clean, `mypy src` clean. Pre-existing
+failures in `tests/test_rules.py` and `tests/test_cli.py` (old API drift,
+8 tests) are reported and intentionally left unmodified.

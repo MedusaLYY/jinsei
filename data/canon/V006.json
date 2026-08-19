@@ -1,0 +1,756 @@
+{
+  "batch_id": "V006",
+  "source_volume": 6,
+  "source_unit_ids": [
+    "U0098",
+    "U0099",
+    "U0100",
+    "U0101",
+    "U0102",
+    "U0103",
+    "U0104",
+    "U0105",
+    "U0106",
+    "U0107",
+    "U0108",
+    "U0109",
+    "U0110",
+    "U0111",
+    "U0112",
+    "U0113",
+    "U0114",
+    "U0115",
+    "U0116",
+    "U0117"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0074",
+      "name": "东部港",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 6,
+      "introduced_line": 49140,
+      "description": "王龙王国最东端的港都。"
+    },
+    {
+      "entity_id": "E0075",
+      "name": "维邦",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 6,
+      "introduced_line": 49772,
+      "description": "王龙王国的首都。"
+    },
+    {
+      "entity_id": "E0076",
+      "name": "西隆王国",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 6,
+      "introduced_line": 50134,
+      "description": "王龙王国的附属国，王宫曾软禁莉莉雅与爱夏。"
+    },
+    {
+      "entity_id": "E0077",
+      "name": "沙纳基亚王国",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 6,
+      "introduced_line": 49984,
+      "description": "王龙王国的附属国，盛产米。"
+    },
+    {
+      "entity_id": "E0078",
+      "name": "齐卡王国",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 6,
+      "introduced_line": 49984,
+      "description": "王龙王国的附属国。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神",
+        "七星的主人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 53974,
+      "description": "世界最强的龙神，身负被万物畏惧的诅咒。"
+    },
+    {
+      "entity_id": "E0080",
+      "name": "札诺巴",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52380,
+      "description": "西隆王国第三王子，喜爱人偶的收藏家，鲁迪乌斯的朋友。"
+    },
+    {
+      "entity_id": "E0081",
+      "name": "帕库斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52660,
+      "description": "西隆王国王子，情报管制并软禁莉莉雅，事后被送往王龙王国为人质。"
+    },
+    {
+      "entity_id": "E0082",
+      "name": "金洁",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52492,
+      "description": "札诺巴的侍女，促成札诺巴与鲁迪乌斯相识。"
+    },
+    {
+      "entity_id": "E0083",
+      "name": "阿尔冯斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 55710,
+      "description": "伯雷亚斯家的管家，转移事件后致力于复兴菲托亚领地。"
+    },
+    {
+      "entity_id": "E0084",
+      "name": "剑之圣地",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 6,
+      "introduced_line": 57156,
+      "description": "剑神流的圣地，艾莉丝随基列奴前往修行的场所。"
+    },
+    {
+      "entity_id": "E0085",
+      "name": "詹姆士·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "詹姆士"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 56196,
+      "description": "艾莉丝的伯父，介意传闻的贵族。"
+    },
+    {
+      "entity_id": "E0086",
+      "name": "大流士卿",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 56292,
+      "description": "阿斯拉王都中最有权势的人物，觊觎艾莉丝的变态贵族。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，菲托亚领地搜索团的团长。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，能使用治愈魔术的前冒险者。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，原阿斯拉王国后宫禁卫侍女。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "受聘担任鲁迪乌斯家庭教师的水圣级魔术师，米格路德族魔族。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露弗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的少女。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁迪乌斯的妹妹。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特",
+        "狂犬艾莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，泰德鲁帝亚族兽族。"
+    },
+    {
+      "entity_id": "E0023",
+      "name": "绍罗斯·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "绍罗斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9950,
+      "description": "菲托亚领主，保罗的叔父，艾莉丝的祖父。"
+    },
+    {
+      "entity_id": "E0024",
+      "name": "菲利普·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "菲利普"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9950,
+      "description": "绍罗斯之子，罗亚市长，艾莉丝的父亲。"
+    },
+    {
+      "entity_id": "E0025",
+      "name": "希尔达·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "希尔达"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 12522,
+      "description": "菲利普之妻，艾莉丝的母亲，红发。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德",
+        "Dead End",
+        "看门犬瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19984,
+      "description": "斯佩路德族战士团团长，护送鲁迪乌斯与艾莉丝回国的战士。"
+    },
+    {
+      "entity_id": "E0032",
+      "name": "人神",
+      "aliases": [
+        "Hitogami",
+        "马赛克神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19754,
+      "description": "自称神的谜之存在，能通过梦境与人对话并提供建议。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0092",
+      "entity_id": "E0008",
+      "predicate": "经历",
+      "object_value": "转移后与莉莉雅一同被软禁在西隆王宫",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          50928,
+          51028
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0093",
+      "entity_id": "E0004",
+      "predicate": "经历",
+      "object_value": "被鲁迪乌斯等人救出西隆王国",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          52936,
+          53042
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0094",
+      "entity_id": "E0079",
+      "predicate": "身份",
+      "object_value": "龙神，世界最强的存在",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          55164,
+          55284
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0095",
+      "entity_id": "E0079",
+      "predicate": "经历",
+      "object_value": "三拳击败瑞杰路德，一击打飞艾莉丝",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          54320,
+          54418
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0096",
+      "entity_id": "E0079",
+      "predicate": "能力",
+      "object_value": "身负被万物畏惧的诅咒",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          54658,
+          54772
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0097",
+      "entity_id": "E0022",
+      "predicate": "经历",
+      "object_value": "转移后平安存活，在菲托亚领地难民营与艾莉丝重逢",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          55710,
+          55826
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0098",
+      "entity_id": "E0023",
+      "predicate": "经历",
+      "object_value": "为转移事件承担责任遭到处决",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          55828,
+          55942
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0099",
+      "entity_id": "E0024",
+      "predicate": "经历",
+      "object_value": "与希尔达在纷争地带过世",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          55828,
+          55942
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0100",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "十五岁生日后随基列奴前往剑之圣地修行",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          57156,
+          57248
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0101",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "在与奥尔斯帝德的对决中身受致命伤却存活下来",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          54658,
+          54772
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0102",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "转移事件后幸存，不在失踪者名单上",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          56074,
+          56194
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0103",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "下落已被查明，保罗将前往贝卡利特大陆搜索",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          57836,
+          57946
+        ]
+      ],
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0031",
+      "source_id": "E0083",
+      "target_id": "E0021",
+      "rel_type": "主从",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          55828,
+          55942
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0032",
+      "source_id": "E0001",
+      "target_id": "E0021",
+      "rel_type": "恋人",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          56676,
+          56786
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0033",
+      "source_id": "E0022",
+      "target_id": "E0021",
+      "rel_type": "师徒",
+      "kind": "MENTOR",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          56966,
+          57062
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 6,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0025",
+      "owner_id": "E0001",
+      "fact_id": "F0094",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道奥尔斯帝德是龙神。"
+    },
+    {
+      "knowledge_id": "K0026",
+      "owner_id": "E0001",
+      "fact_id": "F0096",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道奥尔斯帝德身负被畏惧的诅咒。"
+    },
+    {
+      "knowledge_id": "K0027",
+      "owner_id": "E0001",
+      "fact_id": "F0102",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道希露菲在转移事件中幸存。"
+    },
+    {
+      "knowledge_id": "K0028",
+      "owner_id": "E0001",
+      "fact_id": "F0103",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝的下落已被查明。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0021",
+      "title": "爱夏救出",
+      "description": "鲁迪乌斯在西隆王国救出被士兵追捕的爱夏。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0008"
+      ],
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          50610,
+          50734
+        ]
+      ]
+    },
+    {
+      "event_id": "T0022",
+      "title": "转折点二",
+      "description": "龙神奥尔斯帝德袭击一行人，击败瑞杰路德与艾莉丝，鲁迪乌斯身受致命伤却存活。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0031",
+        "E0079"
+      ],
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          53974,
+          54072
+        ]
+      ]
+    },
+    {
+      "event_id": "T0023",
+      "title": "瑞杰路德离别",
+      "description": "瑞杰路德在菲托亚领地难民营前与鲁迪乌斯、艾莉丝道别。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0031",
+        "E0001",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          55524,
+          55616
+        ]
+      ]
+    },
+    {
+      "event_id": "T0024",
+      "title": "艾莉丝前往剑之圣地",
+      "description": "艾莉丝在十五岁生日后随基列奴离开，前往剑之圣地修行。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0021",
+        "E0022"
+      ],
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          57250,
+          57384
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0008",
+      "character_id": "E0021",
+      "name": "剑之圣地修行期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "随基列奴前往剑之圣地修行的时期。",
+      "evidence_volumes": [
+        6
+      ],
+      "evidence_lines": [
+        [
+          57250,
+          57384
+        ]
+      ]
+    }
+  ]
+}

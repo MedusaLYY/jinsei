@@ -1,0 +1,740 @@
+{
+  "batch_id": "V005",
+  "source_volume": 5,
+  "source_unit_ids": [
+    "U0080",
+    "U0081",
+    "U0082",
+    "U0083",
+    "U0084",
+    "U0085",
+    "U0086",
+    "U0087",
+    "U0088",
+    "U0089",
+    "U0090",
+    "U0091",
+    "U0092",
+    "U0093",
+    "U0094",
+    "U0095",
+    "U0096",
+    "U0097"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0063",
+      "name": "米里希昂",
+      "aliases": [
+        "米里斯神圣国首都"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 5,
+      "introduced_line": 39276,
+      "description": "米里斯神圣国的首都，冒险者公会总部所在地。"
+    },
+    {
+      "entity_id": "E0064",
+      "name": "维拉",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 41070,
+      "description": "保罗搜索团的女战士，穿着比基尼铠甲。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "十二岁的天才魔术师，米里斯教团教皇之孙，向艾莉丝求婚。"
+    },
+    {
+      "entity_id": "E0066",
+      "name": "特蕾兹·拉托雷亚",
+      "aliases": [
+        "特蕾兹",
+        "特蕾兹阿姨"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 45596,
+      "description": "神殿骑士团女骑士，塞妮丝的妹妹，曾受艾莉丝救命之恩。"
+    },
+    {
+      "entity_id": "E0067",
+      "name": "贾尔加德",
+      "aliases": [
+        "贾修·布拉修"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 46064,
+      "description": "瑞杰路德四十年前结识的好友，米里希昂的权势者。"
+    },
+    {
+      "entity_id": "E0068",
+      "name": "巴克席尔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 45966,
+      "description": "米里斯海关的公爵，出了名的讨厌魔族。"
+    },
+    {
+      "entity_id": "E0069",
+      "name": "菲托亚领地搜索团",
+      "aliases": [
+        "布耶纳村民搜索队"
+      ],
+      "kind": "ORGANIZATION",
+      "introduced_volume": 5,
+      "introduced_line": 40578,
+      "description": "保罗组织的搜索团，寻找被转移的菲托亚领地居民。"
+    },
+    {
+      "entity_id": "E0070",
+      "name": "王龙王国",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 5,
+      "introduced_line": 46950,
+      "description": "中央大陆南部的王国，拥有世界上最大的港都。"
+    },
+    {
+      "entity_id": "E0072",
+      "name": "皮列蒙·诺托斯·格雷拉特",
+      "aliases": [
+        "皮列蒙"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 47432,
+      "description": "爱丽儿派的最高贵族。"
+    },
+    {
+      "entity_id": "E0073",
+      "name": "格拉维尔王子",
+      "aliases": [
+        "格拉维尔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 47432,
+      "description": "阿斯拉王国第一王子，爱丽儿的政敌。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，菲托亚领地搜索团的团长。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，能使用治愈魔术的前冒险者。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "受聘担任鲁迪乌斯家庭教师的水圣级魔术师，米格路德族魔族。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露弗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的少女。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，鲁迪乌斯的妹妹。"
+    },
+    {
+      "entity_id": "E0013",
+      "name": "魔法大学",
+      "aliases": [
+        "拉诺亚魔法大学"
+      ],
+      "kind": "ORGANIZATION",
+      "introduced_volume": 1,
+      "introduced_line": 3074,
+      "description": "传授魔术的高等学府，洛琪希的母校。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特",
+        "狂犬艾莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德",
+        "Dead End",
+        "看门犬瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19984,
+      "description": "斯佩路德族战士团团长，护送鲁迪乌斯与艾莉丝回国的战士。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拥有超凡魅力的绝世美女。"
+    },
+    {
+      "entity_id": "E0045",
+      "name": "路克·诺托斯·格雷拉特",
+      "aliases": [
+        "路克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "四大领地格雷拉特家次男，爱丽儿的护卫骑士。"
+    },
+    {
+      "entity_id": "E0061",
+      "name": "菲兹",
+      "aliases": [
+        "沉默的菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37792,
+      "description": "转移事件当天出现在阿斯拉王宫的守护术师，出身菲托亚领地。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0079",
+      "entity_id": "E0002",
+      "predicate": "经历",
+      "object_value": "转移后组织菲托亚领地搜索团寻找家人",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          40578,
+          40694
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0080",
+      "entity_id": "E0002",
+      "predicate": "年纪",
+      "object_value": "三十岁",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          42920,
+          43048
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0081",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "与保罗一同遭到转移",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          44512,
+          44652
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0082",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "转移事件后下落不明",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          43232,
+          43328
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0083",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "转移事件后下落不明",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          40812,
+          40910
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0084",
+      "entity_id": "E0066",
+      "predicate": "身份",
+      "object_value": "神殿骑士团女骑士，塞妮丝的妹妹",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          46402,
+          46494
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0085",
+      "entity_id": "E0065",
+      "predicate": "身份",
+      "object_value": "米里斯教团教皇之孙的魔术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          44942,
+          45034
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0086",
+      "entity_id": "E0070",
+      "predicate": "身份",
+      "object_value": "中央大陆南部的王国，世界上最大的港都",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          46950,
+          47092
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0087",
+      "entity_id": "E0013",
+      "predicate": "身份",
+      "object_value": "拉诺亚王国的魔法大学，爱丽儿的留学目的地",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          47432,
+          47528
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0088",
+      "entity_id": "E0044",
+      "predicate": "经历",
+      "object_value": "以留学为名离开王都前往拉诺亚魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          47432,
+          47528
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0089",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "确认鲁迪乌斯平安后结束搜索踏上归乡之路",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          46880,
+          46946
+        ]
+      ],
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0090",
+      "entity_id": "E0044",
+      "predicate": "经历",
+      "object_value": "被谣传遭杀害，实际平安前往拉诺亚魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          47432,
+          47528
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0091",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "与父亲保罗在米里希昂重逢并和解",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          43050,
+          43114
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0028",
+      "source_id": "E0066",
+      "target_id": "E0003",
+      "rel_type": "姐妹",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          46402,
+          46494
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0029",
+      "source_id": "E0065",
+      "target_id": "E0021",
+      "rel_type": "求婚",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          45806,
+          45858
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0030",
+      "source_id": "E0067",
+      "target_id": "E0031",
+      "rel_type": "好友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          43840,
+          43940
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 5,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0021",
+      "owner_id": "E0001",
+      "fact_id": "F0079",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道保罗组织了菲托亚领地搜索团。"
+    },
+    {
+      "knowledge_id": "K0022",
+      "owner_id": "E0001",
+      "fact_id": "F0082",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道希露菲下落不明。"
+    },
+    {
+      "knowledge_id": "K0023",
+      "owner_id": "E0001",
+      "fact_id": "F0083",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝下落不明。"
+    },
+    {
+      "knowledge_id": "K0024",
+      "owner_id": "E0001",
+      "fact_id": "F0084",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道特蕾兹是塞妮丝的妹妹。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0017",
+      "title": "父子重逢",
+      "description": "鲁迪乌斯与保罗在米里希昂重逢，爆发争吵打斗后和解。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0021",
+        "E0031",
+        "E0007"
+      ],
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          41070,
+          41180
+        ]
+      ]
+    },
+    {
+      "event_id": "T0018",
+      "title": "艾莉丝的哥布林讨伐",
+      "description": "艾莉丝独自承接哥布林讨伐委托，与克里夫同行并救下遭暗杀集团袭击的特蕾兹。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0021",
+        "E0065",
+        "E0066"
+      ],
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          45596,
+          45698
+        ]
+      ]
+    },
+    {
+      "event_id": "T0019",
+      "title": "爱丽儿留学启程",
+      "description": "爱丽儿以留学为名离开王都前往拉诺亚魔法大学，途中被谣传遭杀害。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0044",
+        "E0045",
+        "E0061"
+      ],
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          47432,
+          47528
+        ]
+      ]
+    },
+    {
+      "event_id": "T0020",
+      "title": "渡海前往中央大陆",
+      "description": "一行人经海关渡海从米里斯大陆前往中央大陆王龙王国。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0031",
+        "E0066"
+      ],
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          46604,
+          46642
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0007",
+      "character_id": "E0001",
+      "name": "中央大陆之旅",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "渡海回到中央大陆，计划将艾莉丝送回菲托亚领地。",
+      "evidence_volumes": [
+        5
+      ],
+      "evidence_lines": [
+        [
+          46496,
+          46602
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "batch_id": "V017",
+  "source_volume": 17,
+  "source_unit_ids": [
+    "U0298",
+    "U0299",
+    "U0300",
+    "U0301",
+    "U0302",
+    "U0303",
+    "U0304",
+    "U0305",
+    "U0306",
+    "U0307",
+    "U0308",
+    "U0309",
+    "U0310",
+    "U0311",
+    "U0312",
+    "U0313",
+    "U0314",
+    "U0315"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0144",
+      "name": "弗列塔斯·帕普尔荷斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 156074,
+      "description": "帕普尔荷斯家当家，朵莉丝堤娜的父亲，倒戈支持爱丽儿。"
+    },
+    {
+      "entity_id": "E0145",
+      "name": "朵莉丝堤娜·帕普尔荷斯",
+      "aliases": [
+        "朵莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 153538,
+      "description": "帕普尔荷斯家次女，曾为大流士的性奴隶与盗贼团长，后成为爱丽儿的同伴。"
+    },
+    {
+      "entity_id": "E0146",
+      "name": "维·塔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 151822,
+      "description": "大流士麾下的骑士，能以镜面铠甲反射阳光干扰对手，被基列奴击败。"
+    },
+    {
+      "entity_id": "E0147",
+      "name": "纳库尔贾德",
+      "aliases": [
+        "双胞胎剑士"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 155526,
+      "description": "大流士雇用的双胞胎剑士，被艾莉丝斩杀。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特",
+        "菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，辞去爱丽儿的护卫后归家育儿。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，在王位争夺战中担任主力战力。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，处决大流士为绍罗斯报仇，担任爱丽儿的终身护卫。"
+    },
+    {
+      "entity_id": "E0029",
+      "name": "佩尔基乌斯",
+      "aliases": [
+        "佩尔基乌斯·朵拉",
+        "甲龙王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 17520,
+      "description": "甲龙王，宣布支持爱丽儿登上王位。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，击败格拉维尔派后确立为下任女王。"
+    },
+    {
+      "entity_id": "E0045",
+      "name": "路克·诺托斯·格雷拉特",
+      "aliases": [
+        "路克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "爱丽儿的护卫骑士，受人神怂恿一度失控，后成为诺托斯家当家。"
+    },
+    {
+      "entity_id": "E0073",
+      "name": "格拉维尔·札芬恩·阿斯拉",
+      "aliases": [
+        "格拉维尔",
+        "格拉维尔王子"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 47432,
+      "description": "阿斯拉王国第一王子，在王位争夺战中败于爱丽儿。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 53974,
+      "description": "世界最强的龙神，历经数百次轮回，策划让爱丽儿登上王位。"
+    },
+    {
+      "entity_id": "E0086",
+      "name": "大流士·席尔巴·贾尼乌斯",
+      "aliases": [
+        "大流士",
+        "大流士卿"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 56292,
+      "description": "阿斯拉王国的上级大臣，格拉维尔派首脑，害死绍罗斯的元凶，被基列奴处决。"
+    },
+    {
+      "entity_id": "E0133",
+      "name": "伊佐露缇·克尔埃尔",
+      "aliases": [
+        "伊佐露缇",
+        "水王伊佐露缇"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 15,
+      "introduced_line": 135462,
+      "description": "水神流的水王，艾莉丝在剑之圣地的朋友，与爱丽儿一方和解。"
+    },
+    {
+      "entity_id": "E0134",
+      "name": "列妲",
+      "aliases": [
+        "水神列妲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 15,
+      "introduced_line": 135462,
+      "description": "水神流的水神，在宴会会场被击杀。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0179",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          156454,
+          156552
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0180",
+      "entity_id": "E0086",
+      "predicate": "经历",
+      "object_value": "被基列奴处决，被认定为害死绍罗斯的凶手",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          157246,
+          157374
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0181",
+      "entity_id": "E0044",
+      "predicate": "经历",
+      "object_value": "击败格拉维尔派，确立为下任阿斯拉女王",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          156398,
+          156450
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0182",
+      "entity_id": "E0045",
+      "predicate": "经历",
+      "object_value": "受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          157914,
+          157986
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0183",
+      "entity_id": "E0022",
+      "predicate": "经历",
+      "object_value": "完成与艾莉丝的最后训练后担任爱丽儿的终身护卫",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          158628,
+          158746
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0184",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "辞去爱丽儿的护卫一职，决定在家养育孩子",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          158968,
+          159088
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0051",
+      "source_id": "E0145",
+      "target_id": "E0086",
+      "rel_type": "受害与加害",
+      "kind": "ENEMY",
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          153746,
+          153802
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0068",
+      "owner_id": "E0001",
+      "fact_id": "F0180",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道大流士被基列奴处决。"
+    },
+    {
+      "knowledge_id": "K0069",
+      "owner_id": "E0001",
+      "fact_id": "F0181",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道爱丽儿确立为下任女王。"
+    },
+    {
+      "knowledge_id": "K0070",
+      "owner_id": "E0044",
+      "fact_id": "F0182",
+      "certainty": "EXPLICIT",
+      "note": "爱丽儿知道路克受人神怂恿。"
+    },
+    {
+      "knowledge_id": "K0071",
+      "owner_id": "E0006",
+      "fact_id": "F0184",
+      "certainty": "EXPLICIT",
+      "note": "希露菲决定在家养育孩子。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0064",
+      "title": "大流士垮台",
+      "description": "朵莉丝公开指证大流士的恶行，帕普尔荷斯家倒戈，大流士垮台。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0145",
+        "E0086",
+        "E0044",
+        "E0073"
+      ],
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          155874,
+          155972
+        ]
+      ]
+    },
+    {
+      "event_id": "T0065",
+      "title": "王宫决战",
+      "description": "鲁迪乌斯、艾莉丝与基列奴在宴会会场击败奥贝尔、列妲与双胞胎，基列奴处决大流士。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022",
+        "E0146",
+        "E0134",
+        "E0086"
+      ],
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          157246,
+          157374
+        ]
+      ]
+    },
+    {
+      "event_id": "T0066",
+      "title": "佩尔基乌斯宣布支持",
+      "description": "佩尔基乌斯在宴会现身，宣布爱丽儿为下任国王。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0029",
+        "E0044",
+        "E0073"
+      ],
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          156278,
+          156396
+        ]
+      ]
+    },
+    {
+      "event_id": "T0067",
+      "title": "路克失控与原谅",
+      "description": "路克受人神怂恿挟持爱丽儿，希露菲拒绝背叛鲁迪乌斯，爱丽儿原谅路克。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0045",
+        "E0044",
+        "E0006",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        17
+      ],
+      "evidence_lines": [
+        [
+          157914,
+          157986
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

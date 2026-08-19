@@ -1,0 +1,378 @@
+{
+  "batch_id": "V015",
+  "source_volume": 15,
+  "source_unit_ids": [
+    "U0266",
+    "U0267",
+    "U0268",
+    "U0269",
+    "U0270",
+    "U0271",
+    "U0272",
+    "U0273",
+    "U0274",
+    "U0275",
+    "U0276",
+    "U0277",
+    "U0278",
+    "U0279",
+    "U0280",
+    "U0281",
+    "U0282",
+    "U0283"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0133",
+      "name": "伊佐露缇",
+      "aliases": [
+        "水王伊佐露缇"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 15,
+      "introduced_line": 135462,
+      "description": "水神流的水王，米里斯教徒女剑士，艾莉丝在剑之圣地的训练伙伴。"
+    },
+    {
+      "entity_id": "E0134",
+      "name": "列妲",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 15,
+      "introduced_line": 135462,
+      "description": "剑之圣地的老婆婆。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，失忆后逐渐恢复。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，怀孕中。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特",
+        "菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王",
+        "艾莉丝·伯雷亚斯·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，被称为狂剑王，鲁迪乌斯的第三名妻子。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，护送艾莉丝回到鲁迪乌斯身边。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 53974,
+      "description": "世界最强的龙神，与人神为敌，鲁迪乌斯的主人。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0168",
+      "entity_id": "E0021",
+      "predicate": "身份",
+      "object_value": "剑王，被称为狂剑王",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          135340,
+          135460
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0169",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "与基列奴离开剑之圣地前往夏利亚",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          135692,
+          135794
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0170",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "与奥尔斯帝德决斗后成为其部下，共同对抗人神",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          138414,
+          138486
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0171",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "与鲁迪乌斯再会并结婚",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          139172,
+          139304
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0172",
+      "entity_id": "E0021",
+      "predicate": "擅长",
+      "object_value": "剑神流剑王，持有剑神七剑之一的凤雅龙剑",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          137874,
+          137964
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0173",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "首次开口说话，对艾莉丝说出话语",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          141468,
+          141490
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0049",
+      "source_id": "E0001",
+      "target_id": "E0021",
+      "rel_type": "夫妻",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          139172,
+          139304
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 15,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0060",
+      "owner_id": "E0001",
+      "fact_id": "F0170",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己成为奥尔斯帝德的部下。"
+    },
+    {
+      "knowledge_id": "K0061",
+      "owner_id": "E0001",
+      "fact_id": "F0171",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己与艾莉丝结婚。"
+    },
+    {
+      "knowledge_id": "K0062",
+      "owner_id": "E0001",
+      "fact_id": "F0173",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝首次开口说话。"
+    },
+    {
+      "knowledge_id": "K0063",
+      "owner_id": "E0021",
+      "fact_id": "F0172",
+      "certainty": "EXPLICIT",
+      "note": "艾莉丝知道自己拥有凤雅龙剑。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0057",
+      "title": "鲁迪加入龙神阵营",
+      "description": "鲁迪乌斯在与奥尔斯帝德的决斗后选择成为其部下，共同对抗人神。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0021",
+        "E0022",
+        "E0006",
+        "E0005"
+      ],
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          138414,
+          138486
+        ]
+      ]
+    },
+    {
+      "event_id": "T0058",
+      "title": "艾莉丝结婚",
+      "description": "艾莉丝与鲁迪乌斯决斗后求婚，成为其第三名妻子。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          139172,
+          139304
+        ]
+      ]
+    },
+    {
+      "event_id": "T0059",
+      "title": "奥尔斯帝德传唤",
+      "description": "奥尔斯帝德向鲁迪乌斯与艾莉丝说明人神与拉普拉斯之事。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        15
+      ],
+      "evidence_lines": [
+        [
+          140246,
+          140342
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

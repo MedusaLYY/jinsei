@@ -1,0 +1,593 @@
+{
+  "batch_id": "V026",
+  "source_volume": 26,
+  "source_unit_ids": [
+    "U0441",
+    "U0442",
+    "U0443",
+    "U0444",
+    "U0445",
+    "U0446",
+    "U0447",
+    "U0448",
+    "U0449",
+    "U0450"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0159",
+      "name": "莉莉·格雷拉特",
+      "aliases": [
+        "莉莉"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 26,
+      "introduced_line": 237500,
+      "description": "洛琪希与鲁迪乌斯的女儿（第五个孩子）。"
+    },
+    {
+      "entity_id": "E0166",
+      "name": "克莉丝蒂娜·格雷拉特",
+      "aliases": [
+        "克莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 26,
+      "introduced_line": 237500,
+      "description": "艾莉丝与鲁迪乌斯的女儿（第六个孩子）。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯",
+        "塞伦特·赛文斯塔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下，甲龙历407-481年在世。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，在转移迷宫为救塞妮丝战死。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，莉莉的母亲。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，陪伴鲁迪乌斯直到其临终。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，克莉丝蒂娜的母亲，在最终决战中持王龙剑消灭巴迪冈迪。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "兽族剑士，艾莉丝的剑术老师，在最终决战中参战。"
+    },
+    {
+      "entity_id": "E0029",
+      "name": "佩尔基乌斯",
+      "aliases": [
+        "佩尔基乌斯大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 23648,
+      "description": "甲龙王，设置封印巴迪冈迪的地龙谷结界。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28120,
+      "description": "斯佩路德族，鲁迪乌斯的恩人，在最终决战中参战。"
+    },
+    {
+      "entity_id": "E0032",
+      "name": "人神",
+      "aliases": [
+        "人神大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 25460,
+      "description": "操纵未来的神，鲁迪乌斯与奥尔斯帝德的敌人，在鲁迪乌斯死后谋划利用其子孙延续对抗。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡",
+        "奇希莉卡大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36776,
+      "description": "魔界大帝，巴迪冈迪的未婚妻。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人",
+        "基斯·努卡迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "人神使徒，在最终决战中战死，尸体被火化。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44820,
+      "description": "米里斯神子，在最终决战中协助治疗与结界。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神",
+        "奥尔斯帝德大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 55450,
+      "description": "龙神，为打倒人神不断轮回，在最终决战中击败身穿斗神铠的亚历山大。"
+    },
+    {
+      "entity_id": "E0110",
+      "name": "加尔·法利昂",
+      "aliases": [
+        "剑神",
+        "加尔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 12,
+      "introduced_line": 111850,
+      "description": "前剑神，在决战中被艾莉丝与瑞杰路德斩杀。"
+    },
+    {
+      "entity_id": "E0113",
+      "name": "巴迪冈迪",
+      "aliases": [
+        "不死身魔王",
+        "斗神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 82360,
+      "description": "斗神巴迪冈迪，人神使徒，被击败后封印于地龙谷结界。"
+    },
+    {
+      "entity_id": "E0129",
+      "name": "阿托菲",
+      "aliases": [
+        "不死魔王",
+        "阿托菲拉托菲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 129170,
+      "description": "魔大陆的不死魔王，与鲁迪乌斯结盟。"
+    },
+    {
+      "entity_id": "E0150",
+      "name": "蓝道夫·马利安",
+      "aliases": [
+        "死神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 21,
+      "introduced_line": 191300,
+      "description": "七大列强之一的死神，其戒指是击败冥王毕塔的关键。"
+    },
+    {
+      "entity_id": "E0160",
+      "name": "齐格哈尔德·格雷拉特",
+      "aliases": [
+        "齐格",
+        "齐格哈尔德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 23,
+      "introduced_line": 205158,
+      "description": "希露菲与鲁迪乌斯的第二个儿子。"
+    },
+    {
+      "entity_id": "E0161",
+      "name": "冥王毕塔",
+      "aliases": [
+        "毕塔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 217168,
+      "description": "天大陆迷宫地狱的黏族之王，受基斯指使散布疫病，被鲁迪乌斯以死神戒指击败。"
+    },
+    {
+      "entity_id": "E0162",
+      "name": "亚历山大·雷白克",
+      "aliases": [
+        "北神卡尔曼三世",
+        "亚历山大",
+        "亚历"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 222108,
+      "description": "北神卡尔曼三世，经基斯遗策借斗神铠残片复活，被奥尔斯帝德以神刀击败。"
+    },
+    {
+      "entity_id": "E0164",
+      "name": "香杜尔·冯·格兰道尔",
+      "aliases": [
+        "香杜尔",
+        "亚历克斯·雷白克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 151950,
+      "description": "真实身份为北神卡尔曼二世亚历克斯·雷白克，在最终决战中与巴迪冈迪决斗。"
+    },
+    {
+      "entity_id": "E0165",
+      "name": "鬼神马尔塔",
+      "aliases": [
+        "鬼神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 25,
+      "introduced_line": 225016,
+      "description": "毕黑利尔王国鬼岛的鬼神之王，最终与鲁迪乌斯阵营和解。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0203",
+      "entity_id": "E0159",
+      "predicate": "身份",
+      "object_value": "洛琪希与鲁迪乌斯的女儿（第五个孩子）",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          237500,
+          237578
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0222",
+      "entity_id": "E0113",
+      "predicate": "经历",
+      "object_value": "被艾莉丝以王龙剑消灭后再度复活，最终被封印于地龙谷结界",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        26,
+        26
+      ],
+      "evidence_lines": [
+        [
+          234644,
+          234818
+        ],
+        [
+          236360,
+          236472
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0223",
+      "entity_id": "E0057",
+      "predicate": "死亡",
+      "object_value": "在最终决战中战死，尸体被火化",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          235060,
+          235164
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0224",
+      "entity_id": "E0166",
+      "predicate": "身份",
+      "object_value": "艾莉丝与鲁迪乌斯的女儿（第六个孩子）",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          237500,
+          237578
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0225",
+      "entity_id": "E0001",
+      "predicate": "死亡",
+      "object_value": "于甲龙历481年去世，享年74岁",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          238080,
+          238160
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0226",
+      "entity_id": "E0001",
+      "predicate": "身份",
+      "object_value": "七大列强第七位",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          238080,
+          238160
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0064",
+      "source_id": "E0159",
+      "target_id": "E0005",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          237500,
+          237578
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0065",
+      "source_id": "E0166",
+      "target_id": "E0021",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          237500,
+          237578
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0104",
+      "owner_id": "E0001",
+      "fact_id": "F0222",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道巴迪冈迪被封印。"
+    },
+    {
+      "knowledge_id": "K0105",
+      "owner_id": "E0001",
+      "fact_id": "F0203",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道莉莉出生。"
+    },
+    {
+      "knowledge_id": "K0106",
+      "owner_id": "E0001",
+      "fact_id": "F0224",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道克莉丝蒂娜出生。"
+    },
+    {
+      "knowledge_id": "K0107",
+      "owner_id": "E0001",
+      "fact_id": "F0226",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己名列七大列强第七位。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0095",
+      "title": "最终决战",
+      "description": "鲁迪乌斯阵营在毕黑利尔王国与斗神巴迪冈迪及基斯展开最终决战。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0031",
+        "E0113",
+        "E0057",
+        "E0079"
+      ],
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          234048,
+          234200
+        ]
+      ]
+    },
+    {
+      "event_id": "T0096",
+      "title": "基斯之死",
+      "description": "基斯在最终决战中战死，尸体被火化。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0057",
+        "E0001",
+        "E0022"
+      ],
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          235060,
+          235164
+        ]
+      ]
+    },
+    {
+      "event_id": "T0097",
+      "title": "巴迪冈迪封印",
+      "description": "巴迪冈迪被击败后封印于地龙谷结界中。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0113",
+        "E0001",
+        "E0079",
+        "E0029"
+      ],
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          236360,
+          236472
+        ]
+      ]
+    },
+    {
+      "event_id": "T0098",
+      "title": "鲁迪乌斯之死",
+      "description": "鲁迪乌斯在家人环绕下安详离世，人神仍谋划利用其子孙延续对抗。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0005",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        26
+      ],
+      "evidence_lines": [
+        [
+          237738,
+          237850
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

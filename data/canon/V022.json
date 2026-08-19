@@ -1,0 +1,288 @@
+{
+  "batch_id": "V022",
+  "source_volume": 22,
+  "source_unit_ids": [
+    "U0378",
+    "U0379",
+    "U0380",
+    "U0381",
+    "U0382",
+    "U0383",
+    "U0384",
+    "U0385",
+    "U0386",
+    "U0387",
+    "U0388",
+    "U0389",
+    "U0390",
+    "U0391",
+    "U0392",
+    "U0393",
+    "U0394"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0157",
+      "name": "洛嘉莉",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 22,
+      "introduced_line": 202662,
+      "description": "洛琪希的母亲，米格路德族。"
+    },
+    {
+      "entity_id": "E0158",
+      "name": "洛因",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 22,
+      "introduced_line": 203066,
+      "description": "洛琪希的父亲，米格路德族。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，菈菈的母亲。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，第二胎生下齐格哈尔德。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，在涅克罗斯要塞与阿托菲交战。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "被揭示为人神使徒，聚集斯佩路德族幸存者以对抗奥尔斯帝德与鲁迪乌斯。"
+    },
+    {
+      "entity_id": "E0129",
+      "name": "阿托菲",
+      "aliases": [
+        "不死魔王",
+        "阿托菲拉托菲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 129170,
+      "description": "魔大陆的不死魔王，与鲁迪乌斯达成协议加入对抗基斯。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0204",
+      "entity_id": "E0129",
+      "predicate": "经历",
+      "object_value": "与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          202516,
+          202640
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 22,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0205",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "带鲁迪乌斯与菈菈返回米格路德族故乡",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          202662,
+          202780
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 22,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0206",
+      "entity_id": "E0057",
+      "predicate": "经历",
+      "object_value": "为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          204360,
+          204488
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 22,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0055",
+      "source_id": "E0157",
+      "target_id": "E0005",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          202782,
+          202914
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 22,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0056",
+      "source_id": "E0158",
+      "target_id": "E0005",
+      "rel_type": "父女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          203066,
+          203210
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 22,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0088",
+      "owner_id": "E0001",
+      "fact_id": "F0204",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道阿托菲加入对抗基斯。"
+    },
+    {
+      "knowledge_id": "K0090",
+      "owner_id": "E0001",
+      "fact_id": "F0205",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道洛琪希带他们返回故乡。"
+    },
+    {
+      "knowledge_id": "K0091",
+      "owner_id": "E0001",
+      "fact_id": "F0206",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道基斯聚集斯佩路德族幸存者。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0080",
+      "title": "阿托菲结盟",
+      "description": "鲁迪乌斯在涅克罗斯要塞与不死魔王阿托菲交手后达成协议。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0129",
+        "E0021",
+        "E0005"
+      ],
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          202284,
+          202402
+        ]
+      ]
+    },
+    {
+      "event_id": "T0081",
+      "title": "齐格诞生",
+      "description": "希露菲生下与鲁迪乌斯的第二个孩子（即后来的齐格哈尔德），绿发令她担忧其可能是拉普拉斯。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0006",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        22
+      ],
+      "evidence_lines": [
+        [
+          203672,
+          203792
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

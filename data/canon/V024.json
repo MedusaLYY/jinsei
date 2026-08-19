@@ -1,0 +1,505 @@
+{
+  "batch_id": "V024",
+  "source_volume": 24,
+  "source_unit_ids": [
+    "U0409",
+    "U0410",
+    "U0411",
+    "U0412",
+    "U0413",
+    "U0414",
+    "U0415",
+    "U0416",
+    "U0417",
+    "U0418",
+    "U0419",
+    "U0420",
+    "U0421",
+    "U0422",
+    "U0423",
+    "U0424"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0161",
+      "name": "冥王毕塔",
+      "aliases": [
+        "毕塔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 217168,
+      "description": "天大陆迷宫地狱的凶恶黏族之王，受基斯指使向斯佩路德族散布疫病，被鲁迪乌斯以死神戒指击败。"
+    },
+    {
+      "entity_id": "E0162",
+      "name": "亚历山大·雷白克",
+      "aliases": [
+        "北神卡尔曼三世",
+        "亚历山大"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 222108,
+      "description": "北神卡尔曼三世，与加尔·法利昂一同袭击鲁迪乌斯。"
+    },
+    {
+      "entity_id": "E0163",
+      "name": "法莉亚斯缇雅",
+      "aliases": [
+        "法莉亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 222228,
+      "description": "奥尔斯帝德事务所的柜台精灵，负责汇整世界各地的情报。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下，在桥上遭加尔·法利昂与北神袭击坠入谷底。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28120,
+      "description": "斯佩路德族，鲁迪乌斯的恩人，在毕黑利尔王国的斯佩路德族村落定居，重新加入鲁迪乌斯阵营。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，在毕黑利尔王国协助搜寻基斯。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，计划前往毕黑利尔王国支援。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，在毕黑利尔王国与洛琪希一同行动。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡",
+        "奇希莉卡大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36776,
+      "description": "魔界大帝，使用万里眼帮助鲁迪乌斯定位基斯。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人",
+        "基斯·努卡迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "人神使徒，指使冥王毕塔散布疫病并伏击鲁迪乌斯。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44820,
+      "description": "米里斯神子，查明斯佩路德族疫病源于食物并治愈。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神",
+        "奥尔斯帝德大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 55450,
+      "description": "龙神，为打倒人神不断轮回，鲁迪乌斯的上司。"
+    },
+    {
+      "entity_id": "E0110",
+      "name": "加尔·法利昂",
+      "aliases": [
+        "剑神",
+        "加尔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 12,
+      "introduced_line": 111850,
+      "description": "前剑神，加入基斯阵营，与亚历山大一同袭击鲁迪乌斯。"
+    },
+    {
+      "entity_id": "E0113",
+      "name": "巴迪冈迪",
+      "aliases": [
+        "不死身魔王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 82360,
+      "description": "不死身的魔王，阿托菲的弟弟，被基斯招募。"
+    },
+    {
+      "entity_id": "E0129",
+      "name": "阿托菲",
+      "aliases": [
+        "不死魔王",
+        "阿托菲拉托菲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 129170,
+      "description": "魔大陆的不死魔王，与鲁迪乌斯结盟。"
+    },
+    {
+      "entity_id": "E0150",
+      "name": "蓝道夫·马利安",
+      "aliases": [
+        "死神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 21,
+      "introduced_line": 191300,
+      "description": "七大列强之一的死神，其戒指是击败冥王毕塔的关键。"
+    },
+    {
+      "entity_id": "E0160",
+      "name": "齐格哈尔德·格雷拉特",
+      "aliases": [
+        "齐格",
+        "齐格哈尔德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 23,
+      "introduced_line": 205158,
+      "description": "希露菲与鲁迪乌斯的第二个儿子。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0212",
+      "entity_id": "E0031",
+      "predicate": "经历",
+      "object_value": "在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          217042,
+          217164
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0213",
+      "entity_id": "E0161",
+      "predicate": "经历",
+      "object_value": "受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          220646,
+          220772
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0214",
+      "entity_id": "E0161",
+      "predicate": "经历",
+      "object_value": "被鲁迪乌斯以死神戒指击败",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          218378,
+          218488
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0215",
+      "entity_id": "E0162",
+      "predicate": "经历",
+      "object_value": "与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          222108,
+          222218
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0216",
+      "entity_id": "E0110",
+      "predicate": "经历",
+      "object_value": "加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          222108,
+          222218
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0060",
+      "source_id": "E0162",
+      "target_id": "E0110",
+      "rel_type": "盟友",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          222108,
+          222218
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0061",
+      "source_id": "E0161",
+      "target_id": "E0057",
+      "rel_type": "从属",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          220646,
+          220772
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 24,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0096",
+      "owner_id": "E0001",
+      "fact_id": "F0212",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道瑞杰路德重新加入阵营。"
+    },
+    {
+      "knowledge_id": "K0097",
+      "owner_id": "E0001",
+      "fact_id": "F0214",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己以死神戒指击败毕塔。"
+    },
+    {
+      "knowledge_id": "K0098",
+      "owner_id": "E0001",
+      "fact_id": "F0215",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道亚历山大与加尔袭击自己。"
+    },
+    {
+      "knowledge_id": "K0099",
+      "owner_id": "E0001",
+      "fact_id": "F0216",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道加尔·法利昂加入基斯阵营。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0086",
+      "title": "瑞杰路德重逢",
+      "description": "鲁迪乌斯在斯佩路德族村落与瑞杰路德重逢。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0031"
+      ],
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          216384,
+          216506
+        ]
+      ]
+    },
+    {
+      "event_id": "T0087",
+      "title": "冥王毕塔之死",
+      "description": "冥王毕塔借操纵瑞杰路德转移入鲁迪乌斯体内，被死神戒指击败。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0161",
+        "E0031"
+      ],
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          218378,
+          218488
+        ]
+      ]
+    },
+    {
+      "event_id": "T0088",
+      "title": "斯佩路德族疫病治愈",
+      "description": "克里夫查明斯佩路德族疫病源于食物与饮水并治愈全族。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0065",
+        "E0031",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          219488,
+          219604
+        ]
+      ]
+    },
+    {
+      "event_id": "T0089",
+      "title": "桥上的袭击",
+      "description": "加尔·法利昂与北神卡尔曼三世在斯佩路德村外的桥上袭击鲁迪乌斯，将其打入谷底。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0110",
+        "E0162"
+      ],
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          222108,
+          222218
+        ]
+      ]
+    },
+    {
+      "event_id": "T0090",
+      "title": "转移魔法阵失效",
+      "description": "鲁迪乌斯设置的所有转移魔法阵与通讯石板停止运作，鲁迪乌斯下落不明。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001"
+      ],
+      "evidence_volumes": [
+        24
+      ],
+      "evidence_lines": [
+        [
+          222336,
+          222436
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

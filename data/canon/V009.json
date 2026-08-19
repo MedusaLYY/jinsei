@@ -1,0 +1,624 @@
+{
+  "batch_id": "V009",
+  "source_volume": 9,
+  "source_unit_ids": [
+    "U0153",
+    "U0154",
+    "U0155",
+    "U0156",
+    "U0157",
+    "U0158",
+    "U0159",
+    "U0160",
+    "U0161",
+    "U0162",
+    "U0163",
+    "U0164",
+    "U0165",
+    "U0166",
+    "U0167",
+    "U0168",
+    "U0169",
+    "U0170",
+    "U0171",
+    "U0172",
+    "U0173",
+    "U0174"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0108",
+      "name": "七星",
+      "aliases": [
+        "白色面具的少女"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 80626,
+      "description": "来自鲁迪乌斯前世的穿越者，与奥尔斯帝德同行寻找归途。"
+    },
+    {
+      "entity_id": "E0109",
+      "name": "冰雹森林",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 9,
+      "introduced_line": 83676,
+      "description": "魔法都市夏利亚北方约三天路程的森林，会定期降下冰雹。"
+    },
+    {
+      "entity_id": "E0110",
+      "name": "加尔·法利昂",
+      "aliases": [
+        "剑神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 86100,
+      "description": "剑神流的剑神，剑之圣地的主人，基列奴的师父。"
+    },
+    {
+      "entity_id": "E0111",
+      "name": "妮娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 86212,
+      "description": "剑之圣地的天才剑士，艾莉丝在圣地的主要对手。"
+    },
+    {
+      "entity_id": "E0112",
+      "name": "吉诺",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 86212,
+      "description": "剑之圣地的天才剑士。"
+    },
+    {
+      "entity_id": "E0113",
+      "name": "巴迪冈迪",
+      "aliases": [
+        "魔王巴迪冈迪"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 78974,
+      "description": "不死身的魔王，奇希莉卡的未婚夫，拉普拉斯战役前就存在的古老魔王。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露弗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯在布埃纳村结识的青梅竹马，翠绿色头发的长耳族少女。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特",
+        "狂犬艾莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，泰德鲁帝亚族兽族。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡",
+        "魔界大帝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 22118,
+      "description": "魔大陆东北区域的魔界大帝，能赐予他人魔眼。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主",
+        "爱丽儿会长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拉诺亚魔法大学学生会长。"
+    },
+    {
+      "entity_id": "E0061",
+      "name": "菲兹",
+      "aliases": [
+        "沉默的菲兹",
+        "菲兹学长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37792,
+      "description": "爱丽儿的护卫，真实身分为女扮男装的希露菲叶特。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙的天才魔术师，魔法大学特别生。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神",
+        "七星的主人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 53974,
+      "description": "世界最强的龙神，身负被万物畏惧的诅咒。"
+    },
+    {
+      "entity_id": "E0104",
+      "name": "艾莉娜丽洁·杜拉冈罗德",
+      "aliases": [
+        "艾莉娜丽洁"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 69808,
+      "description": "长耳族的冒险者，与鲁迪乌斯一同入学魔法大学。"
+    },
+    {
+      "entity_id": "E0107",
+      "name": "塞伦特",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 72734,
+      "description": "魔法大学的特别生，专门研究召唤魔术。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0122",
+      "entity_id": "E0061",
+      "predicate": "身份",
+      "object_value": "真实身分为希露菲叶特，女扮男装",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          84180,
+          84306
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0123",
+      "entity_id": "E0061",
+      "predicate": "经历",
+      "object_value": "与鲁迪乌斯重逢并成为恋人",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          84660,
+          84766
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0124",
+      "entity_id": "E0108",
+      "predicate": "身份",
+      "object_value": "来自鲁迪乌斯前世的穿越者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          80626,
+          80704
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0125",
+      "entity_id": "E0108",
+      "predicate": "经历",
+      "object_value": "与奥尔斯帝德同行寻找返回原本世界的方法",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          80626,
+          80704
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0126",
+      "entity_id": "E0107",
+      "predicate": "身份",
+      "object_value": "魔法大学中专研召唤魔术的特别生",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          80204,
+          80298
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0127",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "在剑之圣地修行两年并获得剑圣称号",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          86328,
+          86436
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0128",
+      "entity_id": "E0113",
+      "predicate": "身份",
+      "object_value": "不死身的魔王，奇希莉卡的未婚夫",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          79060,
+          79152
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0129",
+      "entity_id": "E0113",
+      "predicate": "经历",
+      "object_value": "与鲁迪乌斯决斗后承认其为勇者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          79500,
+          79618
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0130",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "被巴迪冈迪指出拥有世界最高水准的魔力总量",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          79254,
+          79370
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0131",
+      "entity_id": "E0111",
+      "predicate": "经历",
+      "object_value": "成为艾莉丝在剑之圣地的对手",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          86728,
+          86732
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0039",
+      "source_id": "E0001",
+      "target_id": "E0061",
+      "rel_type": "恋人",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          84660,
+          84766
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0040",
+      "source_id": "E0065",
+      "target_id": "E0104",
+      "rel_type": "恋人",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          78278,
+          78394
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0041",
+      "source_id": "E0108",
+      "target_id": "E0079",
+      "rel_type": "同伴",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          80626,
+          80704
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0042",
+      "source_id": "E0113",
+      "target_id": "E0043",
+      "rel_type": "未婚夫妻",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          79154,
+          79252
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 9,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0036",
+      "owner_id": "E0001",
+      "fact_id": "F0122",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道菲兹的真实身分是希露菲叶特。"
+    },
+    {
+      "knowledge_id": "K0037",
+      "owner_id": "E0001",
+      "fact_id": "F0130",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己拥有世界最高水准的魔力总量。"
+    },
+    {
+      "knowledge_id": "K0038",
+      "owner_id": "E0061",
+      "fact_id": "F0123",
+      "certainty": "EXPLICIT",
+      "note": "希露菲知道自己与鲁迪乌斯开始交往。"
+    },
+    {
+      "knowledge_id": "K0039",
+      "owner_id": "E0108",
+      "fact_id": "F0124",
+      "certainty": "EXPLICIT",
+      "note": "七星知道自己来自鲁迪乌斯前世的世界。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0033",
+      "title": "魔王巴迪冈迪决斗",
+      "description": "魔王巴迪冈迪为确认奇希莉卡赞不绝口的对象而向鲁迪乌斯发起决斗，鲁迪乌斯获胜。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0113"
+      ],
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          79500,
+          79618
+        ]
+      ]
+    },
+    {
+      "event_id": "T0034",
+      "title": "森林之雨作战",
+      "description": "爱丽儿策划的作战：希露菲以菲兹身分与鲁迪乌斯进入冰雹森林摘取冰冻薰衣草，借大雨共处洞窟。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0061",
+        "E0044"
+      ],
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          83942,
+          84054
+        ]
+      ]
+    },
+    {
+      "event_id": "T0035",
+      "title": "菲兹真实身分揭示",
+      "description": "希露菲在冰雹森林的洞窟中向鲁迪乌斯表明真实身分，两人互通心意。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0061"
+      ],
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          84180,
+          84306
+        ]
+      ]
+    },
+    {
+      "event_id": "T0036",
+      "title": "剑圣认定",
+      "description": "艾莉丝在剑之圣地获得剑神加尔·法利昂认可成为剑圣，并成为其直属弟子。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0021",
+        "E0022",
+        "E0110"
+      ],
+      "evidence_volumes": [
+        9
+      ],
+      "evidence_lines": [
+        [
+          86328,
+          86436
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

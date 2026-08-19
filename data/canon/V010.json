@@ -1,0 +1,714 @@
+{
+  "batch_id": "V010",
+  "source_volume": 10,
+  "source_unit_ids": [
+    "U0175",
+    "U0176",
+    "U0177",
+    "U0178",
+    "U0179",
+    "U0180",
+    "U0181",
+    "U0182",
+    "U0183",
+    "U0184",
+    "U0185",
+    "U0186",
+    "U0187",
+    "U0188",
+    "U0189",
+    "U0190",
+    "U0191",
+    "U0192",
+    "U0193"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0114",
+      "name": "巴尔达",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 10,
+      "introduced_line": 89850,
+      "description": "修整鲁迪乌斯宅的工匠。"
+    },
+    {
+      "entity_id": "E0115",
+      "name": "奥贝尔",
+      "aliases": [
+        "北帝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 10,
+      "introduced_line": 95838,
+      "description": "北神流的北帝，造访剑之圣地的剑士。"
+    },
+    {
+      "entity_id": "E0116",
+      "name": "迷宫都市拉庞",
+      "aliases": [
+        "拉庞"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 10,
+      "introduced_line": 96076,
+      "description": "贝卡利特大陆的迷宫都市，塞妮丝被确认的所在地。"
+    },
+    {
+      "entity_id": "E0117",
+      "name": "雪拉",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 10,
+      "introduced_line": 93186,
+      "description": "保罗搜索团的团员，雀斑的内向魔术师。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，前往贝卡利特大陆寻找塞妮丝。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，被确认身在贝卡利特大陆。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，保罗之妻。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的魔术老师，与保罗一同前往贝卡利特大陆。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与妻子，原绿发长耳族少女。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，鲁迪乌斯的妹妹。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁迪乌斯的妹妹，天才少女。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·格雷拉特",
+        "狂犬艾莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发的剑士，在剑之圣地修行。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，泰德鲁帝亚族兽族。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德",
+        "Dead End"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19984,
+      "description": "斯佩路德族战士，护送诺伦与爱夏前往鲁迪乌斯处。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主",
+        "爱丽儿会长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拉诺亚魔法大学学生会长。"
+    },
+    {
+      "entity_id": "E0045",
+      "name": "路克·诺托斯·格雷拉特",
+      "aliases": [
+        "路克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "爱丽儿的护卫骑士。"
+    },
+    {
+      "entity_id": "E0061",
+      "name": "菲兹",
+      "aliases": [
+        "沉默的菲兹",
+        "菲兹学长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37792,
+      "description": "爱丽儿的护卫，真实身分为女扮男装的希露菲叶特。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙的天才魔术师。"
+    },
+    {
+      "entity_id": "E0080",
+      "name": "札诺巴",
+      "aliases": [
+        "札诺巴·西隆"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52380,
+      "description": "西隆王国第三王子，鲁迪乌斯的弟子与朋友。"
+    },
+    {
+      "entity_id": "E0098",
+      "name": "莉妮亚",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的魔法大学学生。"
+    },
+    {
+      "entity_id": "E0099",
+      "name": "普露塞娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的魔法大学学生。"
+    },
+    {
+      "entity_id": "E0104",
+      "name": "艾莉娜丽洁·杜拉冈罗德",
+      "aliases": [
+        "艾莉娜丽洁"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 69808,
+      "description": "长耳族的冒险者，希露菲的祖母。"
+    },
+    {
+      "entity_id": "E0106",
+      "name": "茱丽叶特",
+      "aliases": [
+        "茱丽"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 73696,
+      "description": "矿坑族的少女，札诺巴的弟子。"
+    },
+    {
+      "entity_id": "E0108",
+      "name": "七星",
+      "aliases": [
+        "白色面具的少女"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 80626,
+      "description": "来自鲁迪乌斯前世的穿越者，进行转移魔法阵研究。"
+    },
+    {
+      "entity_id": "E0110",
+      "name": "加尔·法利昂",
+      "aliases": [
+        "剑神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 86100,
+      "description": "剑神流的剑神，剑之圣地的主人。"
+    },
+    {
+      "entity_id": "E0113",
+      "name": "巴迪冈迪",
+      "aliases": [
+        "魔王巴迪冈迪"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 78974,
+      "description": "不死身的魔王，奇希莉卡的未婚夫。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0132",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "与希露菲结婚",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          88100,
+          88204
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0133",
+      "entity_id": "E0061",
+      "predicate": "经历",
+      "object_value": "恢复女性身分，不再女扮男装",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          88100,
+          88204
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0134",
+      "entity_id": "E0104",
+      "predicate": "身份",
+      "object_value": "希露菲的祖母",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          92556,
+          92672
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0135",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "身在贝卡利特大陆的迷宫都市拉庞",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          96076,
+          96170
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0136",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "与爱夏一同被送到鲁迪乌斯身边",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          94782,
+          94894
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0137",
+      "entity_id": "E0008",
+      "predicate": "经历",
+      "object_value": "与诺伦一同被送到鲁迪乌斯身边",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          94782,
+          94894
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0138",
+      "entity_id": "E0031",
+      "predicate": "经历",
+      "object_value": "自愿担任诺伦与爱夏的护卫",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          95010,
+          95132
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0139",
+      "entity_id": "E0108",
+      "predicate": "经历",
+      "object_value": "转移实验失败后情绪失控",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          93814,
+          93942
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0140",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "在剑之圣地修行并获得北圣认可",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          95980,
+          96072
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0141",
+      "entity_id": "E0115",
+      "predicate": "身份",
+      "object_value": "北神流的北帝",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          95980,
+          96072
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0043",
+      "source_id": "E0001",
+      "target_id": "E0006",
+      "rel_type": "夫妻",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          91580,
+          91692
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0044",
+      "source_id": "E0104",
+      "target_id": "E0006",
+      "rel_type": "祖孙",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          92556,
+          92672
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 10,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0040",
+      "owner_id": "E0001",
+      "fact_id": "F0135",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝在贝卡利特大陆的迷宫都市拉庞。"
+    },
+    {
+      "knowledge_id": "K0041",
+      "owner_id": "E0001",
+      "fact_id": "F0138",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道瑞杰路德护送妹妹们前来。"
+    },
+    {
+      "knowledge_id": "K0042",
+      "owner_id": "E0001",
+      "fact_id": "F0134",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道艾莉娜丽洁是希露菲的祖母。"
+    },
+    {
+      "knowledge_id": "K0043",
+      "owner_id": "E0006",
+      "fact_id": "F0132",
+      "certainty": "EXPLICIT",
+      "note": "希露菲知道自己与鲁迪乌斯结婚。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0037",
+      "title": "婚宴",
+      "description": "鲁迪乌斯与希露菲在鲁迪乌斯宅举办婚宴，魔王巴迪冈迪、爱丽儿一行等宾客出席。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0044",
+        "E0113",
+        "E0080",
+        "E0104",
+        "E0065"
+      ],
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          91238,
+          91348
+        ]
+      ]
+    },
+    {
+      "event_id": "T0038",
+      "title": "路克决斗",
+      "description": "路克在爱丽儿见证下与鲁迪乌斯决斗以确认其实力，鲁迪乌斯一招取胜。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0045",
+        "E0001",
+        "E0044"
+      ],
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          92218,
+          92356
+        ]
+      ]
+    },
+    {
+      "event_id": "T0039",
+      "title": "七星实验失败",
+      "description": "七星在魔法大学进行的转移召唤实验失败，引发骚动。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0108",
+        "E0001",
+        "E0061"
+      ],
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          93586,
+          93682
+        ]
+      ]
+    },
+    {
+      "event_id": "T0040",
+      "title": "妹妹们到来",
+      "description": "瑞杰路德护送诺伦与爱夏抵达鲁迪乌斯家。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0007",
+        "E0008",
+        "E0031",
+        "E0001",
+        "E0006"
+      ],
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          94782,
+          94894
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0011",
+      "character_id": "E0001",
+      "name": "婚后生活期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "与希露菲结婚后在魔法都市夏利亚的婚后生活。",
+      "evidence_volumes": [
+        10
+      ],
+      "evidence_lines": [
+        [
+          92702,
+          92786
+        ]
+      ]
+    }
+  ]
+}

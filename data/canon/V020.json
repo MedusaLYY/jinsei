@@ -1,0 +1,304 @@
+{
+  "batch_id": "V020",
+  "source_volume": 20,
+  "source_unit_ids": [
+    "U0348",
+    "U0349",
+    "U0350",
+    "U0351",
+    "U0352",
+    "U0353",
+    "U0354",
+    "U0355",
+    "U0356",
+    "U0357",
+    "U0358",
+    "U0359",
+    "U0360",
+    "U0361",
+    "U0362",
+    "U0363",
+    "U0364"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，魔法大学教师。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [
+        "诺伦·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，魔法大学学生会会长，满十五岁。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，家中女仆，鲁德佣兵团的智囊，满十五岁。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿女王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国女王，完成加冕仪式。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙，决定加入奥尔斯帝德阵营。"
+    },
+    {
+      "entity_id": "E0080",
+      "name": "札诺巴",
+      "aliases": [
+        "札诺巴·西隆"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52380,
+      "description": "西隆王国第三王子，鲁迪乌斯的弟子，设立札诺巴商行。"
+    },
+    {
+      "entity_id": "E0106",
+      "name": "茱丽叶特",
+      "aliases": [
+        "茱丽"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 73696,
+      "description": "矿坑族的少女，出色的人偶师。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0195",
+      "entity_id": "E0044",
+      "predicate": "经历",
+      "object_value": "完成加冕仪式，正式成为阿斯拉女王",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        20
+      ],
+      "evidence_lines": [
+        [
+          181540,
+          181666
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 20,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0196",
+      "entity_id": "E0065",
+      "predicate": "经历",
+      "object_value": "决定加入奥尔斯帝德阵营，在米里斯教团中出人头地",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        20
+      ],
+      "evidence_lines": [
+        [
+          181022,
+          181136
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 20,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0197",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "满十五岁并举办成人式",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        20
+      ],
+      "evidence_lines": [
+        [
+          182020,
+          182136
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 20,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0198",
+      "entity_id": "E0008",
+      "predicate": "经历",
+      "object_value": "满十五岁并举办成人式",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        20
+      ],
+      "evidence_lines": [
+        [
+          182020,
+          182136
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 20,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [],
+  "knowledge": [
+    {
+      "knowledge_id": "K0080",
+      "owner_id": "E0001",
+      "fact_id": "F0195",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道爱丽儿成为阿斯拉女王。"
+    },
+    {
+      "knowledge_id": "K0081",
+      "owner_id": "E0001",
+      "fact_id": "F0196",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道克里夫加入奥尔斯帝德阵营。"
+    },
+    {
+      "knowledge_id": "K0082",
+      "owner_id": "E0007",
+      "fact_id": "F0197",
+      "certainty": "EXPLICIT",
+      "note": "诺伦知道自己满十五岁。"
+    },
+    {
+      "knowledge_id": "K0083",
+      "owner_id": "E0008",
+      "fact_id": "F0198",
+      "certainty": "EXPLICIT",
+      "note": "爱夏知道自己满十五岁。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0075",
+      "title": "爱丽儿加冕",
+      "description": "爱丽儿完成加冕仪式，正式成为阿斯拉女王。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0044",
+        "E0001",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        20
+      ],
+      "evidence_lines": [
+        [
+          181540,
+          181666
+        ]
+      ]
+    },
+    {
+      "event_id": "T0076",
+      "title": "诺伦爱夏成人式",
+      "description": "诺伦与爱夏满十五岁，家人为其举办成人式庆祝。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0007",
+        "E0008",
+        "E0001",
+        "E0006",
+        "E0005",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        20
+      ],
+      "evidence_lines": [
+        [
+          182020,
+          182136
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

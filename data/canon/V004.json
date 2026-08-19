@@ -1,0 +1,744 @@
+{
+  "batch_id": "V004",
+  "source_volume": 4,
+  "source_unit_ids": [
+    "U0063",
+    "U0064",
+    "U0065",
+    "U0066",
+    "U0067",
+    "U0068",
+    "U0069",
+    "U0070",
+    "U0071",
+    "U0072",
+    "U0073",
+    "U0074",
+    "U0075",
+    "U0076",
+    "U0077",
+    "U0078",
+    "U0079"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0049",
+      "name": "温恩港",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 4,
+      "introduced_line": 29936,
+      "description": "魔大陆东北部的港都，与米里斯大陆隔海相望。"
+    },
+    {
+      "entity_id": "E0050",
+      "name": "赞特港",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 4,
+      "introduced_line": 33156,
+      "description": "米里斯大陆北端的港口城镇。"
+    },
+    {
+      "entity_id": "E0051",
+      "name": "米里斯大陆",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 4,
+      "introduced_line": 33156,
+      "description": "米里斯神圣国所在的大陆，以人族为主的居住地。"
+    },
+    {
+      "entity_id": "E0052",
+      "name": "贾尔斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 33466,
+      "description": "帮助走私瑞杰路德并提出委托的走私组织成员。"
+    },
+    {
+      "entity_id": "E0053",
+      "name": "裘斯塔夫·泰德路迪亚",
+      "aliases": [
+        "裘斯塔夫",
+        "老战士"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 34520,
+      "description": "德路迪亚族的老战士，基列奴的兄长。"
+    },
+    {
+      "entity_id": "E0054",
+      "name": "裘耶斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36174,
+      "description": "德路迪亚族的战士长。"
+    },
+    {
+      "entity_id": "E0055",
+      "name": "蜜妮托娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36508,
+      "description": "德路迪亚村的少女，与艾莉丝成为朋友。"
+    },
+    {
+      "entity_id": "E0056",
+      "name": "提露塞娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36508,
+      "description": "德路迪亚村的少女，与艾莉丝成为朋友。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "喜欢赌博的轻佻新人冒险者，曾受瑞杰路德救命之恩而随行。"
+    },
+    {
+      "entity_id": "E0058",
+      "name": "圣兽",
+      "aliases": [
+        "圣兽大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 35962,
+      "description": "德路迪亚族守护神，被鲁迪乌斯从走私组织手中救出。"
+    },
+    {
+      "entity_id": "E0059",
+      "name": "大森林",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 4,
+      "introduced_line": 33282,
+      "description": "米里斯大陆的森林地区，有持续约三个月雨季的特有天候。"
+    },
+    {
+      "entity_id": "E0060",
+      "name": "圣剑大道",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 4,
+      "introduced_line": 37080,
+      "description": "圣米里斯开拓出的大道，残留其魔力，通往米里斯神圣国首都。"
+    },
+    {
+      "entity_id": "E0061",
+      "name": "菲兹",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37792,
+      "description": "转移事件当天出现在阿斯拉王宫的守护术师，出身菲托亚领地。"
+    },
+    {
+      "entity_id": "E0062",
+      "name": "圣米里斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37332,
+      "description": "米里斯教团的开山祖师，以剑开拓圣剑大道。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "受聘担任鲁迪乌斯家庭教师的水圣级魔术师，米格路德族魔族。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特",
+        "狂犬艾莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德",
+        "Dead End",
+        "看门犬瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19984,
+      "description": "斯佩路德族战士团团长，护送鲁迪乌斯与艾莉丝回国的战士。"
+    },
+    {
+      "entity_id": "E0032",
+      "name": "人神",
+      "aliases": [
+        "Hitogami",
+        "马赛克神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19754,
+      "description": "自称神的谜之存在，能通过梦境与人对话并提供建议。"
+    },
+    {
+      "entity_id": "E0042",
+      "name": "魔神拉普拉斯",
+      "aliases": [
+        "拉普拉斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 20206,
+      "description": "统一魔族的魔神，五百年前发动拉普拉斯战役，现遭封印。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡",
+        "魔界大帝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 22118,
+      "description": "魔大陆东北区域的魔界大帝，能赐予他人魔眼。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拥有超凡魅力的绝世美女。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0065",
+      "entity_id": "E0001",
+      "predicate": "年纪",
+      "object_value": "十一岁",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          29936,
+          30038
+        ]
+      ],
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0066",
+      "entity_id": "E0001",
+      "predicate": "擅长",
+      "object_value": "预知眼魔眼",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          30972,
+          31070
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0067",
+      "entity_id": "E0043",
+      "predicate": "身份",
+      "object_value": "魔界大帝，复活的不死身魔帝",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          30864,
+          30970
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0068",
+      "entity_id": "E0043",
+      "predicate": "能力",
+      "object_value": "能把他人的眼睛变成魔眼",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          31180,
+          31298
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0069",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "首次在近身战中不靠魔术打赢艾莉丝",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          31396,
+          31520
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0070",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "在瑞杰路德特训下曾赢得一场胜利",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          31642,
+          31752
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0071",
+      "entity_id": "E0057",
+      "predicate": "经历",
+      "object_value": "曾受瑞杰路德救命之恩而随行",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          37216,
+          37330
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0072",
+      "entity_id": "E0061",
+      "predicate": "身份",
+      "object_value": "转移事件当天出现在阿斯拉王宫的守护术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          38326,
+          38432
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0073",
+      "entity_id": "E0061",
+      "predicate": "经历",
+      "object_value": "出身菲托亚领地，转移事件后一家离散",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          38326,
+          38432
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0074",
+      "entity_id": "E0042",
+      "predicate": "经历",
+      "object_value": "遭到封印而未死亡",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          37568,
+          37702
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0075",
+      "entity_id": "E0058",
+      "predicate": "身份",
+      "object_value": "德路迪亚族的守护神圣兽",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          35962,
+          36082
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0076",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "为寻找鲁迪乌斯一行人抵达魔大陆",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          32060,
+          32134
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0077",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "曾任西隆王国宫廷魔术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          32136,
+          32220
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0078",
+      "entity_id": "E0021",
+      "predicate": "擅长",
+      "object_value": "流利的魔神语",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          29936,
+          30038
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0026",
+      "source_id": "E0031",
+      "target_id": "E0057",
+      "rel_type": "救命恩人",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          37216,
+          37330
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0027",
+      "source_id": "E0061",
+      "target_id": "E0044",
+      "rel_type": "主从",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          38326,
+          38432
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 4,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0017",
+      "owner_id": "E0001",
+      "fact_id": "F0066",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己拥有预知眼魔眼。"
+    },
+    {
+      "knowledge_id": "K0018",
+      "owner_id": "E0001",
+      "fact_id": "F0067",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道奇希莉卡是魔界大帝。"
+    },
+    {
+      "knowledge_id": "K0019",
+      "owner_id": "E0001",
+      "fact_id": "F0068",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道奇希莉卡能赐予魔眼。"
+    },
+    {
+      "knowledge_id": "K0020",
+      "owner_id": "E0057",
+      "fact_id": "F0071",
+      "certainty": "EXPLICIT",
+      "note": "基斯知道自己曾受瑞杰路德救命之恩。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0013",
+      "title": "魔眼获得",
+      "description": "鲁迪乌斯依人神建议在温恩港小巷与魔界大帝奇希莉卡相遇，获赠预知眼魔眼。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0043",
+        "E0032"
+      ],
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          30972,
+          31070
+        ]
+      ]
+    },
+    {
+      "event_id": "T0014",
+      "title": "渡海抵达米里斯大陆",
+      "description": "三人利用走私组织乘船从魔大陆渡海，抵达米里斯大陆北端的赞特港。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0031"
+      ],
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          33156,
+          33278
+        ]
+      ]
+    },
+    {
+      "event_id": "T0015",
+      "title": "解救兽族孩童",
+      "description": "瑞杰路德歼灭走私组织的奴隶贩子，救出被绑架的德路迪亚族孩子们。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0031",
+        "E0001",
+        "E0053",
+        "E0054"
+      ],
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          33762,
+          33856
+        ]
+      ]
+    },
+    {
+      "event_id": "T0016",
+      "title": "德路迪亚村防卫",
+      "description": "鲁迪乌斯与瑞杰路德协助德路迪亚村猎杀入侵的魔物。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0031",
+        "E0054"
+      ],
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          36508,
+          36604
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0005",
+      "character_id": "E0001",
+      "name": "米里斯大陆之旅",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "离开魔大陆后沿圣剑大道前往米里斯神圣国首都。",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          33156,
+          33278
+        ]
+      ]
+    },
+    {
+      "phase_id": "P0006",
+      "character_id": "E0021",
+      "name": "米里斯大陆之旅",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "离开魔大陆后沿圣剑大道前往米里斯神圣国首都。",
+      "evidence_volumes": [
+        4
+      ],
+      "evidence_lines": [
+        [
+          33156,
+          33278
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "batch_id": "V003",
+  "source_volume": 3,
+  "source_unit_ids": [
+    "U0040",
+    "U0041",
+    "U0042",
+    "U0043",
+    "U0044",
+    "U0045",
+    "U0046",
+    "U0047",
+    "U0048",
+    "U0049",
+    "U0050",
+    "U0051",
+    "U0052",
+    "U0053",
+    "U0054",
+    "U0055",
+    "U0056",
+    "U0057",
+    "U0058",
+    "U0059",
+    "U0060",
+    "U0061",
+    "U0062"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德",
+        "Dead End",
+        "瑞杰路德先生"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19984,
+      "description": "斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。"
+    },
+    {
+      "entity_id": "E0032",
+      "name": "人神",
+      "aliases": [
+        "Hitogami",
+        "马赛克神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19754,
+      "description": "自称神的谜之存在，能通过梦境与人对话并提供建议。"
+    },
+    {
+      "entity_id": "E0033",
+      "name": "洛克斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 20822,
+      "description": "米格路德族聚落的村长。"
+    },
+    {
+      "entity_id": "E0034",
+      "name": "洛因",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 20570,
+      "description": "米格路德族聚落的年轻警卫。"
+    },
+    {
+      "entity_id": "E0035",
+      "name": "诺克巴拉",
+      "aliases": [
+        "马面男"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 25398,
+      "description": "利卡里斯镇的冒险者，勒索Dead End队伍。"
+    },
+    {
+      "entity_id": "E0036",
+      "name": "威丝凯尔",
+      "aliases": [
+        "蜥蜴男"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 25514,
+      "description": "利卡里斯镇的下承包冒险者。"
+    },
+    {
+      "entity_id": "E0037",
+      "name": "贾利尔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 25514,
+      "description": "路格尼亚族宠物店经营者，擅长驯服动物，与Dead End合作。"
+    },
+    {
+      "entity_id": "E0038",
+      "name": "库尔特",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 26196,
+      "description": "利卡里斯镇的年轻冒险者，经历魔物袭击后为瑞杰路德散播好评。"
+    },
+    {
+      "entity_id": "E0039",
+      "name": "魔大陆",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 3,
+      "introduced_line": 19882,
+      "description": "人魔大战中被扯裂的大陆，魔神拉普拉斯曾统整的魔族领域。"
+    },
+    {
+      "entity_id": "E0040",
+      "name": "利卡里斯镇",
+      "aliases": [
+        "旧奇希里斯城"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 3,
+      "introduced_line": 22664,
+      "description": "魔大陆东北方的城镇，有冒险者公会，由魔王巴迪冈迪管辖。"
+    },
+    {
+      "entity_id": "E0041",
+      "name": "奇希里斯城",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 3,
+      "introduced_line": 22118,
+      "description": "魔界大帝奇希莉卡·奇希里斯曾经的根据地，在拉普拉斯战役中半毁。"
+    },
+    {
+      "entity_id": "E0042",
+      "name": "魔神拉普拉斯",
+      "aliases": [
+        "拉普拉斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 20206,
+      "description": "统一魔族的魔神，五百年前发动拉普拉斯战役，阴谋陷害斯佩路德族。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 22118,
+      "description": "魔大陆东北区域的魔界大帝，奇希里斯城的主人。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拥有超凡魅力的绝世美女。"
+    },
+    {
+      "entity_id": "E0045",
+      "name": "路克·诺托斯·格雷拉特",
+      "aliases": [
+        "路克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "四大领地格雷拉特家次男，爱丽儿的护卫骑士，剑神流中级。"
+    },
+    {
+      "entity_id": "E0046",
+      "name": "迪利克·雷特巴特",
+      "aliases": [
+        "迪利克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "爱丽儿的守护术师，阿斯拉魔法学院毕业的上级魔术师。"
+    },
+    {
+      "entity_id": "E0047",
+      "name": "亚尔斯",
+      "aliases": [
+        "王都亚尔斯"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国的王都，世界上人口最多最巨大的都城。"
+    },
+    {
+      "entity_id": "E0048",
+      "name": "银之宫",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国王城，世界上最大最美的白色宫殿。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，泰德鲁帝亚族兽族，鲁迪乌斯的第二位师父。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0043",
+      "entity_id": "E0031",
+      "predicate": "身份",
+      "object_value": "斯佩路德族",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          20090,
+          20204
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0044",
+      "entity_id": "E0031",
+      "predicate": "身份",
+      "object_value": "斯佩路德族战士团团长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          21270,
+          21362
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0045",
+      "entity_id": "E0031",
+      "predicate": "经历",
+      "object_value": "拉普拉斯阴谋下被迫杀死家人",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          21364,
+          21442
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0046",
+      "entity_id": "E0031",
+      "predicate": "经历",
+      "object_value": "成功向拉普拉斯复仇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          21364,
+          21442
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0047",
+      "entity_id": "E0031",
+      "predicate": "经历",
+      "object_value": "被称作Dead End的凶暴斯佩路德族",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          24118,
+          24208
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0048",
+      "entity_id": "E0031",
+      "predicate": "擅长",
+      "object_value": "额头宝石具备雷达机能",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          20570,
+          20684
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0049",
+      "entity_id": "E0032",
+      "predicate": "身份",
+      "object_value": "自称神的谜之存在",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          19754,
+          19880
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0050",
+      "entity_id": "E0032",
+      "predicate": "能力",
+      "object_value": "能通过梦境与精神沟通",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          19754,
+          19880
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0051",
+      "entity_id": "E0001",
+      "predicate": "身份",
+      "object_value": "F级冒险者魔术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          22978,
+          23112
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0052",
+      "entity_id": "E0021",
+      "predicate": "身份",
+      "object_value": "F级冒险者剑士",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          22978,
+          23112
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0053",
+      "entity_id": "E0031",
+      "predicate": "身份",
+      "object_value": "F级冒险者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          25398,
+          25510
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0054",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "与艾莉丝一同被转移至魔大陆",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          19984,
+          20088
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0055",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "被瑞杰路德承认为战士",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          27474,
+          27578
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0056",
+      "entity_id": "E0022",
+      "predicate": "经历",
+      "object_value": "转移事件后与鲁迪乌斯艾莉丝失散",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          19984,
+          20088
+        ]
+      ],
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0057",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "在魔大陆接受瑞杰路德的战斗指导",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28068,
+          28182
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0058",
+      "entity_id": "E0033",
+      "predicate": "身份",
+      "object_value": "米格路德族聚落村长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          20822,
+          20938
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0059",
+      "entity_id": "E0035",
+      "predicate": "经历",
+      "object_value": "勒索Dead End队伍的冒险者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          27080,
+          27152
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0060",
+      "entity_id": "E0042",
+      "predicate": "身份",
+      "object_value": "统一魔族的魔神",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          20206,
+          20312
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0061",
+      "entity_id": "E0042",
+      "predicate": "经历",
+      "object_value": "发动拉普拉斯战役并阴谋陷害斯佩路德族",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          21270,
+          21362
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0062",
+      "entity_id": "E0044",
+      "predicate": "身份",
+      "object_value": "阿斯拉王国第二公主",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28308,
+          28418
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0063",
+      "entity_id": "E0045",
+      "predicate": "身份",
+      "object_value": "四大领地格雷拉特家次男，爱丽儿的护卫骑士",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28308,
+          28418
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0064",
+      "entity_id": "E0046",
+      "predicate": "身份",
+      "object_value": "爱丽儿的守护术师，上级魔术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28308,
+          28418
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0020",
+      "source_id": "E0001",
+      "target_id": "E0031",
+      "rel_type": "同伴",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          21444,
+          21478
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0021",
+      "source_id": "E0031",
+      "target_id": "E0021",
+      "rel_type": "师徒",
+      "kind": "MENTOR",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28068,
+          28182
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0022",
+      "source_id": "E0031",
+      "target_id": "E0021",
+      "rel_type": "朋友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          20534,
+          20566
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0023",
+      "source_id": "E0035",
+      "target_id": "E0031",
+      "rel_type": "敲诈勒索",
+      "kind": "ENEMY",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          27080,
+          27152
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0024",
+      "source_id": "E0037",
+      "target_id": "E0001",
+      "rel_type": "承包委托",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          25514,
+          25616
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0025",
+      "source_id": "E0044",
+      "target_id": "E0046",
+      "rel_type": "主从",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28308,
+          28418
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 3,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0012",
+      "owner_id": "E0001",
+      "fact_id": "F0044",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道瑞杰路德是斯佩路德族战士团团长。"
+    },
+    {
+      "knowledge_id": "K0013",
+      "owner_id": "E0001",
+      "fact_id": "F0045",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道瑞杰路德是拉普拉斯阴谋的受害者。"
+    },
+    {
+      "knowledge_id": "K0014",
+      "owner_id": "E0001",
+      "fact_id": "F0047",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道瑞杰路德本人就是被称为Dead End的斯佩路德族。"
+    },
+    {
+      "knowledge_id": "K0015",
+      "owner_id": "E0021",
+      "fact_id": "F0043",
+      "certainty": "EXPLICIT",
+      "note": "艾莉丝知道瑞杰路德是斯佩路德族。"
+    },
+    {
+      "knowledge_id": "K0016",
+      "owner_id": "E0001",
+      "fact_id": "F0049",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道人神的存在，但对他并不信任。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0009",
+      "title": "人神初次接触",
+      "description": "转移后的鲁迪乌斯在梦中与人神相遇，人神自称神并给出依靠附近男子的建议。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0032",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          19754,
+          19880
+        ]
+      ]
+    },
+    {
+      "event_id": "T0010",
+      "title": "队伍Dead End成立",
+      "description": "三人以瑞杰路德的名号Dead End组成冒险者队伍，在利卡里斯镇开始活动。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0031"
+      ],
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          24118,
+          24208
+        ]
+      ]
+    },
+    {
+      "event_id": "T0011",
+      "title": "瑞杰路德被逐出利卡里斯镇",
+      "description": "诺克巴拉勒索事件后瑞杰路德斯佩路德族身分曝光，被赶出城镇。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0031",
+        "E0035",
+        "E0001",
+        "E0021"
+      ],
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          27256,
+          27370
+        ]
+      ]
+    },
+    {
+      "event_id": "T0012",
+      "title": "王宫转移事件",
+      "description": "转移事件波及阿斯拉王宫，终结野猪被传入白百合园，迪利克为救爱丽儿而死。",
+      "date": "417-1",
+      "date_precision": "YEAR_ONLY",
+      "participants": [
+        "E0044",
+        "E0045",
+        "E0046"
+      ],
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          28758,
+          28884
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0003",
+      "character_id": "E0001",
+      "name": "魔大陆冒险期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "转移后在魔大陆以冒险者身份旅行，与艾莉丝、瑞杰路德同行。",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          19984,
+          20088
+        ]
+      ]
+    },
+    {
+      "phase_id": "P0004",
+      "character_id": "E0021",
+      "name": "魔大陆冒险期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "在魔大陆与鲁迪乌斯、瑞杰路德一同冒险。",
+      "evidence_volumes": [
+        3
+      ],
+      "evidence_lines": [
+        [
+          20570,
+          20684
+        ]
+      ]
+    }
+  ]
+}

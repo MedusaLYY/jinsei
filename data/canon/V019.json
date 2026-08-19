@@ -1,0 +1,364 @@
+{
+  "batch_id": "V019",
+  "source_volume": 19,
+  "source_unit_ids": [
+    "U0331",
+    "U0332",
+    "U0333",
+    "U0334",
+    "U0335",
+    "U0336",
+    "U0337",
+    "U0338",
+    "U0339",
+    "U0340",
+    "U0341",
+    "U0342",
+    "U0343",
+    "U0344",
+    "U0345",
+    "U0346",
+    "U0347"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0150",
+      "name": "蓝道夫·马利安",
+      "aliases": [
+        "死神",
+        "死神蓝道夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 19,
+      "introduced_line": 170822,
+      "description": "死神，王龙王国黑龙骑士团骑士，帕库斯的护卫。"
+    },
+    {
+      "entity_id": "E0151",
+      "name": "亚尔斯·格雷拉特",
+      "aliases": [
+        "亚尔斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 19,
+      "introduced_line": 176500,
+      "description": "艾莉丝与鲁迪乌斯的儿子，红发。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，菈菈的母亲，魔法大学教师。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，生下儿子亚尔斯。"
+    },
+    {
+      "entity_id": "E0080",
+      "name": "札诺巴",
+      "aliases": [
+        "札诺巴·西隆"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52380,
+      "description": "西隆王国第三王子，鲁迪乌斯的弟子，加入奥尔斯帝德麾下。"
+    },
+    {
+      "entity_id": "E0081",
+      "name": "帕库斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52660,
+      "description": "西隆王国的王子，成为国王后受人神操控，在战斗中身亡。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 53974,
+      "description": "世界最强的龙神，策划让拉普拉斯在特定地点复活并击杀。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0190",
+      "entity_id": "E0150",
+      "predicate": "身份",
+      "object_value": "死神，王龙王国黑龙骑士团骑士",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          170822,
+          170900
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 19,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0191",
+      "entity_id": "E0081",
+      "predicate": "经历",
+      "object_value": "成为西隆王国的国王，受人神操控",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          170730,
+          170820
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 19,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0192",
+      "entity_id": "E0081",
+      "predicate": "经历",
+      "object_value": "在与鲁迪乌斯一行的战斗中身亡",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          174830,
+          174968
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 19,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0193",
+      "entity_id": "E0151",
+      "predicate": "身份",
+      "object_value": "艾莉丝与鲁迪乌斯的儿子",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          176500,
+          176598
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 19,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0194",
+      "entity_id": "E0080",
+      "predicate": "经历",
+      "object_value": "加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          176156,
+          176242
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 19,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0053",
+      "source_id": "E0081",
+      "target_id": "E0080",
+      "rel_type": "兄弟",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          176072,
+          176154
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 19,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0076",
+      "owner_id": "E0001",
+      "fact_id": "F0190",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道蓝道夫是死神。"
+    },
+    {
+      "knowledge_id": "K0077",
+      "owner_id": "E0001",
+      "fact_id": "F0193",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道亚尔斯是艾莉丝生下的儿子。"
+    },
+    {
+      "knowledge_id": "K0078",
+      "owner_id": "E0001",
+      "fact_id": "F0194",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道札诺巴加入奥尔斯帝德麾下。"
+    },
+    {
+      "knowledge_id": "K0079",
+      "owner_id": "E0001",
+      "fact_id": "F0191",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道帕库斯成为西隆国王。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0071",
+      "title": "卡隆堡垒攻防战",
+      "description": "鲁迪乌斯、洛琪希与札诺巴在卡隆堡垒抵御帕库斯军队的进攻。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0005",
+        "E0080",
+        "E0081"
+      ],
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          172478,
+          172596
+        ]
+      ]
+    },
+    {
+      "event_id": "T0072",
+      "title": "死神蓝道夫之战",
+      "description": "鲁迪乌斯一行与死神蓝道夫交战，帕库斯身亡。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0005",
+        "E0080",
+        "E0150",
+        "E0081"
+      ],
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          174172,
+          174296
+        ]
+      ]
+    },
+    {
+      "event_id": "T0073",
+      "title": "亚尔斯出生",
+      "description": "艾莉丝在鲁迪乌斯外出期间生下儿子亚尔斯。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0021",
+        "E0151",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          176246,
+          176368
+        ]
+      ]
+    },
+    {
+      "event_id": "T0074",
+      "title": "拉普拉斯真相",
+      "description": "奥尔斯帝德揭示拉普拉斯将在八十年后复活，决定建立军队对抗。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0079",
+        "E0001",
+        "E0080"
+      ],
+      "evidence_volumes": [
+        19
+      ],
+      "evidence_lines": [
+        [
+          176072,
+          176154
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

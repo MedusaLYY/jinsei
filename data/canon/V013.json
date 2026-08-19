@@ -1,0 +1,426 @@
+{
+  "batch_id": "V013",
+  "source_volume": 13,
+  "source_unit_ids": [
+    "U0235",
+    "U0236",
+    "U0237",
+    "U0238",
+    "U0239",
+    "U0240",
+    "U0241",
+    "U0242",
+    "U0243",
+    "U0244",
+    "U0245",
+    "U0246",
+    "U0247",
+    "U0248",
+    "U0249",
+    "U0250",
+    "U0251"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0128",
+      "name": "露西·格雷拉特",
+      "aliases": [
+        "露西"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 13,
+      "introduced_line": 115990,
+      "description": "鲁迪乌斯与希露菲的女儿，乖巧的婴儿。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，魔法大学三年级学生。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，失忆后在鲁迪乌斯家生活。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，保罗之妻，负责照顾露西与塞妮丝。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特",
+        "洛琪希·米格路迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，魔法大学教师。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特",
+        "菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [
+        "诺伦·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，鲁迪乌斯的妹妹，开始学习剑术。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁迪乌斯的妹妹，家中女仆。"
+    },
+    {
+      "entity_id": "E0091",
+      "name": "苏珊娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 60044,
+      "description": "原Counter Arrow成员，现为露西的奶妈。"
+    },
+    {
+      "entity_id": "E0102",
+      "name": "吉纳斯·哈尔法斯",
+      "aliases": [
+        "吉纳斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 68990,
+      "description": "拉诺亚魔法大学副校长。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0155",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "迎娶洛琪希为第二名妻子",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          115858,
+          115958
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0156",
+      "entity_id": "E0128",
+      "predicate": "身份",
+      "object_value": "鲁迪乌斯与希露菲的女儿",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          115990,
+          116106
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0157",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "成为拉诺亚魔法大学的教师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          115170,
+          115274
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0158",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "在转移迷宫的战斗中失去左手，使用义手",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          115170,
+          115274
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0159",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "开始接受鲁迪乌斯的剑术训练",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          116792,
+          116892
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0160",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "成为公设粉丝同好会的对象",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          117470,
+          117498
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0161",
+      "entity_id": "E0091",
+      "predicate": "经历",
+      "object_value": "担任露西的奶妈",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          118112,
+          118224
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0047",
+      "source_id": "E0001",
+      "target_id": "E0005",
+      "rel_type": "夫妻",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          115858,
+          115958
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 13,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0052",
+      "owner_id": "E0001",
+      "fact_id": "F0155",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己迎娶洛琪希为第二名妻子。"
+    },
+    {
+      "knowledge_id": "K0053",
+      "owner_id": "E0001",
+      "fact_id": "F0156",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道露西是自己的女儿。"
+    },
+    {
+      "knowledge_id": "K0054",
+      "owner_id": "E0001",
+      "fact_id": "F0158",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己在转移迷宫失去左手。"
+    },
+    {
+      "knowledge_id": "K0055",
+      "owner_id": "E0005",
+      "fact_id": "F0157",
+      "certainty": "EXPLICIT",
+      "note": "洛琪希知道自己成为魔法大学教师。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0049",
+      "title": "洛琪希任教",
+      "description": "洛琪希通过面试成为拉诺亚魔法大学的教师。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0005",
+        "E0001",
+        "E0102"
+      ],
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          115516,
+          115622
+        ]
+      ]
+    },
+    {
+      "event_id": "T0050",
+      "title": "水王级修习",
+      "description": "洛琪希教导鲁迪乌斯与希露菲水王级魔术，鲁迪乌斯成功使出雷光。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0005",
+        "E0001",
+        "E0006"
+      ],
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          119002,
+          119114
+        ]
+      ]
+    },
+    {
+      "event_id": "T0051",
+      "title": "生日庆祝会",
+      "description": "一家人为诺伦与爱夏举办生日庆祝会并互赠礼物。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0007",
+        "E0008",
+        "E0001",
+        "E0006",
+        "E0005",
+        "E0003",
+        "E0004"
+      ],
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          120964,
+          121074
+        ]
+      ]
+    },
+    {
+      "event_id": "T0052",
+      "title": "诺伦剑术训练开始",
+      "description": "鲁迪乌斯开始正式指导诺伦剑术。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0007"
+      ],
+      "evidence_volumes": [
+        13
+      ],
+      "evidence_lines": [
+        [
+          116792,
+          116892
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

@@ -1,0 +1,406 @@
+{
+  "batch_id": "V012",
+  "source_volume": 12,
+  "source_unit_ids": [
+    "U0215",
+    "U0216",
+    "U0217",
+    "U0218",
+    "U0219",
+    "U0220",
+    "U0221",
+    "U0222",
+    "U0223",
+    "U0224",
+    "U0225",
+    "U0226",
+    "U0227",
+    "U0228",
+    "U0229",
+    "U0230",
+    "U0231",
+    "U0232",
+    "U0233"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0126",
+      "name": "转移迷宫",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 12,
+      "introduced_line": 106076,
+      "description": "拉庞附近的S级危险迷宫，充满转移魔法阵陷阱，塞妮丝被困其中。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，在转移迷宫与魔石多头龙的战斗中牺牲。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，获救后失去全部记忆。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，保罗之妻，负责照顾塞妮丝。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·米格路迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的魔术老师，水圣级魔术师，在转移迷宫获救后向鲁迪乌斯告白。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "探索队的司令塔兼杂务担当。"
+    },
+    {
+      "entity_id": "E0104",
+      "name": "艾莉娜丽洁·杜拉冈罗德",
+      "aliases": [
+        "艾莉娜丽洁"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 69808,
+      "description": "长耳族的冒险者，希露菲的祖母，洛琪希的挚友。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0149",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "在转移迷宫中踩中转移魔法阵陷阱而受困一个月",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          106864,
+          106956
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0150",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "被封印在转移迷宫深处的魔力结晶中",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          109676,
+          109780
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0151",
+      "entity_id": "E0002",
+      "predicate": "经历",
+      "object_value": "在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          110580,
+          110704
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0152",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "获救后失去全部记忆与语言能力",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          110914,
+          111030
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0153",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "向陷入低潮的鲁迪乌斯告白并发生关系",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          111498,
+          111614
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0154",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "与洛琪希约定在归途期间以恋人身分相处",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          112268,
+          112340
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0045",
+      "source_id": "E0001",
+      "target_id": "E0005",
+      "rel_type": "恋人",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          112268,
+          112340
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0046",
+      "source_id": "E0104",
+      "target_id": "E0005",
+      "rel_type": "挚友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          112494,
+          112590
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 12,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0048",
+      "owner_id": "E0001",
+      "fact_id": "F0150",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝被封印在魔力结晶中。"
+    },
+    {
+      "knowledge_id": "K0049",
+      "owner_id": "E0001",
+      "fact_id": "F0151",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道保罗为保护自己而牺牲。"
+    },
+    {
+      "knowledge_id": "K0050",
+      "owner_id": "E0001",
+      "fact_id": "F0152",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝失去了全部记忆。"
+    },
+    {
+      "knowledge_id": "K0051",
+      "owner_id": "E0005",
+      "fact_id": "F0153",
+      "certainty": "EXPLICIT",
+      "note": "洛琪希知道自己向鲁迪乌斯告白。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0045",
+      "title": "救出洛琪希",
+      "description": "探索队在转移迷宫第三层救出受困一个月的洛琪希。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0005",
+        "E0002",
+        "E0104",
+        "E0057"
+      ],
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          108050,
+          108128
+        ]
+      ]
+    },
+    {
+      "event_id": "T0046",
+      "title": "死斗魔石多头龙",
+      "description": "探索队与守护塞妮丝的魔石多头龙展开死斗，保罗为保护鲁迪乌斯而牺牲。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0005",
+        "E0104",
+        "E0057"
+      ],
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          110206,
+          110318
+        ]
+      ]
+    },
+    {
+      "event_id": "T0047",
+      "title": "塞妮丝获救",
+      "description": "九头龙被击败后，塞妮丝从魔力结晶中被救出。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0003",
+        "E0001",
+        "E0005"
+      ],
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          110708,
+          110810
+        ]
+      ]
+    },
+    {
+      "event_id": "T0048",
+      "title": "返回夏利亚",
+      "description": "众人带着塞妮丝踏上归途，返回魔法都市夏利亚。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0003",
+        "E0004",
+        "E0005",
+        "E0104"
+      ],
+      "evidence_volumes": [
+        12
+      ],
+      "evidence_lines": [
+        [
+          112400,
+          112492
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

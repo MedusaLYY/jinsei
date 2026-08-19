@@ -1,0 +1,564 @@
+{
+  "batch_id": "V008",
+  "source_volume": 8,
+  "source_unit_ids": [
+    "U0134",
+    "U0135",
+    "U0136",
+    "U0137",
+    "U0138",
+    "U0139",
+    "U0140",
+    "U0141",
+    "U0142",
+    "U0143",
+    "U0144",
+    "U0145",
+    "U0146",
+    "U0147",
+    "U0148",
+    "U0149",
+    "U0150",
+    "U0151",
+    "U0152"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0102",
+      "name": "吉纳斯·哈尔法斯",
+      "aliases": [
+        "吉纳斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 68990,
+      "description": "拉诺亚魔法大学副校长，向鲁迪乌斯发出入学推荐函。"
+    },
+    {
+      "entity_id": "E0104",
+      "name": "艾莉娜丽洁·杜拉冈罗德",
+      "aliases": [
+        "艾莉娜丽洁"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 69808,
+      "description": "长耳族的冒险者，洛琪希的旅伴，与鲁迪乌斯一同入学魔法大学。"
+    },
+    {
+      "entity_id": "E0106",
+      "name": "茱丽叶特",
+      "aliases": [
+        "茱丽"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 73696,
+      "description": "矿坑族的奴隶少女，被鲁迪乌斯等人买下。"
+    },
+    {
+      "entity_id": "E0107",
+      "name": "塞伦特",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 72734,
+      "description": "魔法大学的特别生，入学期曾引发问题。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露弗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的长耳族少女。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主",
+        "爱丽儿会长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拉诺亚魔法大学学生会长。"
+    },
+    {
+      "entity_id": "E0061",
+      "name": "菲兹",
+      "aliases": [
+        "沉默的菲兹",
+        "菲兹学长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37792,
+      "description": "爱丽儿的护卫，白发少年，无咏唱魔术师，从不摘下墨镜示人。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙的天才魔术师，魔法大学特别生。"
+    },
+    {
+      "entity_id": "E0080",
+      "name": "札诺巴",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52380,
+      "description": "西隆王国第三王子，喜爱人偶的收藏家，魔法大学特别生。"
+    },
+    {
+      "entity_id": "E0098",
+      "name": "莉妮亚",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的不良少女，魔法大学学生，曾为不良集团老大。"
+    },
+    {
+      "entity_id": "E0099",
+      "name": "普露塞娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的不良少女，魔法大学学生，曾为不良集团老大。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0113",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "接受推荐进入拉诺亚魔法大学就读",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          68990,
+          69098
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0114",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "入学测验中以乱魔击败菲兹",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          70110,
+          70232
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0115",
+      "entity_id": "E0061",
+      "predicate": "身份",
+      "object_value": "爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          71314,
+          71408
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0116",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "作为爱丽儿的侍女在魔法大学生活",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          71928,
+          72036
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0117",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "转移事件中受爱丽儿帮助而存活",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          72038,
+          72132
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0118",
+      "entity_id": "E0104",
+      "predicate": "身份",
+      "object_value": "长耳族的冒险者，与鲁迪乌斯一同入学魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          69808,
+          69910
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0119",
+      "entity_id": "E0102",
+      "predicate": "身份",
+      "object_value": "拉诺亚魔法大学副校长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          68990,
+          69098
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0120",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "鲁迪乌斯未能认出她",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          75838,
+          75986
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0121",
+      "entity_id": "E0044",
+      "predicate": "身份",
+      "object_value": "拉诺亚魔法大学学生会会长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          70496,
+          70584
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0035",
+      "source_id": "E0001",
+      "target_id": "E0061",
+      "rel_type": "朋友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          71744,
+          71820
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0036",
+      "source_id": "E0006",
+      "target_id": "E0061",
+      "rel_type": "朋友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          71824,
+          71926
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0037",
+      "source_id": "E0006",
+      "target_id": "E0001",
+      "rel_type": "单恋",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          75706,
+          75836
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0038",
+      "source_id": "E0080",
+      "target_id": "E0001",
+      "rel_type": "同好之友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          73118,
+          73214
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 8,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0032",
+      "owner_id": "E0001",
+      "fact_id": "F0113",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己进入拉诺亚魔法大学就读。"
+    },
+    {
+      "knowledge_id": "K0033",
+      "owner_id": "E0001",
+      "fact_id": "F0115",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道菲兹是爱丽儿的护卫。"
+    },
+    {
+      "knowledge_id": "K0034",
+      "owner_id": "E0006",
+      "fact_id": "F0120",
+      "certainty": "EXPLICIT",
+      "note": "希露菲知道鲁迪乌斯没有认出她。"
+    },
+    {
+      "knowledge_id": "K0035",
+      "owner_id": "E0006",
+      "fact_id": "F0117",
+      "certainty": "EXPLICIT",
+      "note": "希露菲记得转移事件中受爱丽儿帮助。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0029",
+      "title": "入学考试",
+      "description": "鲁迪乌斯在拉诺亚魔法大学入学测验中以乱魔击败菲兹，获准入学。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0061",
+        "E0102"
+      ],
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          70110,
+          70232
+        ]
+      ]
+    },
+    {
+      "event_id": "T0030",
+      "title": "合力调查转移事件",
+      "description": "鲁迪乌斯与菲兹学长开始在魔法大学合力调查转移事件。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0061"
+      ],
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          72832,
+          72924
+        ]
+      ]
+    },
+    {
+      "event_id": "T0031",
+      "title": "兽族大小姐绑架监禁事件",
+      "description": "莉妮亚与普露塞娜向鲁迪乌斯找碴，反被鲁迪乌斯制服并处以刺青惩罚。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0098",
+        "E0099",
+        "E0061",
+        "E0080"
+      ],
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          74818,
+          74946
+        ]
+      ]
+    },
+    {
+      "event_id": "T0032",
+      "title": "购买奴隶茱丽",
+      "description": "鲁迪乌斯、札诺巴与菲兹买下矿坑族奴隶少女茱丽叶特。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0080",
+        "E0061",
+        "E0106"
+      ],
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          73696,
+          73808
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0010",
+      "character_id": "E0001",
+      "name": "魔法大学学园期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "进入拉诺亚魔法大学就读，与菲兹合力调查转移事件。",
+      "evidence_volumes": [
+        8
+      ],
+      "evidence_lines": [
+        [
+          69602,
+          69696
+        ]
+      ]
+    }
+  ]
+}

@@ -294,7 +294,6 @@ def apply_extraction_batch(connection: sqlite3.Connection, batch: ExtractionBatc
     event_ids = tuple(event.event_id for event in batch.events)
     phase_ids = tuple(phase.phase_id for phase in batch.phases)
     knowledge_ids = tuple(knowledge.knowledge_id for knowledge in batch.knowledge)
-    entity_ids = tuple(entity.entity_id for entity in batch.entities)
     batch_id = batch.batch_id
 
     def delete_where(table: str, id_column: str, ids: tuple[str, ...]) -> None:

@@ -1,0 +1,479 @@
+{
+  "batch_id": "V025",
+  "source_volume": 25,
+  "source_unit_ids": [
+    "U0425",
+    "U0426",
+    "U0427",
+    "U0428",
+    "U0429",
+    "U0430",
+    "U0431",
+    "U0432",
+    "U0433",
+    "U0434",
+    "U0435",
+    "U0436",
+    "U0437",
+    "U0438",
+    "U0439",
+    "U0440"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0164",
+      "name": "香杜尔·冯·格兰道尔",
+      "aliases": [
+        "香杜尔",
+        "亚历克斯·雷白克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 151950,
+      "description": "真实身份为北神卡尔曼二世亚历克斯·雷白克，随鲁迪乌斯行动并在毕黑利尔决战中与巴迪冈迪决斗。"
+    },
+    {
+      "entity_id": "E0165",
+      "name": "鬼神马尔塔",
+      "aliases": [
+        "鬼神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 25,
+      "introduced_line": 225016,
+      "description": "毕黑利尔王国鬼岛的鬼神之王，受基斯蒙骗参战，后与鲁迪乌斯阵营和解。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下，在毕黑利尔决战中击败北神三世。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，与瑞杰路德联手斩杀剑神加尔·法利昂。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28120,
+      "description": "斯佩路德族，鲁迪乌斯的恩人，在毕黑利尔决战中与艾莉丝联手斩杀剑神。"
+    },
+    {
+      "entity_id": "E0032",
+      "name": "人神",
+      "aliases": [
+        "人神大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 25460,
+      "description": "操纵未来的神，鲁迪乌斯与奥尔斯帝德的敌人，其使徒包括基斯与巴迪冈迪。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡",
+        "奇希莉卡大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36776,
+      "description": "魔界大帝，巴迪冈迪的未婚妻，曾被人神利用。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人",
+        "基斯·努卡迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "人神使徒，策划毕黑利尔的陷阱，决战中逃走。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44820,
+      "description": "米里斯神子，治愈了斯佩路德族的疫病。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神",
+        "奥尔斯帝德大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 55450,
+      "description": "龙神，为打倒人神不断轮回，鲁迪乌斯的上司。"
+    },
+    {
+      "entity_id": "E0110",
+      "name": "加尔·法利昂",
+      "aliases": [
+        "剑神",
+        "加尔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 12,
+      "introduced_line": 111850,
+      "description": "前剑神，加入基斯阵营，在毕黑利尔决战中被艾莉丝与瑞杰路德斩杀。"
+    },
+    {
+      "entity_id": "E0113",
+      "name": "巴迪冈迪",
+      "aliases": [
+        "不死身魔王",
+        "斗神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 82360,
+      "description": "不死身的魔王，阿托菲的弟弟，人神的使徒，身穿斗神铠现身。"
+    },
+    {
+      "entity_id": "E0129",
+      "name": "阿托菲",
+      "aliases": [
+        "不死魔王",
+        "阿托菲拉托菲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 129170,
+      "description": "魔大陆的不死魔王，与鲁迪乌斯结盟，与香杜尔出使鬼岛。"
+    },
+    {
+      "entity_id": "E0161",
+      "name": "冥王毕塔",
+      "aliases": [
+        "毕塔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 217168,
+      "description": "天大陆迷宫地狱的黏族之王，受基斯指使散布疫病，被鲁迪乌斯以死神戒指击败。"
+    },
+    {
+      "entity_id": "E0162",
+      "name": "亚历山大·雷白克",
+      "aliases": [
+        "北神卡尔曼三世",
+        "亚历山大",
+        "亚历"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 24,
+      "introduced_line": 222108,
+      "description": "北神卡尔曼三世，北神卡尔曼二世的儿子，在毕黑利尔决战中被鲁迪乌斯等人击败身亡。"
+    },
+    {
+      "entity_id": "E0150",
+      "name": "蓝道夫·马利安",
+      "aliases": [
+        "死神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 21,
+      "introduced_line": 191300,
+      "description": "七大列强之一的死神，其戒指是击败冥王毕塔的关键。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0217",
+      "entity_id": "E0110",
+      "predicate": "死亡",
+      "object_value": "被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          225670,
+          225742
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0218",
+      "entity_id": "E0162",
+      "predicate": "死亡",
+      "object_value": "在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          227666,
+          227832
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0219",
+      "entity_id": "E0162",
+      "predicate": "身份",
+      "object_value": "北神卡尔曼三世，北神卡尔曼二世的儿子",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          224892,
+          225014
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0220",
+      "entity_id": "E0164",
+      "predicate": "身份",
+      "object_value": "真实身份为北神卡尔曼二世亚历克斯·雷白克",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          228544,
+          228626
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0221",
+      "entity_id": "E0113",
+      "predicate": "身份",
+      "object_value": "人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          229606,
+          229764
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0062",
+      "source_id": "E0164",
+      "target_id": "E0162",
+      "rel_type": "父子",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          225860,
+          225960
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0063",
+      "source_id": "E0113",
+      "target_id": "E0032",
+      "rel_type": "从属",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          229606,
+          229764
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 25,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0100",
+      "owner_id": "E0001",
+      "fact_id": "F0217",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道剑神加尔·法利昂被斩杀。"
+    },
+    {
+      "knowledge_id": "K0101",
+      "owner_id": "E0001",
+      "fact_id": "F0218",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道北神三世亚历山大被击败。"
+    },
+    {
+      "knowledge_id": "K0102",
+      "owner_id": "E0001",
+      "fact_id": "F0220",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道香杜尔是北神卡尔曼二世。"
+    },
+    {
+      "knowledge_id": "K0103",
+      "owner_id": "E0001",
+      "fact_id": "F0221",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道巴迪冈迪是人神使徒。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0091",
+      "title": "剑神战",
+      "description": "艾莉丝与瑞杰路德联手斩杀剑神加尔·法利昂。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0021",
+        "E0031",
+        "E0110"
+      ],
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          225310,
+          225434
+        ]
+      ]
+    },
+    {
+      "event_id": "T0092",
+      "title": "北神三世战",
+      "description": "鲁迪乌斯等人在斯佩路德村决战中击败北神卡尔曼三世亚历山大·雷白克。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0031",
+        "E0164",
+        "E0162"
+      ],
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          227666,
+          227832
+        ]
+      ]
+    },
+    {
+      "event_id": "T0093",
+      "title": "鬼神和解",
+      "description": "阿托菲与香杜尔出使鬼岛，鬼神马尔塔承认受基斯蒙骗，与鲁迪乌斯阵营和解。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0129",
+        "E0164",
+        "E0165"
+      ],
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          229370,
+          229498
+        ]
+      ]
+    },
+    {
+      "event_id": "T0094",
+      "title": "巴迪冈迪现身",
+      "description": "巴迪冈迪自称人神使徒身穿斗神铠现身，向鲁迪乌斯阵营宣战，并与北神卡尔曼二世提出决斗。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0113",
+        "E0164",
+        "E0057",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        25
+      ],
+      "evidence_lines": [
+        [
+          229606,
+          229764
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

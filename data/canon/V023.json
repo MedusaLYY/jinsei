@@ -1,0 +1,495 @@
+{
+  "batch_id": "V023",
+  "source_volume": 23,
+  "source_unit_ids": [
+    "U0395",
+    "U0396",
+    "U0397",
+    "U0398",
+    "U0399",
+    "U0400",
+    "U0401",
+    "U0402",
+    "U0403",
+    "U0404",
+    "U0405",
+    "U0406",
+    "U0407",
+    "U0408"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0160",
+      "name": "齐格哈尔德·格雷拉特",
+      "aliases": [
+        "齐格",
+        "齐格哈尔德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 23,
+      "introduced_line": 205158,
+      "description": "希露菲与鲁迪乌斯的第二个儿子，绿发，拥有强烈的拉普拉斯因子但经洗礼确认并非拉普拉斯。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，陪同前往天大陆。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，生下齐格哈尔德后担忧其是否拉普拉斯。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，陪同前往天大陆与剑之圣地。"
+    },
+    {
+      "entity_id": "E0024",
+      "name": "菲利普·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "菲利普"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "艾莉丝的父亲，转移事件中死亡，其遗骨被鲁迪乌斯与艾莉丝重葬于阿斯拉王国。"
+    },
+    {
+      "entity_id": "E0025",
+      "name": "希尔达·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "希尔达"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "艾莉丝的母亲，转移事件中死亡，其遗骨被鲁迪乌斯与艾莉丝重葬于阿斯拉王国。"
+    },
+    {
+      "entity_id": "E0029",
+      "name": "佩尔基乌斯",
+      "aliases": [
+        "佩尔基乌斯大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 23648,
+      "description": "甲龙王，拉普拉斯战役的英雄，在祠堂为齐格哈尔德施行洗礼。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28120,
+      "description": "斯佩路德族，鲁迪乌斯的旅行伙伴。"
+    },
+    {
+      "entity_id": "E0043",
+      "name": "魔界大帝奇希莉卡·奇希里斯",
+      "aliases": [
+        "奇希莉卡",
+        "奇希莉卡大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36776,
+      "description": "魔界大帝，被阿托菲擒获后接受鲁迪乌斯的甜甜圈款待，给予其千里眼魔眼并告知基斯下落。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人",
+        "基斯·努卡迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "人神使徒，在比耶寇亚地区招募不死身魔王巴迪冈迪对抗奥尔斯帝德阵营。"
+    },
+    {
+      "entity_id": "E0079",
+      "name": "奥尔斯帝德",
+      "aliases": [
+        "龙神",
+        "奥尔斯帝德大人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 55450,
+      "description": "龙神，为打倒人神不断轮回，鲁迪乌斯的上司。"
+    },
+    {
+      "entity_id": "E0108",
+      "name": "七星",
+      "aliases": [
+        "七星静香"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 13,
+      "introduced_line": 120860,
+      "description": "转移事件的另一个受害者，研究异世界转移魔法设备，提出未来有转生者筿原秋人的假设。"
+    },
+    {
+      "entity_id": "E0110",
+      "name": "加尔·法利昂",
+      "aliases": [
+        "剑神",
+        "加尔"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 12,
+      "introduced_line": 111850,
+      "description": "前剑神，败给吉诺·布里兹后离开剑之圣地。"
+    },
+    {
+      "entity_id": "E0112",
+      "name": "吉诺·布里兹",
+      "aliases": [
+        "吉诺"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 17,
+      "introduced_line": 151950,
+      "description": "剑之圣地的天才剑士，击败剑神加尔·法利昂后继任剑神。"
+    },
+    {
+      "entity_id": "E0113",
+      "name": "巴迪冈迪",
+      "aliases": [
+        "不死身魔王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 82360,
+      "description": "不死身的魔王，阿托菲的弟弟，奇希莉卡的未婚夫，被基斯招募对抗奥尔斯帝德阵营。"
+    },
+    {
+      "entity_id": "E0129",
+      "name": "阿托菲",
+      "aliases": [
+        "不死魔王",
+        "阿托菲拉托菲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 129170,
+      "description": "魔大陆的不死魔王，在涅克罗斯要塞擒获奇希莉卡。"
+    },
+    {
+      "entity_id": "E0150",
+      "name": "蓝道夫·马利安",
+      "aliases": [
+        "死神"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 21,
+      "introduced_line": 191300,
+      "description": "七大列强之一的死神，答应协助鲁迪乌斯。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0207",
+      "entity_id": "E0160",
+      "predicate": "身份",
+      "object_value": "希露菲与鲁迪乌斯的第二个儿子（第四个孩子）",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          205158,
+          205282
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0208",
+      "entity_id": "E0160",
+      "predicate": "经历",
+      "object_value": "在祠堂经佩尔基乌斯洗礼，确认并非拉普拉斯",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          207210,
+          207330
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0209",
+      "entity_id": "E0043",
+      "predicate": "经历",
+      "object_value": "接受鲁迪乌斯的甜甜圈款待，给予其千里眼魔眼并告知基斯下落",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          212266,
+          212396
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0210",
+      "entity_id": "E0129",
+      "predicate": "经历",
+      "object_value": "为寻找奇希莉卡而将其擒获于涅克罗斯要塞地牢",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          212026,
+          212144
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0211",
+      "entity_id": "E0057",
+      "predicate": "经历",
+      "object_value": "在比耶寇亚地区招募不死身魔王巴迪冈迪加入对抗奥尔斯帝德阵营",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          213116,
+          213240
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0057",
+      "source_id": "E0160",
+      "target_id": "E0006",
+      "rel_type": "母子",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          205284,
+          205390
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0058",
+      "source_id": "E0129",
+      "target_id": "E0113",
+      "rel_type": "姐弟",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          212398,
+          212544
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0059",
+      "source_id": "E0113",
+      "target_id": "E0043",
+      "rel_type": "未婚夫妻",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          213004,
+          213114
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 23,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0092",
+      "owner_id": "E0001",
+      "fact_id": "F0207",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道齐格哈尔德出生。"
+    },
+    {
+      "knowledge_id": "K0093",
+      "owner_id": "E0001",
+      "fact_id": "F0208",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道齐格经洗礼确认并非拉普拉斯。"
+    },
+    {
+      "knowledge_id": "K0094",
+      "owner_id": "E0001",
+      "fact_id": "F0209",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道自己获得千里眼魔眼与基斯下落。"
+    },
+    {
+      "knowledge_id": "K0095",
+      "owner_id": "E0057",
+      "fact_id": "F0211",
+      "certainty": "EXPLICIT",
+      "note": "基斯知道自己招募了巴迪冈迪。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0083",
+      "title": "齐格洗礼",
+      "description": "佩尔基乌斯在祠堂为齐格哈尔德施行洗礼，确认其并非拉普拉斯。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0160",
+        "E0006",
+        "E0021",
+        "E0029",
+        "E0079"
+      ],
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          207210,
+          207330
+        ]
+      ]
+    },
+    {
+      "event_id": "T0084",
+      "title": "奇希莉卡获释",
+      "description": "阿托菲在涅克罗斯要塞擒获奇希莉卡，鲁迪乌斯以甜甜圈款待，获赠千里眼魔眼并得知基斯下落。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0043",
+        "E0129",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          212026,
+          212144
+        ]
+      ]
+    },
+    {
+      "event_id": "T0085",
+      "title": "基斯招募巴迪冈迪",
+      "description": "基斯在比耶寇亚地区招募不死身魔王巴迪冈迪加入对抗奥尔斯帝德与鲁迪乌斯的阵营。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0057",
+        "E0113"
+      ],
+      "evidence_volumes": [
+        23
+      ],
+      "evidence_lines": [
+        [
+          213116,
+          213240
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

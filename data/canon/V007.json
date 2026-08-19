@@ -1,0 +1,555 @@
+{
+  "batch_id": "V007",
+  "source_volume": 7,
+  "source_unit_ids": [
+    "U0118",
+    "U0119",
+    "U0120",
+    "U0121",
+    "U0122",
+    "U0123",
+    "U0124",
+    "U0125",
+    "U0126",
+    "U0127",
+    "U0128",
+    "U0129",
+    "U0130",
+    "U0131",
+    "U0132",
+    "U0133"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0087",
+      "name": "罗森堡",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 7,
+      "introduced_line": 59372,
+      "description": "阿斯拉王国北部边境的城镇，鲁迪乌斯展开冒险者活动的据点。"
+    },
+    {
+      "entity_id": "E0088",
+      "name": "Counter Arrow",
+      "aliases": [],
+      "kind": "ORGANIZATION",
+      "introduced_volume": 7,
+      "introduced_line": 60590,
+      "description": "以罗森堡为据点的B级冒险者队伍。"
+    },
+    {
+      "entity_id": "E0089",
+      "name": "提摩西",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 60044,
+      "description": "Counter Arrow的队长，出生于拉诺亚王国。"
+    },
+    {
+      "entity_id": "E0090",
+      "name": "莎拉",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 60140,
+      "description": "Counter Arrow的A级弓手天才少女，曾对鲁迪乌斯抱有好感。"
+    },
+    {
+      "entity_id": "E0091",
+      "name": "苏珊娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 60044,
+      "description": "Counter Arrow的成员。"
+    },
+    {
+      "entity_id": "E0092",
+      "name": "密米尔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 60044,
+      "description": "Counter Arrow的成员，在雪地水牛袭击中丧生。"
+    },
+    {
+      "entity_id": "E0093",
+      "name": "佐尔达特",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 62112,
+      "description": "S级冒险者队伍Stepped Leader的队长。"
+    },
+    {
+      "entity_id": "E0094",
+      "name": "艾莉洁",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66290,
+      "description": "罗森堡娱乐地区的娼妇，其妹妹曾受鲁迪乌斯救助。"
+    },
+    {
+      "entity_id": "E0095",
+      "name": "夏利亚",
+      "aliases": [
+        "魔法都市夏利亚"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 7,
+      "introduced_line": 66600,
+      "description": "拉诺亚王国的魔法都市，拉诺亚魔法大学所在地。"
+    },
+    {
+      "entity_id": "E0096",
+      "name": "拉诺亚王国",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 7,
+      "introduced_line": 66600,
+      "description": "魔法三大国之一，魔术教育特别发达的国家。"
+    },
+    {
+      "entity_id": "E0098",
+      "name": "莉妮亚",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的不良少女，魔法大学学生，被菲兹击败。"
+    },
+    {
+      "entity_id": "E0099",
+      "name": "普露塞娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的不良少女，魔法大学学生，被菲兹击败。"
+    },
+    {
+      "entity_id": "E0100",
+      "name": "埃尔莫亚",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 67312,
+      "description": "爱丽儿在魔法大学的随从之一。"
+    },
+    {
+      "entity_id": "E0101",
+      "name": "克丽妮",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 67212,
+      "description": "爱丽儿在魔法大学的随从之一。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，能使用治愈魔术的前冒险者。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特",
+        "狂犬艾莉丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主",
+        "爱丽儿会长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主，拉诺亚魔法大学学生会长。"
+    },
+    {
+      "entity_id": "E0061",
+      "name": "菲兹",
+      "aliases": [
+        "沉默的菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37792,
+      "description": "转移事件当天出现在阿斯拉王宫的守护术师，爱丽儿的随从。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0104",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "艾莉丝离开后独自以冒险者身分活动",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          59474,
+          59582
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0105",
+      "entity_id": "E0001",
+      "predicate": "称号",
+      "object_value": "泥沼的鲁迪乌斯",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          60878,
+          60988
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0106",
+      "entity_id": "E0090",
+      "predicate": "身份",
+      "object_value": "Counter Arrow的A级弓手天才",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          60140,
+          60234
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0107",
+      "entity_id": "E0093",
+      "predicate": "身份",
+      "object_value": "S级冒险者队伍Stepped Leader的队长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          62112,
+          62222
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0108",
+      "entity_id": "E0044",
+      "predicate": "经历",
+      "object_value": "进入拉诺亚魔法大学就读，二年级当上学生会长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          66710,
+          66798
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0109",
+      "entity_id": "E0061",
+      "predicate": "经历",
+      "object_value": "作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          67066,
+          67210
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0110",
+      "entity_id": "E0095",
+      "predicate": "身份",
+      "object_value": "魔法都市，拉诺亚魔法大学所在地",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          66600,
+          66708
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0111",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "得知母亲塞妮丝已被找到的消息",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          66566,
+          66596
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0112",
+      "entity_id": "E0061",
+      "predicate": "经历",
+      "object_value": "认识鲁迪乌斯·格雷拉特",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          67312,
+          67364
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0034",
+      "source_id": "E0001",
+      "target_id": "E0090",
+      "rel_type": "恋爱未果",
+      "kind": "ROMANTIC",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          65986,
+          66098
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 7,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0029",
+      "owner_id": "E0001",
+      "fact_id": "F0111",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯得知母亲塞妮丝已被找到。"
+    },
+    {
+      "knowledge_id": "K0030",
+      "owner_id": "E0001",
+      "fact_id": "F0106",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道莎拉是A级弓手天才。"
+    },
+    {
+      "knowledge_id": "K0031",
+      "owner_id": "E0061",
+      "fact_id": "F0112",
+      "certainty": "EXPLICIT",
+      "note": "菲兹认识鲁迪乌斯·格雷拉特。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0025",
+      "title": "罗森堡冒险者活动",
+      "description": "鲁迪乌斯以泥沼的鲁迪乌斯之名在罗森堡展开冒险者活动并打响名声。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0088"
+      ],
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          60878,
+          60988
+        ]
+      ]
+    },
+    {
+      "event_id": "T0026",
+      "title": "雪地水牛袭击",
+      "description": "鲁迪乌斯与莎拉在深夜森林遭雪地水牛群袭击，密米尔丧生。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0090",
+        "E0092",
+        "E0088"
+      ],
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          63440,
+          63546
+        ]
+      ]
+    },
+    {
+      "event_id": "T0027",
+      "title": "莎拉与鲁迪乌斯决裂",
+      "description": "莎拉对鲁迪乌斯示好，因鲁迪乌斯无法回应而决裂，鲁迪乌斯离开罗森堡。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0090"
+      ],
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          65986,
+          66098
+        ]
+      ]
+    },
+    {
+      "event_id": "T0028",
+      "title": "菲兹压制不良学生",
+      "description": "菲兹单枪匹马击败莉妮亚与普露塞娜，确立爱丽儿在魔法大学的地位。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0061",
+        "E0044",
+        "E0098",
+        "E0099"
+      ],
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          67066,
+          67210
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0009",
+      "character_id": "E0001",
+      "name": "独自冒险期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "艾莉丝离开后独自在中央大陆北部以冒险者身分搜索塞妮丝。",
+      "evidence_volumes": [
+        7
+      ],
+      "evidence_lines": [
+        [
+          59474,
+          59582
+        ]
+      ]
+    }
+  ]
+}

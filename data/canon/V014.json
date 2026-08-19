@@ -1,0 +1,466 @@
+{
+  "batch_id": "V014",
+  "source_volume": 14,
+  "source_unit_ids": [
+    "U0251",
+    "U0252",
+    "U0253",
+    "U0254",
+    "U0255",
+    "U0256",
+    "U0257",
+    "U0258",
+    "U0259",
+    "U0260",
+    "U0261",
+    "U0262",
+    "U0263",
+    "U0264",
+    "U0265",
+    "U0266",
+    "U0267",
+    "U0268"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0129",
+      "name": "阿托菲",
+      "aliases": [
+        "不死魔王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 129170,
+      "description": "魔大陆的不死魔王。"
+    },
+    {
+      "entity_id": "E0130",
+      "name": "希瓦莉尔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 124968,
+      "description": "佩尔基乌斯的使魔。"
+    },
+    {
+      "entity_id": "E0131",
+      "name": "尤尔兹",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 14,
+      "introduced_line": 126962,
+      "description": "空中要塞的治疗师。"
+    },
+    {
+      "entity_id": "E0132",
+      "name": "空中要塞",
+      "aliases": [
+        "Chaos Breaker"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 14,
+      "introduced_line": 124358,
+      "description": "佩尔基乌斯重建的古代空中要塞。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特",
+        "洛琪希·米格路迪亚"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，魔法大学教师。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特",
+        "菲兹"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子。"
+    },
+    {
+      "entity_id": "E0029",
+      "name": "佩尔基乌斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 17520,
+      "description": "杀死魔神的三英雄之一的传说召唤术师，空中要塞之主，甲龙历的命名者。"
+    },
+    {
+      "entity_id": "E0035",
+      "name": "诺克巴拉",
+      "aliases": [
+        "马面男"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 25398,
+      "description": "利卡里斯镇的冒险者，洛琪希的前队友。"
+    },
+    {
+      "entity_id": "E0044",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉",
+      "aliases": [
+        "爱丽儿",
+        "爱丽儿公主",
+        "爱丽儿会长"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "阿斯拉王国第二公主。"
+    },
+    {
+      "entity_id": "E0045",
+      "name": "路克·诺托斯·格雷拉特",
+      "aliases": [
+        "路克"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 28308,
+      "description": "爱丽儿的护卫骑士。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙的天才魔术师。"
+    },
+    {
+      "entity_id": "E0080",
+      "name": "札诺巴",
+      "aliases": [
+        "札诺巴·西隆"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 6,
+      "introduced_line": 52380,
+      "description": "西隆王国第三王子，鲁迪乌斯的弟子。"
+    },
+    {
+      "entity_id": "E0104",
+      "name": "艾莉娜丽洁·杜拉冈罗德",
+      "aliases": [
+        "艾莉娜丽洁"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 69808,
+      "description": "长耳族的冒险者，希露菲的祖母。"
+    },
+    {
+      "entity_id": "E0108",
+      "name": "七星",
+      "aliases": [
+        "白色面具的少女"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 80626,
+      "description": "来自鲁迪乌斯前世的穿越者。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0162",
+      "entity_id": "E0029",
+      "predicate": "身份",
+      "object_value": "空中要塞之主，甲龙历的命名者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          124448,
+          124524
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0163",
+      "entity_id": "E0108",
+      "predicate": "经历",
+      "object_value": "在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          127286,
+          127388
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0164",
+      "entity_id": "E0129",
+      "predicate": "身份",
+      "object_value": "魔大陆的不死魔王",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          129170,
+          129290
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0165",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          127584,
+          127682
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0166",
+      "entity_id": "E0005",
+      "predicate": "经历",
+      "object_value": "怀上鲁迪乌斯的孩子",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          132212,
+          132298
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0167",
+      "entity_id": "E0104",
+      "predicate": "经历",
+      "object_value": "曾为丧失记忆的少女，因诅咒成为荡妇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          125812,
+          125898
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0048",
+      "source_id": "E0035",
+      "target_id": "E0005",
+      "rel_type": "前队友",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          128386,
+          128482
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 14,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0056",
+      "owner_id": "E0001",
+      "fact_id": "F0164",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道阿托菲是不死魔王。"
+    },
+    {
+      "knowledge_id": "K0057",
+      "owner_id": "E0001",
+      "fact_id": "F0166",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道洛琪希怀孕。"
+    },
+    {
+      "knowledge_id": "K0058",
+      "owner_id": "E0001",
+      "fact_id": "F0163",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道七星病倒后获救。"
+    },
+    {
+      "knowledge_id": "K0059",
+      "owner_id": "E0001",
+      "fact_id": "F0167",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道艾莉娜丽洁的过去。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0053",
+      "title": "访问空中要塞",
+      "description": "鲁迪乌斯一行应七星之邀访问佩尔基乌斯的空中要塞。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0108",
+        "E0044",
+        "E0080",
+        "E0065",
+        "E0104",
+        "E0045"
+      ],
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          124358,
+          124446
+        ]
+      ]
+    },
+    {
+      "event_id": "T0054",
+      "title": "七星病倒",
+      "description": "七星在空中要塞期间病倒吐血，经希露菲与尤尔兹治疗获救。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0108",
+        "E0006",
+        "E0001",
+        "E0131"
+      ],
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          126804,
+          126922
+        ]
+      ]
+    },
+    {
+      "event_id": "T0055",
+      "title": "不死魔王阿托菲决斗",
+      "description": "鲁迪乌斯一行在魔大陆与不死魔王阿托菲交锋，佩尔基乌斯及时赶到。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0129",
+        "E0029",
+        "E0065",
+        "E0080"
+      ],
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          129982,
+          130092
+        ]
+      ]
+    },
+    {
+      "event_id": "T0056",
+      "title": "洛琪希怀孕",
+      "description": "鲁迪乌斯得知洛琪希怀孕的消息。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0005",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        14
+      ],
+      "evidence_lines": [
+        [
+          132212,
+          132298
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}

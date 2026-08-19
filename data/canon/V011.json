@@ -1,0 +1,529 @@
+{
+  "batch_id": "V011",
+  "source_volume": 11,
+  "source_unit_ids": [
+    "U0194",
+    "U0195",
+    "U0196",
+    "U0197",
+    "U0198",
+    "U0199",
+    "U0200",
+    "U0201",
+    "U0202",
+    "U0203",
+    "U0204",
+    "U0205",
+    "U0206",
+    "U0207",
+    "U0208",
+    "U0209",
+    "U0210",
+    "U0211",
+    "U0212",
+    "U0213",
+    "U0214"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0118",
+      "name": "加尔邦",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 11,
+      "introduced_line": 104482,
+      "description": "往来于拉庞与提诺里欧之间的贝卡利特行商。"
+    },
+    {
+      "entity_id": "E0119",
+      "name": "巴里巴德姆",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 11,
+      "introduced_line": 104588,
+      "description": "贝卡利特大陆的沙漠战士，拥有魔力眼。"
+    },
+    {
+      "entity_id": "E0120",
+      "name": "卡尔梅丽塔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 11,
+      "introduced_line": 104588,
+      "description": "贝卡利特大陆的女战士。"
+    },
+    {
+      "entity_id": "E0121",
+      "name": "东特",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 11,
+      "introduced_line": 104588,
+      "description": "贝卡利特大陆的沙漠战士，在盗贼袭击中身亡。"
+    },
+    {
+      "entity_id": "E0122",
+      "name": "提诺里欧",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 11,
+      "introduced_line": 104482,
+      "description": "贝卡利特大陆的城镇，加尔邦行商路线的一端。"
+    },
+    {
+      "entity_id": "E0123",
+      "name": "金卡拉",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 11,
+      "introduced_line": 104482,
+      "description": "位于贝卡利特大陆东部的城镇。"
+    },
+    {
+      "entity_id": "E0124",
+      "name": "西南森林",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 11,
+      "introduced_line": 102352,
+      "description": "魔法都市夏利亚附近的森林，藏有通往贝卡利特大陆的转移魔法阵。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，在贝卡利特大陆救援塞妮丝。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，被困于迷宫都市拉庞。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，保罗之妻。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的魔术老师，与保罗一同前往贝卡利特大陆。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与妻子。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，鲁迪乌斯的妹妹，米里斯教徒。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁迪乌斯的妹妹，担任家中的女仆。"
+    },
+    {
+      "entity_id": "E0031",
+      "name": "瑞杰路德·斯佩路迪亚",
+      "aliases": [
+        "瑞杰路德",
+        "Dead End"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 3,
+      "introduced_line": 19984,
+      "description": "斯佩路德族战士。"
+    },
+    {
+      "entity_id": "E0057",
+      "name": "基斯",
+      "aliases": [
+        "猴子脸新人"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 37216,
+      "description": "喜欢赌博的冒险者，寄出塞妮丝求援信的人。"
+    },
+    {
+      "entity_id": "E0065",
+      "name": "克里夫·格利摩尔",
+      "aliases": [
+        "克里夫"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 5,
+      "introduced_line": 44942,
+      "description": "米里斯教团教皇之孙的天才魔术师，米里斯教徒。"
+    },
+    {
+      "entity_id": "E0104",
+      "name": "艾莉娜丽洁·杜拉冈罗德",
+      "aliases": [
+        "艾莉娜丽洁"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 69808,
+      "description": "长耳族的冒险者，希露菲的祖母，与鲁迪乌斯同行前往贝卡利特大陆。"
+    },
+    {
+      "entity_id": "E0108",
+      "name": "七星",
+      "aliases": [
+        "白色面具的少女"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 9,
+      "introduced_line": 80626,
+      "description": "来自鲁迪乌斯前世的穿越者，掌握转移魔法阵的情报。"
+    },
+    {
+      "entity_id": "E0116",
+      "name": "迷宫都市拉庞",
+      "aliases": [
+        "拉庞"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 10,
+      "introduced_line": 96076,
+      "description": "贝卡利特大陆的迷宫都市，塞妮丝被困之地。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0142",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "怀上鲁迪乌斯的孩子",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          100864,
+          100962
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0143",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "决定前往贝卡利特大陆救援塞妮丝",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          101472,
+          101498
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0144",
+      "entity_id": "E0108",
+      "predicate": "经历",
+      "object_value": "提供记载世界各地转移魔法阵遗迹位置的地图",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          101976,
+          102068
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0145",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          102688,
+          102792
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0146",
+      "entity_id": "E0121",
+      "predicate": "经历",
+      "object_value": "在沙漠旅程中遭盗贼毒箭身亡",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          104976,
+          105060
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0147",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "为鲁迪乌斯的平安每日祈祷",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          105232,
+          105332
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0148",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "被困于拉庞难以救出",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          101176,
+          101262
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 11,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [],
+  "knowledge": [
+    {
+      "knowledge_id": "K0044",
+      "owner_id": "E0001",
+      "fact_id": "F0142",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道希露菲怀孕。"
+    },
+    {
+      "knowledge_id": "K0045",
+      "owner_id": "E0001",
+      "fact_id": "F0143",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯决定前往贝卡利特大陆。"
+    },
+    {
+      "knowledge_id": "K0046",
+      "owner_id": "E0001",
+      "fact_id": "F0144",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道七星提供了转移魔法阵地图。"
+    },
+    {
+      "knowledge_id": "K0047",
+      "owner_id": "E0001",
+      "fact_id": "F0148",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝在拉庞难以救出。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0041",
+      "title": "转折点三",
+      "description": "希露菲怀孕；鲁迪乌斯收到基斯的求援信，得知塞妮丝难以救出。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0057",
+        "E0003"
+      ],
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          101176,
+          101262
+        ]
+      ]
+    },
+    {
+      "event_id": "T0042",
+      "title": "转移至贝卡利特大陆",
+      "description": "鲁迪乌斯与艾莉娜丽洁利用西南森林的转移魔法阵抵达贝卡利特大陆。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0104"
+      ],
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          102688,
+          102792
+        ]
+      ]
+    },
+    {
+      "event_id": "T0043",
+      "title": "沙漠旅程",
+      "description": "鲁迪乌斯与艾莉娜丽洁穿越贝卡利特大陆沙漠，途中遭遇众多魔物与盗贼。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0104"
+      ],
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          103292,
+          103386
+        ]
+      ]
+    },
+    {
+      "event_id": "T0044",
+      "title": "抵达拉庞",
+      "description": "经过约一个半月的旅程，鲁迪乌斯与艾莉娜丽洁抵达迷宫都市拉庞。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0104"
+      ],
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          105216,
+          105228
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0012",
+      "character_id": "E0001",
+      "name": "贝卡利特大陆之旅",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "为救援塞妮丝前往贝卡利特大陆的旅程。",
+      "evidence_volumes": [
+        11
+      ],
+      "evidence_lines": [
+        [
+          102352,
+          102418
+        ]
+      ]
+    }
+  ]
+}

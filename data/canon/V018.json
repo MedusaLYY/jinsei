@@ -1,0 +1,368 @@
+{
+  "batch_id": "V018",
+  "source_volume": 18,
+  "source_unit_ids": [
+    "U0316",
+    "U0317",
+    "U0318",
+    "U0319",
+    "U0320",
+    "U0321",
+    "U0322",
+    "U0323",
+    "U0324",
+    "U0325",
+    "U0326",
+    "U0327",
+    "U0328",
+    "U0329",
+    "U0330",
+    "U0331",
+    "U0332",
+    "U0333"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0148",
+      "name": "莉妮亚",
+      "aliases": [
+        "猫耳女仆"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 18,
+      "introduced_line": 161114,
+      "description": "猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身，现为女仆与鲁德佣兵团团长。"
+    },
+    {
+      "entity_id": "E0149",
+      "name": "菈菈·格雷拉特",
+      "aliases": [
+        "菈菈"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 18,
+      "introduced_line": 160886,
+      "description": "洛琪希与鲁迪乌斯的女儿，受圣兽雷欧守护。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯",
+        "泥沼的鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐",
+        "洛琪希·M·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "鲁迪乌斯的老师与第二名妻子，菈菈的母亲，魔法大学教师。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露菲叶特·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯的青梅竹马与第一名妻子，露西的母亲。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [
+        "诺伦·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，魔法大学学生会会长，决定成为冒险者。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，家中女仆，鲁德佣兵团的实质经营者。"
+    },
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "狂剑王"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王，鲁迪乌斯的第三名妻子，怀孕中。"
+    },
+    {
+      "entity_id": "E0054",
+      "name": "裘耶斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 4,
+      "introduced_line": 36174,
+      "description": "德路迪亚族的战士长，莉妮亚的父亲。"
+    },
+    {
+      "entity_id": "E0099",
+      "name": "普露塞娜",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 7,
+      "introduced_line": 66958,
+      "description": "德路迪亚族的少女，加入鲁德佣兵团与格雷拉特家。"
+    },
+    {
+      "entity_id": "E0106",
+      "name": "茱丽叶特",
+      "aliases": [
+        "茱丽"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 8,
+      "introduced_line": 73696,
+      "description": "矿坑族的少女，札诺巴的奴隶，现为出色的人偶师。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0185",
+      "entity_id": "E0149",
+      "predicate": "身份",
+      "object_value": "洛琪希与鲁迪乌斯的女儿",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          160886,
+          161004
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0186",
+      "entity_id": "E0148",
+      "predicate": "身份",
+      "object_value": "猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          165644,
+          165740
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0187",
+      "entity_id": "E0008",
+      "predicate": "经历",
+      "object_value": "与莉妮亚共同创立鲁德佣兵团",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          164810,
+          164900
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0188",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "当选魔法大学学生会会长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          161736,
+          161840
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0189",
+      "entity_id": "E0007",
+      "predicate": "经历",
+      "object_value": "决定成为冒险者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          168106,
+          168228
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0052",
+      "source_id": "E0054",
+      "target_id": "E0148",
+      "rel_type": "父女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          165644,
+          165740
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0072",
+      "owner_id": "E0001",
+      "fact_id": "F0185",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道菈菈是洛琪希的女儿。"
+    },
+    {
+      "knowledge_id": "K0073",
+      "owner_id": "E0001",
+      "fact_id": "F0186",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道莉妮亚是裘耶斯之女。"
+    },
+    {
+      "knowledge_id": "K0074",
+      "owner_id": "E0007",
+      "fact_id": "F0188",
+      "certainty": "EXPLICIT",
+      "note": "诺伦知道自己当选学生会会长。"
+    },
+    {
+      "knowledge_id": "K0075",
+      "owner_id": "E0007",
+      "fact_id": "F0189",
+      "certainty": "EXPLICIT",
+      "note": "诺伦决定成为冒险者。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0068",
+      "title": "鲁德佣兵团创立",
+      "description": "鲁迪乌斯与爱夏、莉妮亚创立鲁德佣兵团。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0008",
+        "E0148"
+      ],
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          164810,
+          164900
+        ]
+      ]
+    },
+    {
+      "event_id": "T0069",
+      "title": "德路迪亚村再访",
+      "description": "鲁迪乌斯、莉妮亚与雷欧再访德路迪亚村，确认莉妮亚的身世。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0148",
+        "E0054"
+      ],
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          165176,
+          165322
+        ]
+      ]
+    },
+    {
+      "event_id": "T0070",
+      "title": "诺伦学生会会长就任",
+      "description": "诺伦在入学典礼上作为学生会会长致词。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0007"
+      ],
+      "evidence_volumes": [
+        18
+      ],
+      "evidence_lines": [
+        [
+          161736,
+          161840
+        ]
+      ]
+    }
+  ],
+  "phases": []
+}
