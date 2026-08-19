@@ -1,0 +1,933 @@
+{
+  "batch_id": "V002",
+  "source_volume": 2,
+  "source_unit_ids": [
+    "U0022",
+    "U0023",
+    "U0024",
+    "U0025",
+    "U0026",
+    "U0027",
+    "U0028",
+    "U0029",
+    "U0030",
+    "U0031",
+    "U0032",
+    "U0033",
+    "U0034",
+    "U0035",
+    "U0036",
+    "U0037",
+    "U0038",
+    "U0039"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0021",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "艾莉丝",
+        "艾莉丝·B·格雷拉特"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "菲托亚领主的孙女，红发凶暴的贵族大小姐。"
+    },
+    {
+      "entity_id": "E0022",
+      "name": "基列奴·泰德鲁帝亚",
+      "aliases": [
+        "基列奴"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9822,
+      "description": "剑王级女剑士，泰德鲁帝亚族兽族，鲁迪乌斯的第二位师父。"
+    },
+    {
+      "entity_id": "E0023",
+      "name": "绍罗斯·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "绍罗斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9950,
+      "description": "菲托亚领主，保罗的叔父，艾莉丝的祖父。"
+    },
+    {
+      "entity_id": "E0024",
+      "name": "菲利普·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "菲利普"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9950,
+      "description": "绍罗斯之子，罗亚市长，艾莉丝的父亲。"
+    },
+    {
+      "entity_id": "E0025",
+      "name": "希尔达·伯雷亚斯·格雷拉特",
+      "aliases": [
+        "希尔达"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 12522,
+      "description": "菲利普之妻，艾莉丝的母亲，红发。"
+    },
+    {
+      "entity_id": "E0026",
+      "name": "艾德娜·列伦",
+      "aliases": [
+        "艾德娜"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 12756,
+      "description": "教导艾莉丝礼仪规矩的家庭教师。"
+    },
+    {
+      "entity_id": "E0027",
+      "name": "汤马斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 9950,
+      "description": "伯雷亚斯家管家，因金钱背叛主家。"
+    },
+    {
+      "entity_id": "E0028",
+      "name": "阿尔曼菲",
+      "aliases": [
+        "光辉的阿尔曼菲"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 17096,
+      "description": "佩尔基乌斯的十二使魔之一，职掌光的精灵，能以光速移动。"
+    },
+    {
+      "entity_id": "E0029",
+      "name": "佩尔基乌斯",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 2,
+      "introduced_line": 17520,
+      "description": "杀死魔神的三英雄之一的传说召唤术师，掌控十二使魔。"
+    },
+    {
+      "entity_id": "E0030",
+      "name": "威汀",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 2,
+      "introduced_line": 11078,
+      "description": "距离罗亚两个城镇的小城镇。"
+    },
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，菲托亚领布埃纳村的下级骑士。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，能使用治愈魔术的前冒险者。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，原阿斯拉王国后宫禁卫侍女。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露弗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的少女。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，鲁迪乌斯的妹妹。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁迪乌斯的妹妹。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0023",
+      "entity_id": "E0021",
+      "predicate": "身份",
+      "object_value": "菲托亚领主的孙女",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          10216,
+          10390
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0024",
+      "entity_id": "E0021",
+      "predicate": "性格",
+      "object_value": "凶暴任性",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          10216,
+          10390
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0025",
+      "entity_id": "E0021",
+      "predicate": "擅长",
+      "object_value": "剑神流初级",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          10548,
+          10662
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0026",
+      "entity_id": "E0021",
+      "predicate": "擅长",
+      "object_value": "剑神流中级",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          13514,
+          13610
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0027",
+      "entity_id": "E0021",
+      "predicate": "擅长",
+      "object_value": "剑神流上级",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          15498,
+          15620
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0028",
+      "entity_id": "E0021",
+      "predicate": "经历",
+      "object_value": "被鲁迪乌斯救出绑架事件",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          11480,
+          11628
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0029",
+      "entity_id": "E0022",
+      "predicate": "身份",
+      "object_value": "剑王级剑士",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          9822,
+          9948
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0030",
+      "entity_id": "E0022",
+      "predicate": "身份",
+      "object_value": "剑神流第四强",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          14956,
+          15078
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0031",
+      "entity_id": "E0022",
+      "predicate": "身份",
+      "object_value": "泰德鲁帝亚族兽族",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          11480,
+          11628
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0032",
+      "entity_id": "E0022",
+      "predicate": "经历",
+      "object_value": "前黑狼之牙队员",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          12188,
+          12304
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0033",
+      "entity_id": "E0022",
+      "predicate": "擅长",
+      "object_value": "魔眼",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          17252,
+          17354
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0034",
+      "entity_id": "E0023",
+      "predicate": "身份",
+      "object_value": "菲托亚领主",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          9950,
+          10076
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0035",
+      "entity_id": "E0024",
+      "predicate": "身份",
+      "object_value": "罗亚市长",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          11698,
+          11816
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0036",
+      "entity_id": "E0027",
+      "predicate": "经历",
+      "object_value": "因金钱背叛主家",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          11698,
+          11816
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0037",
+      "entity_id": "E0028",
+      "predicate": "身份",
+      "object_value": "佩尔基乌斯的十二使魔之一",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          17096,
+          17250
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0038",
+      "entity_id": "E0028",
+      "predicate": "擅长",
+      "object_value": "光速移动",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          17520,
+          17634
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0039",
+      "entity_id": "E0006",
+      "predicate": "身份",
+      "object_value": "长耳族血统",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          10078,
+          10214
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0040",
+      "entity_id": "E0001",
+      "predicate": "擅长",
+      "object_value": "水圣级魔术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          12522,
+          12654
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0041",
+      "entity_id": "E0004",
+      "predicate": "身份",
+      "object_value": "保罗之妻",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          17798,
+          17944
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0042",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "因转移事件与艾莉丝一同被传送他处",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          17636,
+          17646
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0012",
+      "source_id": "E0022",
+      "target_id": "E0001",
+      "rel_type": "师徒",
+      "kind": "MENTOR",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          9822,
+          9948
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0013",
+      "source_id": "E0001",
+      "target_id": "E0021",
+      "rel_type": "师徒",
+      "kind": "MENTOR",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          11630,
+          11694
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0014",
+      "source_id": "E0023",
+      "target_id": "E0021",
+      "rel_type": "祖孙",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          9950,
+          10076
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0015",
+      "source_id": "E0024",
+      "target_id": "E0021",
+      "rel_type": "父女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          9950,
+          10076
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0016",
+      "source_id": "E0025",
+      "target_id": "E0021",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          12522,
+          12654
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0017",
+      "source_id": "E0023",
+      "target_id": "E0001",
+      "rel_type": "叔公与侄孙",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          9950,
+          10076
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0018",
+      "source_id": "E0022",
+      "target_id": "E0002",
+      "rel_type": "旧队友",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          12188,
+          12304
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0019",
+      "source_id": "E0001",
+      "target_id": "E0021",
+      "rel_type": "再从姊弟",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          10216,
+          10390
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0007",
+      "owner_id": "E0001",
+      "fact_id": "F0023",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道艾莉丝是菲托亚领主的孙女。"
+    },
+    {
+      "knowledge_id": "K0008",
+      "owner_id": "E0001",
+      "fact_id": "F0031",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道基列奴是泰德鲁帝亚族。"
+    },
+    {
+      "knowledge_id": "K0009",
+      "owner_id": "E0001",
+      "fact_id": "F0029",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道基列奴是剑王级剑士。"
+    },
+    {
+      "knowledge_id": "K0010",
+      "owner_id": "E0021",
+      "fact_id": "F0040",
+      "certainty": "EXPLICIT",
+      "note": "艾莉丝知道鲁迪乌斯是水圣级魔术师。"
+    },
+    {
+      "knowledge_id": "K0011",
+      "owner_id": "E0001",
+      "fact_id": "F0037",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道阿尔曼菲是佩尔基乌斯的使魔。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0005",
+      "title": "绑架事件",
+      "description": "鲁迪乌斯与艾莉丝遭无赖绑架，鲁迪乌斯带艾莉丝逃脱，基列奴击杀绑匪。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022",
+        "E0027"
+      ],
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          11078,
+          11218
+        ]
+      ]
+    },
+    {
+      "event_id": "T0006",
+      "title": "艾莉丝十岁生日宴",
+      "description": "艾莉丝十岁生日举办大型宴会，鲁迪乌斯担任其最初的舞伴。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0021",
+        "E0001",
+        "E0023"
+      ],
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          14024,
+          14134
+        ]
+      ]
+    },
+    {
+      "event_id": "T0007",
+      "title": "鲁迪乌斯十岁庆生会",
+      "description": "艾莉丝主办鲁迪乌斯的十岁庆生会，赠送魔杖傲慢水龙王。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022",
+        "E0023",
+        "E0024",
+        "E0025"
+      ],
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          16030,
+          16140
+        ]
+      ]
+    },
+    {
+      "event_id": "T0008",
+      "title": "转移事件",
+      "description": "天空异变引发大规模魔力灾害，菲托亚领地消失，居民被传送到世界各地。",
+      "date": "417-1",
+      "date_precision": "YEAR_ONLY",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0002",
+        "E0003",
+        "E0004",
+        "E0007",
+        "E0008",
+        "E0022"
+      ],
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          17520,
+          17634
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0002",
+      "character_id": "E0021",
+      "name": "幼年期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "罗亚伯雷亚斯家的幼年时期，凶暴的贵族大小姐。",
+      "evidence_volumes": [
+        2
+      ],
+      "evidence_lines": [
+        [
+          10216,
+          10390
+        ]
+      ]
+    }
+  ]
+}

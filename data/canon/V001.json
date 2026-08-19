@@ -1,0 +1,1003 @@
+{
+  "batch_id": "V001",
+  "source_volume": 1,
+  "source_unit_ids": [
+    "U0001",
+    "U0002",
+    "U0003",
+    "U0004",
+    "U0005",
+    "U0006",
+    "U0007",
+    "U0008",
+    "U0009",
+    "U0010",
+    "U0011",
+    "U0012",
+    "U0013",
+    "U0014",
+    "U0015",
+    "U0016",
+    "U0017",
+    "U0018",
+    "U0019",
+    "U0020",
+    "U0021"
+  ],
+  "entities": [
+    {
+      "entity_id": "E0001",
+      "name": "鲁迪乌斯·格雷拉特",
+      "aliases": [
+        "鲁迪",
+        "鲁迪乌斯"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "携带前世记忆转生的格雷拉特家长男。"
+    },
+    {
+      "entity_id": "E0002",
+      "name": "保罗·格雷拉特",
+      "aliases": [
+        "保罗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的父亲，菲托亚领布埃纳村的下级骑士。"
+    },
+    {
+      "entity_id": "E0003",
+      "name": "塞妮丝·格雷拉特",
+      "aliases": [
+        "塞妮丝",
+        "泽妮丝"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 286,
+      "description": "鲁迪乌斯的母亲，能使用治愈魔术的前冒险者。"
+    },
+    {
+      "entity_id": "E0004",
+      "name": "莉莉雅",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "格雷拉特家的女仆，原阿斯拉王国后宫禁卫侍女。"
+    },
+    {
+      "entity_id": "E0005",
+      "name": "洛琪希",
+      "aliases": [
+        "洛琪希小姐"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 1840,
+      "description": "受聘担任鲁迪乌斯家庭教师的水圣级魔术师，米格路德族魔族。"
+    },
+    {
+      "entity_id": "E0006",
+      "name": "希露菲叶特",
+      "aliases": [
+        "希露菲",
+        "希露弗"
+      ],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 3970,
+      "description": "鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的少女。"
+    },
+    {
+      "entity_id": "E0007",
+      "name": "诺伦",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与塞妮丝的女儿，鲁迪乌斯的妹妹。"
+    },
+    {
+      "entity_id": "E0008",
+      "name": "爱夏",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 6506,
+      "description": "保罗与莉莉雅的女儿，鲁迪乌斯的妹妹。"
+    },
+    {
+      "entity_id": "E0009",
+      "name": "布埃纳村",
+      "aliases": [
+        "布耶纳村"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "菲托亚区域边缘的小村庄，格雷拉特家的所在。"
+    },
+    {
+      "entity_id": "E0010",
+      "name": "阿斯拉王国",
+      "aliases": [
+        "阿斯拉"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "故事主要舞台所在的王国，治安与气候良好。"
+    },
+    {
+      "entity_id": "E0011",
+      "name": "菲托亚领",
+      "aliases": [
+        "菲托亚区域",
+        "菲托亚领地"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "阿斯拉王国东北部的广大农业边境地区。"
+    },
+    {
+      "entity_id": "E0012",
+      "name": "罗亚",
+      "aliases": [
+        "要塞都市罗亚"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 594,
+      "description": "菲托亚领主居住的要塞都市。"
+    },
+    {
+      "entity_id": "E0013",
+      "name": "魔法大学",
+      "aliases": [],
+      "kind": "ORGANIZATION",
+      "introduced_volume": 1,
+      "introduced_line": 3074,
+      "description": "传授魔术的高等学府，洛琪希的母校。"
+    },
+    {
+      "entity_id": "E0014",
+      "name": "米里斯神圣国",
+      "aliases": [
+        "米里斯"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 8072,
+      "description": "塞妮丝的出生国，历史悠久而刻板。"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F0001",
+      "entity_id": "E0001",
+      "predicate": "身份",
+      "object_value": "格雷拉特家长男",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1576,
+          1716
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0002",
+      "entity_id": "E0001",
+      "predicate": "身份",
+      "object_value": "携带前世记忆的转生者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          286,
+          420
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0003",
+      "entity_id": "E0001",
+      "predicate": "擅长",
+      "object_value": "无咏唱魔术",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1978,
+          2140
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0004",
+      "entity_id": "E0001",
+      "predicate": "擅长",
+      "object_value": "上级魔术",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          2826,
+          2944
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0005",
+      "entity_id": "E0001",
+      "predicate": "擅长",
+      "object_value": "水王级魔术",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7148,
+          7280
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0006",
+      "entity_id": "E0002",
+      "predicate": "身份",
+      "object_value": "下级骑士、下级贵族",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1840,
+          1976
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0007",
+      "entity_id": "E0002",
+      "predicate": "擅长",
+      "object_value": "剑神流上级剑士",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          2946,
+          3072
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0008",
+      "entity_id": "E0002",
+      "predicate": "经历",
+      "object_value": "曾为冒险者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          594,
+          712
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0009",
+      "entity_id": "E0003",
+      "predicate": "擅长",
+      "object_value": "治愈魔术",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          422,
+          554
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0010",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "有名的冒险者",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          422,
+          554
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0011",
+      "entity_id": "E0003",
+      "predicate": "经历",
+      "object_value": "出生于米里斯神圣国",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          8072,
+          8166
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0012",
+      "entity_id": "E0004",
+      "predicate": "身份",
+      "object_value": "阿斯拉王国后宫禁卫侍女",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          594,
+          712
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0013",
+      "entity_id": "E0004",
+      "predicate": "经历",
+      "object_value": "因暗杀事件中毒伤脚退役",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          594,
+          712
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0014",
+      "entity_id": "E0004",
+      "predicate": "住处",
+      "object_value": "格雷拉特家",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          714,
+          838
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0015",
+      "entity_id": "E0005",
+      "predicate": "身份",
+      "object_value": "水圣级魔术师",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          2946,
+          3072
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0016",
+      "entity_id": "E0005",
+      "predicate": "身份",
+      "object_value": "米格路德族魔族",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          2430,
+          2568
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0017",
+      "entity_id": "E0006",
+      "predicate": "外貌",
+      "object_value": "翠绿色头发",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          5482,
+          5582
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0018",
+      "entity_id": "E0006",
+      "predicate": "擅长",
+      "object_value": "中级无咏唱魔术",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6290,
+          6388
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0019",
+      "entity_id": "E0007",
+      "predicate": "身份",
+      "object_value": "保罗与塞妮丝之女",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0020",
+      "entity_id": "E0008",
+      "predicate": "身份",
+      "object_value": "保罗与莉莉雅之女",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0021",
+      "entity_id": "E0001",
+      "predicate": "住处",
+      "object_value": "布埃纳村",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          422,
+          554
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0022",
+      "entity_id": "E0001",
+      "predicate": "年纪",
+      "object_value": "七岁",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6518,
+          6610
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R0001",
+      "source_id": "E0002",
+      "target_id": "E0001",
+      "rel_type": "父子",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1576,
+          1716
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0002",
+      "source_id": "E0003",
+      "target_id": "E0001",
+      "rel_type": "母子",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1576,
+          1716
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0003",
+      "source_id": "E0005",
+      "target_id": "E0001",
+      "rel_type": "师徒",
+      "kind": "MENTOR",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1840,
+          1976
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0004",
+      "source_id": "E0002",
+      "target_id": "E0007",
+      "rel_type": "父女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0005",
+      "source_id": "E0003",
+      "target_id": "E0007",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0006",
+      "source_id": "E0002",
+      "target_id": "E0008",
+      "rel_type": "父女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0007",
+      "source_id": "E0004",
+      "target_id": "E0008",
+      "rel_type": "母女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0008",
+      "source_id": "E0001",
+      "target_id": "E0007",
+      "rel_type": "兄妹",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6518,
+          6610
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0009",
+      "source_id": "E0001",
+      "target_id": "E0008",
+      "rel_type": "兄妹",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6518,
+          6610
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0010",
+      "source_id": "E0001",
+      "target_id": "E0006",
+      "rel_type": "朋友",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4534,
+          4632
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0011",
+      "source_id": "E0004",
+      "target_id": "E0002",
+      "rel_type": "同门",
+      "kind": "ORGANIZATIONAL",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          594,
+          712
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    }
+  ],
+  "knowledge": [
+    {
+      "knowledge_id": "K0001",
+      "owner_id": "E0001",
+      "fact_id": "F0002",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯清楚自己携带前世记忆转生。"
+    },
+    {
+      "knowledge_id": "K0002",
+      "owner_id": "E0002",
+      "fact_id": "F0004",
+      "certainty": "EXPLICIT",
+      "note": "保罗知道鲁迪乌斯能使用上级魔术。"
+    },
+    {
+      "knowledge_id": "K0003",
+      "owner_id": "E0003",
+      "fact_id": "F0004",
+      "certainty": "EXPLICIT",
+      "note": "塞妮丝认定鲁迪乌斯是魔术天才。"
+    },
+    {
+      "knowledge_id": "K0004",
+      "owner_id": "E0001",
+      "fact_id": "F0006",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道保罗是下级骑士。"
+    },
+    {
+      "knowledge_id": "K0005",
+      "owner_id": "E0001",
+      "fact_id": "F0015",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道洛琪希是水圣级魔术师。"
+    },
+    {
+      "knowledge_id": "K0006",
+      "owner_id": "E0001",
+      "fact_id": "F0009",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪乌斯知道塞妮丝会治愈魔术。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T0001",
+      "title": "转生",
+      "description": "三十四岁的尼特族为救人被卡车撞死，携带记忆转生为婴儿鲁迪乌斯。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          286,
+          420
+        ]
+      ]
+    },
+    {
+      "event_id": "T0002",
+      "title": "魔术曝光",
+      "description": "三岁的鲁迪乌斯用水炮魔术打穿墙壁，魔术才能曝光。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1576,
+          1716
+        ]
+      ]
+    },
+    {
+      "event_id": "T0003",
+      "title": "洛琪希任教",
+      "description": "水圣级魔术师洛琪希受聘担任鲁迪乌斯的家庭教师。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0005",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          1840,
+          1976
+        ]
+      ]
+    },
+    {
+      "event_id": "T0004",
+      "title": "双胞胎诞生",
+      "description": "塞妮丝生下诺伦，莉莉雅生下爱夏。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0007",
+        "E0008",
+        "E0002",
+        "E0003",
+        "E0004"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          6506,
+          6514
+        ]
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": "P0001",
+      "character_id": "E0001",
+      "name": "幼年期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "summary": "转生后在布埃纳村度过的幼年时期，学习魔术与剑术。",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          286,
+          420
+        ]
+      ]
+    }
+  ]
+}

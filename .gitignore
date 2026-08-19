@@ -27,6 +27,20 @@ backups/*
 exports/*
 !exports/.gitkeep
 
+# Canon database artifacts (keep authored extraction under data/canon/ versioned)
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/PROVENANCE.json
+data/parsed/*
+!data/parsed/.gitkeep
+data/indexes/*
+!data/indexes/.gitkeep
+data/db/*
+!data/db/.gitkeep
+
+# Verification reports are generated; extraction candidates stay versioned
+data/canon/*.report.json
+
 # Local editor and operating-system files
 .idea/
 .vscode/
