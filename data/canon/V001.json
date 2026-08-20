@@ -174,6 +174,66 @@
       "introduced_volume": 1,
       "introduced_line": 8072,
       "description": "塞妮丝的出生国，历史悠久而刻板。"
+    },
+    {
+      "entity_id": "E0015",
+      "name": "罗尔兹",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 4566,
+      "description": "半长耳族猎人，看守村外森林塔楼的守塔人，希露菲的父亲。"
+    },
+    {
+      "entity_id": "E0016",
+      "name": "索马尔",
+      "aliases": [],
+      "kind": "CHARACTER",
+      "introduced_volume": 1,
+      "introduced_line": 4675,
+      "description": "布埃纳村艾特家的儿子，带头霸凌希露菲的顽童。"
+    },
+    {
+      "entity_id": "E0017",
+      "name": "格雷拉特家宅",
+      "aliases": [
+        "格雷拉特家"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 772,
+      "description": "布埃纳村内保罗一家的宅邸，鲁迪的成长之所。"
+    },
+    {
+      "entity_id": "E0018",
+      "name": "布埃纳村森林",
+      "aliases": [
+        "森林"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 4108,
+      "description": "布埃纳村外的森林，因魔力沉滞而有魔物出没，村民定期清扫。"
+    },
+    {
+      "entity_id": "E0019",
+      "name": "山丘大树",
+      "aliases": [
+        "山丘"
+      ],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 4126,
+      "description": "布埃纳村外小山丘上孤零零的大树，鲁迪与希露菲的秘密基地。"
+    },
+    {
+      "entity_id": "E0020",
+      "name": "龙神孔",
+      "aliases": [],
+      "kind": "LOCATION",
+      "introduced_volume": 1,
+      "introduced_line": 6730,
+      "description": "位于中央大陆龙鸣山山麓的迷宫，约一万年前已存在，会捕食赤龙，记载于《三剑士与迷宫》。"
     }
   ],
   "facts": [
@@ -638,6 +698,279 @@
       "confidence": "EXPLICIT",
       "visible_from_volume": 1,
       "visible_to_volume": null
+    },
+    {
+      "fact_id": "F0023",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "五岁起随保罗学习剑术，获赠真剑与木剑",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          2833,
+          3003
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0024",
+      "entity_id": "E0001",
+      "predicate": "擅长",
+      "object_value": "混合魔术（以无咏唱并用多个魔术）",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          5187,
+          5274
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0025",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "洛琪希的毕业考中现学水圣级魔术豪雷积雨云并合格",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          3476,
+          3724
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0026",
+      "entity_id": "E0006",
+      "predicate": "身份",
+      "object_value": "罗尔兹之女",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4566,
+          4570
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0027",
+      "entity_id": "E0006",
+      "predicate": "性别",
+      "object_value": "女孩子（鲁迪一度误认为男孩）",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          5503,
+          5525
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0028",
+      "entity_id": "E0015",
+      "predicate": "身份",
+      "object_value": "半长耳族猎人、森林塔楼看守",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4556,
+          4567
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0029",
+      "entity_id": "E0016",
+      "predicate": "身份",
+      "object_value": "艾特家之子，带头欺负希露菲的顽童",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4674,
+          4908
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0030",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "以魔术制止霸凌，救下希露菲",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4811,
+          5064
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0031",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "七岁时提议就读魔法大学，因学费与年龄被家人婉拒",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7198,
+          7282
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0032",
+      "entity_id": "E0001",
+      "predicate": "经历",
+      "object_value": "七岁受雇前往罗亚担任大小姐的家庭教师",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7747,
+          7855
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0033",
+      "entity_id": "E0002",
+      "predicate": "行为",
+      "object_value": "为让鲁迪独立，打昏他并委托基列奴送往罗亚",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7897,
+          7905
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0034",
+      "entity_id": "E0006",
+      "predicate": "行为",
+      "object_value": "以无咏唱中级魔术攻击保罗，试图救回被绑的鲁迪",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7902,
+          7906
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
+    },
+    {
+      "fact_id": "F0035",
+      "entity_id": "E0006",
+      "predicate": "经历",
+      "object_value": "主动向莉莉雅请求学习贵族礼节",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          9309,
+          9346
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN"
     }
   ],
   "relationships": [
@@ -849,6 +1182,82 @@
       "confidence": "EXPLICIT",
       "visible_from_volume": 1,
       "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0012",
+      "source_id": "E0015",
+      "target_id": "E0006",
+      "rel_type": "父女",
+      "kind": "FAMILY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4566,
+          4570
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0013",
+      "source_id": "E0016",
+      "target_id": "E0006",
+      "rel_type": "霸凌",
+      "kind": "ENEMY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4674,
+          4908
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0014",
+      "source_id": "E0015",
+      "target_id": "E0001",
+      "rel_type": "相识",
+      "kind": "FRIEND",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4566,
+          4583
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "relationship_id": "R0015",
+      "source_id": "E0016",
+      "target_id": "E0001",
+      "rel_type": "敌对",
+      "kind": "ENEMY",
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          5058,
+          5064
+        ]
+      ],
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
     }
   ],
   "knowledge": [
@@ -893,6 +1302,34 @@
       "fact_id": "F0009",
       "certainty": "EXPLICIT",
       "note": "鲁迪乌斯知道塞妮丝会治愈魔术。"
+    },
+    {
+      "knowledge_id": "K0007",
+      "owner_id": "E0001",
+      "fact_id": "F0027",
+      "certainty": "EXPLICIT",
+      "note": "鲁迪知道希露菲是女孩子。"
+    },
+    {
+      "knowledge_id": "K0008",
+      "owner_id": "E0002",
+      "fact_id": "F0031",
+      "certainty": "EXPLICIT",
+      "note": "保罗知道鲁迪想去魔法大学就读。"
+    },
+    {
+      "knowledge_id": "K0009",
+      "owner_id": "E0003",
+      "fact_id": "F0027",
+      "certainty": "EXPLICIT",
+      "note": "塞妮丝知道希露菲是女孩子。"
+    },
+    {
+      "knowledge_id": "K0010",
+      "owner_id": "E0006",
+      "fact_id": "F0035",
+      "certainty": "EXPLICIT",
+      "note": "希露菲清楚自己开始学习贵族礼节。"
     }
   ],
   "events": [
@@ -976,6 +1413,133 @@
         [
           6506,
           6514
+        ]
+      ]
+    },
+    {
+      "event_id": "T0005",
+      "title": "洛琪希毕业",
+      "description": "洛琪希以水圣级魔术豪雷积雨云通过毕业考，赠鲁迪米格路德族护身符后离开。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0005",
+        "E0001"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          3476,
+          3858
+        ]
+      ]
+    },
+    {
+      "event_id": "T0006",
+      "title": "希露菲救援",
+      "description": "鲁迪目睹希露菲被霸凌，用魔术赶走施暴者并救下她。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0016"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4811,
+          5064
+        ]
+      ]
+    },
+    {
+      "event_id": "T0007",
+      "title": "索马尔事件",
+      "description": "艾特太太上门告状，保罗冤枉鲁迪，弄清真相后向儿子道歉。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0016"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          4674,
+          4908
+        ]
+      ]
+    },
+    {
+      "event_id": "T0008",
+      "title": "紧急家族会议",
+      "description": "莉莉雅怀孕曝光，塞妮丝在鲁迪劝解下接纳莉莉雅为家人。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003",
+        "E0004"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          5860,
+          6288
+        ]
+      ]
+    },
+    {
+      "event_id": "T0009",
+      "title": "魔法大学请求",
+      "description": "鲁迪提议前往魔法大学就读，因学费与年龄问题被家人婉拒。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7198,
+          7282
+        ]
+      ]
+    },
+    {
+      "event_id": "T0010",
+      "title": "启程罗亚",
+      "description": "保罗打昏鲁迪并托基列奴护送，鲁迪启程前往罗亚担任家教。",
+      "date": null,
+      "date_precision": "UNKNOWN",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0002",
+        "E0015"
+      ],
+      "evidence_volumes": [
+        1
+      ],
+      "evidence_lines": [
+        [
+          7897,
+          7983
         ]
       ]
     }

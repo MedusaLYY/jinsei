@@ -1,0 +1,5607 @@
+{
+  "abilities": [
+    {
+      "ability_id": "AB0001",
+      "ability_type": "MAGIC",
+      "aliases": [
+        "省略咏唱"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "省略咏唱发动魔术",
+        "可自由调整产生/大小/速度"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV0009",
+        "EV0011"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "learning_method": [
+        "重现魔力流动感觉",
+        "反复练习"
+      ],
+      "limitations": [
+        "教科书未记载",
+        "通常需数十年练习"
+      ],
+      "mana_cost_if_known": null,
+      "name": "无咏唱魔术",
+      "preconditions": [
+        "理解魔力流动原理",
+        "自行完成产生+大小+速度+发动"
+      ],
+      "qualitative_power": "被视为不一般的技巧；鲁迪初学即能使用",
+      "range_if_known": null,
+      "requirements": [],
+      "school": "魔术",
+      "stamina_cost_if_known": null,
+      "tier": "高级技巧（通常）"
+    },
+    {
+      "ability_id": "AB0002",
+      "ability_type": "MAGIC",
+      "aliases": [
+        "水球"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "射出水球造成冲击",
+        "可调整大小与速度"
+      ],
+      "element": "水",
+      "evidence_refs": [
+        "EV0009",
+        "EV0011",
+        "EV0014"
+      ],
+      "known_users": [
+        "E0001",
+        "E0005"
+      ],
+      "learning_method": [
+        "咏唱",
+        "无咏唱练习"
+      ],
+      "limitations": [
+        "射程受魔力操作影响"
+      ],
+      "mana_cost_if_known": "基准消耗（设定为1）",
+      "name": "水弹（Water Ball）",
+      "preconditions": [
+        "咏唱或无咏唱"
+      ],
+      "qualitative_power": "入门攻击魔术",
+      "range_if_known": null,
+      "requirements": [
+        "魔力"
+      ],
+      "school": "魔术",
+      "stamina_cost_if_known": null,
+      "tier": "初级"
+    },
+    {
+      "ability_id": "AB0003",
+      "ability_type": "MAGIC",
+      "aliases": [
+        "Healing"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "治疗伤口",
+        "恢复树木等非生物（洛琪希演示）"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV0005",
+        "EV0015",
+        "EV0032"
+      ],
+      "known_users": [
+        "E0003",
+        "E0005"
+      ],
+      "learning_method": [
+        "咏唱",
+        "学校学习"
+      ],
+      "limitations": [
+        "无法复活死者"
+      ],
+      "mana_cost_if_known": null,
+      "name": "治愈魔术（Healing）",
+      "preconditions": [],
+      "qualitative_power": "治愈系到帝级可断臂再生；神级仍无法复活",
+      "range_if_known": null,
+      "requirements": [
+        "魔力",
+        "治愈系魔术知识"
+      ],
+      "school": "魔术",
+      "stamina_cost_if_known": null,
+      "tier": "中级（塞妮丝/洛琪希）"
+    },
+    {
+      "ability_id": "AB0004",
+      "ability_type": "SWORD",
+      "aliases": [
+        "剑神流剑术"
+      ],
+      "counters": [
+        "水神流可化解"
+      ],
+      "duration_if_known": null,
+      "effects": [
+        "高攻击性、一击必杀",
+        "重视速度抢先"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV0018",
+        "EV0019",
+        "EV0032"
+      ],
+      "known_users": [
+        "E0001",
+        "E0002"
+      ],
+      "learning_method": [
+        "挥剑",
+        "对打"
+      ],
+      "limitations": [
+        "防御薄弱"
+      ],
+      "mana_cost_if_known": null,
+      "name": "剑神流",
+      "preconditions": [
+        "挥剑训练"
+      ],
+      "qualitative_power": "攻击型流派，重视先制",
+      "range_if_known": null,
+      "requirements": [
+        "剑术"
+      ],
+      "school": "剑神流",
+      "stamina_cost_if_known": null,
+      "tier": "初级（鲁迪）"
+    },
+    {
+      "ability_id": "AB0005",
+      "ability_type": "SWORD",
+      "aliases": [
+        "水神流剑术"
+      ],
+      "counters": [
+        "可化解剑神流"
+      ],
+      "duration_if_known": null,
+      "effects": [
+        "顺势卸招与反击",
+        "高手可反击魔术与远程"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV0018",
+        "EV0019",
+        "EV0032"
+      ],
+      "known_users": [
+        "E0001",
+        "E0002"
+      ],
+      "learning_method": [
+        "对练"
+      ],
+      "limitations": [
+        "主动攻击招式少"
+      ],
+      "mana_cost_if_known": null,
+      "name": "水神流",
+      "preconditions": [
+        "防御训练"
+      ],
+      "qualitative_power": "防御型流派",
+      "range_if_known": null,
+      "requirements": [
+        "剑术"
+      ],
+      "school": "水神流",
+      "stamina_cost_if_known": null,
+      "tier": "初级（鲁迪）"
+    },
+    {
+      "ability_id": "AB0006",
+      "ability_type": "SWORD",
+      "aliases": [
+        "北神流剑术"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "临机应变的兵法式剑术",
+        "可带伤战斗"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV0018",
+        "EV0019"
+      ],
+      "known_users": [
+        "E0002"
+      ],
+      "learning_method": [
+        "实战"
+      ],
+      "limitations": [
+        "被部分流派歧视"
+      ],
+      "mana_cost_if_known": null,
+      "name": "北神流",
+      "preconditions": [],
+      "qualitative_power": "均衡型流派",
+      "range_if_known": null,
+      "requirements": [
+        "剑术"
+      ],
+      "school": "北神流",
+      "stamina_cost_if_known": null,
+      "tier": "（保罗上级）"
+    },
+    {
+      "ability_id": "AB0007",
+      "ability_type": "MAGIC",
+      "aliases": [
+        "复合魔术"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "按顺序使用多系统重现自然现象",
+        "造雾/加热等"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV0016",
+        "EV0020",
+        "EV0043"
+      ],
+      "known_users": [
+        "E0001",
+        "E0005"
+      ],
+      "learning_method": [
+        "洛琪希指导",
+        "自行实验"
+      ],
+      "limitations": [
+        "教科书多未记载",
+        "消耗魔力庞大"
+      ],
+      "mana_cost_if_known": "多系统并用耗魔三倍以上",
+      "name": "混合魔术",
+      "preconditions": [],
+      "qualitative_power": "高应用价值，各方争相邀请",
+      "range_if_known": null,
+      "requirements": [
+        "多种系统魔术",
+        "魔力操作"
+      ],
+      "school": "魔术",
+      "stamina_cost_if_known": null,
+      "tier": "（技术性组合）"
+    },
+    {
+      "ability_id": "AB0008",
+      "ability_type": "MAGIC",
+      "name": "豪雷积雨云（Cumulonimbus）",
+      "aliases": [
+        "Cumulonimbus"
+      ],
+      "school": "水系（水圣级攻击魔术）",
+      "tier": "圣级",
+      "preconditions": [
+        "理解制造大范围豪雨并伴随雷电的原理"
+      ],
+      "requirements": [],
+      "effects": [
+        "制造大范围豪雨",
+        "伴随雷电"
+      ],
+      "limitations": [
+        "水圣级，通常只有毕业程度的高手能施展"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "range_if_known": null,
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "element": "水",
+      "qualitative_power": "洛琪希毕业考使用；鲁迪现学现用即能重现",
+      "known_users": [
+        "E0005",
+        "E0001"
+      ],
+      "learning_method": [
+        "理解原理后以咏唱重现"
+      ],
+      "evidence_refs": [
+        "EV0062",
+        "EV0063"
+      ]
+    },
+    {
+      "ability_id": "AB0009",
+      "ability_type": "SWORD",
+      "name": "剑士身体强化",
+      "aliases": [
+        "身体强化"
+      ],
+      "school": "剑术",
+      "tier": "未知",
+      "preconditions": [],
+      "requirements": [],
+      "effects": [
+        "强化身体能力用于战斗"
+      ],
+      "limitations": [
+        "保罗在无意识状态下使用，无法传授方法"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "range_if_known": null,
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "element": null,
+      "qualitative_power": "保罗战斗时无意识运用",
+      "known_users": [
+        "E0002"
+      ],
+      "learning_method": [],
+      "evidence_refs": [
+        "EV0060"
+      ]
+    },
+    {
+      "ability_id": "AB0010",
+      "ability_type": "MAGIC",
+      "name": "混合魔术",
+      "aliases": [],
+      "school": "魔术",
+      "tier": "高等技术",
+      "preconditions": [
+        "能无咏唱使用魔术"
+      ],
+      "requirements": [],
+      "effects": [
+        "同时使用多个魔术"
+      ],
+      "limitations": [
+        "无咏唱并用的高等技术，魔法大学教师中也只有一人能做到"
+      ],
+      "counters": [],
+      "duration_if_known": null,
+      "range_if_known": null,
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "element": null,
+      "qualitative_power": "鲁迪示范混合魔术，希露菲惊叹",
+      "known_users": [
+        "E0001"
+      ],
+      "learning_method": [
+        "先掌握无咏唱"
+      ],
+      "evidence_refs": [
+        "EV0101"
+      ]
+    }
+  ],
+  "batch_id": "ENRICH_V001",
+  "behavior_cases": [
+    {
+      "action": "先咏唱成功，再以无咏唱重现魔力流动",
+      "available_information": "教科书内容；前世格斗游戏连段练习法",
+      "case_id": "BC0001",
+      "character_id": "E0001",
+      "context": "刚接触魔术教科书，尝试咏唱水弹。",
+      "emotional_response": "从感动到困惑再到兴奋",
+      "evidence_refs": [
+        "EV0009"
+      ],
+      "goal_at_time": "掌握魔术",
+      "immediate_outcome": "成功无咏唱发动水弹",
+      "long_term_outcome": "确立无咏唱路线，魔力随使用增长",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "relationship_context": "独自学习",
+      "situation_type": "学习魔术",
+      "social_context": "家中，瞒着家人",
+      "tags": [
+        "TEACHING",
+        "TRAINING"
+      ],
+      "trigger": "咏唱失败后水弹原地落下",
+      "verbal_response": "「破！」（模仿寺庙出身的T先生）",
+      "volume_no": 1
+    },
+    {
+      "action": "直视塞妮丝眼睛，直接承认道歉",
+      "available_information": "知道隐瞒不下去；尼特时期学到的「诚恳认错」经验",
+      "case_id": "BC0002",
+      "character_id": "E0001",
+      "context": "试验中级水炮魔术打穿墙壁。",
+      "emotional_response": "紧张但故作冷静",
+      "evidence_refs": [
+        "EV0012"
+      ],
+      "goal_at_time": "不让事态恶化",
+      "immediate_outcome": "塞妮丝转而高兴（认定孩子是天才）",
+      "long_term_outcome": "促成聘请洛琪希担任家教",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "relationship_context": "与父母",
+      "situation_type": "闯祸后面对父母",
+      "social_context": "家中",
+      "tags": [
+        "ACCEPTANCE",
+        "FAMILY"
+      ],
+      "trigger": "墙壁出现大洞，魔术无法再隐瞒",
+      "verbal_response": "「对不起。」",
+      "volume_no": 1
+    },
+    {
+      "action": "用魔术制造泥球反击带头者，救下少年",
+      "available_information": "洛琪希的告诫（翠绿头发种族危险）",
+      "case_id": "BC0003",
+      "character_id": "E0001",
+      "context": "村外山丘发现三名孩子向少年丢泥巴。",
+      "emotional_response": "害怕（被叫声吓到腿软）但坚持",
+      "evidence_refs": [
+        "EV0024"
+      ],
+      "goal_at_time": "救下被欺负的少年",
+      "immediate_outcome": "三名孩子逃跑",
+      "long_term_outcome": "结识希露菲并成为朋友",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "relationship_context": "陌生人",
+      "situation_type": "目睹霸凌",
+      "social_context": "村外",
+      "tags": [
+        "PROTECT",
+        "MORAL_CHOICE"
+      ],
+      "trigger": "想起自己前世被霸凌的过去",
+      "verbal_response": "「我不是要站在魔族那一边，我是要帮助弱者。」",
+      "volume_no": 1
+    },
+    {
+      "action": "坚持不道歉、冷静说理，甚至以离开家族相逼",
+      "available_information": "清楚自己是帮助希露菲而非伤人",
+      "case_id": "BC0004",
+      "character_id": "E0001",
+      "context": "保罗听信艾特家告状，认定鲁迪打伤索马尔。",
+      "emotional_response": "愤怒但冷静",
+      "evidence_refs": [
+        "EV0028",
+        "EV0029"
+      ],
+      "goal_at_time": "让保罗认清真相",
+      "immediate_outcome": "保罗道歉并听取详情",
+      "long_term_outcome": "父子关系改善，保罗学会倾听",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "relationship_context": "父子",
+      "situation_type": "被父亲冤枉并责打",
+      "social_context": "家中玄关",
+      "tags": [
+        "ANGER",
+        "AUTHORITY",
+        "FAMILY"
+      ],
+      "trigger": "保罗拒绝听解释、动手打人",
+      "verbal_response": "「父亲大人却完全不打算参考我的说法……」",
+      "volume_no": 1
+    },
+    {
+      "action": "放下父亲威严，低头向儿子道歉",
+      "available_information": "回想自己离家出走的经历与后悔",
+      "case_id": "BC0005",
+      "character_id": "E0002",
+      "context": "保罗误信艾特家告状，动手打了鲁迪。",
+      "emotional_response": "狼狈、后悔",
+      "evidence_refs": [
+        "EV0029",
+        "EV0030"
+      ],
+      "goal_at_time": "修复父子关系",
+      "immediate_outcome": "鲁迪说明真相，双方和解",
+      "long_term_outcome": "保罗不再扮演严厉父亲，与儿子亲近",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "relationship_context": "父子",
+      "situation_type": "冤枉儿子后",
+      "social_context": "家中",
+      "tags": [
+        "APOLOGY",
+        "FAMILY"
+      ],
+      "trigger": "意识到自己重蹈父亲不分青红皂白的覆辙",
+      "verbal_response": "「真抱歉，是爸爸错了。告诉我详情吧。」",
+      "volume_no": 1
+    },
+    {
+      "action": "坦率认错、没有辩解",
+      "available_information": "认定自己教学生是正确的事",
+      "case_id": "BC0006",
+      "character_id": "E0005",
+      "context": "鲁迪打倒了塞妮丝的树，塞妮丝责备洛琪希。",
+      "emotional_response": "受打击、消沉",
+      "evidence_refs": [
+        "EV0015"
+      ],
+      "goal_at_time": "不失去工作",
+      "immediate_outcome": "被鲁迪安慰「累积了经验」",
+      "long_term_outcome": "与鲁迪建立良好师生关系",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "relationship_context": "雇主与家教",
+      "situation_type": "被雇主责备",
+      "social_context": "庭院",
+      "tags": [
+        "EMBARRASSMENT",
+        "AUTHORITY"
+      ],
+      "trigger": "被认定是她让鲁迪拿树做实验",
+      "verbal_response": "「是，真的非常抱歉，夫人……」",
+      "volume_no": 1
+    },
+    {
+      "action": "没有歇斯底里，赏了保罗一巴掌后主导家族会议",
+      "available_information": "清楚最该负责的是保罗",
+      "case_id": "BC0007",
+      "character_id": "E0003",
+      "context": "莉莉雅在家人面前宣布怀孕。",
+      "emotional_response": "愤怒但强自冷静",
+      "evidence_refs": [
+        "EV0035",
+        "EV0036",
+        "EV0038"
+      ],
+      "goal_at_time": "做出对家庭最好的决定",
+      "immediate_outcome": "在鲁迪劝导下决定留下莉莉雅",
+      "long_term_outcome": "家庭维持完整，接纳莉莉雅为家人",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "relationship_context": "夫妻、主仆",
+      "situation_type": "丈夫外遇、女仆怀孕曝光",
+      "social_context": "家族会议",
+      "tags": [
+        "FAMILY",
+        "BETRAYAL",
+        "AUTHORITY"
+      ],
+      "trigger": "保罗当场承认孩子是他的",
+      "verbal_response": "「那么，你们打算怎么办？」",
+      "volume_no": 1
+    },
+    {
+      "action": "不反击、缩身护住便当",
+      "available_information": "认为抵抗会让事情更糟",
+      "case_id": "BC0008",
+      "character_id": "E0006",
+      "context": "三名孩子因希露菲发色向他丢泥巴。",
+      "emotional_response": "恐惧、隐忍",
+      "evidence_refs": [
+        "EV0023",
+        "EV0024"
+      ],
+      "goal_at_time": "护住给父亲送的便当",
+      "immediate_outcome": "被鲁迪救下",
+      "long_term_outcome": "获得鲁迪的保护与友谊",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期",
+      "relationship_context": "霸凌者与被害者",
+      "situation_type": "被同村孩子霸凌",
+      "social_context": "村外田间",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "trigger": "日常性的排挤",
+      "verbal_response": "（无言承受）",
+      "volume_no": 1
+    },
+    {
+      "action": "承诺哪里都不去，决定与她共同成长",
+      "available_information": "清楚希露菲只有自己一个朋友",
+      "case_id": "BC0009",
+      "character_id": "E0001",
+      "context": "鲁迪透露想离开村子去学校或冒险。",
+      "emotional_response": "心动、动摇（光源氏计划的念头）",
+      "evidence_refs": [
+        "EV0044",
+        "EV0045"
+      ],
+      "goal_at_time": "不让希露菲孤单",
+      "immediate_outcome": "希露菲安心",
+      "long_term_outcome": "决定暂缓离村，后续仍被保罗送走",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "relationship_context": "青梅竹马",
+      "situation_type": "希露菲哭求不要离开",
+      "social_context": "家中",
+      "tags": [
+        "ROMANCE",
+        "FRIENDSHIP",
+        "PROTECT"
+      ],
+      "trigger": "希露菲紧紧抱住他大哭",
+      "verbal_response": "「我知道了我知道了，我哪里都不会去。」",
+      "volume_no": 1
+    },
+    {
+      "action": "写信托基列奴，用打昏+捆绑的方式强制送走鲁迪",
+      "available_information": "自己在贵族时代见过的过度依赖案例；自己离家出走得到的教训",
+      "case_id": "BC0010",
+      "character_id": "E0002",
+      "context": "担心希露菲过度依赖鲁迪，也担心鲁迪依赖希露菲。",
+      "emotional_response": "自责但坚定",
+      "evidence_refs": [
+        "EV0047",
+        "EV0048",
+        "EV0053"
+      ],
+      "goal_at_time": "让两人各自独立",
+      "immediate_outcome": "鲁迪被送往罗亚，希露菲誓言变强",
+      "long_term_outcome": "鲁迪离开村子开启新阶段（接续第二卷）",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "relationship_context": "父子",
+      "situation_type": "为儿子的长远成长做决定",
+      "social_context": "送行",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY",
+        "LOSS"
+      ],
+      "trigger": "鲁迪请求打工赚希露菲学费",
+      "verbal_response": "「我想让鲁迪变得更强，所以安排他到罗亚。」",
+      "volume_no": 1
+    },
+    {
+      "case_id": "BC0011",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "升学谈判",
+      "context": "七岁，魔术学习遭遇瓶颈，想进魔法大学。",
+      "trigger": "瓶颈期尝试自己研究无咏唱理论",
+      "available_information": "知道拉诺亚魔法大学规模最大；听过学费昂贵；家人曾提起。",
+      "action": "在家人面前正式提出请求，逐条面对回应。",
+      "verbal_response": "「其实最近我在学习魔术方面已经遇上瓶颈，所以我想前往拉诺亚魔法大学就读……」",
+      "emotional_response": "期待",
+      "goal_at_time": "获得前往魔法大学的机会",
+      "relationship_context": "家人聚餐场合",
+      "social_context": "格雷拉特家，家人齐聚",
+      "immediate_outcome": "被以学费与年龄为由婉拒",
+      "long_term_outcome": "推迟计划，卷末契约中包含大学学费报酬",
+      "tags": [
+        "NEGOTIATION",
+        "REJECTION",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0083",
+        "EV0084",
+        "EV0089"
+      ]
+    },
+    {
+      "case_id": "BC0012",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "救援冲动",
+      "context": "鲁迪被保罗打昏绑上车，即将被送往罗亚。",
+      "trigger": "看到鲁迪乌斯被绑着",
+      "available_information": "知道鲁迪要离开；不知道这是家长的决定。",
+      "action": "以无咏唱方式对保罗放出中级攻击魔术试图救人。",
+      "verbal_response": "（未言明）",
+      "emotional_response": "焦急、拼命",
+      "goal_at_time": "救下鲁迪",
+      "relationship_context": "对鲁迪的信赖与仰慕",
+      "social_context": "村口送别场面",
+      "immediate_outcome": "攻击被保罗轻松化解",
+      "long_term_outcome": "保罗确认其魔术威力和速度无可挑剔；罗尔兹接手教育责任",
+      "tags": [
+        "PROTECT",
+        "COMBAT",
+        "LOYALTY"
+      ],
+      "evidence_refs": [
+        "EV0090",
+        "EV0091"
+      ]
+    },
+    {
+      "case_id": "BC0013",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "保护同伴",
+      "context": "山丘大树成为与希露菲的据点后，索马尔等人屡次来骚扰。",
+      "trigger": "索马尔带头欺负希露菲",
+      "available_information": "对方是村中顽童，自己的魔术远胜于他们。",
+      "action": "击退来犯者，守护据点。",
+      "verbal_response": "（未言明）",
+      "emotional_response": "坚定",
+      "goal_at_time": "保护希露菲与据点",
+      "relationship_context": "与希露菲的同伴关系",
+      "social_context": "村外山丘",
+      "immediate_outcome": "骚扰者全被击退",
+      "long_term_outcome": "山丘大树成为两人地盘；艾特太太多次上门吵闹",
+      "tags": [
+        "PROTECT",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV0071",
+        "EV0070"
+      ]
+    },
+    {
+      "case_id": "BC0014",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "礼貌请求",
+      "context": "与希露菲相识，想带她出去玩。",
+      "trigger": "想与希露菲去山丘大树附近",
+      "available_information": "罗尔兹是希露菲的父亲，守护塔楼。",
+      "action": "先自我介绍并礼貌请示，承诺天黑前送女儿回家。",
+      "verbal_response": "「罗尔兹先生，我们两个可以去玩一下吗？」",
+      "emotional_response": "礼貌、认真",
+      "goal_at_time": "获得罗尔兹允许",
+      "relationship_context": "与罗尔兹初次正式交谈",
+      "social_context": "森林塔楼前",
+      "immediate_outcome": "罗尔兹同意",
+      "long_term_outcome": "罗尔兹信任鲁迪，最终托付女儿成长",
+      "tags": [
+        "REQUEST",
+        "TRUST",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0066",
+        "EV0067"
+      ]
+    },
+    {
+      "case_id": "BC0015",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "主动求学",
+      "context": "得知鲁迪将继承格雷拉特家业，其夫人需要有贵族风范。",
+      "trigger": "罗尔兹认为鲁迪不会娶猎人之女为妻",
+      "available_information": "想和鲁迪在一起就必须掌握贵族礼节。",
+      "action": "主动向莉莉雅请求学习贵族礼节。",
+      "verbal_response": "「那个，莉莉雅阿姨，我想向您学习贵族礼节」",
+      "emotional_response": "坚定",
+      "goal_at_time": "掌握贵族礼节以配得上鲁迪",
+      "relationship_context": "对鲁迪的情感",
+      "social_context": "格雷拉特家",
+      "immediate_outcome": "莉莉雅答应教导",
+      "long_term_outcome": "持续学习，与塞妮丝产生礼节之争",
+      "tags": [
+        "REQUEST",
+        "TRAINING",
+        "ROMANCE"
+      ],
+      "evidence_refs": [
+        "EV0094",
+        "EV0095",
+        "EV0096"
+      ]
+    }
+  ],
+  "beliefs": [
+    {
+      "belief_id": "BL0001",
+      "belief_state": "FACT_KNOWN",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0004",
+        "EV0006"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 1,
+      "learned_from": "E0001",
+      "learned_method": "第一人称内省",
+      "note": "鲁迪对自身处境的认知。",
+      "owner_id": "E0001",
+      "statement": "自己带着前世记忆转生到了异世界。",
+      "topic": "转生",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL0002",
+      "belief_state": "MISUNDERSTOOD",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0008",
+        "EV0010"
+      ],
+      "is_true_in_world": null,
+      "learned_at_volume": 1,
+      "learned_from": "E0001",
+      "learned_method": "自行实验",
+      "note": "鲁迪先相信教科书，后用实验推翻。",
+      "owner_id": "E0001",
+      "statement": "教科书中「魔力总量天生决定」的说法，被自己的实测推翻了。",
+      "topic": "魔力总量",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL0003",
+      "belief_state": "INFERRED",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0012",
+        "EV0013"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 1,
+      "learned_from": "E0001",
+      "learned_method": "目睹三岁用中级魔术",
+      "note": "塞妮丝基于目睹魔术表现产生的信念。",
+      "owner_id": "E0003",
+      "statement": "鲁迪是天才，将来会成为了不起的魔术师。",
+      "topic": "儿子的才能",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL0004",
+      "belief_state": "SUSPECTED",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0024",
+        "EV0025"
+      ],
+      "is_true_in_world": false,
+      "learned_at_volume": 1,
+      "learned_from": "同村孩子",
+      "learned_method": "被霸凌的遭遇",
+      "note": "希露菲因发色受欺凌，误以为自己可能是魔族。",
+      "owner_id": "E0006",
+      "statement": "翠绿色的头发是被欺负的原因，自己也可能是魔族。",
+      "topic": "自己的发色",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL0005",
+      "belief_state": "FALSE_BELIEF",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0024",
+        "EV0031"
+      ],
+      "is_true_in_world": false,
+      "learned_at_volume": 1,
+      "learned_from": "E0001",
+      "learned_method": "初见外表的判断",
+      "note": "在「迟钝」篇被揭穿前鲁迪一直以为希露菲是男孩。",
+      "owner_id": "E0001",
+      "statement": "希露菲是长得可爱的男孩子。",
+      "topic": "希露菲的性别",
+      "visible_from_volume": 1,
+      "visible_to_volume": 1
+    },
+    {
+      "belief_id": "BL0006",
+      "belief_state": "FACT_KNOWN",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0029",
+        "EV0030"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 1,
+      "learned_from": "E0001",
+      "learned_method": "与鲁迪的冲突与反省",
+      "note": "保罗在冤枉鲁迪后改变教育态度。",
+      "owner_id": "E0002",
+      "statement": "自己对儿子无端发火是错误的，应该先听孩子的解释。",
+      "topic": "教育方式",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL0007",
+      "belief_state": "INFERRED",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV0051",
+        "EV0052",
+        "EV0053"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 1,
+      "learned_from": "E0002",
+      "learned_method": "保罗的安排与思考",
+      "note": "鲁迪理解并接受保罗强制分开的安排。",
+      "owner_id": "E0001",
+      "statement": "必须让希露菲独立成长，一直依赖我并非好事。",
+      "topic": "与希露菲的关系",
+      "visible_from_volume": 1,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL0008",
+      "owner_id": "E0015",
+      "statement": "鲁迪乌斯才气横溢，不会娶一介猎人的女儿为妻。",
+      "topic": "希露菲的未来",
+      "belief_state": "FALSE_BELIEF",
+      "is_true_in_world": false,
+      "certainty": "EXPLICIT",
+      "learned_at_volume": 1,
+      "learned_from": "E0015",
+      "learned_method": "自行推想",
+      "note": "罗尔兹对女儿婚事的悲观判断，低估了鲁迪与希露菲的情感。",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0094"
+      ]
+    },
+    {
+      "belief_id": "BL0009",
+      "owner_id": "E0006",
+      "statement": "只要掌握贵族礼节，就能和鲁迪在一起。",
+      "topic": "贵族礼节",
+      "belief_state": "FACT_KNOWN",
+      "is_true_in_world": true,
+      "certainty": "EXPLICIT",
+      "learned_at_volume": 1,
+      "learned_from": "E0015",
+      "learned_method": "父亲告知",
+      "note": "希露菲决定自己去学礼节。",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0094",
+        "EV0095"
+      ]
+    },
+    {
+      "belief_id": "BL0010",
+      "owner_id": "E0003",
+      "statement": "自己（米里斯式）的贵族礼节才是正确的。",
+      "topic": "贵族礼节",
+      "belief_state": "FACT_KNOWN",
+      "is_true_in_world": true,
+      "certainty": "EXPLICIT",
+      "learned_at_volume": 1,
+      "learned_from": "E0003",
+      "learned_method": "米里斯贵族教育",
+      "note": "与莉莉雅（阿斯拉式）坚信的正确相冲突。",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0096"
+      ]
+    }
+  ],
+  "canon_conflicts": [
+    {
+      "claim_a": "教科书记载魔力总量天生决定，不会增加（EV0008）。",
+      "claim_b": "鲁迪实测魔力随使用次数增加（EV0010）。",
+      "conflict_id": "CC0001",
+      "evidence_a_refs": [
+        "EV0008"
+      ],
+      "evidence_b_refs": [
+        "EV0010"
+      ],
+      "note": "第一卷文本未给出世界级定论，仅记录鲁迪的实测观察。",
+      "possible_resolution": "魔力可能在成长期/幼儿期使用中增长，或鲁迪为特殊体质；理论本身存疑。",
+      "status": "UNRESOLVED"
+    },
+    {
+      "claim_a": "熟练的魔术师才能无咏唱，被视为高级技巧（EV0009）。",
+      "claim_b": "鲁迪作为初学者就能无咏唱发动（EV0009）。",
+      "conflict_id": "CC0002",
+      "evidence_a_refs": [
+        "EV0009"
+      ],
+      "evidence_b_refs": [
+        "EV0009"
+      ],
+      "note": "鲁迪自己的推断，非世界级结论。",
+      "possible_resolution": "咏唱是「自动化」帮助建立习惯，鲁迪的练习方法（先咏唱后重现感觉）特殊。",
+      "status": "POV_DIFFERENCE"
+    },
+    {
+      "conflict_id": "CC0003",
+      "claim_a": "塞妮丝（米里斯式）的贵族礼节正确（EV0096）。",
+      "claim_b": "莉莉雅（阿斯拉式）的贵族礼节正确（EV0096）。",
+      "evidence_a_refs": [
+        "EV0096",
+        "EV0097"
+      ],
+      "evidence_b_refs": [
+        "EV0096"
+      ],
+      "status": "POV_DIFFERENCE",
+      "note": "两人都坚信自己所学的礼节正确，于是开始吵架。",
+      "possible_resolution": "礼节本身有流派差异，无唯一正解。"
+    }
+  ],
+  "canon_gaps": [
+    {
+      "domain": "SOCIETY",
+      "gap_id": "GAP0001",
+      "note": "第一卷仅描述为乡下小村，无具体人口数。",
+      "possible_sources": "后续卷的村庄描写或地图",
+      "question": "布埃纳村的人口数量与规模细节。",
+      "searched_volumes": [
+        1
+      ],
+      "status": "NO_CANON_ANSWER",
+      "why_needed": "估算村里资源、魔物狩猎频率与安全度。"
+    },
+    {
+      "domain": "RELIGION",
+      "gap_id": "GAP0002",
+      "note": "第一卷只透露教义原则，细节未展开。",
+      "possible_sources": "米里斯神圣国相关章节",
+      "question": "米里斯教「男女伴侣只能视彼此是唯一所爱」教义的具体内容与适用范围。",
+      "searched_volumes": [
+        1
+      ],
+      "status": "PARTIAL",
+      "why_needed": "判断塞妮丝对保罗外遇反应与后续宗教观。"
+    },
+    {
+      "domain": "GEOGRAPHY",
+      "gap_id": "GAP0003",
+      "note": "第一卷末鲁迪搭马车前往罗亚，未给距离。",
+      "possible_sources": "后续旅行描写",
+      "question": "布埃纳村到罗亚的准确距离与旅行时间。",
+      "searched_volumes": [
+        1
+      ],
+      "status": "NO_CANON_ANSWER",
+      "why_needed": "评估鲁迪往返两地的可行性与通信成本。"
+    },
+    {
+      "gap_id": "GAP0004",
+      "domain": "SOCIETY",
+      "question": "罗亚大小姐的姓名与家族名。",
+      "why_needed": "家教契约对象的具体身份。",
+      "searched_volumes": [
+        1
+      ],
+      "status": "NO_CANON_ANSWER",
+      "note": "第一卷只称其为『大小姐』，未点名。",
+      "possible_sources": "后续卷罗亚剧情"
+    },
+    {
+      "gap_id": "GAP0005",
+      "domain": "SOCIETY",
+      "question": "希露菲母亲的详细身份。",
+      "why_needed": "理解希露菲的混血背景与家庭。",
+      "searched_volumes": [
+        1
+      ],
+      "status": "NO_CANON_ANSWER",
+      "note": "第一卷仅通过罗尔兹提及，未记载母亲信息。",
+      "possible_sources": "后续卷希露菲相关剧情"
+    }
+  ],
+  "character_profiles": [
+    {
+      "age_description": "约三至七岁（第一卷）",
+      "ambition": "MODERATE（扎实变强）",
+      "attachment_style": "安全型（对希露菲执着）",
+      "authority_attitude": "表面顺从、理性辩驳",
+      "behavior_changes_note": "从隐藏魔术到主动学习；从内向到外出交到朋友；本卷末被送往罗亚。",
+      "character_id": "E0001",
+      "conflict_tendencies": [
+        "以说理与正当理由回避",
+        "必要时强硬"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "先观察再行动",
+        "多线计划",
+        "隐藏真实意图"
+      ],
+      "desires": [
+        "掌握魔术",
+        "获得力量",
+        "与希露菲在一起"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV0004",
+        "EV0009",
+        "EV0012",
+        "EV0022",
+        "EV0038",
+        "EV0053"
+      ],
+      "family_attitude": "重视并主动维护",
+      "fears": [
+        "重蹈前世尼特覆辙",
+        "被家人抛弃",
+        "魔术才能被轻视"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "前世失败的阴影",
+        "真正的年龄与心智",
+        "魔力总量起点"
+      ],
+      "knowledge_state": [
+        "知道魔术原理与咏唱机制",
+        "知道迷宫与魔力结晶",
+        "知道三大剑术流派"
+      ],
+      "known_skills": [
+        "无咏唱魔术",
+        "水弹等初级水系",
+        "剑神流/水神流初级"
+      ],
+      "long_term_goals": [
+        "成为不辜负双亲的强者",
+        "维持与希露菲的关系"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": "精打细算、重视积蓄",
+      "obligations": [
+        "听从父母的课业安排",
+        "保护希露菲"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "早熟",
+        "老成",
+        "谨慎",
+        "好色",
+        "计划性强"
+      ],
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "pride": "重视承诺与家族荣誉",
+      "profile_id": "CP0001",
+      "race_attitude": "不歧视魔族（受洛琪希影响）",
+      "relationship_tendencies": [
+        "对希露菲保护欲强",
+        "主动修复家庭关系"
+      ],
+      "religious_attitude": "无特定信仰",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": "迟钝系伪装、隐藏真心",
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "每天耗尽魔力训练",
+        "完成剑术与魔术课程"
+      ],
+      "social_tendencies": [
+        "与大人能对等交谈",
+        "被村里人喜爱"
+      ],
+      "speech_tendencies": [
+        "随对象变换自称",
+        "礼貌敬语",
+        "偶尔毒舌"
+      ],
+      "start_date": null,
+      "status_attitude": "不在意贵族地位",
+      "summary": "转生者鲁迪乌斯在布埃纳村度过的幼年期：隐瞒魔术、曝光后师从洛琪希、结识希露菲、调解家庭危机、最终被保罗送往罗亚。",
+      "taboos": [
+        "得意忘形自认天才",
+        "撒谎被抓"
+      ],
+      "values": [
+        "认真生活",
+        "保护弱者",
+        "家族",
+        "遵守承诺"
+      ],
+      "violence_attitude": "避免正面冲突、能忍则忍",
+      "visible_from_volume": 1,
+      "visible_to_volume": 2
+    },
+    {
+      "age_description": "年轻少女（约国中生年纪）",
+      "ambition": "HIGH（水神级）",
+      "attachment_style": "谨慎",
+      "authority_attitude": "尊重雇主、服从",
+      "behavior_changes_note": "本卷末尾离开格雷拉特家（暗示毕业），后写信鼓励鲁迪。",
+      "character_id": "E0005",
+      "conflict_tendencies": [
+        "退让",
+        "被责备后消沉"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "配合学生程度调整",
+        "按规则行事"
+      ],
+      "desires": [
+        "成为好老师",
+        "水神级魔术师"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV0014",
+        "EV0015",
+        "EV0017",
+        "EV0020",
+        "EV0046"
+      ],
+      "family_attitude": "无特别",
+      "fears": [
+        "被解雇",
+        "学生受伤"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "娇小身材",
+        "魔族身份受到的歧视"
+      ],
+      "knowledge_state": [
+        "魔术理论",
+        "混合魔术",
+        "拉诺亚魔法大学"
+      ],
+      "known_skills": [
+        "水圣级魔术",
+        "治愈魔术中级",
+        "魔术理论"
+      ],
+      "long_term_goals": [
+        "成为水神级魔术师",
+        "返回魔法大学体系"
+      ],
+      "loyalty": "MEDIUM",
+      "money_attitude": "正常",
+      "obligations": [
+        "完成家教契约",
+        "照顾学生安全"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "冷淡",
+        "认真",
+        "好老师",
+        "容易得意",
+        "怕生"
+      ],
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "pride": "水圣级魔术师资格",
+      "profile_id": "CP0002",
+      "race_attitude": "魔族，曾因种族进不了贵族学校",
+      "relationship_tendencies": [
+        "对学生负责",
+        "易被称赞打动"
+      ],
+      "religious_attitude": "无",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": "害羞（偷看寝室被鲁迪撞见）",
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "教好鲁迪",
+        "不惹塞妮丝生气"
+      ],
+      "social_tendencies": [
+        "内向",
+        "与学生保持距离"
+      ],
+      "speech_tendencies": [
+        "简短",
+        "冷淡",
+        "容易叹气"
+      ],
+      "start_date": null,
+      "status_attitude": "在意魔族不被认可",
+      "summary": "水圣级魔术师洛琪希担任鲁迪家庭教师约两年的时期，从怀疑到认可鲁迪的才能。",
+      "taboos": [
+        "无"
+      ],
+      "values": [
+        "教学责任",
+        "正确使用魔术",
+        "不吹嘘才能"
+      ],
+      "violence_attitude": "回避",
+      "visible_from_volume": 1,
+      "visible_to_volume": 1
+    },
+    {
+      "age_description": "二十四岁（本卷）",
+      "ambition": "MEDIUM",
+      "attachment_style": "外放",
+      "authority_attitude": "自我反省后愿意道歉",
+      "behavior_changes_note": "从误会儿子打人到道歉和解；本卷末强制送走鲁迪以让希露菲独立。",
+      "character_id": "E0002",
+      "conflict_tendencies": [
+        "先",
+        "发",
+        "火",
+        "再",
+        "道",
+        "歉"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "直接行动",
+        "讲感觉",
+        "事后反省"
+      ],
+      "desires": [
+        "儿子变强",
+        "家庭安稳"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV0013",
+        "EV0018",
+        "EV0028",
+        "EV0029",
+        "EV0030",
+        "EV0048"
+      ],
+      "family_attitude": "重视但笨拙",
+      "fears": [
+        "重蹈父亲严厉覆辙",
+        "家庭崩坏"
+      ],
+      "impulsiveness": "HIGH",
+      "insecurities": [
+        "父亲身份不如儿子",
+        "曾离家出走的过去"
+      ],
+      "knowledge_state": [
+        "冒险者经验",
+        "迷宫知识"
+      ],
+      "known_skills": [
+        "剑神流为主兼修水神北神",
+        "劈开岩石的剑术"
+      ],
+      "long_term_goals": [
+        "让",
+        "儿",
+        "子",
+        "独",
+        "当",
+        "一",
+        "面"
+      ],
+      "loyalty": "MEDIUM-HIGH",
+      "money_attitude": "普通",
+      "obligations": [
+        "骑士义务",
+        "父亲职责"
+      ],
+      "patience": "LOW",
+      "personality_traits": [
+        "豁达",
+        "自由奔放",
+        "好女色",
+        "感觉派",
+        "重情义"
+      ],
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "pride": "骑士与剑术",
+      "profile_id": "CP0003",
+      "race_attitude": "无魔族偏见",
+      "relationship_tendencies": [
+        "对",
+        "儿",
+        "子",
+        "从",
+        "严",
+        "厉",
+        "转",
+        "为",
+        "亲",
+        "近"
+      ],
+      "religious_attitude": "无",
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": "花心（外遇莉莉雅）",
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "教好儿子剑术",
+        "维持家庭"
+      ],
+      "social_tendencies": [
+        "受村里人信赖",
+        "受女性欢迎"
+      ],
+      "speech_tendencies": [
+        "粗鲁直率",
+        "有说服力",
+        "爱开玩笑"
+      ],
+      "start_date": null,
+      "status_attitude": "下级贵族骑士",
+      "summary": "保罗·格雷拉特：骑士父亲，本卷从管教鲁迪的笨拙父亲成长为愿意道歉、为儿子长远安排的家长。",
+      "taboos": [
+        "无"
+      ],
+      "values": [
+        "保护弱者",
+        "骑士的责任",
+        "家族"
+      ],
+      "violence_attitude": "偶尔动怒出手",
+      "visible_from_volume": 1,
+      "visible_to_volume": 2
+    },
+    {
+      "age_description": "二十岁出头（本卷）",
+      "ambition": "LOW",
+      "attachment_style": "深情但克制",
+      "authority_attitude": "家族会议主导者",
+      "behavior_changes_note": "从怀疑鲁迪不爱家人，到确认鲁迪珍惜家庭并完全信任。",
+      "character_id": "E0003",
+      "conflict_tendencies": [
+        "先",
+        "忍",
+        "耐",
+        "再",
+        "爆",
+        "发"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "冷静权衡",
+        "听取鲁迪的建议"
+      ],
+      "desires": [
+        "家庭幸福",
+        "孩子们平安"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV0013",
+        "EV0035",
+        "EV0038",
+        "EV0054",
+        "EV0057"
+      ],
+      "family_attitude": "把莉莉雅视作家人",
+      "fears": [
+        "家庭崩坏",
+        "丈夫外遇"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "丈夫的花心",
+        "可能再次怀孕困难"
+      ],
+      "knowledge_state": [
+        "治",
+        "疗",
+        "魔",
+        "术",
+        "知",
+        "识"
+      ],
+      "known_skills": [
+        "治愈魔术中级",
+        "结界魔术"
+      ],
+      "long_term_goals": [
+        "孩",
+        "子",
+        "们",
+        "健",
+        "康",
+        "成",
+        "长"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": "务实",
+      "obligations": [
+        "母亲职责",
+        "米里斯教义"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "温柔",
+        "重视家庭",
+        "米里斯教徒",
+        "表面冷静",
+        "溺爱鲁迪"
+      ],
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "pride": "治愈魔术中级与贵族出身",
+      "profile_id": "CP0004",
+      "race_attitude": "无特别",
+      "relationship_tendencies": [
+        "对",
+        "鲁",
+        "迪",
+        "溺",
+        "爱",
+        "与",
+        "信",
+        "任"
+      ],
+      "religious_attitude": "虔诚米里斯教徒",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": "一夫一妻信念",
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "顺利生产",
+        "家庭安稳"
+      ],
+      "social_tendencies": [
+        "村里诊所帮忙",
+        "待人亲切"
+      ],
+      "speech_tendencies": [
+        "温和",
+        "有时严厉"
+      ],
+      "start_date": null,
+      "status_attitude": "贵族出身、离家出走",
+      "summary": "塞妮丝·格雷拉特：米里斯教出身的母亲，面对丈夫外遇仍选择原谅、接纳莉莉雅为家人。",
+      "taboos": [
+        "不",
+        "忠"
+      ],
+      "values": [
+        "一夫一妻教义",
+        "家族和睦",
+        "爱丈夫与孩子"
+      ],
+      "violence_attitude": "恼怒时赏巴掌（对保罗）",
+      "visible_from_volume": 1,
+      "visible_to_volume": 2
+    },
+    {
+      "age_description": "年轻女仆（与保罗同龄段）",
+      "ambition": "LOW",
+      "attachment_style": "克制而深厚",
+      "authority_attitude": "谨守本分、服从",
+      "behavior_changes_note": "从避开鲁迪到视其为救命恩人，誓言让爱夏侍奉鲁迪。",
+      "character_id": "E0004",
+      "conflict_tendencies": [
+        "沉",
+        "默",
+        "承",
+        "担"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "安静观察",
+        "关键时刻建言"
+      ],
+      "desires": [
+        "安稳生活",
+        "孩子的未来"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV0007",
+        "EV0035",
+        "EV0037",
+        "EV0038",
+        "EV0039"
+      ],
+      "family_attitude": "被接纳为家人后真心相待",
+      "fears": [
+        "被赶出家门",
+        "圣物秘密败露"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "女仆身份",
+        "过去的夜袭往事"
+      ],
+      "knowledge_state": [
+        "保罗的往事",
+        "家务知识"
+      ],
+      "known_skills": [
+        "剑道道场出身（与保罗同门）",
+        "家务"
+      ],
+      "long_term_goals": [
+        "让",
+        "爱",
+        "夏",
+        "侍",
+        "奉",
+        "鲁",
+        "迪",
+        "少",
+        "爷"
+      ],
+      "loyalty": "HIGH（对塞妮丝与鲁迪）",
+      "money_attitude": "节俭寄钱回家",
+      "obligations": [
+        "女仆职责",
+        "养育爱夏"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "面无表情",
+        "冷静",
+        "细心",
+        "隐忍",
+        "知恩图报"
+      ],
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "pride": "无",
+      "profile_id": "CP0005",
+      "race_attitude": "无",
+      "relationship_tendencies": [
+        "对",
+        "鲁",
+        "迪",
+        "从",
+        "戒",
+        "心",
+        "转",
+        "为",
+        "敬",
+        "重"
+      ],
+      "religious_attitude": "无",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": "年轻时被保罗夜袭，后主动引诱",
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "产下爱夏",
+        "服侍格雷拉特家"
+      ],
+      "social_tendencies": [
+        "极少外出",
+        "与家中女性亲近"
+      ],
+      "speech_tendencies": [
+        "简洁",
+        "面无表情的平淡"
+      ],
+      "start_date": null,
+      "status_attitude": "安于女仆身份",
+      "summary": "莉莉雅：格雷拉特家女仆，与保罗有旧情并怀孕，被鲁迪调解留下，成为家人。",
+      "taboos": [
+        "无"
+      ],
+      "values": [
+        "忠诚",
+        "责任",
+        "报恩"
+      ],
+      "violence_attitude": "回避",
+      "visible_from_volume": 1,
+      "visible_to_volume": 2
+    },
+    {
+      "age_description": "与鲁迪同龄（约五至七岁）",
+      "ambition": "LOW",
+      "attachment_style": "依赖型",
+      "authority_attitude": "顺从",
+      "behavior_changes_note": "从被霸凌的孤独孩子，到获得鲁迪的保护并学会魔术；卷末宣言要变强救出鲁迪。",
+      "character_id": "E0006",
+      "conflict_tendencies": [
+        "隐",
+        "忍",
+        "不",
+        "反",
+        "抗"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "听",
+        "从",
+        "鲁",
+        "迪",
+        "安",
+        "排"
+      ],
+      "desires": [
+        "不被欺负",
+        "与鲁迪一起玩"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV0024",
+        "EV0025",
+        "EV0026",
+        "EV0027",
+        "EV0045",
+        "EV0053"
+      ],
+      "family_attitude": "温柔家庭（父亲罗尔兹）",
+      "fears": [
+        "被孤立",
+        "鲁迪离开"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "翠绿色头发遭排挤",
+        "被误认魔族"
+      ],
+      "knowledge_state": [
+        "魔术",
+        "理科基础"
+      ],
+      "known_skills": [
+        "无咏唱中级魔术（受鲁迪教导）",
+        "读写与算术"
+      ],
+      "long_term_goals": [
+        "无",
+        "明",
+        "确"
+      ],
+      "loyalty": "HIGH（对鲁迪）",
+      "money_attitude": "家中不富裕",
+      "obligations": [
+        "帮家里送饭",
+        "与鲁迪学识字算术"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "胆小",
+        "温柔",
+        "顺从",
+        "珍惜朋友"
+      ],
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相遇后）",
+      "pride": "无",
+      "profile_id": "CP0006",
+      "race_attitude": "因发色自卑",
+      "relationship_tendencies": [
+        "把",
+        "鲁",
+        "迪",
+        "当",
+        "唯",
+        "一",
+        "依",
+        "靠"
+      ],
+      "religious_attitude": "无",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": "对鲁迪有好感（初见雏形）",
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "学魔术",
+        "和鲁迪在一起"
+      ],
+      "social_tendencies": [
+        "孤",
+        "僻",
+        "（",
+        "没",
+        "有",
+        "其",
+        "他",
+        "朋",
+        "友",
+        "）"
+      ],
+      "speech_tendencies": [
+        "小声",
+        "结巴",
+        "礼貌"
+      ],
+      "start_date": null,
+      "status_attitude": "无",
+      "summary": "希露菲叶特：因翠绿发色被村里孩子霸凌，被鲁迪所救并成为朋友，接受鲁迪的魔术与知识教学。",
+      "taboos": [
+        "无"
+      ],
+      "values": [
+        "朋友",
+        "家人"
+      ],
+      "violence_attitude": "回避",
+      "visible_from_volume": 1,
+      "visible_to_volume": 2
+    },
+    {
+      "profile_id": "CP0007",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "phase_name": "罗尔兹作为猎人与父亲时",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "希露菲的父亲（中年男性猎人）",
+      "personality_traits": [
+        "耿直",
+        "务实",
+        "疼爱女儿",
+        "敬重保罗"
+      ],
+      "values": [
+        "家人",
+        "孩子的未来"
+      ],
+      "desires": [
+        "女儿平安长大",
+        "让女儿幸福"
+      ],
+      "fears": [
+        "女儿被村中孩子欺负"
+      ],
+      "taboos": [],
+      "insecurities": [
+        "自己是猎人之女，配不上贵族子弟"
+      ],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "MEDIUM",
+      "attachment_style": "安全型（对希露菲）",
+      "authority_attitude": "对保罗尊敬",
+      "family_attitude": "重视",
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": "自知身份低微",
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": null,
+      "short_term_goals": [
+        "守护森林塔楼",
+        "教导希露菲"
+      ],
+      "long_term_goals": [
+        "女儿获得好归宿"
+      ],
+      "obligations": [
+        "塔楼轮值",
+        "教育子女"
+      ],
+      "decision_tendencies": [
+        "务实判断",
+        "尊重鲁迪的判断"
+      ],
+      "speech_tendencies": [
+        "直接朴实"
+      ],
+      "social_tendencies": [
+        "与保罗交好",
+        "被鲁迪礼貌对待"
+      ],
+      "conflict_tendencies": [
+        "回避冲突"
+      ],
+      "known_skills": [
+        "狩猎",
+        "弓箭"
+      ],
+      "knowledge_state": [
+        "知道鲁迪才气横溢"
+      ],
+      "relationship_tendencies": [
+        "与保罗互相商量孩子的事"
+      ],
+      "behavior_changes_note": "本卷内从旁观者变为将女儿托付给鲁迪的家长。",
+      "summary": "布埃纳村森林塔楼的看守猎人与希露菲的父亲，与保罗交好，尊重鲁迪的才能，最终将希露菲的成长托付给他。",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0066",
+        "EV0067",
+        "EV0085",
+        "EV0091",
+        "EV0094"
+      ]
+    },
+    {
+      "profile_id": "CP0008",
+      "character_id": "E0016",
+      "phase_id": "somal-bully",
+      "phase_name": "索马尔幼年期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "与鲁迪同期的村中顽童",
+      "personality_traits": [
+        "顽劣",
+        "欺软怕硬"
+      ],
+      "values": [],
+      "desires": [],
+      "fears": [
+        "鲁迪的魔术"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "HIGH",
+      "patience": "LOW",
+      "risk_tolerance": "HIGH",
+      "self_control": "LOW",
+      "attachment_style": null,
+      "authority_attitude": "被母亲管教",
+      "family_attitude": "与母亲依赖（艾特太太）",
+      "romantic_attitude": null,
+      "violence_attitude": "对弱者施暴",
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": "欺负混血的希露菲",
+      "religious_attitude": null,
+      "loyalty": "LOW",
+      "ambition": null,
+      "short_term_goals": [
+        "欺负希露菲"
+      ],
+      "long_term_goals": [],
+      "obligations": [],
+      "decision_tendencies": [
+        "跟随同伴起哄"
+      ],
+      "speech_tendencies": [
+        "粗鲁"
+      ],
+      "social_tendencies": [
+        "成群结伴",
+        "孤立他人"
+      ],
+      "conflict_tendencies": [
+        "起冲突后找母亲出头"
+      ],
+      "known_skills": [],
+      "knowledge_state": [],
+      "relationship_tendencies": [
+        "带头霸凌希露菲"
+      ],
+      "behavior_changes_note": "被鲁迪击退后不再靠近山丘。",
+      "summary": "艾特家的顽童，带头欺负混血的希露菲，被鲁迪击退后不敢再接近山丘大树一带。",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0068",
+        "EV0069",
+        "EV0070",
+        "EV0071"
+      ]
+    },
+    {
+      "profile_id": "CP0009",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "成年剑士（剑王）",
+      "personality_traits": [
+        "沉默寡言",
+        "直率",
+        "自尊心强",
+        "认真"
+      ],
+      "values": [
+        "剑",
+        "承诺"
+      ],
+      "desires": [],
+      "fears": [],
+      "taboos": [
+        "被当成大小姐对待"
+      ],
+      "insecurities": [],
+      "pride": "剑王之名",
+      "impulsiveness": "HIGH",
+      "patience": "MEDIUM",
+      "risk_tolerance": "HIGH",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": "不服输",
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": "用剑解决问题",
+      "money_attitude": null,
+      "status_attitude": "不摆架子，但厌恶被小看",
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": null,
+      "short_term_goals": [
+        "护送鲁迪到罗亚"
+      ],
+      "long_term_goals": [],
+      "obligations": [
+        "大小姐保镖与剑术师傅"
+      ],
+      "decision_tendencies": [
+        "直接行动"
+      ],
+      "speech_tendencies": [
+        "简短",
+        "要求他人直呼其名"
+      ],
+      "social_tendencies": [
+        "不擅长客套"
+      ],
+      "conflict_tendencies": [
+        "被激怒时怒吼"
+      ],
+      "known_skills": [
+        "剑王级剑术"
+      ],
+      "knowledge_state": [],
+      "relationship_tendencies": [
+        "与鲁迪以剑术师徒相处"
+      ],
+      "behavior_changes_note": "护送途中与鲁迪建立师徒默契。",
+      "summary": "剑王级剑士，受雇担任罗亚大小姐家的保镖兼剑术师傅，护送鲁迪前往罗亚。",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0086",
+        "EV0087",
+        "EV0088"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "abilities": [],
+      "aliases": [],
+      "behavior": "由魔力突然变异产生",
+      "creature_id": "CR0001",
+      "danger": "依种类而异",
+      "evidence_refs": [
+        "EV0023"
+      ],
+      "habitat": "魔力沉滞处（森林等）",
+      "known_encounters": [
+        "布埃纳村每月定期魔物狩猎"
+      ],
+      "name": "魔物",
+      "social_behavior": null,
+      "uses": [],
+      "visible_from_volume": 1,
+      "weaknesses": []
+    },
+    {
+      "abilities": [
+        "可被龙神孔捕食"
+      ],
+      "aliases": [
+        "赤龙"
+      ],
+      "behavior": null,
+      "creature_id": "CR0002",
+      "danger": "极高",
+      "evidence_refs": [
+        "EV0042"
+      ],
+      "habitat": "中央大陆龙鸣山山脉",
+      "known_encounters": [
+        "龙鸣山山脉栖息"
+      ],
+      "name": "龙（赤龙）",
+      "social_behavior": null,
+      "uses": [],
+      "visible_from_volume": 1,
+      "weaknesses": []
+    },
+    {
+      "creature_id": "CR0003",
+      "name": "猛攻斗犬（Assault Dog）",
+      "aliases": [
+        "Assault Dog"
+      ],
+      "behavior": "动作像受过训练的杜宾犬，成群行动",
+      "habitat": "森林",
+      "danger": "高",
+      "abilities": [],
+      "weaknesses": [],
+      "uses": [],
+      "social_behavior": "由野猪率领的队形",
+      "known_encounters": [
+        "保罗独自迎战三只猛攻斗犬与一只终结野猪"
+      ],
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0079"
+      ]
+    },
+    {
+      "creature_id": "CR0004",
+      "name": "终结野猪（Terminate Boar）",
+      "aliases": [
+        "Terminate Boar"
+      ],
+      "behavior": "以双脚行走，有四条手臂的野猪型魔物",
+      "habitat": "森林",
+      "danger": "高",
+      "abilities": [],
+      "weaknesses": [],
+      "uses": [],
+      "social_behavior": "率领狗型魔物",
+      "known_encounters": [
+        "保罗战斗展示中登场"
+      ],
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0079"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "actions": [
+        "死亡",
+        "转生为婴儿",
+        "确认异世界"
+      ],
+      "belief_ids": [
+        "BL0001"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED000101",
+          "dependency_type": "ENABLES",
+          "statement": "转生后的身体使学习魔术成为可能",
+          "target_event_id": "DE0002"
+        }
+      ],
+      "event_id": "DE0001",
+      "event_type": "转生",
+      "evidence_refs": [
+        "EV0003",
+        "EV0004",
+        "EV0006"
+      ],
+      "location_id": "E0009",
+      "outcome": "鲁迪乌斯·格雷拉特在布埃纳村出生",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000101",
+          "prerequisite_type": "PERSON_ALIVE",
+          "ref_id": "E0001",
+          "statement": "前世的鲁迪乌斯（尼特族）死亡"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "转生为婴儿，拥有前世记忆",
+          "before": "前世尼特族（三十四岁，居无定所）",
+          "change_id": "SC000101",
+          "change_kind": "状态",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "序章",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0001",
+      "title": "鲁迪乌斯转生为婴儿",
+      "trigger": "为救三名高中生被卡车撞死",
+      "volume_no": 1
+    },
+    {
+      "actions": [
+        "使用水炮魔术",
+        "承认错误",
+        "父母得知"
+      ],
+      "belief_ids": [
+        "BL0003"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED000201",
+          "dependency_type": "CAUSES",
+          "statement": "魔术曝光导致家庭决定聘请家教",
+          "target_event_id": "DE0003"
+        }
+      ],
+      "event_id": "DE0002",
+      "event_type": "能力曝光",
+      "evidence_refs": [
+        "EV0012",
+        "EV0013"
+      ],
+      "location_id": "E0009",
+      "outcome": "塞妮丝坚持聘请魔术家教",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003",
+        "E0004"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000201",
+          "prerequisite_type": "STATE",
+          "ref_id": null,
+          "statement": "鲁迪已秘密练习魔术一年多"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "魔术能力为家人所知",
+          "before": "瞒着家人使用魔术",
+          "change_id": "SC000201",
+          "change_kind": "知识状态",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "鲁迪三岁",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0002",
+      "title": "魔术才能曝光",
+      "trigger": "试验中级水炮魔术打穿墙壁",
+      "volume_no": 1
+    },
+    {
+      "actions": [
+        "洛琪希到任",
+        "上午魔术课程",
+        "下午保罗剑术训练"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED000301",
+          "dependency_type": "ENABLES",
+          "statement": "洛琪希的教导让鲁迪得以外出并建立基础",
+          "target_event_id": "DE0004"
+        }
+      ],
+      "event_id": "DE0003",
+      "event_type": "任教",
+      "evidence_refs": [
+        "EV0013",
+        "EV0014",
+        "EV0015",
+        "EV0016"
+      ],
+      "location_id": "E0009",
+      "outcome": "鲁迪魔术与剑术同时进步",
+      "participants": [
+        "E0001",
+        "E0005",
+        "E0002",
+        "E0003"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0005",
+          "statement": "水圣级魔术师洛琪希应征家庭教师"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC0005"
+      ],
+      "state_changes": [
+        {
+          "after": "师从洛琪希",
+          "before": "自学魔术",
+          "change_id": "SC000301",
+          "change_kind": "师徒关系",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "鲁迪三岁起，约两年",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0003",
+      "title": "洛琪希担任鲁迪的家庭教师",
+      "trigger": "塞妮丝张贴求才告示",
+      "volume_no": 1
+    },
+    {
+      "actions": [
+        "泥球反击",
+        "清洗希露菲",
+        "自我介绍"
+      ],
+      "belief_ids": [
+        "BL0005"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED000401",
+          "dependency_type": "CAUSES",
+          "statement": "与希露菲的友谊成为后续事件基础",
+          "target_event_id": "DE0005"
+        }
+      ],
+      "event_id": "DE0004",
+      "event_type": "相遇",
+      "evidence_refs": [
+        "EV0024",
+        "EV0025",
+        "EV0026"
+      ],
+      "location_id": "E0009",
+      "outcome": "两人成为朋友",
+      "participants": [
+        "E0001",
+        "E0006"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000401",
+          "prerequisite_type": "EVENT",
+          "ref_id": "DE0003",
+          "statement": "洛琪希帮助鲁迪踏向外界的背景"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC0001"
+      ],
+      "state_changes": [
+        {
+          "after": "获得鲁迪的保护与友谊",
+          "before": "被村中孩子霸凌的孤独少年",
+          "change_id": "SC000401",
+          "change_kind": "关系",
+          "subject_id": "E0006"
+        }
+      ],
+      "time_date": null,
+      "time_note": "鲁迪约五岁外出后",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": null,
+      "title": "鲁迪与希露菲相遇",
+      "trigger": "鲁迪出手救下被丢泥巴的希露菲",
+      "volume_no": 1
+    },
+    {
+      "actions": [
+        "接生",
+        "鲁迪协助治疗与搬运",
+        "命名"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [],
+      "event_id": "DE0005",
+      "event_type": "家庭事件",
+      "evidence_refs": [
+        "EV0040",
+        "EV0041"
+      ],
+      "location_id": "E0009",
+      "outcome": "两个女儿平安出生",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003",
+        "E0004",
+        "E0007",
+        "E0008"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000501",
+          "prerequisite_type": "EVENT",
+          "ref_id": "DE0006",
+          "statement": "家族会议决定留下莉莉雅"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC0003",
+        "RC0004"
+      ],
+      "state_changes": [
+        {
+          "after": "塞妮丝之女诺伦出生",
+          "before": "未出生",
+          "change_id": "SC000501",
+          "change_kind": "家族构成",
+          "subject_id": "E0007"
+        },
+        {
+          "after": "莉莉雅之女爱夏出生",
+          "before": "未出生",
+          "change_id": "SC000502",
+          "change_kind": "家族构成",
+          "subject_id": "E0008"
+        }
+      ],
+      "time_date": null,
+      "time_note": "鲁迪约六岁",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0004",
+      "title": "双胞胎妹妹诺伦与爱夏出生",
+      "trigger": "塞妮丝臀位难产，随后莉莉雅早产",
+      "volume_no": 1
+    },
+    {
+      "actions": [
+        "塞妮丝主持",
+        "鲁迪以孩童话术劝导",
+        "决定留下莉莉雅"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED000601",
+          "dependency_type": "CAUSES",
+          "statement": "家族会议决定留下莉莉雅，促成双胞胎出生",
+          "target_event_id": "DE0005"
+        }
+      ],
+      "event_id": "DE0006",
+      "event_type": "家庭会议",
+      "evidence_refs": [
+        "EV0035",
+        "EV0036",
+        "EV0037",
+        "EV0038"
+      ],
+      "location_id": "E0009",
+      "outcome": "家庭维持完整",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003",
+        "E0004"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0004",
+          "statement": "莉莉雅怀孕的事实曝光"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC0003",
+        "RC0004"
+      ],
+      "state_changes": [
+        {
+          "after": "被接纳为家人的一员",
+          "before": "有辞职意愿的女仆",
+          "change_id": "SC000601",
+          "change_kind": "家族地位",
+          "subject_id": "E0004"
+        }
+      ],
+      "time_date": null,
+      "time_note": "塞妮丝怀孕约一个月后",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0008",
+      "title": "紧急家族会议",
+      "trigger": "莉莉雅当众宣布怀孕，保罗承认",
+      "volume_no": 1
+    },
+    {
+      "actions": [
+        "袭击鲁迪",
+        "读信",
+        "搭乘马车出发"
+      ],
+      "belief_ids": [
+        "BL0007"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED000701",
+          "dependency_type": "REVEALS",
+          "statement": "罗亚家教为后续绑架事件埋下伏笔",
+          "target_event_id": "T0005"
+        }
+      ],
+      "event_id": "DE0007",
+      "event_type": "离别",
+      "evidence_refs": [
+        "EV0049",
+        "EV0050",
+        "EV0051",
+        "EV0052",
+        "EV0053"
+      ],
+      "location_id": "E0009",
+      "outcome": "鲁迪启程前往罗亚担任家教",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP000701",
+          "prerequisite_type": "GOAL",
+          "ref_id": null,
+          "statement": "保罗决定让鲁迪与希露菲各自独立"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "前往罗亚的马车（基列奴同行）",
+          "before": "布埃纳村格雷拉特家",
+          "change_id": "SC000701",
+          "change_kind": "所在地",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "第一卷末，鲁迪约七岁",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": null,
+      "title": "鲁迪被送往罗亚",
+      "trigger": "保罗打昏鲁迪并交由基列奴送往罗亚",
+      "volume_no": 1
+    },
+    {
+      "event_id": "DE0008",
+      "title": "索马尔事件",
+      "event_type": "邻里纠纷",
+      "canon_importance": "MINOR",
+      "volume_no": 1,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "五岁前后",
+      "location_id": "E0009",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0016"
+      ],
+      "trigger": "鲁迪出手制止霸凌，索马尔受伤",
+      "actions": [
+        "制止霸凌",
+        "艾特太太告状",
+        "保罗误会",
+        "真相澄清"
+      ],
+      "outcome": "保罗向鲁迪道歉，事件平息",
+      "state_changes": [
+        {
+          "change_id": "SC000801",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "被父亲误会",
+          "after": "误会解除"
+        }
+      ],
+      "prerequisites": [],
+      "dependencies": [],
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "timeline_event_id": "T0007",
+      "evidence_refs": [
+        "EV0068",
+        "EV0069",
+        "EV0070"
+      ]
+    },
+    {
+      "event_id": "DE0009",
+      "title": "希露菲救援",
+      "event_type": "保护",
+      "canon_importance": "MAJOR",
+      "volume_no": 1,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "五岁前后",
+      "location_id": "E0019",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0016"
+      ],
+      "trigger": "三个孩子在休耕田里朝希露菲丢泥巴",
+      "actions": [
+        "丢泥球制止",
+        "用魔术帮希露菲清洗",
+        "护送回家"
+      ],
+      "outcome": "希露菲获救，两人成为朋友，山丘大树成为据点",
+      "state_changes": [
+        {
+          "change_id": "SC000901",
+          "change_kind": "状态",
+          "subject_id": "E0006",
+          "before": "被霸凌的孤单孩子",
+          "after": "有鲁迪保护的朋友"
+        }
+      ],
+      "prerequisites": [],
+      "dependencies": [],
+      "relationship_change_ids": [
+        "RC0006"
+      ],
+      "belief_ids": [],
+      "timeline_event_id": "T0006",
+      "evidence_refs": [
+        "EV0069",
+        "EV0071"
+      ]
+    },
+    {
+      "event_id": "DE0010",
+      "title": "洛琪希毕业与赠礼",
+      "event_type": "毕业",
+      "canon_importance": "MAJOR",
+      "volume_no": 1,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "洛琪希教导鲁迪约两年后",
+      "location_id": "E0009",
+      "participants": [
+        "E0005",
+        "E0001"
+      ],
+      "trigger": "洛琪希的毕业考",
+      "actions": [
+        "毕业考现学水圣级魔术",
+        "赠米格路德族护身符",
+        "离开布埃纳村"
+      ],
+      "outcome": "鲁迪理解豪雷积雨云原理；师徒分别，护身符成为信物",
+      "state_changes": [
+        {
+          "change_id": "SC001001",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "跟随洛琪希学习",
+          "after": "洛琪希毕业离开"
+        }
+      ],
+      "prerequisites": [],
+      "dependencies": [],
+      "relationship_change_ids": [
+        "RC0007"
+      ],
+      "belief_ids": [],
+      "timeline_event_id": "T0005",
+      "evidence_refs": [
+        "EV0062",
+        "EV0063",
+        "EV0064"
+      ]
+    },
+    {
+      "event_id": "DE0011",
+      "title": "魔法大学请求被拒",
+      "event_type": "升学谈判",
+      "canon_importance": "MAJOR",
+      "volume_no": 1,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "七岁",
+      "location_id": "E0017",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0003"
+      ],
+      "trigger": "鲁迪遭遇魔术瓶颈",
+      "actions": [
+        "提出请求",
+        "陈述理由",
+        "家人逐条婉拒"
+      ],
+      "outcome": "升学计划推迟；卷末契约中家人以两人份学费为报酬保障该计划",
+      "state_changes": [
+        {
+          "change_id": "SC001101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "自学瓶颈",
+          "after": "明确升学目标与条件"
+        }
+      ],
+      "prerequisites": [],
+      "dependencies": [],
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "timeline_event_id": "T0009",
+      "evidence_refs": [
+        "EV0083",
+        "EV0084"
+      ]
+    },
+    {
+      "event_id": "DE0012",
+      "title": "启程罗亚",
+      "event_type": "离别",
+      "canon_importance": "MAJOR",
+      "volume_no": 1,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "七岁",
+      "location_id": "E0009",
+      "participants": [
+        "E0001",
+        "E0002",
+        "E0006",
+        "E0015"
+      ],
+      "trigger": "保罗决定让鲁迪前往罗亚任家庭教师",
+      "actions": [
+        "打昏鲁迪",
+        "绑送上马车",
+        "希露菲攻击保罗",
+        "基列奴同行护送"
+      ],
+      "outcome": "鲁迪启程前往罗亚；希露菲留在村里学习",
+      "state_changes": [
+        {
+          "change_id": "SC001201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "布埃纳村的幼童",
+          "after": "前往罗亚的家庭教师"
+        }
+      ],
+      "prerequisites": [],
+      "dependencies": [],
+      "relationship_change_ids": [
+        "RC0008"
+      ],
+      "belief_ids": [],
+      "timeline_event_id": "T0010",
+      "evidence_refs": [
+        "EV0086",
+        "EV0088",
+        "EV0090",
+        "EV0091"
+      ]
+    }
+  ],
+  "economic_observations": [
+    {
+      "amount_description": "一个月五枚",
+      "at_date": null,
+      "at_volume": 1,
+      "category": "教育服务",
+      "context": "鲁迪回忆洛琪希担任自己家教的费用",
+      "currency": "阿斯拉银币",
+      "evidence_refs": [
+        "EV0052"
+      ],
+      "goods_description": "洛琪希担任家庭教师的月薪",
+      "item_id": null,
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "observation_id": "EC0001",
+      "price_class": "OBSERVED_PRICE",
+      "quantity": null
+    },
+    {
+      "amount_description": "一个月两枚",
+      "at_date": null,
+      "at_volume": 1,
+      "category": "教育服务",
+      "context": "保罗信中转述基列奴的剑术学费",
+      "currency": "阿斯拉金币",
+      "evidence_refs": [
+        "EV0051"
+      ],
+      "goods_description": "向基列奴学习剑术的月费",
+      "item_id": null,
+      "location_id": "E0012",
+      "location_name": "罗亚",
+      "observation_id": "EC0002",
+      "price_class": "OBSERVED_PRICE",
+      "quantity": null
+    },
+    {
+      "amount_description": "约两枚",
+      "at_date": null,
+      "at_volume": 1,
+      "category": "生活开销",
+      "context": "鲁迪估算普通人的生活费基准",
+      "currency": "阿斯拉银币",
+      "evidence_refs": [
+        "EV0051"
+      ],
+      "goods_description": "一人一个月的生活费",
+      "item_id": null,
+      "location_id": "E0010",
+      "location_name": "阿斯拉王国",
+      "observation_id": "EC0003",
+      "price_class": "DERIVED_RANGE",
+      "quantity": null
+    },
+    {
+      "amount_description": "一个月两枚",
+      "at_date": null,
+      "at_volume": 1,
+      "category": "薪资",
+      "context": "保罗信中给出的家教报酬",
+      "currency": "阿斯拉银币",
+      "evidence_refs": [
+        "EV0052"
+      ],
+      "goods_description": "鲁迪在罗亚担任家庭教师的月薪",
+      "item_id": null,
+      "location_id": "E0012",
+      "location_name": "罗亚",
+      "observation_id": "EC0004",
+      "price_class": "OBSERVED_PRICE",
+      "quantity": null
+    },
+    {
+      "observation_id": "EC0005",
+      "location_id": "E0020",
+      "location_name": "龙神孔",
+      "at_date": null,
+      "at_volume": 1,
+      "category": "魔力结晶价格",
+      "item_id": null,
+      "goods_description": "魔力结晶（魔术触媒）",
+      "quantity": "小块",
+      "currency": null,
+      "amount_description": "可让人吃喝玩乐一年以上的金额",
+      "price_class": "QUALITATIVE",
+      "context": "迷宫讨伐者的主要收入来源之一。",
+      "evidence_refs": [
+        "EV0080"
+      ]
+    },
+    {
+      "observation_id": "EC0006",
+      "location_id": null,
+      "location_name": "魔法大学",
+      "at_date": null,
+      "at_volume": 1,
+      "category": "学费",
+      "item_id": null,
+      "goods_description": "魔法大学学费",
+      "quantity": "一人份/两人份",
+      "currency": null,
+      "amount_description": "无法同时负担鲁迪与希露菲两人份；契约以两人份学费为特别报酬",
+      "price_class": "QUALITATIVE",
+      "context": "保罗家族预算的制约因素。",
+      "evidence_refs": [
+        "EV0084",
+        "EV0089"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "chapter_title": "第一卷 幼年期 序章",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0001",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "前世尼特族被赶出家门，人生走投无路。",
+      "source_end_line": 114,
+      "source_start_line": 8,
+      "unit_id": "U0001",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 序章",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0002",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "前世回顾：被霸凌成为尼特，一事无成。",
+      "source_end_line": 204,
+      "source_start_line": 116,
+      "unit_id": "U0001",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 序章",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0003",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "童年玩伴回忆；为救三人被卡车撞死。",
+      "source_end_line": 282,
+      "source_start_line": 206,
+      "unit_id": "U0001",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第一话「难道是：异世界」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0004",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "转生为婴儿，确认父母（保罗、塞妮丝）与异世界。",
+      "source_end_line": 420,
+      "source_start_line": 286,
+      "unit_id": "U0002",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第一话「难道是：异世界」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0005",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "家庭富裕、有女仆；父亲挥剑、母亲使用治愈魔术。",
+      "source_end_line": 554,
+      "source_start_line": 422,
+      "unit_id": "U0002",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第一话「难道是：异世界」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0006",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "断定这是剑与魔法的异世界，决心认真生活。",
+      "source_end_line": 590,
+      "source_start_line": 556,
+      "unit_id": "U0002",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第二话「心生反感的女仆」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0007",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "女仆莉莉雅；家庭与魔术话题。",
+      "source_end_line": 712,
+      "source_start_line": 594,
+      "unit_id": "U0003",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第三话「魔术教科书」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0008",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "咏唱成为主流；教科书称魔力总量天生决定。",
+      "source_end_line": 1168,
+      "source_start_line": 1058,
+      "unit_id": "U0004",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第三话「魔术教科书」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0009",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "发现无咏唱也能发动水弹，自行推导咏唱意义。",
+      "source_end_line": 1296,
+      "source_start_line": 1170,
+      "unit_id": "U0004",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第三话「魔术教科书」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0010",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "魔力随使用次数增加（2→4→11→26），决定每天耗尽魔力。",
+      "source_end_line": 1444,
+      "source_start_line": 1298,
+      "unit_id": "U0004",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第三话「魔术教科书」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0011",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "水系初级魔术列表；两个月后掌握咏唱原理。",
+      "source_end_line": 1572,
+      "source_start_line": 1446,
+      "unit_id": "U0004",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0012",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "三岁；得知父母全名；水炮魔术打穿墙壁，魔术曝光。",
+      "source_end_line": 1716,
+      "source_start_line": 1576,
+      "unit_id": "U0005",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0013",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "塞妮丝主张请魔术家教；保罗反对；莉莉雅提议上午魔术下午剑术。",
+      "source_end_line": 1838,
+      "source_start_line": 1718,
+      "unit_id": "U0005",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0014",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "洛琪希登场（娇小水圣级魔术师）；第一堂课水弹示范。",
+      "source_end_line": 1976,
+      "source_start_line": 1840,
+      "unit_id": "U0005",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0015",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "洛琪希治愈树木；鲁迪无咏唱曝光，塞妮丝责备洛琪希。",
+      "source_end_line": 2140,
+      "source_start_line": 1978,
+      "unit_id": "U0005",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0016",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "下午保罗体能训练；混合魔术与魔力质量守恒定律。",
+      "source_end_line": 2286,
+      "source_start_line": 2142,
+      "unit_id": "U0005",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0017",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "四个月后能用到中级；晚上杂学课；长耳族魔术起源说明。",
+      "source_end_line": 2428,
+      "source_start_line": 2288,
+      "unit_id": "U0005",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第五话「剑术与魔术」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0018",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "五岁生日礼物（真剑、木剑、植物辞典、魔杖）；剑术流派介绍；保罗劈开岩石。",
+      "source_end_line": 2944,
+      "source_start_line": 2826,
+      "unit_id": "U0006",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第五话「剑术与魔术」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0019",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "剑神流/水神流/北神流三大流派与等级；洛琪希为水圣级魔术师。",
+      "source_end_line": 3072,
+      "source_start_line": 2946,
+      "unit_id": "U0006",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第五话「剑术与魔术」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0020",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "混合魔术；魔术学校与拉诺亚魔法大学；魔术师比例约四百分之一。",
+      "source_end_line": 3194,
+      "source_start_line": 3074,
+      "unit_id": "U0006",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第五话「剑术与魔术」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0021",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "洛琪希提到能教的已经不多了，暗示毕业。",
+      "source_end_line": 3226,
+      "source_start_line": 3196,
+      "unit_id": "U0006",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0022",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "获准外出；保罗教诲「男人的力量不用于耀武扬威」。",
+      "source_end_line": 4094,
+      "source_start_line": 3970,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0023",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "村外地理与植物调查；森林魔物风险；目睹霸凌现场。",
+      "source_end_line": 4232,
+      "source_start_line": 4096,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0024",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "用泥球救下被欺负的少年；清洗后发现翠绿色头发。",
+      "source_end_line": 4388,
+      "source_start_line": 4234,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0025",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "希露弗自我介绍（半长耳族/兽人血统）；因发色被排挤而哭泣。",
+      "source_end_line": 4532,
+      "source_start_line": 4390,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0026",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "成为朋友；希露弗的名字；父亲罗尔兹、森林塔楼。",
+      "source_end_line": 4632,
+      "source_start_line": 4534,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0027",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "教希露弗魔术；回家后保罗因艾特家告状而生气。",
+      "source_end_line": 4766,
+      "source_start_line": 4634,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0028",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "被保罗打；冷静反驳（理由正当、不道歉）；保罗哑口无言。",
+      "source_end_line": 4872,
+      "source_start_line": 4768,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0029",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗道歉；保罗观点（离家出走背景、后悔）。",
+      "source_end_line": 4976,
+      "source_start_line": 4874,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0030",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗真诚道歉；鲁迪说明真相；父子和解。",
+      "source_end_line": 5026,
+      "source_start_line": 4978,
+      "unit_id": "U0008",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第八话「迟钝」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0031",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "希露菲是女孩；鲁迪道歉；保罗观点（她很执着于那孩子）。",
+      "source_end_line": 5582,
+      "source_start_line": 5482,
+      "unit_id": "U0009",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第八话「迟钝」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0032",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "技能一览：剑神流/水神流初级、火上级/水圣级/风上级/土上级、治愈中级。",
+      "source_end_line": 5674,
+      "source_start_line": 5584,
+      "unit_id": "U0009",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第八话「迟钝」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0033",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗恋爱建议：展现脆弱一面让希露菲亲近。",
+      "source_end_line": 5790,
+      "source_start_line": 5676,
+      "unit_id": "U0009",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第八话「迟钝」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0034",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "决定成为「迟钝系男主角」维持和希露菲的关系。",
+      "source_end_line": 5856,
+      "source_start_line": 5792,
+      "unit_id": "U0009",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0035",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "塞妮丝怀孕；莉莉雅怀孕曝光；保罗当场承认。",
+      "source_end_line": 5958,
+      "source_start_line": 5860,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0036",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "莉莉雅打算辞职；塞妮丝冷静；鲁迪决定帮忙。",
+      "source_end_line": 6054,
+      "source_start_line": 5960,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0037",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "圣物被发现往事；鲁迪编造保罗把柄的说辞救莉莉雅。",
+      "source_end_line": 6170,
+      "source_start_line": 6056,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0038",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "塞妮丝决定留下莉莉雅；莉莉雅观点（自己主动引诱）。",
+      "source_end_line": 6288,
+      "source_start_line": 6172,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0039",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "数月后希露菲无咏唱到中级；莉莉雅态度软化；保罗往事。",
+      "source_end_line": 6388,
+      "source_start_line": 6290,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0040",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "塞妮丝臀位难产；诺伦出生；随后莉莉雅早产爱夏。",
+      "source_end_line": 6504,
+      "source_start_line": 6390,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0041",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "诺伦与爱夏的命名；鲁迪目标是受尊敬的哥哥。",
+      "source_end_line": 6514,
+      "source_start_line": 6506,
+      "unit_id": "U0010",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0042",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "迷宫知识：魔力结晶、魔力附加品、龙神孔、最难关卡。",
+      "source_end_line": 6786,
+      "source_start_line": 6702,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0043",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗讲冒险者与迷宫故事；鲁迪教希露菲数学理科。",
+      "source_end_line": 6884,
+      "source_start_line": 6788,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0044",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "魔术遇瓶颈；希露菲察觉并担心；考虑学校或冒险者。",
+      "source_end_line": 7000,
+      "source_start_line": 6886,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0045",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "希露菲哭着挽留；鲁迪承诺哪里都不去。",
+      "source_end_line": 7146,
+      "source_start_line": 7002,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0046",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "洛琪希来信（水王级、魔法大学建议、内裤道歉）。",
+      "source_end_line": 7280,
+      "source_start_line": 7148,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0047",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "请求去魔法大学；保罗三条件；鲁迪要求打工赚希露菲学费。",
+      "source_end_line": 7396,
+      "source_start_line": 7282,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0048",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗观点：担心希露菲过度依赖，决定强制分开并写信基列奴。",
+      "source_end_line": 7420,
+      "source_start_line": 7398,
+      "unit_id": "U0011",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十一话「离别」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0049",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗突然袭击；鲁迪用多种魔术迎击仍被打昏。",
+      "source_end_line": 7582,
+      "source_start_line": 7424,
+      "unit_id": "U0012",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十一话「离别」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0050",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "基列奴登场；读保罗的信（玩笑开场）。",
+      "source_end_line": 7734,
+      "source_start_line": 7584,
+      "unit_id": "U0012",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十一话「离别」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0051",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "信：基列奴是剑王；罗亚家教五年；禁止回家与写信。",
+      "source_end_line": 7850,
+      "source_start_line": 7736,
+      "unit_id": "U0012",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十一话「离别」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0052",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "报酬与魔法大学学费承诺；决定前往罗亚。",
+      "source_end_line": 7960,
+      "source_start_line": 7852,
+      "unit_id": "U0012",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 第十一话「离别」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0053",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "保罗观点；希露菲宣言要变强救出鲁迪；送行。",
+      "source_end_line": 8068,
+      "source_start_line": 7962,
+      "unit_id": "U0012",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 外传 格雷拉特家的母亲",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0054",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "塞妮丝背景：米里斯神圣国伯爵家次女，离家出走，治愈魔术中级，认识保罗。",
+      "source_end_line": 8166,
+      "source_start_line": 8072,
+      "unit_id": "U0013",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 外传 格雷拉特家的母亲",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0055",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "塞妮丝结婚、怀孕、鲁迪出生；鲁迪帮忙照顾双胞胎妹妹。",
+      "source_end_line": 8312,
+      "source_start_line": 8168,
+      "unit_id": "U0013",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 外传 格雷拉特家的母亲",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0056",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁迪熟练照顾婴儿（诺伦），塞妮丝获得母亲实感。",
+      "source_end_line": 8436,
+      "source_start_line": 8314,
+      "unit_id": "U0013",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 外传 格雷拉特家的母亲",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0057",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁迪安排喂爱夏；塞妮丝克服米里斯教义，接纳两名妻子。",
+      "source_end_line": 8580,
+      "source_start_line": 8438,
+      "unit_id": "U0013",
+      "volume_no": 1
+    },
+    {
+      "chapter_title": "第一卷 幼年期 外传 格雷拉特家的母亲",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV0058",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "母子谈心；塞妮丝「谢谢你成为我的孩子」。",
+      "source_end_line": 8638,
+      "source_start_line": 8582,
+      "unit_id": "U0013",
+      "volume_no": 1
+    },
+    {
+      "evidence_id": "EV0059",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 第五话 剑术与魔术",
+      "source_start_line": 2833,
+      "source_end_line": 2834,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "五岁生日礼物：一把对五岁小孩太长太重的真剑与一把较短的木剑；真剑已开锋。保罗接过木剑深受感动。"
+    },
+    {
+      "evidence_id": "EV0060",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 第五话 剑术与魔术",
+      "source_start_line": 2991,
+      "source_end_line": 2991,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "保罗在无意识状态下使用剑士身体强化能力，因此无法传授方法。"
+    },
+    {
+      "evidence_id": "EV0061",
+      "volume_no": 1,
+      "unit_id": "U0005",
+      "chapter_title": "第一卷 第四话 师傅",
+      "source_start_line": 1843,
+      "source_end_line": 1843,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "可以向魔术师公会和冒险者公会提出委托（找老师）。"
+    },
+    {
+      "evidence_id": "EV0062",
+      "volume_no": 1,
+      "unit_id": "U0007",
+      "chapter_title": "第一卷 第六话 尊敬的理由",
+      "source_start_line": 3476,
+      "source_end_line": 3480,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "洛琪希的毕业考使用水圣级攻击魔术豪雷积雨云（Cumulonimbus），制造大范围豪雨并伴随雷电。"
+    },
+    {
+      "evidence_id": "EV0063",
+      "volume_no": 1,
+      "unit_id": "U0007",
+      "chapter_title": "第一卷 第六话 尊敬的理由",
+      "source_start_line": 3703,
+      "source_end_line": 3703,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪理解了豪雷积雨云的原理并当场重现。"
+    },
+    {
+      "evidence_id": "EV0064",
+      "volume_no": 1,
+      "unit_id": "U0007",
+      "chapter_title": "第一卷 第六话 尊敬的理由",
+      "source_start_line": 3856,
+      "source_end_line": 3858,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "洛琪希赠米格路德族护身符作为毕业贺礼，遇不好惹的魔族报她名字可通融。"
+    },
+    {
+      "evidence_id": "EV0065",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 第七话 朋友",
+      "source_start_line": 4126,
+      "source_end_line": 4127,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "村外小山丘上孤零零的一棵大树，鲁迪与希露菲常去之处。"
+    },
+    {
+      "evidence_id": "EV0066",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 第七话 朋友",
+      "source_start_line": 4566,
+      "source_end_line": 4567,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "罗尔兹自我介绍：平常在森林里打猎；塔楼用于监视魔物跑出森林，二十四小时由村里男人轮流看守，保罗也值班，两人因此相识并常商量孩子的事。"
+    },
+    {
+      "evidence_id": "EV0067",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 第七话 朋友",
+      "source_start_line": 4579,
+      "source_end_line": 4583,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪礼貌地请求与希露菲去山丘大树附近玩，承诺天黑前送她回家；罗尔兹同意。"
+    },
+    {
+      "evidence_id": "EV0068",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 第七话 朋友",
+      "source_start_line": 4674,
+      "source_end_line": 4683,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾特太太上门质问鲁迪打了索马尔；索马尔是三个欺负人的死小鬼之一。"
+    },
+    {
+      "evidence_id": "EV0069",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 第七话 朋友",
+      "source_start_line": 4811,
+      "source_end_line": 4813,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪见三个孩子朝路上的孩子丢泥巴，先丢泥球制止，再用魔术帮被欺者清洗；索马尔该先向希露菲道歉。"
+    },
+    {
+      "evidence_id": "EV0070",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 第七话 朋友",
+      "source_start_line": 4895,
+      "source_end_line": 4899,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾特太太带着眼角淤青的索马尔气势汹汹上门告状；保罗误以为鲁迪无故打人。"
+    },
+    {
+      "evidence_id": "EV0071",
+      "volume_no": 1,
+      "unit_id": "U0009",
+      "chapter_title": "第一卷 第八话 迟钝",
+      "source_start_line": 5058,
+      "source_end_line": 5064,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "索马尔等人多次来山丘大树骚扰，全被击退；此后山丘大树成为鲁迪与希露菲的地盘。"
+    },
+    {
+      "evidence_id": "EV0072",
+      "volume_no": 1,
+      "unit_id": "U0009",
+      "chapter_title": "第一卷 第八话 迟钝",
+      "source_start_line": 5503,
+      "source_end_line": 5505,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪得知希露菲其实是女孩子，决定改称她为希露菲；保罗吐槽他眼睛有毛病。"
+    },
+    {
+      "evidence_id": "EV0073",
+      "volume_no": 1,
+      "unit_id": "U0009",
+      "chapter_title": "第一卷 第八话 迟钝",
+      "source_start_line": 5594,
+      "source_end_line": 5594,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "神击系魔术能对幽灵系魔物与邪恶魔族造成有效伤害，但被人族神官战士刻意隐瞒，魔法大学不传授。"
+    },
+    {
+      "evidence_id": "EV0074",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 第五话 剑术与魔术",
+      "source_start_line": 3111,
+      "source_end_line": 3111,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "在魔术学校用功到毕业的上级魔术师，大约一百个魔术师里才有一个。"
+    },
+    {
+      "evidence_id": "EV0075",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 第五话 剑术与魔术",
+      "source_start_line": 3121,
+      "source_end_line": 3130,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "规模最大的魔术学校是拉诺亚魔法大学；魔术学校地位很高，魔族的洛琪希只能进入魔法大学；大学不拘泥形式与尊严，接纳各种族，是洛琪希的母校。"
+    },
+    {
+      "evidence_id": "EV0076",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 第五话 剑术与魔术",
+      "source_start_line": 3134,
+      "source_end_line": 3134,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "有人先取得骑士头衔再留学魔法大学，也有魔法剑士这条路可走。"
+    },
+    {
+      "evidence_id": "EV0077",
+      "volume_no": 1,
+      "unit_id": "U0010",
+      "chapter_title": "第一卷 第九话 紧急家族会议",
+      "source_start_line": 5860,
+      "source_end_line": 5958,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "莉莉雅怀孕曝光：塞妮丝愤怒，家中氛围紧绷。"
+    },
+    {
+      "evidence_id": "EV0078",
+      "volume_no": 1,
+      "unit_id": "U0010",
+      "chapter_title": "第一卷 第九话 紧急家族会议",
+      "source_start_line": 6056,
+      "source_end_line": 6170,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "圣物（莉莉雅）被留下：鲁迪帮忙说服塞妮丝接纳莉莉雅为家人。"
+    },
+    {
+      "evidence_id": "EV0079",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 6552,
+      "source_end_line": 6554,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "保罗展示战斗：狗型魔物猛攻斗犬（Assault Dog）三只、四臂野猪型魔物终结野猪（Terminate Boar）一只。"
+    },
+    {
+      "evidence_id": "EV0080",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 6712,
+      "source_end_line": 6720,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "迷宫深处有作为力量来源的魔力结晶与守护者（Boss）；魔力结晶是魔术触媒，价格惊人，小块也可让人吃喝玩乐一年以上。"
+    },
+    {
+      "evidence_id": "EV0081",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 6721,
+      "source_end_line": 6728,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "迷宫经过一段时间会复原，并掉落冒险者留下的装备附加品；冒险者靠这些发财。"
+    },
+    {
+      "evidence_id": "EV0082",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 6730,
+      "source_end_line": 6732,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "龙神孔：位于中央大陆龙鸣山山麓的迷宫，约一万年前已存在，会捕食赤龙，记载于《三剑士与迷宫》。"
+    },
+    {
+      "evidence_id": "EV0083",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 7198,
+      "source_end_line": 7205,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪在家人面前提议前往拉诺亚魔法大学就读。"
+    },
+    {
+      "evidence_id": "EV0084",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 7214,
+      "source_end_line": 7282,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "家人以学费（无法负担希露菲的份）与年龄（七岁）为由婉拒升学提议。"
+    },
+    {
+      "evidence_id": "EV0085",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 第十话 遭遇瓶颈",
+      "source_start_line": 7331,
+      "source_end_line": 7332,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "罗尔兹找保罗商量：希露菲总黏着鲁迪，把他当哥哥仰慕，也开始以男女情感角度注意他。"
+    },
+    {
+      "evidence_id": "EV0086",
+      "volume_no": 1,
+      "unit_id": "U0012",
+      "chapter_title": "第一卷 第十一话 离别",
+      "source_start_line": 7590,
+      "source_end_line": 7590,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "基列奴登场，护送鲁迪前往罗亚。"
+    },
+    {
+      "evidence_id": "EV0087",
+      "volume_no": 1,
+      "unit_id": "U0012",
+      "chapter_title": "第一卷 第十一话 离别",
+      "source_start_line": 7741,
+      "source_end_line": 7744,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "基列奴是剑王。"
+    },
+    {
+      "evidence_id": "EV0088",
+      "volume_no": 1,
+      "unit_id": "U0012",
+      "chapter_title": "第一卷 第十一话 离别",
+      "source_start_line": 7747,
+      "source_end_line": 7763,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪的工作：前往菲托亚领地最大都市罗亚，担任某位大小姐的家庭教师（算术、读写、简单魔术）；大小姐超级任性；基列奴是她家保镖兼剑术师傅。"
+    },
+    {
+      "evidence_id": "EV0089",
+      "volume_no": 1,
+      "unit_id": "U0012",
+      "chapter_title": "第一卷 第十一话 离别",
+      "source_start_line": 7855,
+      "source_end_line": 7855,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "坚持五年并教好大小姐，对方支付相当于两人份的魔法大学学费作为特别报酬。"
+    },
+    {
+      "evidence_id": "EV0090",
+      "volume_no": 1,
+      "unit_id": "U0012",
+      "chapter_title": "第一卷 第十一话 离别",
+      "source_start_line": 7902,
+      "source_end_line": 7906,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲见鲁迪被绑，以无咏唱方式对保罗放出中级攻击魔术；保罗轻松化解，称赞其威力和速度无可挑剔。"
+    },
+    {
+      "evidence_id": "EV0091",
+      "volume_no": 1,
+      "unit_id": "U0012",
+      "chapter_title": "第一卷 第十一话 离别",
+      "source_start_line": 7906,
+      "source_end_line": 7906,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "罗尔兹蹲着向希露菲解释；保罗认为教育是父母的责任。"
+    },
+    {
+      "evidence_id": "EV0092",
+      "volume_no": 1,
+      "unit_id": "U0013",
+      "chapter_title": "第一卷 外传 保罗和塞妮丝的过去",
+      "source_start_line": 8093,
+      "source_end_line": 8093,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "米里斯神圣国治疗魔术与结界魔术发达，多数人只学初级治疗魔术；习得中级者可在米里斯教团经营的治疗院就职。"
+    },
+    {
+      "evidence_id": "EV0093",
+      "volume_no": 1,
+      "unit_id": "U0013",
+      "chapter_title": "第一卷 外传 保罗和塞妮丝的过去",
+      "source_start_line": 8468,
+      "source_end_line": 8468,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "塞妮丝对破坏一夫一妻戒律的保罗与莉莉雅内心仍有不满；她是虔诚的米里斯教徒。"
+    },
+    {
+      "evidence_id": "EV0094",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 特典 希露菲和贵族礼节",
+      "source_start_line": 9309,
+      "source_end_line": 9317,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲向莉莉雅请求学习贵族礼节；罗尔兹认为鲁迪不会娶一介猎人的女儿为妻，希露菲决定自己去学。"
+    },
+    {
+      "evidence_id": "EV0095",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 特典 希露菲和贵族礼节",
+      "source_start_line": 9346,
+      "source_end_line": 9346,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲开始向莉莉雅学习贵族礼节。"
+    },
+    {
+      "evidence_id": "EV0096",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 特典 希露菲和贵族礼节",
+      "source_start_line": 9521,
+      "source_end_line": 9522,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "塞妮丝（米里斯式）与莉莉雅（阿斯拉式）都坚信自己所学的贵族礼节正确，两人开始吵架。"
+    },
+    {
+      "evidence_id": "EV0097",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 特典 希露菲和贵族礼节",
+      "source_start_line": 9552,
+      "source_end_line": 9555,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "塞妮丝的举止华丽优美，像某国贵族大小姐；保罗评价她上得厅堂。"
+    },
+    {
+      "evidence_id": "EV0098",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 特典 希露菲和贵族礼节",
+      "source_start_line": 9615,
+      "source_end_line": 9615,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "保罗自小就没怎么好好学习贵族礼节。"
+    },
+    {
+      "evidence_id": "EV0099",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 第五话 剑术与魔术",
+      "source_start_line": 2864,
+      "source_end_line": 2864,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "没有人用长枪，因为斯佩路德族使用三叉枪，长枪被视为恶魔的武器，这是常识。"
+    },
+    {
+      "evidence_id": "EV0100",
+      "volume_no": 1,
+      "unit_id": "U0007",
+      "chapter_title": "第一卷 第六话 尊敬的理由",
+      "source_start_line": 3422,
+      "source_end_line": 3423,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "卡拉瓦乔是保罗家这匹马的名字，心情很好，载着鲁迪。"
+    },
+    {
+      "evidence_id": "EV0101",
+      "volume_no": 1,
+      "unit_id": "U0009",
+      "chapter_title": "第一卷 第八话 迟钝",
+      "source_start_line": 5187,
+      "source_end_line": 5189,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪示范以无咏唱同时使用两个魔术（混合魔术）；魔法大学教师中也只有一人能做到。"
+    },
+    {
+      "evidence_id": "EV0102",
+      "volume_no": 1,
+      "unit_id": "U0003",
+      "chapter_title": "第一卷 第二话 米里斯神圣国中的女仆",
+      "source_start_line": 772,
+      "source_end_line": 772,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "格雷拉特家宅中的场景描写。"
+    }
+  ],
+  "item_instances": [
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "condition": "完好",
+      "definition_id": "IT0001",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV0008",
+        "EV0011"
+      ],
+      "holder_id": "E0001",
+      "instance_id": "IN0001",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0001",
+      "ownership_history": [
+        {
+          "acquired_via": "购买（鲁迪自学用）",
+          "entry_id": "OH0001",
+          "lost_via": null,
+          "note": "鲁迪的魔术教科书，后赠予希露菲。",
+          "owner_id": "E0001",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "condition": "完好",
+      "definition_id": "IT0002",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "holder_id": "E0001",
+      "instance_id": "IN0002",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0001",
+      "ownership_history": [
+        {
+          "acquired_via": "制作",
+          "entry_id": "OH0002",
+          "lost_via": null,
+          "note": "洛琪希制作并赠予弟子鲁迪。",
+          "owner_id": "E0005",
+          "period_end": null,
+          "period_start": null
+        },
+        {
+          "acquired_via": "获赠（五岁生日）",
+          "entry_id": "OH0003",
+          "lost_via": null,
+          "note": "鲁迪继承并使用。",
+          "owner_id": "E0001",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "condition": "完好",
+      "definition_id": "IT0003",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV0018",
+        "EV0022"
+      ],
+      "holder_id": "E0001",
+      "instance_id": "IN0003",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0001",
+      "ownership_history": [
+        {
+          "acquired_via": "购买",
+          "entry_id": "OH0004",
+          "lost_via": null,
+          "note": "塞妮丝赠送。",
+          "owner_id": "E0003",
+          "period_end": null,
+          "period_start": null
+        },
+        {
+          "acquired_via": "获赠（五岁生日）",
+          "entry_id": "OH0005",
+          "lost_via": null,
+          "note": "鲁迪随身携带外出调查植物。",
+          "owner_id": "E0001",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "condition": "完好",
+      "definition_id": "IT0004",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "holder_id": "E0001",
+      "instance_id": "IN0004",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0001",
+      "ownership_history": [
+        {
+          "acquired_via": "购买",
+          "entry_id": "OH0006",
+          "lost_via": null,
+          "note": "保罗赠送。",
+          "owner_id": "E0002",
+          "period_end": null,
+          "period_start": null
+        },
+        {
+          "acquired_via": "获赠（五岁生日）",
+          "entry_id": "OH0007",
+          "lost_via": null,
+          "note": "鲁迪持有，依嘱除非必要收好。",
+          "owner_id": "E0001",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "condition": "完好",
+      "definition_id": "IT0005",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "holder_id": "E0001",
+      "instance_id": "IN0005",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0001",
+      "ownership_history": [
+        {
+          "acquired_via": "购买",
+          "entry_id": "OH0008",
+          "lost_via": null,
+          "note": "保罗赠送。",
+          "owner_id": "E0002",
+          "period_end": null,
+          "period_start": null
+        },
+        {
+          "acquired_via": "获赠（五岁生日）",
+          "entry_id": "OH0009",
+          "lost_via": null,
+          "note": "用于每日剑术训练。",
+          "owner_id": "E0001",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "instance_id": "IN0006",
+      "definition_id": "IT0006",
+      "owner_id": "E0001",
+      "holder_id": "E0001",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "condition": "完好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "lost_at": null,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH0010",
+          "owner_id": "E0001",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "洛琪希毕业赠礼",
+          "lost_via": null,
+          "note": "随鲁迪前往罗亚。"
+        }
+      ],
+      "evidence_refs": [
+        "EV0064"
+      ]
+    },
+    {
+      "instance_id": "IN0007",
+      "definition_id": "IT0007",
+      "owner_id": "E0002",
+      "holder_id": "E0002",
+      "location_id": "E0009",
+      "location_name": "布埃纳村",
+      "condition": "完好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "acquired_at_volume": 1,
+      "lost_at": null,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH0011",
+          "owner_id": "E0002",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "格雷拉特家所有",
+          "lost_via": null,
+          "note": "保罗常骑它载鲁迪。"
+        }
+      ],
+      "evidence_refs": [
+        "EV0100"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "abilities": [
+        "记载魔术咒文与魔法阵"
+      ],
+      "aliases": [
+        "初级魔术教科书"
+      ],
+      "canonical_name": "魔术教科书",
+      "category": "书籍",
+      "creator": null,
+      "currency": null,
+      "description": "记载火、水、风、土系到上级为止魔术的教科书；鲁迪自学的起点。",
+      "durability": null,
+      "effects": [
+        "习得初级至上级魔术"
+      ],
+      "evidence_refs": [
+        "EV0008",
+        "EV0011"
+      ],
+      "first_appearance_line": 932,
+      "first_appearance_volume": 1,
+      "item_id": "IT0001",
+      "limitations": [
+        "无咏唱方法未记载"
+      ],
+      "manufacturer": null,
+      "material": "纸（手写本）",
+      "origin": "布埃纳村",
+      "rarity": "常见",
+      "requirements": [],
+      "size": null,
+      "subcategory": "魔术教材",
+      "value_information": null,
+      "visible_from_volume": 1,
+      "weight": null
+    },
+    {
+      "abilities": [
+        "魔力触媒"
+      ],
+      "aliases": [
+        "洛琪希的魔杖",
+        "师傅送的魔杖"
+      ],
+      "canonical_name": "魔杖（洛琪希制作）",
+      "category": "道具",
+      "creator": "E0005",
+      "currency": null,
+      "description": "洛琪希在鲁迪五岁生日时制作的朴素魔杖：约三十公分木棒前端镶红色小石头。",
+      "durability": "普通",
+      "effects": [
+        "辅助魔术"
+      ],
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "first_appearance_line": 2836,
+      "first_appearance_volume": 1,
+      "item_id": "IT0002",
+      "limitations": [],
+      "manufacturer": "E0005",
+      "material": "木、红色石头",
+      "origin": "格雷拉特家",
+      "rarity": null,
+      "requirements": [
+        "需魔力"
+      ],
+      "size": "约三十公分",
+      "subcategory": "魔道具",
+      "value_information": null,
+      "visible_from_volume": 1,
+      "weight": null
+    },
+    {
+      "abilities": [
+        "辨识植物"
+      ],
+      "aliases": [
+        "植物图鉴"
+      ],
+      "canonical_name": "植物辞典",
+      "category": "书籍",
+      "creator": null,
+      "currency": null,
+      "description": "塞妮丝在鲁迪五岁生日赠送的厚本植物辞典，附详细插画，用于辨认可食用与有毒植物。",
+      "durability": null,
+      "effects": [
+        "习得植物知识"
+      ],
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "first_appearance_line": 2836,
+      "first_appearance_volume": 1,
+      "item_id": "IT0003",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "纸（手写）",
+      "origin": "阿斯拉王国",
+      "rarity": "昂贵（书籍无印刷技术）",
+      "requirements": [],
+      "size": "厚重",
+      "subcategory": "图鉴",
+      "value_information": null,
+      "visible_from_volume": 1,
+      "weight": null
+    },
+    {
+      "abilities": [
+        "斩击"
+      ],
+      "aliases": [],
+      "canonical_name": "真剑",
+      "category": "武器",
+      "creator": null,
+      "currency": null,
+      "description": "保罗在鲁迪五岁生日赠送的锻造开锋真剑；对五岁孩子过长过重，象征「男人的自觉」。",
+      "durability": "高",
+      "effects": [
+        "物理伤害"
+      ],
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "first_appearance_line": 2830,
+      "first_appearance_volume": 1,
+      "item_id": "IT0004",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "金属（锻造）",
+      "origin": null,
+      "rarity": null,
+      "requirements": [
+        "剑术"
+      ],
+      "size": "对五岁小孩偏大",
+      "subcategory": "剑",
+      "value_information": null,
+      "visible_from_volume": 1,
+      "weight": "重"
+    },
+    {
+      "abilities": [
+        "训练用斩击"
+      ],
+      "aliases": [],
+      "canonical_name": "木剑",
+      "category": "武器",
+      "creator": null,
+      "currency": null,
+      "description": "保罗在鲁迪五岁生日赠送的较短木剑，用于剑术基础训练。",
+      "durability": "中",
+      "effects": [
+        "剑术训练"
+      ],
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "first_appearance_line": 2830,
+      "first_appearance_volume": 1,
+      "item_id": "IT0005",
+      "limitations": [
+        "非致命"
+      ],
+      "manufacturer": null,
+      "material": "木",
+      "origin": null,
+      "rarity": null,
+      "requirements": [],
+      "size": "较短",
+      "subcategory": "训练用剑",
+      "value_information": null,
+      "visible_from_volume": 1,
+      "weight": "轻"
+    },
+    {
+      "item_id": "IT0006",
+      "canonical_name": "米格路德族护身符",
+      "aliases": [
+        "护身符"
+      ],
+      "category": "护身符",
+      "subcategory": "种族信物",
+      "description": "洛琪希毕业时赠予鲁迪的护身符，遇不好惹的魔族时报她名字可通融。",
+      "material": null,
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "稀有",
+      "origin": "米格路德族",
+      "manufacturer": null,
+      "creator": "E0005",
+      "first_appearance_volume": 1,
+      "first_appearance_line": 3856,
+      "visible_from_volume": 1,
+      "abilities": [
+        "魔族威慑（报洛琪希之名）"
+      ],
+      "effects": [
+        "在魔族面前证明身份"
+      ],
+      "limitations": [
+        "通融与否不确定"
+      ],
+      "requirements": [],
+      "value_information": null,
+      "currency": null,
+      "evidence_refs": [
+        "EV0064"
+      ]
+    },
+    {
+      "item_id": "IT0007",
+      "canonical_name": "卡拉瓦乔",
+      "aliases": [],
+      "category": "动物",
+      "subcategory": "马",
+      "description": "格雷拉特家的马，保罗载鲁迪出行时骑乘。",
+      "material": null,
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "常见",
+      "origin": "布埃纳村",
+      "manufacturer": null,
+      "creator": null,
+      "first_appearance_volume": 1,
+      "first_appearance_line": 3422,
+      "visible_from_volume": 1,
+      "abilities": [],
+      "effects": [
+        "载人出行"
+      ],
+      "limitations": [],
+      "requirements": [],
+      "value_information": null,
+      "currency": null,
+      "evidence_refs": [
+        "EV0100"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "aliases": [],
+      "climate": null,
+      "danger": "低（定期魔物狩猎）",
+      "economy": "农业（麦、蔬菜、香水材料）",
+      "evidence_refs": [
+        "EV0005",
+        "EV0022",
+        "EV0023"
+      ],
+      "first_appearance_line": 594,
+      "first_appearance_volume": 1,
+      "important_people": [
+        "E0002",
+        "E0003",
+        "E0005"
+      ],
+      "known_routes": [
+        "RT0001"
+      ],
+      "location_id": "E0009",
+      "location_type": "VILLAGE",
+      "name": "布埃纳村",
+      "nearby_locations": [
+        "E0011"
+      ],
+      "organizations": [],
+      "parent_location_id": "E0011",
+      "political_control": [
+        "E0010"
+      ],
+      "population_info": null,
+      "race_distribution": "以人族为主",
+      "services": "村里有骑士保罗、诊所（塞妮丝帮忙）",
+      "terrain": "小麦田环绕的乡村",
+      "visible_from_volume": 1
+    },
+    {
+      "aliases": [
+        "阿斯拉"
+      ],
+      "climate": "治安与气候俱佳",
+      "danger": "低",
+      "economy": "有公共马车与商业",
+      "evidence_refs": [
+        "EV0013",
+        "EV0046"
+      ],
+      "first_appearance_line": 594,
+      "first_appearance_volume": 1,
+      "important_people": [],
+      "known_routes": [],
+      "location_id": "E0010",
+      "location_type": "COUNTRY",
+      "name": "阿斯拉王国",
+      "nearby_locations": [
+        "E0011"
+      ],
+      "organizations": [],
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": "人族为主",
+      "services": "魔术师公会、冒险者公会",
+      "terrain": null,
+      "visible_from_volume": 1
+    },
+    {
+      "aliases": [
+        "菲托亚领地"
+      ],
+      "climate": null,
+      "danger": null,
+      "economy": null,
+      "evidence_refs": [
+        "EV0013"
+      ],
+      "first_appearance_line": 594,
+      "first_appearance_volume": 1,
+      "important_people": [],
+      "known_routes": [],
+      "location_id": "E0011",
+      "location_type": "TERRITORY",
+      "name": "菲托亚领",
+      "nearby_locations": [
+        "E0009",
+        "E0012"
+      ],
+      "organizations": [],
+      "parent_location_id": "E0010",
+      "political_control": [
+        "E0010"
+      ],
+      "population_info": null,
+      "race_distribution": null,
+      "services": null,
+      "terrain": null,
+      "visible_from_volume": 1
+    },
+    {
+      "aliases": [
+        "要塞都市罗亚"
+      ],
+      "climate": null,
+      "danger": null,
+      "economy": "菲托亚领最大都市",
+      "evidence_refs": [
+        "EV0048",
+        "EV0051",
+        "EV0052"
+      ],
+      "first_appearance_line": 594,
+      "first_appearance_volume": 1,
+      "important_people": [],
+      "known_routes": [
+        "RT0001"
+      ],
+      "location_id": "E0012",
+      "location_type": "CITY",
+      "name": "罗亚",
+      "nearby_locations": [
+        "E0011"
+      ],
+      "organizations": [],
+      "parent_location_id": "E0011",
+      "political_control": [
+        "E0011"
+      ],
+      "population_info": null,
+      "race_distribution": null,
+      "services": null,
+      "terrain": "要塞都市",
+      "visible_from_volume": 1
+    },
+    {
+      "aliases": [
+        "米里斯"
+      ],
+      "climate": null,
+      "danger": null,
+      "economy": "治疗魔术与结界魔术发达",
+      "evidence_refs": [
+        "EV0054"
+      ],
+      "first_appearance_line": 8072,
+      "first_appearance_volume": 1,
+      "important_people": [
+        "E0003"
+      ],
+      "known_routes": [],
+      "location_id": "E0014",
+      "location_type": "COUNTRY",
+      "name": "米里斯神圣国",
+      "nearby_locations": [],
+      "organizations": [],
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": "人族为主",
+      "services": "米里斯教团治疗院",
+      "terrain": null,
+      "visible_from_volume": 1
+    },
+    {
+      "location_id": "E0017",
+      "name": "格雷拉特家宅",
+      "aliases": [
+        "格雷拉特家"
+      ],
+      "location_type": "HOUSE",
+      "parent_location_id": "E0009",
+      "nearby_locations": [],
+      "terrain": null,
+      "climate": null,
+      "population_info": null,
+      "race_distribution": "以人族为主",
+      "economy": null,
+      "services": "鲁迪的卧室、家族会议场所",
+      "danger": "低",
+      "important_people": [
+        "E0002",
+        "E0003",
+        "E0004",
+        "E0001"
+      ],
+      "known_routes": [],
+      "organizations": [],
+      "political_control": [],
+      "first_appearance_volume": 1,
+      "first_appearance_line": 772,
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0102"
+      ]
+    },
+    {
+      "location_id": "E0018",
+      "name": "布埃纳村森林",
+      "aliases": [
+        "森林"
+      ],
+      "location_type": "FOREST",
+      "parent_location_id": "E0009",
+      "nearby_locations": [
+        "E0019"
+      ],
+      "terrain": "林地",
+      "climate": null,
+      "population_info": null,
+      "race_distribution": null,
+      "economy": "猎获",
+      "services": null,
+      "danger": "中（魔力沉滞处魔物出没）",
+      "important_people": [
+        "E0015"
+      ],
+      "known_routes": [],
+      "organizations": [],
+      "political_control": [],
+      "first_appearance_volume": 1,
+      "first_appearance_line": 4108,
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0066"
+      ]
+    },
+    {
+      "location_id": "E0019",
+      "name": "山丘大树",
+      "aliases": [
+        "山丘"
+      ],
+      "location_type": "OTHER",
+      "parent_location_id": "E0009",
+      "nearby_locations": [
+        "E0018"
+      ],
+      "terrain": "小山丘与孤树",
+      "climate": null,
+      "population_info": null,
+      "race_distribution": null,
+      "economy": null,
+      "services": null,
+      "danger": "低",
+      "important_people": [
+        "E0001",
+        "E0006"
+      ],
+      "known_routes": [],
+      "organizations": [],
+      "political_control": [],
+      "first_appearance_volume": 1,
+      "first_appearance_line": 4126,
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0065",
+        "EV0071"
+      ]
+    },
+    {
+      "location_id": "E0020",
+      "name": "龙神孔",
+      "aliases": [],
+      "location_type": "DUNGEON",
+      "parent_location_id": "E0014",
+      "nearby_locations": [],
+      "terrain": "地下迷宫",
+      "climate": null,
+      "population_info": null,
+      "race_distribution": null,
+      "economy": "魔力结晶交易",
+      "services": null,
+      "danger": "高",
+      "important_people": [],
+      "known_routes": [],
+      "organizations": [],
+      "political_control": [],
+      "first_appearance_volume": 1,
+      "first_appearance_line": 6730,
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0082"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "alliances": [],
+      "enemies": [],
+      "evidence_refs": [
+        "EV0020"
+      ],
+      "goals": [
+        "传授现代高水准魔术课程",
+        "接纳各研究理论"
+      ],
+      "hierarchy": null,
+      "leaders": [],
+      "members": [],
+      "name": "魔法大学",
+      "org_type": "教育机构",
+      "organization_id": "E0013",
+      "reputation": "规模最大的魔术大学（拉诺亚）",
+      "resources": "优良设备与教师",
+      "rules": [
+        "不拘泥形式与尊严",
+        "接纳各种族"
+      ],
+      "territory": null,
+      "visible_from_volume": 1
+    }
+  ],
+  "political_states": [
+    {
+      "alliances": [],
+      "conflicts": [],
+      "date_precision": "UNKNOWN",
+      "end_date": null,
+      "evidence_refs": [
+        "EV0020"
+      ],
+      "internal_factions": [],
+      "organization_id": "E0013",
+      "political_goals": [
+        "收纳各种族学生"
+      ],
+      "ruler": null,
+      "start_date": null,
+      "state_id": "PS0001",
+      "succession": null,
+      "visible_from_volume": 1
+    }
+  ],
+  "power_comparisons": [
+    {
+      "actor_id": "E0005",
+      "comparison_id": "PC0001",
+      "confidence": "EXPLICIT",
+      "context": "第一堂课水弹示范",
+      "dimension": "魔术（初期）",
+      "evidence_refs": [
+        "EV0014"
+      ],
+      "result": "洛琪希更大更快（大小三、速度四），远胜鲁迪",
+      "target_id": "E0001"
+    },
+    {
+      "actor_id": "E0002",
+      "comparison_id": "PC0002",
+      "confidence": "EXPLICIT",
+      "context": "第五话正式剑术训练",
+      "dimension": "剑术",
+      "evidence_refs": [
+        "EV0018",
+        "EV0039"
+      ],
+      "result": "保罗更强（可劈开岩石；儿子未赢过）",
+      "target_id": "E0001"
+    },
+    {
+      "actor_id": "E0022",
+      "comparison_id": "PC0003",
+      "confidence": "EXPLICIT",
+      "context": "保罗信中提到基列奴是剑王",
+      "dimension": "剑术",
+      "evidence_refs": [
+        "EV0051"
+      ],
+      "result": "基列奴更强（保罗坦言从未赢过她）",
+      "target_id": "E0002"
+    },
+    {
+      "actor_id": "E0001",
+      "comparison_id": "PC0004",
+      "confidence": "EXPLICIT",
+      "context": "离别前保罗奇袭，鲁迪多种魔术迎击",
+      "dimension": "魔术（对剑士）",
+      "evidence_refs": [
+        "EV0049"
+      ],
+      "result": "鲁迪以魔术牵制，但剑术仍不敌保罗",
+      "target_id": "E0002"
+    },
+    {
+      "comparison_id": "PC0005",
+      "actor_id": "E0002",
+      "target_id": "E0001",
+      "dimension": "剑术（实战）",
+      "context": "保罗展示战斗：独对三只猛攻斗犬与一只终结野猪",
+      "result": "保罗轻松取胜，战斗方式充满吸引力",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0079"
+      ]
+    },
+    {
+      "comparison_id": "PC0006",
+      "actor_id": "E0002",
+      "target_id": "E0006",
+      "dimension": "魔术（应对）",
+      "context": "希露菲无咏唱放出中级攻击魔术试图救鲁迪",
+      "result": "保罗轻松化解，承认其威力和速度无可挑剔",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0090"
+      ]
+    }
+  ],
+  "relationship_changes": [
+    {
+      "after": "亲密朋友（青梅竹马）",
+      "at_date": null,
+      "at_volume": 1,
+      "before": "陌生人",
+      "change_id": "RC0001",
+      "dimension": "friendliness",
+      "evidence_refs": [
+        "EV0024",
+        "EV0026"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0006",
+      "trigger": "鲁迪出手救下被霸凌的希露菲"
+    },
+    {
+      "after": "相互理解、保罗学会倾听",
+      "at_date": null,
+      "at_volume": 1,
+      "before": "父子（鲁迪刻意保持良好表现）",
+      "change_id": "RC0002",
+      "dimension": "trust",
+      "evidence_refs": [
+        "EV0028",
+        "EV0029",
+        "EV0030"
+      ],
+      "source_id": "E0002",
+      "target_id": "E0001",
+      "trigger": "保罗冤枉鲁迪、鲁迪坚持说理"
+    },
+    {
+      "after": "接纳为家人（称「你是一家人了」）",
+      "at_date": null,
+      "at_volume": 1,
+      "before": "主仆兼挚友",
+      "change_id": "RC0003",
+      "dimension": "family_bond",
+      "evidence_refs": [
+        "EV0035",
+        "EV0038"
+      ],
+      "source_id": "E0003",
+      "target_id": "E0004",
+      "trigger": "莉莉雅怀孕曝光、塞妮丝选择原谅"
+    },
+    {
+      "after": "视为救命恩人、誓言效忠",
+      "at_date": null,
+      "at_volume": 1,
+      "before": "暗中戒心、避开鲁迪",
+      "change_id": "RC0004",
+      "dimension": "loyalty",
+      "evidence_refs": [
+        "EV0036",
+        "EV0037",
+        "EV0038"
+      ],
+      "source_id": "E0004",
+      "target_id": "E0001",
+      "trigger": "鲁迪在家族会议救下莉莉雅"
+    },
+    {
+      "after": "鲁迪称洛琪希为师傅并尊敬",
+      "at_date": null,
+      "at_volume": 1,
+      "before": "学生与家教",
+      "change_id": "RC0005",
+      "dimension": "master_student",
+      "evidence_refs": [
+        "EV0014",
+        "EV0018"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0005",
+      "trigger": "初次见面后持续两年的教学"
+    },
+    {
+      "change_id": "RC0006",
+      "source_id": "E0016",
+      "target_id": "E0006",
+      "dimension": "conflict",
+      "before": "带头霸凌",
+      "trigger": "被鲁迪击退",
+      "after": "不敢再靠近山丘",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0071"
+      ]
+    },
+    {
+      "change_id": "RC0007",
+      "source_id": "E0005",
+      "target_id": "E0001",
+      "dimension": "closeness",
+      "before": "朝夕相处的师徒",
+      "trigger": "洛琪希毕业离开",
+      "after": "分别的信物（护身符）与书信",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0062",
+        "EV0064"
+      ]
+    },
+    {
+      "change_id": "RC0008",
+      "source_id": "E0015",
+      "target_id": "E0001",
+      "dimension": "trust",
+      "before": "相识的邻居",
+      "trigger": "鲁迪礼貌请求并兑现承诺",
+      "after": "信任并托付女儿的成长",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0067",
+        "EV0091"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "border_requirements": null,
+      "cost_observations": null,
+      "difficulty": null,
+      "distance_info": null,
+      "evidence_refs": [
+        "EV0050",
+        "EV0051"
+      ],
+      "from_location_id": "E0009",
+      "hazards": [],
+      "route_id": "RT0001",
+      "seasonality": null,
+      "terrain": null,
+      "to_location_id": "E0012",
+      "transport_modes": [
+        "马车"
+      ],
+      "typical_duration": null
+    }
+  ],
+  "schema_version": "1.0.0",
+  "source_unit_ids": [
+    "U0001",
+    "U0002",
+    "U0003",
+    "U0004",
+    "U0005",
+    "U0006",
+    "U0008",
+    "U0009",
+    "U0010",
+    "U0011",
+    "U0012",
+    "U0013"
+  ],
+  "source_volume": 1,
+  "species": [
+    {
+      "abilities": [],
+      "aliases": [],
+      "appearance": null,
+      "culture": null,
+      "distribution": "阿斯拉王国等各地",
+      "evidence_refs": [
+        "EV0017"
+      ],
+      "language": "共通语",
+      "lifespan": null,
+      "name": "人族",
+      "physiology": null,
+      "relations_with_others": "对魔族存在一定歧视",
+      "social_structure": null,
+      "species_id": "SP0001",
+      "visible_from_volume": 1,
+      "weaknesses": []
+    },
+    {
+      "abilities": [
+        "擅长弓箭",
+        "水与风魔法"
+      ],
+      "aliases": [
+        "长耳族",
+        "精灵"
+      ],
+      "appearance": "长耳、多为俊男美女",
+      "culture": "并非特别封闭",
+      "distribution": "米里斯大陆北方",
+      "evidence_refs": [
+        "EV0017",
+        "EV0025"
+      ],
+      "language": null,
+      "lifespan": "长寿",
+      "name": "长耳族（精灵）",
+      "physiology": "长寿",
+      "relations_with_others": "魔术的创始者（传说）",
+      "social_structure": null,
+      "species_id": "SP0002",
+      "visible_from_volume": 1,
+      "weaknesses": []
+    },
+    {
+      "abilities": [
+        "使用三叉枪"
+      ],
+      "aliases": [
+        "斯佩路德"
+      ],
+      "appearance": "翠绿头发、额头有红宝石般物体",
+      "culture": "被视为危险",
+      "distribution": null,
+      "evidence_refs": [
+        "EV0018",
+        "EV0024"
+      ],
+      "language": null,
+      "lifespan": null,
+      "name": "斯佩路德族",
+      "physiology": null,
+      "relations_with_others": "被一般常识视为恶魔的武器使用者",
+      "social_structure": null,
+      "species_id": "SP0003",
+      "visible_from_volume": 1,
+      "weaknesses": []
+    },
+    {
+      "abilities": [
+        "魔术"
+      ],
+      "aliases": [
+        "米格路德族"
+      ],
+      "appearance": "与斯佩路德族相近",
+      "culture": null,
+      "distribution": null,
+      "evidence_refs": [
+        "EV0017",
+        "EV0025"
+      ],
+      "language": null,
+      "lifespan": null,
+      "name": "米格路德族（魔族）",
+      "physiology": null,
+      "relations_with_others": "魔族；洛琪希出身于此，曾在学校受歧视",
+      "social_structure": null,
+      "species_id": "SP0004",
+      "visible_from_volume": 1,
+      "weaknesses": []
+    },
+    {
+      "abilities": [
+        "战斗"
+      ],
+      "aliases": [
+        "兽族"
+      ],
+      "appearance": "动物双耳与尾巴、毛发茂密",
+      "culture": null,
+      "distribution": null,
+      "evidence_refs": [
+        "EV0050"
+      ],
+      "language": null,
+      "lifespan": null,
+      "name": "兽人族",
+      "physiology": "强壮肌肉",
+      "relations_with_others": null,
+      "social_structure": null,
+      "species_id": "SP0005",
+      "visible_from_volume": 1,
+      "weaknesses": []
+    }
+  ],
+  "speech_profiles": [
+    {
+      "address_habits": "对父母称「父亲大人」「母亲大人」",
+      "anger_expression": "冷静的讽刺与反驳",
+      "canonical_examples": [
+        "「对不起。」",
+        "「我不是要站在魔族那一边，我是要帮助弱者。」"
+      ],
+      "character_id": "E0001",
+      "emotion_expression": "克制、用调侃掩饰",
+      "evidence_refs": [
+        "EV0012",
+        "EV0024",
+        "EV0028"
+      ],
+      "inferior_speech": "平辈轻松语气",
+      "intimate_speech": "放松、自嘲",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "politeness": "对尊长使用敬语",
+      "profile_id": "ST0001",
+      "sentence_length": "简洁、有条理",
+      "shy_expression": "转移话题",
+      "stranger_speech": "礼貌自我介绍",
+      "superior_speech": "敬语",
+      "visible_from_volume": 1
+    },
+    {
+      "address_habits": "称呼学生「鲁迪」，夫人「塞妮丝夫人」",
+      "anger_expression": "沉默、叹气",
+      "canonical_examples": [
+        "「唉……」",
+        "「我叫洛琪希，请多指教。」"
+      ],
+      "character_id": "E0005",
+      "emotion_expression": "冷淡、易因被称赞而得意",
+      "evidence_refs": [
+        "EV0014",
+        "EV0015"
+      ],
+      "inferior_speech": "平淡",
+      "intimate_speech": "偶尔流露温度",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "politeness": "有礼但冷淡",
+      "profile_id": "ST0002",
+      "sentence_length": "简短",
+      "shy_expression": "吞吞吐吐",
+      "stranger_speech": "保持距离",
+      "superior_speech": "恭敬",
+      "visible_from_volume": 1
+    },
+    {
+      "address_habits": "称呼鲁迪为「鲁迪」",
+      "anger_expression": "几乎不表达",
+      "canonical_examples": [
+        "「……不知道。」",
+        "「我不要……哪里都……不要去……」"
+      ],
+      "character_id": "E0006",
+      "emotion_expression": "胆怯、含糊",
+      "evidence_refs": [
+        "EV0025",
+        "EV0044"
+      ],
+      "inferior_speech": "小声",
+      "intimate_speech": "逐渐放松",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期",
+      "politeness": "礼貌",
+      "profile_id": "ST0003",
+      "sentence_length": "短、结巴",
+      "shy_expression": "低头、语塞",
+      "stranger_speech": "极度紧张",
+      "superior_speech": "敬语",
+      "visible_from_volume": 1
+    },
+    {
+      "address_habits": "直接叫「鲁迪」，自称「爸爸」",
+      "anger_expression": "吼叫、动手",
+      "canonical_examples": [
+        "「要『哼地往前踏然后唰地砍下去』！」",
+        "「真抱歉，是爸爸错了。」"
+      ],
+      "character_id": "E0002",
+      "emotion_expression": "外放、直接",
+      "evidence_refs": [
+        "EV0018",
+        "EV0030"
+      ],
+      "inferior_speech": "平等",
+      "intimate_speech": "随意、爱开玩笑",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "politeness": "随意、粗鲁",
+      "profile_id": "ST0004",
+      "sentence_length": "口语化",
+      "shy_expression": "苦笑、自嘲",
+      "stranger_speech": "爽快",
+      "superior_speech": "随意",
+      "visible_from_volume": 1
+    },
+    {
+      "profile_id": "ST0005",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "visible_from_volume": 1,
+      "politeness": "直呼其名，不让加敬称",
+      "address_habits": "「叫我基列奴就好」",
+      "superior_speech": "简短",
+      "inferior_speech": "简短",
+      "intimate_speech": "简短",
+      "stranger_speech": "「我是基列奴，明天起多指教」",
+      "anger_expression": "怒吼",
+      "emotion_expression": "不形于色，偶尔被逗怒",
+      "shy_expression": "沉默",
+      "sentence_length": "极短",
+      "canonical_examples": [
+        "「我是基列奴，明天起多指教。」",
+        "「叫我基列奴就好。」"
+      ],
+      "evidence_refs": [
+        "EV0086",
+        "EV0087"
+      ]
+    },
+    {
+      "profile_id": "ST0006",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "保罗之妻时",
+      "visible_from_volume": 1,
+      "politeness": "文雅有教养",
+      "address_habits": "以贵族大小姐式口吻",
+      "superior_speech": "敬语",
+      "inferior_speech": "温和",
+      "intimate_speech": "温柔",
+      "stranger_speech": "得体",
+      "anger_expression": "坚定而不失礼",
+      "emotion_expression": "外柔内刚",
+      "shy_expression": "微笑带过",
+      "sentence_length": "适中",
+      "canonical_examples": [
+        "（教导希露菲时的正式礼节示范）"
+      ],
+      "evidence_refs": [
+        "EV0096",
+        "EV0097"
+      ]
+    }
+  ],
+  "travel_observations": [
+    {
+      "characters": [
+        "E0001",
+        "E0022"
+      ],
+      "conditions": "鲁迪被打昏后捆着上车；基列奴同行",
+      "destination": "罗亚",
+      "elapsed_time": "（单程旅程，时间未明）",
+      "evidence_refs": [
+        "EV0050",
+        "EV0051",
+        "EV0052"
+      ],
+      "observation_id": "TO0001",
+      "origin": "布埃纳村",
+      "route_id": "RT0001",
+      "stops": null,
+      "transport": "马车"
+    }
+  ],
+  "world_rules": [
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV0011"
+      ],
+      "exceptions": "无咏唱者自行完成所有步骤",
+      "rule_id": "WR0001",
+      "scope": "一般魔术师",
+      "statement": "咏唱魔术由产生+设定大小+设定速度+发动四步骤组成，咏唱会自动完成这些步骤。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV0008",
+        "EV0010"
+      ],
+      "exceptions": "鲁迪实测魔力随使用增加，理论存疑",
+      "rule_id": "WR0002",
+      "scope": "主流魔术理论",
+      "statement": "教科书记载个人的魔力总量在出生时决定，不会因等级提升而增加。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV0009"
+      ],
+      "exceptions": "鲁迪初学即能无咏唱",
+      "rule_id": "WR0003",
+      "scope": "熟练魔术师",
+      "statement": "熟练的魔术师可以无咏唱或缩短咏唱使用魔术，被视为高级技巧。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV0011"
+      ],
+      "exceptions": "达到圣级以上会按系统称为火圣级等",
+      "rule_id": "WR0004",
+      "scope": "全系统魔术",
+      "statement": "魔术难易度分为初级、中级、上级、圣级、王级、帝级、神级七个阶段。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV0032"
+      ],
+      "exceptions": "神击系统受神官战士刻意隐瞒，魔法大学未传授",
+      "rule_id": "WR0005",
+      "scope": "治愈魔术",
+      "statement": "治愈魔术分为治疗、结界、解毒、神击四个系统；治疗到帝级可断臂再生，神级仍无法复活。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "SWORD",
+      "evidence_refs": [
+        "EV0018",
+        "EV0019"
+      ],
+      "exceptions": "北神流受到部分歧视",
+      "rule_id": "WR0006",
+      "scope": "世界主流剑术",
+      "statement": "剑术主要有剑神流、水神流、北神流三大流派，各流派名称含「神」源自始祖通称。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "SWORD",
+      "evidence_refs": [
+        "EV0018",
+        "EV0019"
+      ],
+      "exceptions": "保罗能劈开岩石但属无意识的身体强化",
+      "rule_id": "WR0007",
+      "scope": "剑术",
+      "statement": "剑术等级同样分为初级至神级七阶段；达到神级可斩断岩石、发出剑气。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "SOCIETY",
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "exceptions": "无",
+      "rule_id": "WR0008",
+      "scope": "阿斯拉王国",
+      "statement": "阿斯拉王国十五岁算成人；家人会在五岁、十岁、十五岁赠送礼物。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "ECONOMY",
+      "evidence_refs": [
+        "EV0018"
+      ],
+      "exceptions": "无",
+      "rule_id": "WR0009",
+      "scope": "阿斯拉王国",
+      "statement": "这个世界虽有制纸技术但没有印刷技术，书籍全靠手写，因此昂贵。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MONSTER",
+      "evidence_refs": [
+        "EV0023"
+      ],
+      "exceptions": "森林较易发生魔力沉滞",
+      "rule_id": "WR0010",
+      "scope": "世界",
+      "statement": "魔物由魔力沉滞导致的突然变异产生；魔力沉滞处魔物出现机率较高。",
+      "visible_from_volume": 1
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "MONSTER",
+      "evidence_refs": [
+        "EV0042"
+      ],
+      "exceptions": "新迷宫可能被魔物反噬结晶",
+      "rule_id": "WR0011",
+      "scope": "已知迷宫",
+      "statement": "迷宫是一种魔物，深处有魔力结晶与守护者，会吸收魔物魔力并制造魔力附加品。",
+      "visible_from_volume": 1
+    },
+    {
+      "rule_id": "WR0012",
+      "domain": "MAGIC",
+      "statement": "在魔术学校用功到毕业的上级魔术师，大约一百个魔术师里才出现一个。",
+      "scope": "一般魔术师",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0074"
+      ]
+    },
+    {
+      "rule_id": "WR0013",
+      "domain": "EDUCATION",
+      "statement": "魔术学校地位很高；魔族只能进入接纳各种族的魔法大学。",
+      "scope": "魔术学校与魔法大学",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0075",
+        "EV0076"
+      ]
+    },
+    {
+      "rule_id": "WR0014",
+      "domain": "MAGIC",
+      "statement": "迷宫深处的魔力结晶是魔术的触媒，价格惊人；结晶由守护者（Boss）保护，迷宫会复原并掉落冒险者的装备附加品。",
+      "scope": "迷宫",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0080",
+        "EV0081"
+      ]
+    },
+    {
+      "rule_id": "WR0015",
+      "domain": "SOCIETY",
+      "statement": "长枪被视为恶魔的武器（因斯佩路德族使用三叉枪的印象），这是常识。",
+      "scope": "人类社会",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0099"
+      ]
+    },
+    {
+      "rule_id": "WR0016",
+      "domain": "MARRIAGE",
+      "statement": "米里斯教有一夫一妻的戒律，破坏戒律会被信徒视为过错。",
+      "scope": "米里斯教徒",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0093"
+      ]
+    },
+    {
+      "rule_id": "WR0017",
+      "domain": "RELIGION",
+      "statement": "米里斯神圣国治疗魔术与结界魔术发达，多数人只学初级；习得中级治疗魔术者可在米里斯教团经营的治疗院就职。",
+      "scope": "米里斯神圣国",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0092"
+      ]
+    },
+    {
+      "rule_id": "WR0018",
+      "domain": "NOBILITY",
+      "statement": "贵族礼节有流派差异：塞妮丝学的是米里斯式，莉莉雅学的是阿斯拉式，双方都坚信自己的正确。",
+      "scope": "贵族社会",
+      "exceptions": "",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0096",
+        "EV0097"
+      ]
+    }
+  ]
+}
