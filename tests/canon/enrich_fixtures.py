@@ -138,7 +138,9 @@ REGISTRY = EntityRegistry(
 )
 
 
-def evidence(evidence_id: str, *, line_start: int, line_end: int, unit: str = "U0002") -> EvidenceRef:
+def evidence(
+    evidence_id: str, *, line_start: int, line_end: int, unit: str = "U0002"
+) -> EvidenceRef:
     return EvidenceRef(
         evidence_id=evidence_id,
         volume_no=1,

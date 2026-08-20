@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import sqlite3
 from pathlib import Path
 
 import pytest
@@ -114,13 +115,9 @@ def test_evidence_links_and_fts_populated(tmp_path: Path) -> None:
     db_path = _apply(tmp_path)
     connection = open_canon_db(db_path)
     try:
-        links = connection.execute(
-            "SELECT COUNT(*) FROM enrichment_evidence_links"
-        ).fetchone()[0]
+        links = connection.execute("SELECT COUNT(*) FROM enrichment_evidence_links").fetchone()[0]
         assert links > 0
-        fts_count = connection.execute(
-            "SELECT COUNT(*) FROM behavior_cases_fts"
-        ).fetchone()[0]
+        fts_count = connection.execute("SELECT COUNT(*) FROM behavior_cases_fts").fetchone()[0]
         assert fts_count == 1
         tags = connection.execute(
             "SELECT tag FROM behavior_case_tags WHERE case_id = 'BC0001' ORDER BY tag"
@@ -173,7 +170,7 @@ def test_apply_rejects_broken_foreign_keys(tmp_path: Path) -> None:
             batch_counts={},
             generated_at="2026-01-01T00:00:00+00:00",
         )
-        with pytest.raises(Exception):
+        with pytest.raises(sqlite3.IntegrityError):
             apply_enrichment(connection, [bad], manifest)
     finally:
         connection.close()

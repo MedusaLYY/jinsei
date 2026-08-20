@@ -63,9 +63,7 @@ def test_get_behavior_cases_by_character_and_tag(tmp_path: Path) -> None:
 
 def test_get_analogous_cases(tmp_path: Path) -> None:
     db_path = _apply(tmp_path)
-    cases = get_analogous_cases(
-        db_path, tags=("TEACHING", "TRAINING"), situation_type="学习魔术"
-    )
+    cases = get_analogous_cases(db_path, tags=("TEACHING", "TRAINING"), situation_type="学习魔术")
     assert len(cases) == 1
 
 

@@ -81,9 +81,7 @@ def load_entity_registry(canon_dir: Path) -> EntityRegistry:
     return EntityRegistry(
         entities=tuple(sorted(entities.values(), key=lambda e: e.entity_id)),
         timeline_events=tuple(sorted(events.values(), key=lambda e: e.event_id)),
-        relationships=tuple(
-            sorted(relationships.values(), key=lambda r: r.relationship_id)
-        ),
+        relationships=tuple(sorted(relationships.values(), key=lambda r: r.relationship_id)),
     )
 
 

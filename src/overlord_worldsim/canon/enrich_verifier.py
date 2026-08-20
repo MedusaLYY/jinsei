@@ -195,12 +195,12 @@ class _Checker:
         self.batch_evidence: set[str] = set()
         self.unit_by_id = {unit.unit_id: unit for unit in doc.units}
         self.volume_ranges: dict[int, tuple[tuple[int, int], ...]] = {}
+        collected: dict[int, list[tuple[int, int]]] = {}
         for unit in doc.units:
             if unit.volume_no is None:
                 continue
-            ranges = self.volume_ranges.setdefault(unit.volume_no, [])
-            ranges.append((unit.start_line, unit.end_line))
-        self.volume_ranges = {v: tuple(r) for v, r in self.volume_ranges.items()}
+            collected.setdefault(unit.volume_no, []).append((unit.start_line, unit.end_line))
+        self.volume_ranges = {v: tuple(r) for v, r in collected.items()}
         self.timeline_event_ids = registry.timeline_event_ids()
 
     def _in_volume(self, volume_no: int, line: int) -> bool:
@@ -220,9 +220,7 @@ class _Checker:
             return True
         entity = self.registry.by_id(entity_id)
         if entity is None:
-            self.errors.append(
-                VerificationError("entity_ref", path, f"unknown entity {entity_id}")
-            )
+            self.errors.append(VerificationError("entity_ref", path, f"unknown entity {entity_id}"))
             return False
         if kind is not None and entity.kind is not EntityKind.UNKNOWN and entity.kind is not kind:
             self.errors.append(
@@ -240,9 +238,7 @@ class _Checker:
         for evidence in batch.evidence:
             path = f"{batch.batch_id}.evidence.{evidence.evidence_id}"
             if evidence.evidence_id in ids:
-                self.errors.append(
-                    VerificationError("duplicate_id", path, "duplicate evidence_id")
-                )
+                self.errors.append(VerificationError("duplicate_id", path, "duplicate evidence_id"))
             ids.add(evidence.evidence_id)
             _check_id_prefix(self.errors, "evidence", evidence.evidence_id, EVIDENCE_PREFIX)
             if evidence.volume_no not in self.volume_ranges:
@@ -301,9 +297,7 @@ class _Checker:
             _check_visible_window(
                 self.errors, path, profile.visible_from_volume, profile.visible_to_volume
             )
-            _check_evidence_set(
-                self.errors, path, profile.evidence_refs, self.batch_evidence
-            )
+            _check_evidence_set(self.errors, path, profile.evidence_refs, self.batch_evidence)
 
     def check_cases(self, batch: EnrichmentBatch) -> None:
         for case in batch.behavior_cases:
@@ -332,12 +326,12 @@ class _Checker:
                 )
             if event.volume_no not in self.volume_ranges:
                 self.errors.append(
-                    VerificationError("event_volume", path, f"volume {event.volume_no} is not parsed")
+                    VerificationError(
+                        "event_volume", path, f"volume {event.volume_no} is not parsed"
+                    )
                 )
             _check_date(self.errors, path, "time_date", event.time_date)
-            self._check_entity_ref(
-                path, event.location_id, kind=EntityKind.LOCATION
-            )
+            self._check_entity_ref(path, event.location_id, kind=EntityKind.LOCATION)
             for participant in event.participants:
                 self._check_entity_ref(f"{path}.participant", participant)
             for prerequisite in event.prerequisites:
@@ -348,9 +342,7 @@ class _Checker:
                 self._check_prerequisite(prereq_path, prerequisite)
             for dependency in event.dependencies:
                 dep_path = f"{path}.dependencies.{dependency.dependency_id}"
-                _check_id_prefix(
-                    self.errors, "dependencies", dependency.dependency_id, DEP_PREFIX
-                )
+                _check_id_prefix(self.errors, "dependencies", dependency.dependency_id, DEP_PREFIX)
                 if dependency.target_event_id not in (
                     self.timeline_event_ids | set(self.corpus.detailed_events)
                 ):
@@ -596,15 +588,18 @@ class _Checker:
                         f"volume {belief.learned_at_volume} is not parsed",
                     )
                 )
-            if belief.learned_at_volume is not None and belief.visible_from_volume is not None:
-                if belief.learned_at_volume > belief.visible_from_volume:
-                    self.errors.append(
-                        VerificationError(
-                            "belief_learned_window",
-                            path,
-                            "learned_at_volume after visible_from_volume",
-                        )
+            if (
+                belief.learned_at_volume is not None
+                and belief.visible_from_volume is not None
+                and belief.learned_at_volume > belief.visible_from_volume
+            ):
+                self.errors.append(
+                    VerificationError(
+                        "belief_learned_window",
+                        path,
+                        "learned_at_volume after visible_from_volume",
                     )
+                )
             _check_visible_window(
                 self.errors, path, belief.visible_from_volume, belief.visible_to_volume
             )
@@ -651,12 +646,8 @@ class _Checker:
         for conflict in batch.canon_conflicts:
             path = f"conflicts.{conflict.conflict_id}"
             _check_id_prefix(self.errors, "conflicts", conflict.conflict_id, CONFLICT_PREFIX)
-            _check_evidence_set(
-                self.errors, path, conflict.evidence_a_refs, self.batch_evidence
-            )
-            _check_evidence_set(
-                self.errors, path, conflict.evidence_b_refs, self.batch_evidence
-            )
+            _check_evidence_set(self.errors, path, conflict.evidence_a_refs, self.batch_evidence)
+            _check_evidence_set(self.errors, path, conflict.evidence_b_refs, self.batch_evidence)
 
     def check_gaps(self, batch: EnrichmentBatch) -> None:
         for gap in batch.canon_gaps:
@@ -665,9 +656,7 @@ class _Checker:
             for volume in gap.searched_volumes:
                 if volume not in self.volume_ranges:
                     self.errors.append(
-                        VerificationError(
-                            "gap_volume", path, f"volume {volume} is not parsed"
-                        )
+                        VerificationError("gap_volume", path, f"volume {volume} is not parsed")
                     )
 
 
@@ -739,9 +728,7 @@ def verify_enrichment(
         for unit_id in batch.source_unit_ids:
             if unit_id not in checker.unit_by_id:
                 errors.append(
-                    VerificationError(
-                        "batch_unit", batch.batch_id, f"unknown unit {unit_id}"
-                    )
+                    VerificationError("batch_unit", batch.batch_id, f"unknown unit {unit_id}")
                 )
             elif checker.unit_by_id[unit_id].volume_no != batch.source_volume:
                 errors.append(
@@ -864,12 +851,12 @@ def _check_unique_ids(errors: list[VerificationError], batches: list[EnrichmentB
             register("creatures", creature.creature_id, batch.batch_id)
         for belief in batch.beliefs:
             register("beliefs", belief.belief_id, batch.batch_id)
-        for observation in batch.economic_observations:
-            register("economy", observation.observation_id, batch.batch_id)
+        for economic in batch.economic_observations:
+            register("economy", economic.observation_id, batch.batch_id)
         for change in batch.relationship_changes:
             register("relationships", change.change_id, batch.batch_id)
-        for profile in batch.speech_profiles:
-            register("speech", profile.profile_id, batch.batch_id)
+        for speech in batch.speech_profiles:
+            register("speech", speech.profile_id, batch.batch_id)
         for conflict in batch.canon_conflicts:
             register("conflicts", conflict.conflict_id, batch.batch_id)
         for gap in batch.canon_gaps:

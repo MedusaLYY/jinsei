@@ -1,4 +1,4 @@
-﻿"""Enrichment database schema and deterministic loader.
+"""Enrichment database schema and deterministic loader.
 
 The enrichment layer is stored in the same canon SQLite file as the
 extraction layer, as additive tables (never touching the extraction tables).
@@ -38,6 +38,7 @@ from overlord_worldsim.canon.enrich_model import (
     PowerComparison,
     RelationshipChange,
     Route,
+    SpeciesProfile,
     SpeechProfile,
     TravelObservation,
     WorldRule,
@@ -236,7 +237,8 @@ CREATE TABLE IF NOT EXISTS enrichment_event_participants (
     entity_id TEXT NOT NULL,
     PRIMARY KEY (event_id, entity_id)
 );
-CREATE INDEX IF NOT EXISTS idx_enrichment_event_participant ON enrichment_event_participants(entity_id);
+CREATE INDEX IF NOT EXISTS idx_enrichment_event_participant
+    ON enrichment_event_participants(entity_id);
 
 CREATE TABLE IF NOT EXISTS items (
     item_id TEXT PRIMARY KEY,
@@ -583,9 +585,9 @@ END;
 
 
 def _json_bytes(value: object) -> bytes:
-    return json.dumps(
-        value, ensure_ascii=False, sort_keys=True, separators=(",", ":")
-    ).encode("utf-8")
+    return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode(
+        "utf-8"
+    )
 
 
 def canonical_content_hash(batches: Iterable[EnrichmentBatch]) -> str:
@@ -677,9 +679,7 @@ def _insert_profiles(
                 batch_id,
             ),
         )
-        _link_evidence(
-            connection, "character_profiles", profile.profile_id, profile.evidence_refs
-        )
+        _link_evidence(connection, "character_profiles", profile.profile_id, profile.evidence_refs)
 
 
 def _insert_cases(
@@ -691,7 +691,8 @@ def _insert_cases(
         tags = [tag.value for tag in case.tags]
         connection.execute(
             "INSERT INTO behavior_cases(case_id, character_id, phase_id, phase_name, volume_no, "
-            "situation_type, context, trigger_text, available_information, action, verbal_response, "
+            "situation_type, context, trigger_text, available_information, action, "
+            "verbal_response, "
             "emotional_response, goal_at_time, relationship_context, social_context, "
             "immediate_outcome, long_term_outcome, tags, batch_id) "
             "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
@@ -1138,7 +1139,7 @@ def _insert_political(
 
 def _insert_species(
     connection: sqlite3.Connection,
-    species: Iterable[object],
+    species: Iterable[SpeciesProfile],
     batch_id: str,
 ) -> None:
     for entry in species:
@@ -1257,7 +1258,10 @@ def _insert_economy(
             ),
         )
         _link_evidence(
-            connection, "economic_observations", observation.observation_id, observation.evidence_refs
+            connection,
+            "economic_observations",
+            observation.observation_id,
+            observation.evidence_refs,
         )
 
 
@@ -1287,7 +1291,9 @@ def _insert_relationship_changes(
         _link_evidence(connection, "relationship_changes", change.change_id, change.evidence_refs)
 
 
-def _insert_speech(connection: sqlite3.Connection, profiles: Iterable[SpeechProfile], batch_id: str) -> None:
+def _insert_speech(
+    connection: sqlite3.Connection, profiles: Iterable[SpeechProfile], batch_id: str
+) -> None:
     for profile in profiles:
         connection.execute(
             "INSERT INTO speech_profiles(profile_id, character_id, phase_id, phase_name, "

@@ -430,3 +430,84 @@ def test_canon_apply_command_refuses_dirty_batch(
         assert count == 0
     finally:
         connection.close()
+
+
+def test_canon_enrich_apply_command_applies_clean_batch(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    import sqlite3
+
+    from overlord_worldsim.canon.extract_model import ExtractionBatch
+
+    from .enrich_fixtures import (
+        CORPUS as ENRICH_CORPUS,
+    )
+    from .enrich_fixtures import (
+        ENTITIES,
+        RELATIONSHIPS,
+        TIMELINE_EVENTS,
+        make_batch,
+    )
+
+    source = tmp_path / "source.txt"
+    source.write_text(ENRICH_CORPUS, encoding="utf-8")
+
+    canon_dir = tmp_path / "canon"
+    canon_dir.mkdir()
+    registry_batch = ExtractionBatch(
+        batch_id="V001",
+        source_volume=1,
+        source_unit_ids=("U0001", "U0002", "U0003"),
+        entities=ENTITIES,
+        facts=(),
+        relationships=RELATIONSHIPS,
+        knowledge=(),
+        events=TIMELINE_EVENTS,
+        phases=(),
+    )
+    (canon_dir / "V001.json").write_text(
+        json.dumps(registry_batch.to_json(), ensure_ascii=False), encoding="utf-8"
+    )
+
+    content_dir = tmp_path / "enrich"
+    content_dir.mkdir()
+    (content_dir / "V001.json").write_text(
+        json.dumps(make_batch().to_json(), ensure_ascii=False, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+    db_path = tmp_path / "canon.sqlite3"
+    assert main(["canon", "build", "--source", str(source), "--db", str(db_path)]) == 0
+    capsys.readouterr()
+
+    assert (
+        main(
+            [
+                "canon",
+                "enrich-apply",
+                "--db",
+                str(db_path),
+                "--content",
+                str(content_dir),
+                "--source",
+                str(source),
+                "--canon",
+                str(canon_dir),
+            ]
+        )
+        == 0
+    )
+    captured = capsys.readouterr()
+    payload = json.loads(captured.out)
+    assert payload["summary"]["character_profiles"] == 1
+    assert payload["summary"]["behavior_cases"] == 1
+    assert payload["manifest"]["content_sha256"]
+
+    connection = sqlite3.connect(db_path)
+    try:
+        profiles = connection.execute("SELECT COUNT(*) FROM character_profiles").fetchone()[0]
+        assert profiles == 1
+        cases = connection.execute("SELECT COUNT(*) FROM behavior_cases").fetchone()[0]
+        assert cases == 1
+    finally:
+        connection.close()

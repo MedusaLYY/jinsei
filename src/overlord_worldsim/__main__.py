@@ -352,13 +352,13 @@ def _run_canon_enrich_apply(arguments: argparse.Namespace) -> int:
         canonical_content_hash,
         write_manifest_json,
     )
-    from overlord_worldsim.canon.loader import open_canon_db
     from overlord_worldsim.canon.enrich_query import enrichment_summary
     from overlord_worldsim.canon.enrich_registry import (
         load_enrichment_batches,
         load_entity_registry,
     )
     from overlord_worldsim.canon.enrich_verifier import verify_enrichment
+    from overlord_worldsim.canon.loader import open_canon_db
 
     db_path = cast(Path, arguments.db)
     content_dir = cast(Path, arguments.content)

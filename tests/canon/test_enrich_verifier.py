@@ -46,9 +46,7 @@ def test_bad_evidence_ref_rejected() -> None:
 
 def test_evidence_outside_unit_lines_rejected() -> None:
     batch = make_batch()
-    evidence = replace(
-        batch.evidence[0], source_start_line=1000, source_end_line=1000
-    )
+    evidence = replace(batch.evidence[0], source_start_line=1000, source_end_line=1000)
     batch = replace(batch, evidence=(evidence, *batch.evidence[1:]))
     assert "evidence_lines" in _codes([batch])
 
@@ -99,7 +97,8 @@ def test_unknown_prerequisite_item_rejected() -> None:
         statement="需要未知物品",
     )
     event = replace(
-        batch.detailed_events[0], prerequisites=(prerequisite, *batch.detailed_events[0].prerequisites)
+        batch.detailed_events[0],
+        prerequisites=(prerequisite, *batch.detailed_events[0].prerequisites),
     )
     batch = replace(batch, detailed_events=(event, *batch.detailed_events[1:]))
     assert "prereq_item_ref" in _codes([batch])

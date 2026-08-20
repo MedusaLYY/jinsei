@@ -280,7 +280,7 @@ class EvidenceRef:
 
 @dataclass(frozen=True)
 class CharacterProfile:
-    """Phase-specific behavioral profile (plan §11–§12, §60)."""
+    """Phase-specific behavioral profile (plan §11-§12, §60)."""
 
     profile_id: str
     character_id: str
@@ -430,7 +430,7 @@ class CharacterProfile:
 
 @dataclass(frozen=True)
 class BehaviorCase:
-    """One documented in-text behavior (plan §14–§17)."""
+    """One documented in-text behavior (plan §14-§17)."""
 
     case_id: str
     character_id: str
@@ -589,7 +589,7 @@ class StateChange:
 
 @dataclass(frozen=True)
 class DetailedEvent:
-    """A simulation-relevant event with causality (plan §21–§26)."""
+    """A simulation-relevant event with causality (plan §21-§26)."""
 
     event_id: str
     event_type: str
@@ -655,7 +655,9 @@ class DetailedEvent:
             dependencies=tuple(
                 EventDependency.from_json(entry) for entry in document["dependencies"]
             ),
-            state_changes=tuple(StateChange.from_json(entry) for entry in document["state_changes"]),
+            state_changes=tuple(
+                StateChange.from_json(entry) for entry in document["state_changes"]
+            ),
             trigger=document["trigger"],
             actions=tuple(document["actions"]),
             outcome=document["outcome"],
@@ -668,7 +670,7 @@ class DetailedEvent:
 
 @dataclass(frozen=True)
 class ItemDef:
-    """A canon item definition (plan §27–§28)."""
+    """A canon item definition (plan §27-§28)."""
 
     item_id: str
     canonical_name: str
@@ -791,7 +793,7 @@ class OwnershipEntry:
 
 @dataclass(frozen=True)
 class ItemInstance:
-    """One concrete item in the world (plan §29–§31)."""
+    """One concrete item in the world (plan §29-§31)."""
 
     instance_id: str
     definition_id: str
@@ -850,7 +852,7 @@ class ItemInstance:
 
 @dataclass(frozen=True)
 class AbilityProfile:
-    """Canon ability profile; qualitative only (plan §32–§34)."""
+    """Canon ability profile; qualitative only (plan §32-§34)."""
 
     ability_id: str
     name: str
@@ -964,7 +966,7 @@ class PowerComparison:
 
 @dataclass(frozen=True)
 class WorldRule:
-    """One rule of how the world works (plan §44–§46)."""
+    """One rule of how the world works (plan §44-§46)."""
 
     rule_id: str
     domain: WorldRuleDomain
@@ -1003,7 +1005,7 @@ class WorldRule:
 
 @dataclass(frozen=True)
 class LocationProfile:
-    """Structured profile of a canon location (plan §38–§39)."""
+    """Structured profile of a canon location (plan §38-§39)."""
 
     location_id: str
     name: str
@@ -1408,7 +1410,7 @@ class CreatureProfile:
 
 @dataclass(frozen=True)
 class Belief:
-    """A character's belief about a claim (plan §51–§53, §59)."""
+    """A character's belief about a claim (plan §51-§53, §59)."""
 
     belief_id: str
     owner_id: str
@@ -1465,7 +1467,7 @@ class Belief:
 
 @dataclass(frozen=True)
 class EconomicObservation:
-    """One canon price / wage / cost observation (plan §47–§48)."""
+    """One canon price / wage / cost observation (plan §47-§48)."""
 
     observation_id: str
     location_id: str | None
@@ -1567,7 +1569,7 @@ class RelationshipChange:
 
 @dataclass(frozen=True)
 class SpeechProfile:
-    """Extracted speech patterns, not verbatim quotes (plan §55–§56)."""
+    """Extracted speech patterns, not verbatim quotes (plan §55-§56)."""
 
     profile_id: str
     character_id: str
@@ -1672,7 +1674,7 @@ class CanonConflict:
 
 @dataclass(frozen=True)
 class CanonGap:
-    """A question the source does not answer (plan §95–§97)."""
+    """A question the source does not answer (plan §95-§97)."""
 
     gap_id: str
     domain: str

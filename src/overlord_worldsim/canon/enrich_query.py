@@ -12,6 +12,7 @@ from __future__ import annotations
 import json
 import sqlite3
 from pathlib import Path
+from typing import cast
 
 from overlord_worldsim.canon.extract_model import canon_date_sort_key
 from overlord_worldsim.canon.loader import open_canon_db as _open_canon_db
@@ -79,10 +80,10 @@ def get_character_behavior_profile(
             profiles = [
                 profile
                 for profile in profiles
-                if profile["visible_from_volume"] <= at_volume
+                if cast(int, profile["visible_from_volume"]) <= at_volume
                 and (
                     profile["visible_to_volume"] is None
-                    or profile["visible_to_volume"] >= at_volume
+                    or cast(int, profile["visible_to_volume"]) >= at_volume
                 )
             ]
         if at_date is not None:
@@ -90,8 +91,14 @@ def get_character_behavior_profile(
             profiles = [
                 profile
                 for profile in profiles
-                if (profile["start_date"] is None or canon_date_sort_key(profile["start_date"]) <= key)
-                and (profile["end_date"] is None or canon_date_sort_key(profile["end_date"]) >= key)
+                if (
+                    profile["start_date"] is None
+                    or canon_date_sort_key(cast(str, profile["start_date"])) <= key
+                )
+                and (
+                    profile["end_date"] is None
+                    or canon_date_sort_key(cast(str, profile["end_date"])) >= key
+                )
             ]
         return _attach_evidence(connection, profiles, "character_profiles", "profile_id")
     finally:
@@ -166,9 +173,7 @@ def get_behavior_cases(
         cases = [_case_dict(row, connection) for row in rows]
         if tags:
             cases = [
-                case
-                for case in cases
-                if all(tag in case["tags"] for tag in tags)
+                case for case in cases if all(tag in cast(list[str], case["tags"]) for tag in tags)
             ]
         if limit is not None:
             cases = cases[:limit]
@@ -312,8 +317,7 @@ def get_item_history(
         rows: list[sqlite3.Row] = []
         if instance_id is not None:
             rows = connection.execute(
-                "SELECT * FROM item_ownership_history WHERE instance_id = ? "
-                "ORDER BY period_start",
+                "SELECT * FROM item_ownership_history WHERE instance_id = ? ORDER BY period_start",
                 (instance_id,),
             ).fetchall()
         elif item_id is not None:
@@ -395,7 +399,8 @@ def _event_dict(
     event["participants"] = [
         participant_row["entity_id"]
         for participant_row in connection.execute(
-            "SELECT entity_id FROM enrichment_event_participants WHERE event_id = ? ORDER BY entity_id",
+            "SELECT entity_id FROM enrichment_event_participants "
+            "WHERE event_id = ? ORDER BY entity_id",
             (event["event_id"],),
         ).fetchall()
     ]
@@ -404,8 +409,7 @@ def _event_dict(
         [
             dict(prerequisite_row)
             for prerequisite_row in connection.execute(
-                "SELECT * FROM event_prerequisites WHERE event_id = ? "
-                "ORDER BY prerequisite_id",
+                "SELECT * FROM event_prerequisites WHERE event_id = ? ORDER BY prerequisite_id",
                 (event["event_id"],),
             ).fetchall()
         ]
@@ -465,8 +469,7 @@ def get_event_prerequisites(
         return [
             dict(row)
             for row in connection.execute(
-                "SELECT * FROM event_prerequisites WHERE event_id = ? "
-                "ORDER BY prerequisite_id",
+                "SELECT * FROM event_prerequisites WHERE event_id = ? ORDER BY prerequisite_id",
                 (event_id,),
             ).fetchall()
         ]
@@ -601,9 +604,7 @@ def get_economic_observations(
             parameters,
         ).fetchall()
         observations = [dict(row) for row in rows]
-        return _attach_evidence(
-            connection, observations, "economic_observations", "observation_id"
-        )
+        return _attach_evidence(connection, observations, "economic_observations", "observation_id")
     finally:
         connection.close()
 
@@ -671,9 +672,7 @@ def get_speech_profile(
         profiles = [dict(row) for row in rows]
         if at_volume is not None:
             profiles = [
-                profile
-                for profile in profiles
-                if profile["visible_from_volume"] <= at_volume
+                profile for profile in profiles if profile["visible_from_volume"] <= at_volume
             ]
         for profile in profiles:
             profile["canonical_examples"] = _json_loads(str(profile["canonical_examples"]))
@@ -702,8 +701,7 @@ def get_organization(
         organization["political_states"] = [
             dict(state_row)
             for state_row in connection.execute(
-                "SELECT * FROM political_states WHERE organization_id = ? "
-                "ORDER BY start_date",
+                "SELECT * FROM political_states WHERE organization_id = ? ORDER BY start_date",
                 (organization_id,),
             ).fetchall()
         ]
@@ -713,9 +711,7 @@ def get_organization(
             state["political_goals"] = _json_loads(str(state["political_goals"]))
             state["internal_factions"] = _json_loads(str(state["internal_factions"]))
             state["evidence"] = _evidence_for(connection, "political_states", state["state_id"])
-        organization["evidence"] = _evidence_for(
-            connection, "organizations", organization_id
-        )
+        organization["evidence"] = _evidence_for(connection, "organizations", organization_id)
         return organization
     finally:
         connection.close()
@@ -770,9 +766,7 @@ def get_canon_conflicts(
 ) -> list[dict[str, object]]:
     connection = _open_canon_db(db_path)
     try:
-        rows = connection.execute(
-            "SELECT * FROM canon_conflicts ORDER BY conflict_id"
-        ).fetchall()
+        rows = connection.execute("SELECT * FROM canon_conflicts ORDER BY conflict_id").fetchall()
         conflicts = [dict(row) for row in rows]
         for conflict in conflicts:
             conflict["evidence_a_refs"] = _json_loads(str(conflict["evidence_a_refs"]))
@@ -846,9 +840,7 @@ def enrichment_summary(db_path: Path) -> dict[str, int]:
             "canon_conflicts",
             "canon_gaps",
         ):
-            counts[table] = int(
-                connection.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
-            )
+            counts[table] = int(connection.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0])
         counts["evidence"] = int(
             connection.execute("SELECT COUNT(*) FROM enrichment_evidence").fetchone()[0]
         )
