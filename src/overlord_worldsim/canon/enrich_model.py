@@ -55,6 +55,7 @@ class BehaviorTag(Enum):
     TRAINING = "TRAINING"
     ROMANCE = "ROMANCE"
     EMBARRASSMENT = "EMBARRASSMENT"
+    SHAME = "SHAME"
     ANGER = "ANGER"
     FEAR = "FEAR"
     COMBAT = "COMBAT"
@@ -80,6 +81,15 @@ class BehaviorTag(Enum):
     GRATITUDE = "GRATITUDE"
     LOSS = "LOSS"
     GRIEF = "GRIEF"
+    ATTRACTION = "ATTRACTION"
+    HUMOR = "HUMOR"
+    TEASING = "TEASING"
+    LIE = "LIE"
+    SECRET = "SECRET"
+    SUCCESS = "SUCCESS"
+    FAILURE = "FAILURE"
+    PUBLIC_SCENE = "PUBLIC_SCENE"
+    PRIVATE_SCENE = "PRIVATE_SCENE"
 
 
 class EventPrerequisiteKind(Enum):
@@ -1634,6 +1644,269 @@ class SpeechProfile:
 
 
 @dataclass(frozen=True)
+class CharacterQuirk:
+    """One observable habit / quirk / private behavior (Gold Standard §4).
+
+    Captures high-identify idiosyncrasies that distinguish a character
+    in GM simulation: fetishes, collections, tics, speech habits,
+    public/private contrast, etc. Every quirk is evidence-bound.
+    """
+
+    quirk_id: str
+    character_id: str
+    phase_id: str
+    category: str
+    name: str
+    description: str
+    intensity: str | None = None
+    frequency: str | None = None
+    triggers: tuple[str, ...] = ()
+    preferred_targets: tuple[str, ...] = ()
+    avoided_targets: tuple[str, ...] = ()
+    public_expression: str | None = None
+    private_expression: str | None = None
+    behavior_patterns: tuple[str, ...] = ()
+    verbal_patterns: tuple[str, ...] = ()
+    body_language: str | None = None
+    emotional_reward: str | None = None
+    emotional_response: str | None = None
+    boundaries: tuple[str, ...] = ()
+    exceptions: tuple[str, ...] = ()
+    start_date: str | None = None
+    end_date: str | None = None
+    visible_from_volume: int = 1
+    visible_to_volume: int | None = None
+    evidence_type: EvidenceType = EvidenceType.CANON_EXPLICIT
+    confidence: Confidence = Confidence.EXPLICIT
+    evidence_refs: tuple[str, ...] = ()
+
+    def to_json(self) -> dict[str, Any]:
+        return {
+            "quirk_id": self.quirk_id,
+            "character_id": self.character_id,
+            "phase_id": self.phase_id,
+            "category": self.category,
+            "name": self.name,
+            "description": self.description,
+            "intensity": self.intensity,
+            "frequency": self.frequency,
+            "triggers": _to_json_array(self.triggers),
+            "preferred_targets": _to_json_array(self.preferred_targets),
+            "avoided_targets": _to_json_array(self.avoided_targets),
+            "public_expression": self.public_expression,
+            "private_expression": self.private_expression,
+            "behavior_patterns": _to_json_array(self.behavior_patterns),
+            "verbal_patterns": _to_json_array(self.verbal_patterns),
+            "body_language": self.body_language,
+            "emotional_reward": self.emotional_reward,
+            "emotional_response": self.emotional_response,
+            "boundaries": _to_json_array(self.boundaries),
+            "exceptions": _to_json_array(self.exceptions),
+            "start_date": self.start_date,
+            "end_date": self.end_date,
+            "visible_from_volume": self.visible_from_volume,
+            "visible_to_volume": self.visible_to_volume,
+            "evidence_type": self.evidence_type.value,
+            "confidence": self.confidence.value,
+            "evidence_refs": _to_json_array(self.evidence_refs),
+        }
+
+    @classmethod
+    def from_json(cls, document: dict[str, Any]) -> CharacterQuirk:
+        return cls(
+            quirk_id=document["quirk_id"],
+            character_id=document["character_id"],
+            phase_id=document["phase_id"],
+            category=document["category"],
+            name=document["name"],
+            description=document["description"],
+            intensity=document.get("intensity"),
+            frequency=document.get("frequency"),
+            triggers=tuple(document.get("triggers", ())),
+            preferred_targets=tuple(document.get("preferred_targets", ())),
+            avoided_targets=tuple(document.get("avoided_targets", ())),
+            public_expression=document.get("public_expression"),
+            private_expression=document.get("private_expression"),
+            behavior_patterns=tuple(document.get("behavior_patterns", ())),
+            verbal_patterns=tuple(document.get("verbal_patterns", ())),
+            body_language=document.get("body_language"),
+            emotional_reward=document.get("emotional_reward"),
+            emotional_response=document.get("emotional_response"),
+            boundaries=tuple(document.get("boundaries", ())),
+            exceptions=tuple(document.get("exceptions", ())),
+            start_date=document.get("start_date"),
+            end_date=document.get("end_date"),
+            visible_from_volume=document.get("visible_from_volume", 1),
+            visible_to_volume=document.get("visible_to_volume"),
+            evidence_type=EvidenceType(document.get("evidence_type", "CANON_EXPLICIT")),
+            confidence=Confidence(document.get("confidence", "EXPLICIT")),
+            evidence_refs=tuple(document.get("evidence_refs", ())),
+        )
+
+
+@dataclass(frozen=True)
+class CharacterPreference:
+    """One concrete like / dislike / attraction / aversion (Gold Standard §8)."""
+
+    preference_id: str
+    character_id: str
+    phase_id: str
+    preference_type: str
+    target: str
+    description: str
+    intensity: str | None = None
+    context: str | None = None
+    visible_from_volume: int = 1
+    visible_to_volume: int | None = None
+    evidence_type: EvidenceType = EvidenceType.CANON_EXPLICIT
+    confidence: Confidence = Confidence.EXPLICIT
+    evidence_refs: tuple[str, ...] = ()
+
+    def to_json(self) -> dict[str, Any]:
+        return {
+            "preference_id": self.preference_id,
+            "character_id": self.character_id,
+            "phase_id": self.phase_id,
+            "preference_type": self.preference_type,
+            "target": self.target,
+            "description": self.description,
+            "intensity": self.intensity,
+            "context": self.context,
+            "visible_from_volume": self.visible_from_volume,
+            "visible_to_volume": self.visible_to_volume,
+            "evidence_type": self.evidence_type.value,
+            "confidence": self.confidence.value,
+            "evidence_refs": _to_json_array(self.evidence_refs),
+        }
+
+    @classmethod
+    def from_json(cls, document: dict[str, Any]) -> CharacterPreference:
+        return cls(
+            preference_id=document["preference_id"],
+            character_id=document["character_id"],
+            phase_id=document["phase_id"],
+            preference_type=document["preference_type"],
+            target=document["target"],
+            description=document["description"],
+            intensity=document.get("intensity"),
+            context=document.get("context"),
+            visible_from_volume=document.get("visible_from_volume", 1),
+            visible_to_volume=document.get("visible_to_volume"),
+            evidence_type=EvidenceType(document.get("evidence_type", "CANON_EXPLICIT")),
+            confidence=Confidence(document.get("confidence", "EXPLICIT")),
+            evidence_refs=tuple(document.get("evidence_refs", ())),
+        )
+
+
+@dataclass(frozen=True)
+class BodyLanguageProfile:
+    """Observable physical tells per emotion (Gold Standard §14)."""
+
+    profile_id: str
+    character_id: str
+    phase_id: str
+    phase_name: str
+    happy_signs: tuple[str, ...] = ()
+    angry_signs: tuple[str, ...] = ()
+    nervous_signs: tuple[str, ...] = ()
+    embarrassed_signs: tuple[str, ...] = ()
+    lying_signs: tuple[str, ...] = ()
+    fear_signs: tuple[str, ...] = ()
+    thinking_signs: tuple[str, ...] = ()
+    affection_signs: tuple[str, ...] = ()
+    hostility_signs: tuple[str, ...] = ()
+    visible_from_volume: int = 1
+    visible_to_volume: int | None = None
+    evidence_refs: tuple[str, ...] = ()
+
+    def to_json(self) -> dict[str, Any]:
+        return {
+            "profile_id": self.profile_id,
+            "character_id": self.character_id,
+            "phase_id": self.phase_id,
+            "phase_name": self.phase_name,
+            "happy_signs": _to_json_array(self.happy_signs),
+            "angry_signs": _to_json_array(self.angry_signs),
+            "nervous_signs": _to_json_array(self.nervous_signs),
+            "embarrassed_signs": _to_json_array(self.embarrassed_signs),
+            "lying_signs": _to_json_array(self.lying_signs),
+            "fear_signs": _to_json_array(self.fear_signs),
+            "thinking_signs": _to_json_array(self.thinking_signs),
+            "affection_signs": _to_json_array(self.affection_signs),
+            "hostility_signs": _to_json_array(self.hostility_signs),
+            "visible_from_volume": self.visible_from_volume,
+            "visible_to_volume": self.visible_to_volume,
+            "evidence_refs": _to_json_array(self.evidence_refs),
+        }
+
+    @classmethod
+    def from_json(cls, document: dict[str, Any]) -> BodyLanguageProfile:
+        return cls(
+            profile_id=document["profile_id"],
+            character_id=document["character_id"],
+            phase_id=document["phase_id"],
+            phase_name=document["phase_name"],
+            happy_signs=tuple(document.get("happy_signs", ())),
+            angry_signs=tuple(document.get("angry_signs", ())),
+            nervous_signs=tuple(document.get("nervous_signs", ())),
+            embarrassed_signs=tuple(document.get("embarrassed_signs", ())),
+            lying_signs=tuple(document.get("lying_signs", ())),
+            fear_signs=tuple(document.get("fear_signs", ())),
+            thinking_signs=tuple(document.get("thinking_signs", ())),
+            affection_signs=tuple(document.get("affection_signs", ())),
+            hostility_signs=tuple(document.get("hostility_signs", ())),
+            visible_from_volume=document.get("visible_from_volume", 1),
+            visible_to_volume=document.get("visible_to_volume"),
+            evidence_refs=tuple(document.get("evidence_refs", ())),
+        )
+
+
+@dataclass(frozen=True)
+class CharacterPersona:
+    """Public / private / relational persona variant (Gold Standard §7)."""
+
+    persona_id: str
+    character_id: str
+    phase_id: str
+    persona_type: str
+    description: str
+    speech_style: str | None = None
+    behavior_traits: tuple[str, ...] = ()
+    visible_from_volume: int = 1
+    visible_to_volume: int | None = None
+    evidence_refs: tuple[str, ...] = ()
+
+    def to_json(self) -> dict[str, Any]:
+        return {
+            "persona_id": self.persona_id,
+            "character_id": self.character_id,
+            "phase_id": self.phase_id,
+            "persona_type": self.persona_type,
+            "description": self.description,
+            "speech_style": self.speech_style,
+            "behavior_traits": _to_json_array(self.behavior_traits),
+            "visible_from_volume": self.visible_from_volume,
+            "visible_to_volume": self.visible_to_volume,
+            "evidence_refs": _to_json_array(self.evidence_refs),
+        }
+
+    @classmethod
+    def from_json(cls, document: dict[str, Any]) -> CharacterPersona:
+        return cls(
+            persona_id=document["persona_id"],
+            character_id=document["character_id"],
+            phase_id=document["phase_id"],
+            persona_type=document["persona_type"],
+            description=document["description"],
+            speech_style=document.get("speech_style"),
+            behavior_traits=tuple(document.get("behavior_traits", ())),
+            visible_from_volume=document.get("visible_from_volume", 1),
+            visible_to_volume=document.get("visible_to_volume"),
+            evidence_refs=tuple(document.get("evidence_refs", ())),
+        )
+
+
+@dataclass(frozen=True)
 class CanonConflict:
     """An apparent contradiction between two canon claims (plan §74)."""
 
@@ -1739,8 +2012,12 @@ class EnrichmentBatch:
     economic_observations: tuple[EconomicObservation, ...]
     relationship_changes: tuple[RelationshipChange, ...]
     speech_profiles: tuple[SpeechProfile, ...]
-    canon_conflicts: tuple[CanonConflict, ...]
-    canon_gaps: tuple[CanonGap, ...]
+    character_quirks: tuple[CharacterQuirk, ...] = ()
+    character_preferences: tuple[CharacterPreference, ...] = ()
+    body_language_profiles: tuple[BodyLanguageProfile, ...] = ()
+    character_personas: tuple[CharacterPersona, ...] = ()
+    canon_conflicts: tuple[CanonConflict, ...] = ()
+    canon_gaps: tuple[CanonGap, ...] = ()
 
     ENRICHMENT_SCHEMA_VERSION: ClassVar[str] = "1.0.0"
 
@@ -1770,6 +2047,10 @@ class EnrichmentBatch:
             "economic_observations": [e.to_json() for e in self.economic_observations],
             "relationship_changes": [e.to_json() for e in self.relationship_changes],
             "speech_profiles": [e.to_json() for e in self.speech_profiles],
+            "character_quirks": [e.to_json() for e in self.character_quirks],
+            "character_preferences": [e.to_json() for e in self.character_preferences],
+            "body_language_profiles": [e.to_json() for e in self.body_language_profiles],
+            "character_personas": [e.to_json() for e in self.character_personas],
             "canon_conflicts": [e.to_json() for e in self.canon_conflicts],
             "canon_gaps": [e.to_json() for e in self.canon_gaps],
         }
@@ -1823,10 +2104,25 @@ class EnrichmentBatch:
             speech_profiles=tuple(
                 SpeechProfile.from_json(entry) for entry in document["speech_profiles"]
             ),
-            canon_conflicts=tuple(
-                CanonConflict.from_json(entry) for entry in document["canon_conflicts"]
+            character_quirks=tuple(
+                CharacterQuirk.from_json(entry) for entry in document.get("character_quirks", ())
             ),
-            canon_gaps=tuple(CanonGap.from_json(entry) for entry in document["canon_gaps"]),
+            character_preferences=tuple(
+                CharacterPreference.from_json(entry)
+                for entry in document.get("character_preferences", ())
+            ),
+            body_language_profiles=tuple(
+                BodyLanguageProfile.from_json(entry)
+                for entry in document.get("body_language_profiles", ())
+            ),
+            character_personas=tuple(
+                CharacterPersona.from_json(entry)
+                for entry in document.get("character_personas", ())
+            ),
+            canon_conflicts=tuple(
+                CanonConflict.from_json(entry) for entry in document.get("canon_conflicts", ())
+            ),
+            canon_gaps=tuple(CanonGap.from_json(entry) for entry in document.get("canon_gaps", ())),
         )
 
     def counts(self) -> dict[str, int]:
@@ -1851,6 +2147,10 @@ class EnrichmentBatch:
             "economic_observations": len(self.economic_observations),
             "relationship_changes": len(self.relationship_changes),
             "speech_profiles": len(self.speech_profiles),
+            "character_quirks": len(self.character_quirks),
+            "character_preferences": len(self.character_preferences),
+            "body_language_profiles": len(self.body_language_profiles),
+            "character_personas": len(self.character_personas),
             "canon_conflicts": len(self.canon_conflicts),
             "canon_gaps": len(self.canon_gaps),
         }

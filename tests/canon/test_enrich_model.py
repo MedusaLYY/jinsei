@@ -48,6 +48,7 @@ def test_behavior_tag_vocabulary_is_complete() -> None:
         "TRAINING",
         "ROMANCE",
         "EMBARRASSMENT",
+        "SHAME",
         "ANGER",
         "FEAR",
         "COMBAT",
@@ -73,6 +74,15 @@ def test_behavior_tag_vocabulary_is_complete() -> None:
         "GRATITUDE",
         "LOSS",
         "GRIEF",
+        "ATTRACTION",
+        "HUMOR",
+        "TEASING",
+        "LIE",
+        "SECRET",
+        "SUCCESS",
+        "FAILURE",
+        "PUBLIC_SCENE",
+        "PRIVATE_SCENE",
     }
     assert {tag.value for tag in BehaviorTag} == expected
 

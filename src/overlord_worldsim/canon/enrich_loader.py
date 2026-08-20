@@ -23,9 +23,13 @@ from overlord_worldsim.canon.enrich_model import (
     AbilityProfile,
     BehaviorCase,
     Belief,
+    BodyLanguageProfile,
     CanonConflict,
     CanonGap,
+    CharacterPersona,
+    CharacterPreference,
     CharacterProfile,
+    CharacterQuirk,
     CreatureProfile,
     DetailedEvent,
     EconomicObservation,
@@ -75,6 +79,10 @@ _ENRICHMENT_TABLES = (
     "economic_observations",
     "relationship_changes",
     "speech_profiles",
+    "character_quirks",
+    "character_preferences",
+    "body_language_profiles",
+    "character_personas",
     "canon_conflicts",
     "canon_gaps",
 )
@@ -543,6 +551,84 @@ CREATE TABLE IF NOT EXISTS speech_profiles (
     visible_from_volume INTEGER NOT NULL,
     batch_id TEXT NOT NULL
 );
+CREATE TABLE IF NOT EXISTS character_quirks (
+    quirk_id TEXT PRIMARY KEY,
+    character_id TEXT NOT NULL,
+    phase_id TEXT NOT NULL,
+    category TEXT NOT NULL,
+    name TEXT NOT NULL,
+    description TEXT NOT NULL,
+    intensity TEXT,
+    frequency TEXT,
+    triggers TEXT NOT NULL,
+    preferred_targets TEXT NOT NULL,
+    avoided_targets TEXT NOT NULL,
+    public_expression TEXT,
+    private_expression TEXT,
+    behavior_patterns TEXT NOT NULL,
+    verbal_patterns TEXT NOT NULL,
+    body_language TEXT,
+    emotional_reward TEXT,
+    emotional_response TEXT,
+    boundaries TEXT NOT NULL,
+    exceptions TEXT NOT NULL,
+    start_date TEXT,
+    end_date TEXT,
+    visible_from_volume INTEGER NOT NULL,
+    visible_to_volume INTEGER,
+    evidence_type TEXT NOT NULL,
+    confidence TEXT NOT NULL,
+    batch_id TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_quirks_character ON character_quirks(character_id);
+CREATE TABLE IF NOT EXISTS character_preferences (
+    preference_id TEXT PRIMARY KEY,
+    character_id TEXT NOT NULL,
+    phase_id TEXT NOT NULL,
+    preference_type TEXT NOT NULL,
+    target TEXT NOT NULL,
+    description TEXT NOT NULL,
+    intensity TEXT,
+    context TEXT,
+    visible_from_volume INTEGER NOT NULL,
+    visible_to_volume INTEGER,
+    evidence_type TEXT NOT NULL,
+    confidence TEXT NOT NULL,
+    batch_id TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_preferences_character ON character_preferences(character_id);
+CREATE TABLE IF NOT EXISTS body_language_profiles (
+    profile_id TEXT PRIMARY KEY,
+    character_id TEXT NOT NULL,
+    phase_id TEXT NOT NULL,
+    phase_name TEXT NOT NULL,
+    happy_signs TEXT NOT NULL,
+    angry_signs TEXT NOT NULL,
+    nervous_signs TEXT NOT NULL,
+    embarrassed_signs TEXT NOT NULL,
+    lying_signs TEXT NOT NULL,
+    fear_signs TEXT NOT NULL,
+    thinking_signs TEXT NOT NULL,
+    affection_signs TEXT NOT NULL,
+    hostility_signs TEXT NOT NULL,
+    visible_from_volume INTEGER NOT NULL,
+    visible_to_volume INTEGER,
+    batch_id TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_bodylang_character ON body_language_profiles(character_id);
+CREATE TABLE IF NOT EXISTS character_personas (
+    persona_id TEXT PRIMARY KEY,
+    character_id TEXT NOT NULL,
+    phase_id TEXT NOT NULL,
+    persona_type TEXT NOT NULL,
+    description TEXT NOT NULL,
+    speech_style TEXT,
+    behavior_traits TEXT NOT NULL,
+    visible_from_volume INTEGER NOT NULL,
+    visible_to_volume INTEGER,
+    batch_id TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_personas_character ON character_personas(character_id);
 
 CREATE TABLE IF NOT EXISTS canon_conflicts (
     conflict_id TEXT PRIMARY KEY,
@@ -1324,6 +1410,138 @@ def _insert_speech(
         _link_evidence(connection, "speech_profiles", profile.profile_id, profile.evidence_refs)
 
 
+def _insert_quirks(
+    connection: sqlite3.Connection, quirks: Iterable[CharacterQuirk], batch_id: str
+) -> None:
+    for quirk in quirks:
+        connection.execute(
+            "INSERT INTO character_quirks(quirk_id, character_id, phase_id, category, name, "
+            "description, intensity, frequency, triggers, preferred_targets, "
+            "avoided_targets, public_expression, private_expression, "
+            "behavior_patterns, verbal_patterns, body_language, emotional_reward, "
+            "emotional_response, boundaries, exceptions, start_date, end_date, "
+            "visible_from_volume, visible_to_volume, evidence_type, confidence, "
+            "batch_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, "
+            "?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                quirk.quirk_id,
+                quirk.character_id,
+                quirk.phase_id,
+                quirk.category,
+                quirk.name,
+                quirk.description,
+                quirk.intensity,
+                quirk.frequency,
+                json.dumps(list(quirk.triggers), ensure_ascii=False),
+                json.dumps(list(quirk.preferred_targets), ensure_ascii=False),
+                json.dumps(list(quirk.avoided_targets), ensure_ascii=False),
+                quirk.public_expression,
+                quirk.private_expression,
+                json.dumps(list(quirk.behavior_patterns), ensure_ascii=False),
+                json.dumps(list(quirk.verbal_patterns), ensure_ascii=False),
+                quirk.body_language,
+                quirk.emotional_reward,
+                quirk.emotional_response,
+                json.dumps(list(quirk.boundaries), ensure_ascii=False),
+                json.dumps(list(quirk.exceptions), ensure_ascii=False),
+                quirk.start_date,
+                quirk.end_date,
+                quirk.visible_from_volume,
+                quirk.visible_to_volume,
+                quirk.evidence_type.value,
+                quirk.confidence.value,
+                batch_id,
+            ),
+        )
+        _link_evidence(connection, "character_quirks", quirk.quirk_id, quirk.evidence_refs)
+
+
+def _insert_preferences(
+    connection: sqlite3.Connection, preferences: Iterable[CharacterPreference], batch_id: str
+) -> None:
+    for pref in preferences:
+        connection.execute(
+            "INSERT INTO character_preferences(preference_id, character_id, phase_id, "
+            "preference_type, target, description, intensity, context, "
+            "visible_from_volume, visible_to_volume, evidence_type, confidence, batch_id) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                pref.preference_id,
+                pref.character_id,
+                pref.phase_id,
+                pref.preference_type,
+                pref.target,
+                pref.description,
+                pref.intensity,
+                pref.context,
+                pref.visible_from_volume,
+                pref.visible_to_volume,
+                pref.evidence_type.value,
+                pref.confidence.value,
+                batch_id,
+            ),
+        )
+        _link_evidence(connection, "character_preferences", pref.preference_id, pref.evidence_refs)
+
+
+def _insert_body_language(
+    connection: sqlite3.Connection, profiles: Iterable[BodyLanguageProfile], batch_id: str
+) -> None:
+    for profile in profiles:
+        connection.execute(
+            "INSERT INTO body_language_profiles(profile_id, character_id, phase_id, phase_name, "
+            "happy_signs, angry_signs, nervous_signs, embarrassed_signs, lying_signs, "
+            "fear_signs, thinking_signs, affection_signs, hostility_signs, "
+            "visible_from_volume, visible_to_volume, batch_id) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                profile.profile_id,
+                profile.character_id,
+                profile.phase_id,
+                profile.phase_name,
+                json.dumps(list(profile.happy_signs), ensure_ascii=False),
+                json.dumps(list(profile.angry_signs), ensure_ascii=False),
+                json.dumps(list(profile.nervous_signs), ensure_ascii=False),
+                json.dumps(list(profile.embarrassed_signs), ensure_ascii=False),
+                json.dumps(list(profile.lying_signs), ensure_ascii=False),
+                json.dumps(list(profile.fear_signs), ensure_ascii=False),
+                json.dumps(list(profile.thinking_signs), ensure_ascii=False),
+                json.dumps(list(profile.affection_signs), ensure_ascii=False),
+                json.dumps(list(profile.hostility_signs), ensure_ascii=False),
+                profile.visible_from_volume,
+                profile.visible_to_volume,
+                batch_id,
+            ),
+        )
+        _link_evidence(
+            connection, "body_language_profiles", profile.profile_id, profile.evidence_refs
+        )
+
+
+def _insert_personas(
+    connection: sqlite3.Connection, personas: Iterable[CharacterPersona], batch_id: str
+) -> None:
+    for persona in personas:
+        connection.execute(
+            "INSERT INTO character_personas(persona_id, character_id, phase_id, persona_type, "
+            "description, speech_style, behavior_traits, visible_from_volume, "
+            "visible_to_volume, batch_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                persona.persona_id,
+                persona.character_id,
+                persona.phase_id,
+                persona.persona_type,
+                persona.description,
+                persona.speech_style,
+                json.dumps(list(persona.behavior_traits), ensure_ascii=False),
+                persona.visible_from_volume,
+                persona.visible_to_volume,
+                batch_id,
+            ),
+        )
+        _link_evidence(connection, "character_personas", persona.persona_id, persona.evidence_refs)
+
+
 def _insert_conflicts(
     connection: sqlite3.Connection,
     conflicts: Iterable[CanonConflict],
@@ -1426,6 +1644,10 @@ def apply_enrichment(
         _insert_economy(connection, batch.economic_observations, batch_id)
         _insert_relationship_changes(connection, batch.relationship_changes, batch_id)
         _insert_speech(connection, batch.speech_profiles, batch_id)
+        _insert_quirks(connection, batch.character_quirks, batch_id)
+        _insert_preferences(connection, batch.character_preferences, batch_id)
+        _insert_body_language(connection, batch.body_language_profiles, batch_id)
+        _insert_personas(connection, batch.character_personas, batch_id)
         _insert_conflicts(connection, batch.canon_conflicts, batch_id)
         _insert_gaps(connection, batch.canon_gaps, batch_id)
     connection.executemany(

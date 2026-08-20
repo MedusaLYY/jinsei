@@ -58,6 +58,10 @@ BELIEF_PREFIX = "BL"
 ECONOMY_PREFIX = "EC"
 RELATION_PREFIX = "RC"
 SPEECH_PREFIX = "ST"
+QUIRK_PREFIX = "QK"
+PREFERENCE_PREFIX = "PF"
+BODY_PREFIX = "BY"
+PERSONA_PREFIX = "PN"
 CONFLICT_PREFIX = "CC"
 GAP_PREFIX = "GAP"
 
@@ -146,6 +150,49 @@ def _check_visible_window(
                 "visible_to_volume precedes visible_from_volume",
             )
         )
+
+
+def _is_cjk_char(char: str) -> bool:
+    if len(char) != 1:
+        return False
+    code = ord(char)
+    return (
+        0x4E00 <= code <= 0x9FFF
+        or 0x3400 <= code <= 0x4DBF
+        or 0x3000 <= code <= 0x303F
+        or 0xF900 <= code <= 0xFAFF
+        or 0xFF00 <= code <= 0xFFEF
+    )
+
+
+def _check_single_char_array(
+    errors: list[VerificationError],
+    path: str,
+    field: str,
+    values: tuple[str, ...] | list[str],
+) -> None:
+    if len(values) >= 2 and all(isinstance(v, str) and len(v) == 1 for v in values):
+        cjk_count = sum(1 for v in values if _is_cjk_char(v))
+        if cjk_count >= len(values) * 0.5:
+            errors.append(
+                VerificationError(
+                    "cjk_single_char_array",
+                    f"{path}.{field}",
+                    f"field has {len(values)} single-char CJK strings — likely split",
+                )
+            )
+    # Also check arrays where >=4 elements and >=70% are single-char CJK
+
+    if len(values) >= 4:
+        singles = [v for v in values if isinstance(v, str) and len(v) == 1 and _is_cjk_char(v)]
+        if len(singles) >= 3 and len(singles) >= len(values) * 0.7:
+            errors.append(
+                VerificationError(
+                    "cjk_single_char_array",
+                    f"{path}.{field}",
+                    f"field has many single-char strings ({len(singles)}/{len(values)})",
+                )
+            )
 
 
 class _Corpus:
@@ -298,6 +345,27 @@ class _Checker:
                 self.errors, path, profile.visible_from_volume, profile.visible_to_volume
             )
             _check_evidence_set(self.errors, path, profile.evidence_refs, self.batch_evidence)
+            # Gold Standard §16-17: detect CJK single-char split pollution
+            for fld in (
+                "personality_traits",
+                "values",
+                "desires",
+                "fears",
+                "taboos",
+                "insecurities",
+                "short_term_goals",
+                "long_term_goals",
+                "obligations",
+                "decision_tendencies",
+                "speech_tendencies",
+                "social_tendencies",
+                "conflict_tendencies",
+                "known_skills",
+                "knowledge_state",
+                "relationship_tendencies",
+            ):
+                vals = getattr(profile, fld)
+                _check_single_char_array(self.errors, path, fld, vals)
 
     def check_cases(self, batch: EnrichmentBatch) -> None:
         for case in batch.behavior_cases:
@@ -642,6 +710,89 @@ class _Checker:
             self._check_entity_ref(path, profile.character_id)
             _check_evidence_set(self.errors, path, profile.evidence_refs, self.batch_evidence)
 
+    def check_quirks(self, batch: EnrichmentBatch) -> None:
+        for quirk in batch.character_quirks:
+            path = f"quirks.{quirk.quirk_id}"
+            _check_id_prefix(self.errors, "quirks", quirk.quirk_id, QUIRK_PREFIX)
+            self._check_entity_ref(path, quirk.character_id)
+            _check_date(self.errors, path, "start_date", quirk.start_date)
+            _check_date(self.errors, path, "end_date", quirk.end_date)
+            _check_visible_window(
+                self.errors, path, quirk.visible_from_volume, quirk.visible_to_volume
+            )
+            if not quirk.evidence_refs:
+                self.errors.append(
+                    VerificationError(
+                        "quirk_missing_evidence",
+                        path,
+                        "quirk should have at least one evidence_ref",
+                    )
+                )
+            _check_evidence_set(self.errors, path, quirk.evidence_refs, self.batch_evidence)
+            for fld in (
+                "triggers",
+                "preferred_targets",
+                "avoided_targets",
+                "behavior_patterns",
+                "verbal_patterns",
+                "boundaries",
+                "exceptions",
+            ):
+                vals = getattr(quirk, fld)
+                _check_single_char_array(self.errors, path, fld, vals)
+
+    def check_preferences(self, batch: EnrichmentBatch) -> None:
+        for pref in batch.character_preferences:
+            path = f"preferences.{pref.preference_id}"
+            _check_id_prefix(self.errors, "preferences", pref.preference_id, PREFERENCE_PREFIX)
+            self._check_entity_ref(path, pref.character_id)
+            _check_visible_window(
+                self.errors, path, pref.visible_from_volume, pref.visible_to_volume
+            )
+            if not pref.evidence_refs:
+                self.errors.append(
+                    VerificationError(
+                        "preference_missing_evidence",
+                        path,
+                        "preference should have at least one evidence_ref",
+                    )
+                )
+            _check_evidence_set(self.errors, path, pref.evidence_refs, self.batch_evidence)
+
+    def check_body_language(self, batch: EnrichmentBatch) -> None:
+        for profile in batch.body_language_profiles:
+            path = f"body_language.{profile.profile_id}"
+            _check_id_prefix(self.errors, "body_language", profile.profile_id, BODY_PREFIX)
+            self._check_entity_ref(path, profile.character_id)
+            _check_visible_window(
+                self.errors, path, profile.visible_from_volume, profile.visible_to_volume
+            )
+            _check_evidence_set(self.errors, path, profile.evidence_refs, self.batch_evidence)
+            for fld in (
+                "happy_signs",
+                "angry_signs",
+                "nervous_signs",
+                "embarrassed_signs",
+                "lying_signs",
+                "fear_signs",
+                "thinking_signs",
+                "affection_signs",
+                "hostility_signs",
+            ):
+                vals = getattr(profile, fld)
+                _check_single_char_array(self.errors, path, fld, vals)
+
+    def check_personas(self, batch: EnrichmentBatch) -> None:
+        for persona in batch.character_personas:
+            path = f"personas.{persona.persona_id}"
+            _check_id_prefix(self.errors, "personas", persona.persona_id, PERSONA_PREFIX)
+            self._check_entity_ref(path, persona.character_id)
+            _check_visible_window(
+                self.errors, path, persona.visible_from_volume, persona.visible_to_volume
+            )
+            _check_evidence_set(self.errors, path, persona.evidence_refs, self.batch_evidence)
+            _check_single_char_array(self.errors, path, "behavior_traits", persona.behavior_traits)
+
     def check_conflicts(self, batch: EnrichmentBatch) -> None:
         for conflict in batch.canon_conflicts:
             path = f"conflicts.{conflict.conflict_id}"
@@ -739,6 +890,19 @@ def verify_enrichment(
                     )
                 )
 
+    # Additional structural check: source_unit_ids drift — every evidence unit must be declared
+    for batch in batches:
+        source_set = set(batch.source_unit_ids)
+        for evidence in batch.evidence:
+            if evidence.unit_id not in source_set:
+                errors.append(
+                    VerificationError(
+                        "source_unit_drift",
+                        f"{batch.batch_id}.evidence.{evidence.evidence_id}",
+                        f"evidence unit {evidence.unit_id} not in batch.source_unit_ids",
+                    )
+                )
+
     for batch in batches:
         batch_evidence[batch.batch_id] = checker.check_evidence(batch)
         checker.batch_evidence = batch_evidence[batch.batch_id]
@@ -757,6 +921,10 @@ def verify_enrichment(
         checker.check_economy(batch)
         checker.check_relationships(batch)
         checker.check_speech(batch)
+        checker.check_quirks(batch)
+        checker.check_preferences(batch)
+        checker.check_body_language(batch)
+        checker.check_personas(batch)
         checker.check_conflicts(batch)
         checker.check_gaps(batch)
 
@@ -794,6 +962,10 @@ def _check_unique_ids(errors: list[VerificationError], batches: list[EnrichmentB
         "economy": {},
         "relationships": {},
         "speech": {},
+        "quirks": {},
+        "preferences": {},
+        "body_language": {},
+        "personas": {},
         "conflicts": {},
         "gaps": {},
     }
@@ -857,6 +1029,14 @@ def _check_unique_ids(errors: list[VerificationError], batches: list[EnrichmentB
             register("relationships", change.change_id, batch.batch_id)
         for speech in batch.speech_profiles:
             register("speech", speech.profile_id, batch.batch_id)
+        for quirk in batch.character_quirks:
+            register("quirks", quirk.quirk_id, batch.batch_id)
+        for pref in batch.character_preferences:
+            register("preferences", pref.preference_id, batch.batch_id)
+        for body in batch.body_language_profiles:
+            register("body_language", body.profile_id, batch.batch_id)
+        for persona in batch.character_personas:
+            register("personas", persona.persona_id, batch.batch_id)
         for conflict in batch.canon_conflicts:
             register("conflicts", conflict.conflict_id, batch.batch_id)
         for gap in batch.canon_gaps:

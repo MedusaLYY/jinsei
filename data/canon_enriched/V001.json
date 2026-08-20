@@ -370,7 +370,7 @@
     {
       "ability_id": "AB0010",
       "ability_type": "MAGIC",
-      "name": "混合魔术",
+      "name": "混合魔术·无咏唱并用",
       "aliases": [],
       "school": "魔术",
       "tier": "高等技术",
@@ -816,6 +816,1743 @@
         "EV0095",
         "EV0096"
       ]
+    },
+    {
+      "case_id": "BC0016",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "羞耻",
+      "context": "莉莉雅提及鲁迪私藏的圣物，家族会议上被塞妮丝知晓。",
+      "trigger": "莉莉雅说出圣物秘密",
+      "available_information": "知道私藏会被视为不成熟",
+      "action": "极力辩解并试图转移话题，脸红慌乱",
+      "verbal_response": "那、那是……",
+      "emotional_response": "强烈羞耻与慌乱",
+      "goal_at_time": "掩盖并保住圣物",
+      "relationship_context": "与母亲、女仆",
+      "social_context": "家中",
+      "immediate_outcome": "被莉莉雅揭露，塞妮丝无奈",
+      "long_term_outcome": "莉莉雅从此更留意鲁迪的私人空间",
+      "tags": [
+        "SHAME",
+        "EMBARRASSMENT",
+        "SECRET",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0037"
+      ]
+    },
+    {
+      "case_id": "BC0017",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "幽默",
+      "context": "与希露菲相处时，用前世梗自嘲。",
+      "trigger": "希露菲好奇鲁迪的成熟言行",
+      "available_information": "知道对方是小孩",
+      "action": "用夸张的自嘲化解尴尬",
+      "verbal_response": "（内心）我可是内心大叔啊……",
+      "emotional_response": "轻松戏谑",
+      "goal_at_time": "拉近距离",
+      "relationship_context": "青梅竹马",
+      "social_context": "山丘大树据点",
+      "immediate_outcome": "希露菲笑出声",
+      "long_term_outcome": "友谊加深",
+      "tags": [
+        "HUMOR",
+        "FRIENDSHIP",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0004",
+        "EV0026"
+      ]
+    },
+    {
+      "case_id": "BC0018",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "戏弄",
+      "context": "在教希露菲魔术时轻度戏弄。",
+      "trigger": "希露菲笨拙地咏唱失败",
+      "available_information": "知道希露菲容易害羞",
+      "action": "轻声调侃后立刻鼓励",
+      "verbal_response": "这样可不行哦，要像这样……",
+      "emotional_response": "愉悦且带有保护欲",
+      "goal_at_time": "让希露菲放松",
+      "relationship_context": "朋友兼老师",
+      "social_context": "村外",
+      "immediate_outcome": "希露菲脸红但更努力",
+      "long_term_outcome": "教学关系稳固",
+      "tags": [
+        "TEASING",
+        "TEACHING",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0026",
+        "EV0039"
+      ]
+    },
+    {
+      "case_id": "BC0019",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "说谎",
+      "context": "家族会议上为救莉莉雅，编造保罗的把柄。",
+      "trigger": "塞妮丝要赶走莉莉雅",
+      "available_information": "知道莉莉雅曾抓到保罗的弱点（保罗夜袭等）",
+      "action": "编造并陈述保罗的把柄，劝说塞妮丝",
+      "verbal_response": "其实莉莉雅掌握父亲大人的把柄……",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "让莉莉雅留下",
+      "relationship_context": "与父母、莉莉雅",
+      "social_context": "家族会议",
+      "immediate_outcome": "塞妮丝决定留下莉莉雅",
+      "long_term_outcome": "莉莉雅感激，誓让爱夏侍奉",
+      "tags": [
+        "LIE",
+        "FAMILY",
+        "MORAL_CHOICE",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0037",
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0020",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "隐藏",
+      "context": "在洛琪希面前隐藏自己已能无咏唱。",
+      "trigger": "洛琪希演示治愈树木",
+      "available_information": "知道无咏唱会被视为异常",
+      "action": "故意不展示，直到被发现",
+      "verbal_response": "（沉默）",
+      "emotional_response": "谨慎",
+      "goal_at_time": "观察师傅反应",
+      "relationship_context": "师生",
+      "social_context": "庭院",
+      "immediate_outcome": "洛琪希责备后发现真相",
+      "long_term_outcome": "师徒信任加深",
+      "tags": [
+        "SECRET",
+        "TRAINING",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV0015"
+      ]
+    },
+    {
+      "case_id": "BC0021",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "失败",
+      "context": "保罗的剑术训练中，多次被打落木剑。",
+      "trigger": "保罗的高强度对练",
+      "available_information": "知道自己剑术天赋不及魔术",
+      "action": "咬牙坚持，不抱怨",
+      "verbal_response": "再来一次！",
+      "emotional_response": "不甘但不放弃",
+      "goal_at_time": "跟上父亲的训练",
+      "relationship_context": "父子",
+      "social_context": "训练场",
+      "immediate_outcome": "被认可坚持",
+      "long_term_outcome": "掌握初级剑术",
+      "tags": [
+        "FAILURE",
+        "TRAINING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0016",
+        "EV0018"
+      ]
+    },
+    {
+      "case_id": "BC0022",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "成功",
+      "context": "洛琪希毕业考演示豪雷积雨云后，鲁迪现学现用。",
+      "trigger": "看到水圣级魔术的原理",
+      "available_information": "理解制造大范围豪雨的原理",
+      "action": "以咏唱重现豪雷积雨云",
+      "verbal_response": "让我试试……",
+      "emotional_response": "兴奋与得意",
+      "goal_at_time": "证明理解",
+      "relationship_context": "师生",
+      "social_context": "庭院",
+      "immediate_outcome": "洛琪希震惊",
+      "long_term_outcome": "获得米格路德护身符",
+      "tags": [
+        "SUCCESS",
+        "TRAINING",
+        "TEACHING"
+      ],
+      "evidence_refs": [
+        "EV0062",
+        "EV0063"
+      ]
+    },
+    {
+      "case_id": "BC0023",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "好感",
+      "context": "对希露菲产生朦胧好感，但选择迟钝系伪装。",
+      "trigger": "希露菲的温柔与依赖",
+      "available_information": "知道自己前世失败，害怕伤害对方",
+      "action": "保持朋友距离，隐藏好感",
+      "verbal_response": "我们是朋友嘛",
+      "emotional_response": "心动但克制",
+      "goal_at_time": "不让关系破裂",
+      "relationship_context": "青梅竹马",
+      "social_context": "家中",
+      "immediate_outcome": "希露菲安心",
+      "long_term_outcome": "维持纯友谊，保罗建议展现脆弱",
+      "tags": [
+        "ATTRACTION",
+        "ROMANCE",
+        "FRIENDSHIP",
+        "SECRET"
+      ],
+      "evidence_refs": [
+        "EV0031",
+        "EV0034"
+      ]
+    },
+    {
+      "case_id": "BC0024",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "公开场合",
+      "context": "家族会议上以孩童话术劝导塞妮丝。",
+      "trigger": "塞妮丝要赶走莉莉雅",
+      "available_information": "知道米里斯教义与家庭利益",
+      "action": "用孩子气的逻辑陈述留下莉莉雅的好处",
+      "verbal_response": "如果赶走莉莉雅，爱夏就没妈妈了……",
+      "emotional_response": "紧张但努力表现成熟",
+      "goal_at_time": "保全家庭",
+      "relationship_context": "与父母",
+      "social_context": "家族会议（公开）",
+      "immediate_outcome": "说服塞妮丝",
+      "long_term_outcome": "家庭完整",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY",
+        "MORAL_CHOICE",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV0037",
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0025",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "私人场合",
+      "context": "独处时整理圣物，反复确认。",
+      "trigger": "夜深无人",
+      "available_information": "知道不能被发现",
+      "action": "小心取出、整理后藏回",
+      "verbal_response": "（内心）还好没被发现……",
+      "emotional_response": "紧张与满足并存",
+      "goal_at_time": "保存圣物",
+      "relationship_context": "独自",
+      "social_context": "私人房间",
+      "immediate_outcome": "暂时安心",
+      "long_term_outcome": "被莉莉雅发现后暴露",
+      "tags": [
+        "PRIVATE_SCENE",
+        "SECRET",
+        "SHAME"
+      ],
+      "evidence_refs": [
+        "EV0037"
+      ]
+    },
+    {
+      "case_id": "BC0026",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "危险",
+      "context": "被保罗突然袭击，面临被打昏。",
+      "trigger": "保罗从背后突袭",
+      "available_information": "知道保罗想强制送走自己",
+      "action": "用多种魔术迎击但仍被制服",
+      "verbal_response": "父亲大人！？",
+      "emotional_response": "震惊与不甘",
+      "goal_at_time": "抵抗并弄清意图",
+      "relationship_context": "父子",
+      "social_context": "家中庭院",
+      "immediate_outcome": "被打昏捆绑",
+      "long_term_outcome": "被送往罗亚",
+      "tags": [
+        "DANGER",
+        "COMBAT",
+        "FAMILY",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV0049"
+      ]
+    },
+    {
+      "case_id": "BC0027",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "保护",
+      "context": "独自迎战三只猛攻斗犬与终结野猪，展示实力。",
+      "trigger": "魔物出现在森林",
+      "available_information": "知道魔物的危险",
+      "action": "以剑技与身体强化迎战",
+      "verbal_response": "别过来！",
+      "emotional_response": "冷静果断",
+      "goal_at_time": "保护村子",
+      "relationship_context": "村民与骑士",
+      "social_context": "森林",
+      "immediate_outcome": "击退魔物",
+      "long_term_outcome": "村人更信赖",
+      "tags": [
+        "PROTECT",
+        "COMBAT",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0079"
+      ]
+    },
+    {
+      "case_id": "BC0028",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "权威",
+      "context": "与罗尔兹商量希露菲与鲁迪的未来。",
+      "trigger": "鲁迪请求打工赚学费",
+      "available_information": "知道贵族与平民通婚困难",
+      "action": "决定让两人分离，写信给基列奴",
+      "verbal_response": "我想让鲁迪变得更强",
+      "emotional_response": "坚定但愧疚",
+      "goal_at_time": "让两人都独立",
+      "relationship_context": "与罗尔兹",
+      "social_context": "成人商议",
+      "immediate_outcome": "罗尔兹同意",
+      "long_term_outcome": "希露菲开始学习礼节",
+      "tags": [
+        "AUTHORITY",
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0047",
+        "EV0048"
+      ]
+    },
+    {
+      "case_id": "BC0029",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "羞耻",
+      "context": "被塞妮丝当众赏巴掌。",
+      "trigger": "承认莉莉雅怀的是自己的孩子",
+      "available_information": "知道自己理亏",
+      "action": "不躲闪接受，低头认错",
+      "verbal_response": "……抱歉",
+      "emotional_response": "狼狈羞耻",
+      "goal_at_time": "承担责任",
+      "relationship_context": "夫妻",
+      "social_context": "家族会议",
+      "immediate_outcome": "塞妮丝主导会议",
+      "long_term_outcome": "家庭未破裂",
+      "tags": [
+        "SHAME",
+        "FAMILY",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0035",
+        "EV0036"
+      ]
+    },
+    {
+      "case_id": "BC0030",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "尴尬",
+      "context": "被鲁迪撞见在寝室偷看（害羞）。",
+      "trigger": "鲁迪突然进入",
+      "available_information": "知道自己行为不妥",
+      "action": "慌乱掩饰，叹气",
+      "verbal_response": "唉……",
+      "emotional_response": "害羞与尴尬",
+      "goal_at_time": "掩盖失态",
+      "relationship_context": "师生",
+      "social_context": "寝室",
+      "immediate_outcome": "鲁迪装作没看见",
+      "long_term_outcome": "关系未受影响",
+      "tags": [
+        "EMBARRASSMENT",
+        "SHAME",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0046"
+      ]
+    },
+    {
+      "case_id": "BC0031",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "成功",
+      "context": "教鲁迪混合魔术，看到鲁迪成功。",
+      "trigger": "鲁迪展示混合魔术理解",
+      "available_information": "知道混合魔术难度高",
+      "action": "夸奖并鼓励",
+      "verbal_response": "做得很好！",
+      "emotional_response": "欣慰与得意",
+      "goal_at_time": "激励学生",
+      "relationship_context": "师生",
+      "social_context": "庭院",
+      "immediate_outcome": "鲁迪更努力",
+      "long_term_outcome": "教学成果显著",
+      "tags": [
+        "SUCCESS",
+        "TEACHING",
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV0016",
+        "EV0020"
+      ]
+    },
+    {
+      "case_id": "BC0032",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "权威",
+      "context": "被塞妮丝责备弄坏庭院树木。",
+      "trigger": "塞妮丝误会是洛琪希让鲁迪拿树做实验",
+      "available_information": "知道雇主有权解雇",
+      "action": "坦率认错，不辩解",
+      "verbal_response": "是，真的非常抱歉，夫人……",
+      "emotional_response": "受打击消沉",
+      "goal_at_time": "保住工作",
+      "relationship_context": "雇主与家教",
+      "social_context": "庭院",
+      "immediate_outcome": "鲁迪安慰",
+      "long_term_outcome": "与鲁迪关系更好",
+      "tags": [
+        "AUTHORITY",
+        "EMBARRASSMENT",
+        "APOLOGY"
+      ],
+      "evidence_refs": [
+        "EV0015"
+      ]
+    },
+    {
+      "case_id": "BC0033",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "信任",
+      "context": "将便当托付给鲁迪，相信他会保护。",
+      "trigger": "鲁迪说会保护据点",
+      "available_information": "知道鲁迪魔术很强",
+      "action": "把便当交给鲁迪，安心",
+      "verbal_response": "拜托你了，鲁迪……",
+      "emotional_response": "安心与信赖",
+      "goal_at_time": "保护便当与友谊",
+      "relationship_context": "朋友",
+      "social_context": "山丘",
+      "immediate_outcome": "鲁迪击退来犯者",
+      "long_term_outcome": "据点稳固",
+      "tags": [
+        "TRUST",
+        "FRIENDSHIP",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0071"
+      ]
+    },
+    {
+      "case_id": "BC0034",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "嫉妒",
+      "context": "看到鲁迪与其他孩子玩耍时的不安。",
+      "trigger": "鲁迪与其他孩子交谈",
+      "available_information": "只有鲁迪一个朋友",
+      "action": "沉默靠近，抓衣角",
+      "verbal_response": "……",
+      "emotional_response": "不安与嫉妒",
+      "goal_at_time": "确认友情",
+      "relationship_context": "朋友",
+      "social_context": "村中",
+      "immediate_outcome": "鲁迪安慰",
+      "long_term_outcome": "更依赖",
+      "tags": [
+        "JEALOUSY",
+        "FRIENDSHIP",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV0026"
+      ]
+    },
+    {
+      "case_id": "BC0035",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "公开场合",
+      "context": "在莉莉雅面前请求学习礼节。",
+      "trigger": "想配得上鲁迪",
+      "available_information": "知道莉莉雅懂阿斯拉礼节",
+      "action": "鼓起勇气请求",
+      "verbal_response": "莉莉雅阿姨，我想向您学习贵族礼节",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "学会礼节",
+      "relationship_context": "学生与老师",
+      "social_context": "格雷拉特家",
+      "immediate_outcome": "莉莉雅答应",
+      "long_term_outcome": "开始礼节学习",
+      "tags": [
+        "REQUEST",
+        "TRAINING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0094",
+        "EV0095"
+      ]
+    },
+    {
+      "case_id": "BC0036",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "信任",
+      "context": "将双胞胎的照顾托付给莉莉雅。",
+      "trigger": "莉莉雅被接纳为家人",
+      "available_information": "知道莉莉雅可靠",
+      "action": "坦然托付",
+      "verbal_response": "拜托你了，莉莉雅",
+      "emotional_response": "安心",
+      "goal_at_time": "维持家庭",
+      "relationship_context": "主仆转为家人",
+      "social_context": "家中",
+      "immediate_outcome": "莉莉雅尽责",
+      "long_term_outcome": "家庭和谐",
+      "tags": [
+        "TRUST",
+        "FAMILY",
+        "ACCEPTANCE"
+      ],
+      "evidence_refs": [
+        "EV0038",
+        "EV0039"
+      ]
+    },
+    {
+      "case_id": "BC0037",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "悲伤",
+      "context": "难产时担心孩子安危。",
+      "trigger": "臀位难产",
+      "available_information": "知道有生命危险",
+      "action": "忍痛坚持",
+      "verbal_response": "……",
+      "emotional_response": "恐惧与母爱",
+      "goal_at_time": "顺利生产",
+      "relationship_context": "母亲与孩子",
+      "social_context": "产房",
+      "immediate_outcome": "诺伦出生",
+      "long_term_outcome": "家庭新增成员",
+      "tags": [
+        "GRIEF",
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0040"
+      ]
+    },
+    {
+      "case_id": "BC0038",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "隐忍",
+      "context": "怀孕后打算默默辞职离开。",
+      "trigger": "发现怀孕",
+      "available_information": "知道会被赶走",
+      "action": "沉默收拾行李",
+      "verbal_response": "我想辞职……",
+      "emotional_response": "不安与认命",
+      "goal_at_time": "不给主人添麻烦",
+      "relationship_context": "女仆与主人",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪劝留",
+      "long_term_outcome": "被接纳为家人",
+      "tags": [
+        "FEAR",
+        "FAMILY",
+        "SECRET"
+      ],
+      "evidence_refs": [
+        "EV0036",
+        "EV0037"
+      ]
+    },
+    {
+      "case_id": "BC0039",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "volume_no": 1,
+      "situation_type": "忠诚",
+      "context": "受保罗委托护送鲁迪前往罗亚。",
+      "trigger": "保罗的信",
+      "available_information": "知道罗亚大小姐家的情况",
+      "action": "接受委托，与鲁迪同行",
+      "verbal_response": "叫我基列奴就好",
+      "emotional_response": "认真",
+      "goal_at_time": "完成护送",
+      "relationship_context": "受雇护卫",
+      "social_context": "马车",
+      "immediate_outcome": "鲁迪启程",
+      "long_term_outcome": "成为鲁迪剑术师傅",
+      "tags": [
+        "LOYALTY",
+        "PROTECT",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV0086",
+        "EV0087",
+        "EV0088"
+      ]
+    },
+    {
+      "case_id": "BC0040",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "训练",
+      "context": "教鲁迪剑术，纠正姿势。",
+      "trigger": "鲁迪姿势错误",
+      "available_information": "知道鲁迪剑术天赋一般",
+      "action": "耐心纠正，偶尔严厉",
+      "verbal_response": "手再抬高一点！",
+      "emotional_response": "期待",
+      "goal_at_time": "让鲁迪掌握基础",
+      "relationship_context": "父子",
+      "social_context": "训练场",
+      "immediate_outcome": "鲁迪改进",
+      "long_term_outcome": "掌握初级剑术",
+      "tags": [
+        "TRAINING",
+        "FAMILY",
+        "TEACHING"
+      ],
+      "evidence_refs": [
+        "EV0016",
+        "EV0018"
+      ]
+    },
+    {
+      "case_id": "BC0041",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "信任",
+      "context": "将爱夏的未来托付给塞妮丝。",
+      "trigger": "莉莉雅怀孕后",
+      "available_information": "知道塞妮丝会接纳",
+      "action": "与塞妮丝商议，请求接纳",
+      "verbal_response": "拜托你了，塞妮丝",
+      "emotional_response": "愧疚与期待",
+      "goal_at_time": "保全家庭",
+      "relationship_context": "夫妻",
+      "social_context": "家中",
+      "immediate_outcome": "塞妮丝同意",
+      "long_term_outcome": "家庭完整",
+      "tags": [
+        "TRUST",
+        "FAMILY",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0042",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "失败",
+      "context": "离家出走后后悔，未能处理好与父亲关系。",
+      "trigger": "回想自己年轻时",
+      "available_information": "自己的过去",
+      "action": "向鲁迪坦白过去，安慰儿子",
+      "verbal_response": "我也曾离家出走……",
+      "emotional_response": "后悔与温柔",
+      "goal_at_time": "让鲁迪理解",
+      "relationship_context": "父子",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪理解父亲",
+      "long_term_outcome": "父子更亲近",
+      "tags": [
+        "FAILURE",
+        "FAMILY",
+        "GRIEF"
+      ],
+      "evidence_refs": [
+        "EV0029"
+      ]
+    },
+    {
+      "case_id": "BC0043",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "幽默",
+      "context": "在送信玩笑开场写信给基列奴。",
+      "trigger": "写信托付",
+      "available_information": "与基列奴的友情",
+      "action": "用玩笑开场",
+      "verbal_response": "哟，基列奴……",
+      "emotional_response": "轻松",
+      "goal_at_time": "让基列奴接受委托",
+      "relationship_context": "朋友",
+      "social_context": "书信",
+      "immediate_outcome": "基列奴接受",
+      "long_term_outcome": "鲁迪顺利前往罗亚",
+      "tags": [
+        "HUMOR",
+        "FRIENDSHIP",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV0050",
+        "EV0051"
+      ]
+    },
+    {
+      "case_id": "BC0044",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "嫉妒",
+      "context": "看到鲁迪魔术才能远超自己而复杂心情。",
+      "trigger": "鲁迪无咏唱成功",
+      "available_information": "知道儿子是天才",
+      "action": "表面祝贺，私下感慨",
+      "verbal_response": "真不愧是我儿子……",
+      "emotional_response": "骄傲与些许失落",
+      "goal_at_time": "鼓励儿子",
+      "relationship_context": "父子",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪受到鼓舞",
+      "long_term_outcome": "更重视鲁迪的魔术教育",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY",
+        "SUCCESS"
+      ],
+      "evidence_refs": [
+        "EV0013",
+        "EV0018"
+      ]
+    },
+    {
+      "case_id": "BC0045",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "信任",
+      "context": "将魔术理论倾囊相授，信任鲁迪不会外泄。",
+      "trigger": "鲁迪快速掌握",
+      "available_information": "知道鲁迪有天赋",
+      "action": "教授更高级理论",
+      "verbal_response": "这个也教给你吧",
+      "emotional_response": "期待",
+      "goal_at_time": "让鲁迪更强",
+      "relationship_context": "师生",
+      "social_context": "课堂",
+      "immediate_outcome": "鲁迪进步神速",
+      "long_term_outcome": "鲁迪超越师傅",
+      "tags": [
+        "TRUST",
+        "TEACHING",
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV0017",
+        "EV0020"
+      ]
+    },
+    {
+      "case_id": "BC0046",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "说谎",
+      "context": "在信中轻描淡写自己的成就，谦虚。",
+      "trigger": "写信给鲁迪",
+      "available_information": "已成为水王级",
+      "action": "谦虚地提及晋升",
+      "verbal_response": "我也稍微变强了一点……",
+      "emotional_response": "谦虚",
+      "goal_at_time": "鼓励鲁迪",
+      "relationship_context": "师生",
+      "social_context": "书信",
+      "immediate_outcome": "鲁迪受到激励",
+      "long_term_outcome": "师徒情谊延续",
+      "tags": [
+        "LIE",
+        "HUMOR",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0046"
+      ]
+    },
+    {
+      "case_id": "BC0047",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "害怕",
+      "context": "担心被解雇，小心行事。",
+      "trigger": "塞妮丝的责备",
+      "available_information": "知道失业风险",
+      "action": "更加谨慎教学",
+      "verbal_response": "……",
+      "emotional_response": "恐惧与不安",
+      "goal_at_time": "保住工作",
+      "relationship_context": "雇主与家教",
+      "social_context": "家中",
+      "immediate_outcome": "更努力",
+      "long_term_outcome": "获得信任",
+      "tags": [
+        "FEAR",
+        "AUTHORITY",
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV0015"
+      ]
+    },
+    {
+      "case_id": "BC0048",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "说服",
+      "context": "说服保罗接受莉莉雅留下。",
+      "trigger": "保罗犹豫",
+      "available_information": "知道保罗重情",
+      "action": "主导会议，提出接纳",
+      "verbal_response": "留下莉莉雅吧，这个家需要她",
+      "emotional_response": "坚定",
+      "goal_at_time": "保全家庭",
+      "relationship_context": "夫妻",
+      "social_context": "家族会议",
+      "immediate_outcome": "全员同意",
+      "long_term_outcome": "家庭扩大",
+      "tags": [
+        "NEGOTIATION",
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0049",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "公开场合",
+      "context": "在村里诊所帮忙，待人亲切。",
+      "trigger": "村民求助",
+      "available_information": "会治愈魔术",
+      "action": "主动帮助",
+      "verbal_response": "让我看看……",
+      "emotional_response": "温柔",
+      "goal_at_time": "帮助村民",
+      "relationship_context": "村民与治疗师",
+      "social_context": "诊所",
+      "immediate_outcome": "村民感激",
+      "long_term_outcome": "村中声望高",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0005"
+      ]
+    },
+    {
+      "case_id": "BC0050",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "忠诚",
+      "context": "在难产时协助塞妮丝。",
+      "trigger": "塞妮丝难产",
+      "available_information": "有接生知识",
+      "action": "协助接生，搬运",
+      "verbal_response": "夫人，用力……",
+      "emotional_response": "紧张专注",
+      "goal_at_time": "母子平安",
+      "relationship_context": "主仆",
+      "social_context": "产房",
+      "immediate_outcome": "诺伦出生",
+      "long_term_outcome": "更被信任",
+      "tags": [
+        "LOYALTY",
+        "PROTECT",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0040"
+      ]
+    },
+    {
+      "case_id": "BC0051",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "感激",
+      "context": "被接纳为家人后，对塞妮丝感激。",
+      "trigger": "塞妮丝说留下",
+      "available_information": "曾以为会被赶走",
+      "action": "深深鞠躬，发誓效忠",
+      "verbal_response": "非常感谢……",
+      "emotional_response": "感激涕零",
+      "goal_at_time": "报答",
+      "relationship_context": "家人",
+      "social_context": "家中",
+      "immediate_outcome": "关系亲密",
+      "long_term_outcome": "成为家人",
+      "tags": [
+        "GRATITUDE",
+        "FAMILY",
+        "ACCEPTANCE"
+      ],
+      "evidence_refs": [
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0052",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "隐藏",
+      "context": "隐藏与保罗的过去。",
+      "trigger": "鲁迪询问",
+      "available_information": "与保罗同门",
+      "action": "简短回避",
+      "verbal_response": "……",
+      "emotional_response": "平静",
+      "goal_at_time": "不引起误会",
+      "relationship_context": "与鲁迪",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪未追问",
+      "long_term_outcome": "秘密保留",
+      "tags": [
+        "SECRET",
+        "FEAR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0007",
+        "EV0039"
+      ]
+    },
+    {
+      "case_id": "BC0053",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "volume_no": 1,
+      "situation_type": "愤怒",
+      "context": "被鲁迪称为大小姐时怒吼。",
+      "trigger": "鲁迪称呼大小姐",
+      "available_information": "厌恶被当大小姐",
+      "action": "怒吼纠正",
+      "verbal_response": "叫我基列奴！",
+      "emotional_response": "愤怒",
+      "goal_at_time": "纠正称呼",
+      "relationship_context": "师徒",
+      "social_context": "马车",
+      "immediate_outcome": "鲁迪改口",
+      "long_term_outcome": "关系更直接",
+      "tags": [
+        "ANGER",
+        "AUTHORITY",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV0087"
+      ]
+    },
+    {
+      "case_id": "BC0054",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "volume_no": 1,
+      "situation_type": "训练",
+      "context": "在马车上教鲁迪剑术基础。",
+      "trigger": "旅途无聊",
+      "available_information": "剑王实力",
+      "action": "示范基础动作",
+      "verbal_response": "看好了……",
+      "emotional_response": "认真",
+      "goal_at_time": "打发时间并教学",
+      "relationship_context": "师徒",
+      "social_context": "旅途",
+      "immediate_outcome": "鲁迪学习",
+      "long_term_outcome": "剑术提升",
+      "tags": [
+        "TRAINING",
+        "TEACHING",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0088"
+      ]
+    },
+    {
+      "case_id": "BC0055",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "phase_name": "罗尔兹作为猎人与父亲时",
+      "volume_no": 1,
+      "situation_type": "信任",
+      "context": "将女儿托付给鲁迪。",
+      "trigger": "看到鲁迪礼貌请求",
+      "available_information": "知道鲁迪才气横溢",
+      "action": "同意并托付",
+      "verbal_response": "拜托你了，鲁迪",
+      "emotional_response": "安心",
+      "goal_at_time": "女儿幸福",
+      "relationship_context": "父亲与朋友",
+      "social_context": "塔楼",
+      "immediate_outcome": "鲁迪接受",
+      "long_term_outcome": "希露菲成长",
+      "tags": [
+        "TRUST",
+        "FAMILY",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV0066",
+        "EV0067"
+      ]
+    },
+    {
+      "case_id": "BC0056",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "嫉妒",
+      "context": "看到保罗受村里女性欢迎",
+      "trigger": "村中女性围着保罗",
+      "available_information": "知道父亲花心",
+      "action": "内心吐槽但表面装作不在意",
+      "verbal_response": "（内心）真是受欢迎啊……",
+      "emotional_response": "轻微嫉妒与无奈",
+      "goal_at_time": "维持礼貌",
+      "relationship_context": "父子",
+      "social_context": "村中",
+      "immediate_outcome": "无人察觉",
+      "long_term_outcome": "更理解父亲",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY",
+        "HUMOR"
+      ],
+      "evidence_refs": [
+        "EV0018"
+      ]
+    },
+    {
+      "case_id": "BC0057",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "感激",
+      "context": "被塞妮丝夸奖天才",
+      "trigger": "塞妮丝高兴认定天才",
+      "available_information": "知道母亲溺爱",
+      "action": "礼貌回应但内心自嘲",
+      "verbal_response": "谢谢母亲大人……",
+      "emotional_response": "害羞与自嘲",
+      "goal_at_time": "不让母亲担心",
+      "relationship_context": "母子",
+      "social_context": "家中",
+      "immediate_outcome": "塞妮丝更溺爱",
+      "long_term_outcome": "被聘请家教",
+      "tags": [
+        "GRATITUDE",
+        "FAMILY",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV0012",
+        "EV0013"
+      ]
+    },
+    {
+      "case_id": "BC0058",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "金钱",
+      "context": "听到洛琪希月薪与魔法大学学费",
+      "trigger": "保罗谈及学费昂贵",
+      "available_information": "知道家庭预算紧张",
+      "action": "主动提出打工",
+      "verbal_response": "我想打工赚希露菲的学费",
+      "emotional_response": "认真",
+      "goal_at_time": "想帮助希露菲",
+      "relationship_context": "父子",
+      "social_context": "家中",
+      "immediate_outcome": "被保罗以分离计划婉拒",
+      "long_term_outcome": "契约中获得两人份学费",
+      "tags": [
+        "MONEY",
+        "FAMILY",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV0051",
+        "EV0052"
+      ]
+    },
+    {
+      "case_id": "BC0059",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "怀疑",
+      "context": "对教科书魔力总量天生决定存疑",
+      "trigger": "实测魔力增长",
+      "available_information": "知道教科书说法",
+      "action": "自行实验推翻",
+      "verbal_response": "教科书说的不一定对……",
+      "emotional_response": "困惑后兴奋",
+      "goal_at_time": "验证真理",
+      "relationship_context": "独自",
+      "social_context": "书房",
+      "immediate_outcome": "确立每天耗尽训练",
+      "long_term_outcome": "发现成长法",
+      "tags": [
+        "SUSPICION",
+        "TRAINING",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0008",
+        "EV0010"
+      ]
+    },
+    {
+      "case_id": "BC0060",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "volume_no": 1,
+      "situation_type": "贵族",
+      "context": "在罗尔兹塔楼前礼貌应对",
+      "trigger": "想带希露菲去玩",
+      "available_information": "知道罗尔兹是猎人但受尊重",
+      "action": "先自我介绍后请求",
+      "verbal_response": "罗尔兹先生，我们可以去玩吗？",
+      "emotional_response": "礼貌认真",
+      "goal_at_time": "获准",
+      "relationship_context": "与罗尔兹",
+      "social_context": "塔楼",
+      "immediate_outcome": "获准",
+      "long_term_outcome": "罗尔兹托付女儿",
+      "tags": [
+        "NOBILITY",
+        "REQUEST",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV0066",
+        "EV0067"
+      ]
+    },
+    {
+      "case_id": "BC0061",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "金钱",
+      "context": "回忆自己为魔族进不了贵族学校",
+      "trigger": "受歧视经历",
+      "available_information": "知道身份敏感",
+      "action": "不主动提及",
+      "verbal_response": "……",
+      "emotional_response": "平静",
+      "goal_at_time": "避免尴尬",
+      "relationship_context": "师生",
+      "social_context": "课堂",
+      "immediate_outcome": "鲁迪未追问",
+      "long_term_outcome": "保持距离",
+      "tags": [
+        "MONEY",
+        "NOBILITY",
+        "SECRET"
+      ],
+      "evidence_refs": [
+        "EV0014"
+      ]
+    },
+    {
+      "case_id": "BC0062",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "怀疑",
+      "context": "起初怀疑鲁迪是天才夸大",
+      "trigger": "塞妮丝说三岁用中级",
+      "available_information": "未亲见",
+      "action": "第一堂课测试水弹",
+      "verbal_response": "让我看看你的实力",
+      "emotional_response": "谨慎",
+      "goal_at_time": "验证",
+      "relationship_context": "师生",
+      "social_context": "庭院",
+      "immediate_outcome": "确认天才",
+      "long_term_outcome": "倾囊相授",
+      "tags": [
+        "SUSPICION",
+        "TEACHING",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV0014",
+        "EV0015"
+      ]
+    },
+    {
+      "case_id": "BC0063",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "volume_no": 1,
+      "situation_type": "感激",
+      "context": "收到鲁迪赠礼（护身符回赠）",
+      "trigger": "鲁迪理解豪雨原理",
+      "available_information": "知道分别将至",
+      "action": "赠米格路德护身符",
+      "verbal_response": "这个给你……",
+      "emotional_response": "不舍与期待",
+      "goal_at_time": "祝福",
+      "relationship_context": "师生",
+      "social_context": "庭院",
+      "immediate_outcome": "鲁迪感动",
+      "long_term_outcome": "成为信物",
+      "tags": [
+        "GRATITUDE",
+        "FAMILY",
+        "LOSS"
+      ],
+      "evidence_refs": [
+        "EV0064"
+      ]
+    },
+    {
+      "case_id": "BC0064",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "成功",
+      "context": "无咏唱到中级",
+      "trigger": "鲁迪教导数月",
+      "available_information": "知道鲁迪方法",
+      "action": "成功无咏唱",
+      "verbal_response": "我做到了，鲁迪！",
+      "emotional_response": "喜悦",
+      "goal_at_time": "证明自己",
+      "relationship_context": "朋友",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪夸奖",
+      "long_term_outcome": "更自信",
+      "tags": [
+        "SUCCESS",
+        "TRAINING",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0039"
+      ]
+    },
+    {
+      "case_id": "BC0065",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "害怕",
+      "context": "被索马尔再次骚扰据点",
+      "trigger": "索马尔带人来",
+      "available_information": "知道鲁迪不在",
+      "action": "躲在树后",
+      "verbal_response": "……",
+      "emotional_response": "恐惧",
+      "goal_at_time": "等待鲁迪",
+      "relationship_context": "朋友",
+      "social_context": "山丘",
+      "immediate_outcome": "鲁迪赶到击退",
+      "long_term_outcome": "据点保住",
+      "tags": [
+        "FEAR",
+        "DANGER",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0070",
+        "EV0071"
+      ]
+    },
+    {
+      "case_id": "BC0066",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "volume_no": 1,
+      "situation_type": "羞耻",
+      "context": "被鲁迪发现是女孩",
+      "trigger": "鲁迪道歉",
+      "available_information": "误会解开",
+      "action": "脸红不语",
+      "verbal_response": "……",
+      "emotional_response": "羞耻",
+      "goal_at_time": "化解尴尬",
+      "relationship_context": "朋友",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪道歉",
+      "long_term_outcome": "关系更亲密",
+      "tags": [
+        "SHAME",
+        "EMBARRASSMENT",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0031"
+      ]
+    },
+    {
+      "case_id": "BC0067",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "怀疑",
+      "context": "怀疑鲁迪是否真爱家人",
+      "trigger": "鲁迪平时早熟",
+      "available_information": "不确定",
+      "action": "观察鲁迪在会议表现",
+      "verbal_response": "……",
+      "emotional_response": "担忧",
+      "goal_at_time": "确认",
+      "relationship_context": "母子",
+      "social_context": "家族会议",
+      "immediate_outcome": "看到鲁迪维护家庭",
+      "long_term_outcome": "完全信任",
+      "tags": [
+        "SUSPICION",
+        "FAMILY",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV0037",
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0068",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "愤怒",
+      "context": "对保罗外遇的二次愤怒",
+      "trigger": "莉莉雅怀孕曝光",
+      "available_information": "知教义",
+      "action": "先忍后赏巴掌",
+      "verbal_response": "……",
+      "emotional_response": "愤怒",
+      "goal_at_time": "发泄",
+      "relationship_context": "夫妻",
+      "social_context": "家族会议",
+      "immediate_outcome": "保罗狼狈",
+      "long_term_outcome": "后冷静主持",
+      "tags": [
+        "ANGER",
+        "BETRAYAL",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0035"
+      ]
+    },
+    {
+      "case_id": "BC0069",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "volume_no": 1,
+      "situation_type": "公开场合",
+      "context": "在家族会议上主导决定",
+      "trigger": "众人沉默",
+      "available_information": "知需决断",
+      "action": "提出留下莉莉雅",
+      "verbal_response": "那么，你们打算怎么办？",
+      "emotional_response": "冷静",
+      "goal_at_time": "保全家庭",
+      "relationship_context": "夫妻/主仆",
+      "social_context": "家族会议",
+      "immediate_outcome": "决定留下",
+      "long_term_outcome": "家庭完整",
+      "tags": [
+        "PUBLIC_SCENE",
+        "AUTHORITY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0070",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "感激",
+      "context": "被塞妮丝留下后感激",
+      "trigger": "以为会被赶走",
+      "available_information": "知塞妮丝善良",
+      "action": "深鞠躬",
+      "verbal_response": "非常感谢夫人……",
+      "emotional_response": "感激",
+      "goal_at_time": "报恩",
+      "relationship_context": "主仆",
+      "social_context": "家中",
+      "immediate_outcome": "被接纳",
+      "long_term_outcome": "誓让爱夏侍奉",
+      "tags": [
+        "GRATITUDE",
+        "ACCEPTANCE",
+        "LOYALTY"
+      ],
+      "evidence_refs": [
+        "EV0038"
+      ]
+    },
+    {
+      "case_id": "BC0071",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "忠诚",
+      "context": "教导爱夏礼节与侍奉",
+      "trigger": "爱夏出生后",
+      "available_information": "知未来",
+      "action": "严格教导",
+      "verbal_response": "爱夏，要好好侍奉鲁迪少爷",
+      "emotional_response": "认真",
+      "goal_at_time": "报恩",
+      "relationship_context": "母女",
+      "social_context": "家中",
+      "immediate_outcome": "爱夏学习",
+      "long_term_outcome": "为将来准备",
+      "tags": [
+        "LOYALTY",
+        "TRAINING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0039"
+      ]
+    },
+    {
+      "case_id": "BC0072",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "volume_no": 1,
+      "situation_type": "恐惧",
+      "context": "怀孕暴露的恐惧",
+      "trigger": "大家看向自己",
+      "available_information": "知地位低",
+      "action": "沉默低头",
+      "verbal_response": "……",
+      "emotional_response": "恐惧",
+      "goal_at_time": "等待审判",
+      "relationship_context": "女仆",
+      "social_context": "家族会议",
+      "immediate_outcome": "鲁迪解围",
+      "long_term_outcome": "留下",
+      "tags": [
+        "FEAR",
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0035",
+        "EV0036"
+      ]
+    },
+    {
+      "case_id": "BC0073",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "volume_no": 1,
+      "situation_type": "保护",
+      "context": "在马车上警戒魔物",
+      "trigger": "旅途遇魔物",
+      "available_information": "知魔物危险",
+      "action": "拔剑护住鲁迪",
+      "verbal_response": "别动",
+      "emotional_response": "冷静",
+      "goal_at_time": "保护",
+      "relationship_context": "师徒",
+      "social_context": "旅途",
+      "immediate_outcome": "魔物被击退",
+      "long_term_outcome": "安全抵达",
+      "tags": [
+        "PROTECT",
+        "COMBAT",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0088"
+      ]
+    },
+    {
+      "case_id": "BC0074",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "volume_no": 1,
+      "situation_type": "信任",
+      "context": "接受保罗的玩笑信仍执行",
+      "trigger": "信中玩笑开场",
+      "available_information": "知保罗为人",
+      "action": "笑后仍认真护送",
+      "verbal_response": "真是的……",
+      "emotional_response": "无奈与忠诚",
+      "goal_at_time": "完成任务",
+      "relationship_context": "朋友",
+      "social_context": "书信",
+      "immediate_outcome": "护送成功",
+      "long_term_outcome": "成为师傅",
+      "tags": [
+        "TRUST",
+        "FRIENDSHIP",
+        "HUMOR"
+      ],
+      "evidence_refs": [
+        "EV0050",
+        "EV0086"
+      ]
+    },
+    {
+      "case_id": "BC0075",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "phase_name": "罗尔兹作为猎人与父亲时",
+      "volume_no": 1,
+      "situation_type": "担忧",
+      "context": "担忧希露菲被排挤",
+      "trigger": "女儿哭着回家",
+      "available_information": "知发色原因",
+      "action": "安慰并教导",
+      "verbal_response": "别在意他们……",
+      "emotional_response": "心疼",
+      "goal_at_time": "保护女儿",
+      "relationship_context": "父女",
+      "social_context": "家中",
+      "immediate_outcome": "希露菲稍安",
+      "long_term_outcome": "求助保罗",
+      "tags": [
+        "FEAR",
+        "FAMILY",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0023",
+        "EV0025"
+      ]
+    },
+    {
+      "case_id": "BC0076",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "phase_name": "罗尔兹作为猎人与父亲时",
+      "volume_no": 1,
+      "situation_type": "公开场合",
+      "context": "在塔楼轮值时与保罗交接",
+      "trigger": "保罗来访",
+      "available_information": "知塔楼职责",
+      "action": "认真交接",
+      "verbal_response": "今天风平浪静……",
+      "emotional_response": "尽责",
+      "goal_at_time": "守护",
+      "relationship_context": "同僚",
+      "social_context": "塔楼",
+      "immediate_outcome": "交接完成",
+      "long_term_outcome": "信任加深",
+      "tags": [
+        "PUBLIC_SCENE",
+        "TRUST",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0067"
+      ]
+    },
+    {
+      "case_id": "BC0077",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "嫉妒",
+      "context": "对基列奴剑王实力的羡慕",
+      "trigger": "听闻剑王",
+      "available_information": "知自己仅上级",
+      "action": "笑称自愧不如",
+      "verbal_response": "剑王啊，真厉害……",
+      "emotional_response": "羡慕",
+      "goal_at_time": "鼓励鲁迪",
+      "relationship_context": "朋友",
+      "social_context": "家中",
+      "immediate_outcome": "鲁迪向往",
+      "long_term_outcome": "托付基列奴",
+      "tags": [
+        "JEALOUSY",
+        "NOBILITY",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV0051"
+      ]
+    },
+    {
+      "case_id": "BC0078",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "volume_no": 1,
+      "situation_type": "公开场合",
+      "context": "在村里受人信赖的日常",
+      "trigger": "村民求助",
+      "available_information": "知骑士职责",
+      "action": "爽快帮忙",
+      "verbal_response": "交给我吧！",
+      "emotional_response": "豁达",
+      "goal_at_time": "维护",
+      "relationship_context": "村民",
+      "social_context": "村中",
+      "immediate_outcome": "村民感激",
+      "long_term_outcome": "声望高",
+      "tags": [
+        "PUBLIC_SCENE",
+        "PROTECT",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0018"
+      ]
     }
   ],
   "beliefs": [
@@ -1007,6 +2744,101 @@
       "evidence_refs": [
         "EV0096"
       ]
+    },
+    {
+      "belief_id": "BL0011",
+      "owner_id": "E0002",
+      "topic": "教育",
+      "statement": "让鲁迪和希露菲分离独立对两人成长有利",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0002",
+      "learned_at_volume": 1,
+      "learned_method": "与罗尔兹商议",
+      "is_true_in_world": true,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "note": "保罗为长远考虑强制分开",
+      "evidence_refs": [
+        "EV0047",
+        "EV0048"
+      ]
+    },
+    {
+      "belief_id": "BL0012",
+      "owner_id": "E0005",
+      "topic": "学生能力",
+      "statement": "鲁迪是天才，掌握了混合魔术与无咏唱",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0001",
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "note": "洛琪希认可鲁迪为天才",
+      "evidence_refs": [
+        "EV0015",
+        "EV0020",
+        "EV0105"
+      ],
+      "learned_at_volume": 1
+    },
+    {
+      "belief_id": "BL0013",
+      "owner_id": "E0003",
+      "topic": "家庭",
+      "statement": "莉莉雅已被接纳为家人，值得信任",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0001",
+      "learned_method": "家族会议",
+      "is_true_in_world": true,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "note": "塞妮丝决定留下莉莉雅",
+      "evidence_refs": [
+        "EV0038"
+      ],
+      "learned_at_volume": 1
+    },
+    {
+      "belief_id": "BL0014",
+      "owner_id": "E0004",
+      "topic": "报恩",
+      "statement": "鲁迪是救命恩人，爱夏将来要侍奉他",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0001",
+      "learned_method": "家族会议被救",
+      "is_true_in_world": true,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "note": "莉莉雅的誓言",
+      "evidence_refs": [
+        "EV0038",
+        "EV0039"
+      ],
+      "learned_at_volume": 1
+    },
+    {
+      "belief_id": "BL0015",
+      "owner_id": "E0006",
+      "topic": "自我",
+      "statement": "翠绿头发导致被排挤是自己的错",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "同村孩子",
+      "learned_method": "被霸凌",
+      "is_true_in_world": false,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "note": "希露菲的误解，后被鲁迪纠正",
+      "evidence_refs": [
+        "EV0023",
+        "EV0024"
+      ],
+      "learned_at_volume": 1
     }
   ],
   "canon_conflicts": [
@@ -1346,12 +3178,7 @@
       "behavior_changes_note": "从误会儿子打人到道歉和解；本卷末强制送走鲁迪以让希露菲独立。",
       "character_id": "E0002",
       "conflict_tendencies": [
-        "先",
-        "发",
-        "火",
-        "再",
-        "道",
-        "歉"
+        "先发火再道歉"
       ],
       "date_precision": "UNKNOWN",
       "decision_tendencies": [
@@ -1391,13 +3218,7 @@
         "劈开岩石的剑术"
       ],
       "long_term_goals": [
-        "让",
-        "儿",
-        "子",
-        "独",
-        "当",
-        "一",
-        "面"
+        "让儿子独当一面"
       ],
       "loyalty": "MEDIUM-HIGH",
       "money_attitude": "普通",
@@ -1419,16 +3240,7 @@
       "profile_id": "CP0003",
       "race_attitude": "无魔族偏见",
       "relationship_tendencies": [
-        "对",
-        "儿",
-        "子",
-        "从",
-        "严",
-        "厉",
-        "转",
-        "为",
-        "亲",
-        "近"
+        "对儿子从严厉转为亲近"
       ],
       "religious_attitude": "无",
       "risk_tolerance": "HIGH",
@@ -1470,12 +3282,7 @@
       "behavior_changes_note": "从怀疑鲁迪不爱家人，到确认鲁迪珍惜家庭并完全信任。",
       "character_id": "E0003",
       "conflict_tendencies": [
-        "先",
-        "忍",
-        "耐",
-        "再",
-        "爆",
-        "发"
+        "先忍耐再爆发"
       ],
       "date_precision": "UNKNOWN",
       "decision_tendencies": [
@@ -1505,25 +3312,14 @@
         "可能再次怀孕困难"
       ],
       "knowledge_state": [
-        "治",
-        "疗",
-        "魔",
-        "术",
-        "知",
-        "识"
+        "治疗魔术知识"
       ],
       "known_skills": [
         "治愈魔术中级",
         "结界魔术"
       ],
       "long_term_goals": [
-        "孩",
-        "子",
-        "们",
-        "健",
-        "康",
-        "成",
-        "长"
+        "孩子们健康成长"
       ],
       "loyalty": "HIGH",
       "money_attitude": "务实",
@@ -1545,14 +3341,7 @@
       "profile_id": "CP0004",
       "race_attitude": "无特别",
       "relationship_tendencies": [
-        "对",
-        "鲁",
-        "迪",
-        "溺",
-        "爱",
-        "与",
-        "信",
-        "任"
+        "对鲁迪溺爱与信任"
       ],
       "religious_attitude": "虔诚米里斯教徒",
       "risk_tolerance": "LOW",
@@ -1574,8 +3363,7 @@
       "status_attitude": "贵族出身、离家出走",
       "summary": "塞妮丝·格雷拉特：米里斯教出身的母亲，面对丈夫外遇仍选择原谅、接纳莉莉雅为家人。",
       "taboos": [
-        "不",
-        "忠"
+        "不忠"
       ],
       "values": [
         "一夫一妻教义",
@@ -1594,10 +3382,7 @@
       "behavior_changes_note": "从避开鲁迪到视其为救命恩人，誓言让爱夏侍奉鲁迪。",
       "character_id": "E0004",
       "conflict_tendencies": [
-        "沉",
-        "默",
-        "承",
-        "担"
+        "沉默承担"
       ],
       "date_precision": "UNKNOWN",
       "decision_tendencies": [
@@ -1635,15 +3420,7 @@
         "家务"
       ],
       "long_term_goals": [
-        "让",
-        "爱",
-        "夏",
-        "侍",
-        "奉",
-        "鲁",
-        "迪",
-        "少",
-        "爷"
+        "让爱夏侍奉鲁迪少爷"
       ],
       "loyalty": "HIGH（对塞妮丝与鲁迪）",
       "money_attitude": "节俭寄钱回家",
@@ -1665,16 +3442,7 @@
       "profile_id": "CP0005",
       "race_attitude": "无",
       "relationship_tendencies": [
-        "对",
-        "鲁",
-        "迪",
-        "从",
-        "戒",
-        "心",
-        "转",
-        "为",
-        "敬",
-        "重"
+        "对鲁迪从戒心转为敬重"
       ],
       "religious_attitude": "无",
       "risk_tolerance": "LOW",
@@ -1715,20 +3483,11 @@
       "behavior_changes_note": "从被霸凌的孤独孩子，到获得鲁迪的保护并学会魔术；卷末宣言要变强救出鲁迪。",
       "character_id": "E0006",
       "conflict_tendencies": [
-        "隐",
-        "忍",
-        "不",
-        "反",
-        "抗"
+        "隐忍不反抗"
       ],
       "date_precision": "UNKNOWN",
       "decision_tendencies": [
-        "听",
-        "从",
-        "鲁",
-        "迪",
-        "安",
-        "排"
+        "听从鲁迪安排"
       ],
       "desires": [
         "不被欺负",
@@ -1762,9 +3521,7 @@
         "读写与算术"
       ],
       "long_term_goals": [
-        "无",
-        "明",
-        "确"
+        "无明确"
       ],
       "loyalty": "HIGH（对鲁迪）",
       "money_attitude": "家中不富裕",
@@ -1785,14 +3542,7 @@
       "profile_id": "CP0006",
       "race_attitude": "因发色自卑",
       "relationship_tendencies": [
-        "把",
-        "鲁",
-        "迪",
-        "当",
-        "唯",
-        "一",
-        "依",
-        "靠"
+        "把鲁迪当唯一依靠"
       ],
       "religious_attitude": "无",
       "risk_tolerance": "LOW",
@@ -1803,16 +3553,7 @@
         "和鲁迪在一起"
       ],
       "social_tendencies": [
-        "孤",
-        "僻",
-        "（",
-        "没",
-        "有",
-        "其",
-        "他",
-        "朋",
-        "友",
-        "）"
+        "孤僻（没有其他朋友）"
       ],
       "speech_tendencies": [
         "小声",
@@ -4037,6 +5778,237 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "note": "格雷拉特家宅中的场景描写。"
+    },
+    {
+      "evidence_id": "EV0123",
+      "volume_no": 1,
+      "unit_id": "U0002",
+      "chapter_title": "第一卷 幼年期 第一话「难道是：异世界」",
+      "source_start_line": 300,
+      "source_end_line": 302,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪内心自嘲：转生后决心认真生活"
+    },
+    {
+      "evidence_id": "EV0103",
+      "volume_no": 1,
+      "unit_id": "U0003",
+      "chapter_title": "第一卷 幼年期 第二话「心生反感的女仆」",
+      "source_start_line": 620,
+      "source_end_line": 622,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "莉莉雅面无表情、简洁寡言的描写"
+    },
+    {
+      "evidence_id": "EV0104",
+      "volume_no": 1,
+      "unit_id": "U0004",
+      "chapter_title": "第一卷 幼年期 第三话「魔术教科书」",
+      "source_start_line": 1180,
+      "source_end_line": 1182,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪发现无咏唱的瞬间描写"
+    },
+    {
+      "evidence_id": "EV0105",
+      "volume_no": 1,
+      "unit_id": "U0005",
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "source_start_line": 1985,
+      "source_end_line": 1987,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "洛琪希叹气、简短冷淡的语气"
+    },
+    {
+      "evidence_id": "EV0106",
+      "volume_no": 1,
+      "unit_id": "U0005",
+      "chapter_title": "第一卷 幼年期 第四话「师傅」",
+      "source_start_line": 1990,
+      "source_end_line": 1992,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "洛琪希因被夸奖而得意的细微表情"
+    },
+    {
+      "evidence_id": "EV0107",
+      "volume_no": 1,
+      "unit_id": "U0006",
+      "chapter_title": "第一卷 幼年期 第五话「剑术与魔术」",
+      "source_start_line": 2860,
+      "source_end_line": 2862,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "保罗劈开岩石的描写"
+    },
+    {
+      "evidence_id": "EV0108",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "source_start_line": 4240,
+      "source_end_line": 4242,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪用泥球反击的动作细节"
+    },
+    {
+      "evidence_id": "EV0109",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "source_start_line": 4400,
+      "source_end_line": 4402,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲翠绿头发被排挤的哭泣"
+    },
+    {
+      "evidence_id": "EV0110",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "source_start_line": 4775,
+      "source_end_line": 4777,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪冷静反驳保罗的台词"
+    },
+    {
+      "evidence_id": "EV0111",
+      "volume_no": 1,
+      "unit_id": "U0008",
+      "chapter_title": "第一卷 幼年期 第七话「朋友」",
+      "source_start_line": 4880,
+      "source_end_line": 4882,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "保罗道歉低头的描写"
+    },
+    {
+      "evidence_id": "EV0112",
+      "volume_no": 1,
+      "unit_id": "U0009",
+      "chapter_title": "第一卷 幼年期 第八话「迟钝」",
+      "source_start_line": 5500,
+      "source_end_line": 5502,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲是女孩的揭露瞬间"
+    },
+    {
+      "evidence_id": "EV0113",
+      "volume_no": 1,
+      "unit_id": "U0010",
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "source_start_line": 5900,
+      "source_end_line": 5902,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "塞妮丝冷静主持会议的描写"
+    },
+    {
+      "evidence_id": "EV0114",
+      "volume_no": 1,
+      "unit_id": "U0010",
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "source_start_line": 6070,
+      "source_end_line": 6072,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "圣物被发现的慌乱描写"
+    },
+    {
+      "evidence_id": "EV0115",
+      "volume_no": 1,
+      "unit_id": "U0010",
+      "chapter_title": "第一卷 幼年期 第九话「紧急家族会议」",
+      "source_start_line": 6300,
+      "source_end_line": 6302,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "莉莉雅沉默承担的描写"
+    },
+    {
+      "evidence_id": "EV0116",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "source_start_line": 6900,
+      "source_end_line": 6902,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲哭求不要离开的拥抱"
+    },
+    {
+      "evidence_id": "EV0117",
+      "volume_no": 1,
+      "unit_id": "U0011",
+      "chapter_title": "第一卷 幼年期 第十话「遭遇瓶颈」",
+      "source_start_line": 7155,
+      "source_end_line": 7157,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "洛琪希来信中水王级与内裤道歉"
+    },
+    {
+      "evidence_id": "EV0118",
+      "volume_no": 1,
+      "unit_id": "U0013",
+      "chapter_title": "第一卷 幼年期 第十一话「离别」",
+      "source_start_line": 8200,
+      "source_end_line": 8202,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "保罗打昏鲁迪的突袭动作"
+    },
+    {
+      "evidence_id": "EV0119",
+      "volume_no": 1,
+      "unit_id": "U0007",
+      "chapter_title": "第一卷 幼年期 第六话「尊敬的师傅」",
+      "source_start_line": 3485,
+      "source_end_line": 3487,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "洛琪希毕业考豪雨的原理说明"
+    },
+    {
+      "evidence_id": "EV0120",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 幼年期 第十二话「希露菲与礼节」",
+      "source_start_line": 9310,
+      "source_end_line": 9312,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "罗尔兹认为鲁迪不会娶猎人之女"
+    },
+    {
+      "evidence_id": "EV0121",
+      "volume_no": 1,
+      "unit_id": "U0020",
+      "chapter_title": "第一卷 幼年期 第十二话「希露菲与礼节」",
+      "source_start_line": 9348,
+      "source_end_line": 9350,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "希露菲主动请求学习礼节的鞠躬"
+    },
+    {
+      "evidence_id": "EV0122",
+      "volume_no": 1,
+      "unit_id": "U0002",
+      "chapter_title": "第一卷 幼年期 第一话「难道是：异世界」",
+      "source_start_line": 350,
+      "source_end_line": 352,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪随对象变换自称的描写"
     }
   ],
   "item_instances": [
@@ -5049,6 +7021,95 @@
         "EV0067",
         "EV0091"
       ]
+    },
+    {
+      "change_id": "RC0009",
+      "source_id": "E0001",
+      "target_id": "E0005",
+      "dimension": "respect",
+      "before": "尊敬",
+      "trigger": "洛琪希倾囊相授",
+      "after": "崇拜",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0015",
+        "EV0119"
+      ]
+    },
+    {
+      "change_id": "RC0010",
+      "source_id": "E0005",
+      "target_id": "E0001",
+      "dimension": "trust",
+      "before": "怀疑",
+      "trigger": "鲁迪现学豪雨",
+      "after": "完全信任",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0062",
+        "EV0063"
+      ]
+    },
+    {
+      "change_id": "RC0011",
+      "source_id": "E0002",
+      "target_id": "E0001",
+      "dimension": "respect",
+      "before": "把儿子当小孩",
+      "trigger": "儿子冷静辩驳并被罗尔兹认可",
+      "after": "把儿子当对等大人",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0029",
+        "EV0067"
+      ]
+    },
+    {
+      "change_id": "RC0012",
+      "source_id": "E0006",
+      "target_id": "E0001",
+      "dimension": "dependency",
+      "before": "无",
+      "trigger": "被拯救",
+      "after": "高度依赖",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0024",
+        "EV0045"
+      ]
+    },
+    {
+      "change_id": "RC0013",
+      "source_id": "E0001",
+      "target_id": "E0006",
+      "dimension": "protectiveness",
+      "before": "陌生",
+      "trigger": "目睹霸凌",
+      "after": "保护者",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0024"
+      ]
+    },
+    {
+      "change_id": "RC0014",
+      "source_id": "E0003",
+      "target_id": "E0004",
+      "dimension": "trust",
+      "before": "主仆",
+      "trigger": "共同经历难产与家族会议",
+      "after": "家人般信任",
+      "at_volume": 1,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0038",
+        "EV0040"
+      ]
     }
   ],
   "routes": [
@@ -5081,12 +7142,14 @@
     "U0004",
     "U0005",
     "U0006",
+    "U0007",
     "U0008",
     "U0009",
     "U0010",
     "U0011",
     "U0012",
-    "U0013"
+    "U0013",
+    "U0020"
   ],
   "source_volume": 1,
   "species": [
@@ -5209,104 +7272,110 @@
   ],
   "speech_profiles": [
     {
-      "address_habits": "对父母称「父亲大人」「母亲大人」",
-      "anger_expression": "冷静的讽刺与反驳",
+      "address_habits": "随对象变换自称：对父母称‘父亲大人/母亲大人’，对洛琪希‘师傅’，对希露菲直呼名，内心自称‘俺’",
+      "anger_expression": "冷静说理，直视对方，必要时强硬‘父亲大人却完全不打算参考我的说法……’",
       "canonical_examples": [
-        "「对不起。」",
-        "「我不是要站在魔族那一边，我是要帮助弱者。」"
+        "‘对不起。’ (对塞妮丝)",
+        "‘罗尔兹先生，我们两个可以去玩一下吗？’",
+        "‘父亲大人却完全不打算参考我的说法……’"
       ],
       "character_id": "E0001",
-      "emotion_expression": "克制、用调侃掩饰",
+      "emotion_expression": "克制，喜悦时语调上扬，紧张时加快",
       "evidence_refs": [
-        "EV0012",
-        "EV0024",
-        "EV0028"
+        "EV0004",
+        "EV0022",
+        "EV0028",
+        "EV0066",
+        "EV0122"
       ],
-      "inferior_speech": "平辈轻松语气",
-      "intimate_speech": "放松、自嘲",
+      "inferior_speech": "平语但不居高临下，鼓励式",
+      "intimate_speech": "对希露菲温柔轻声，带保护欲",
       "phase_id": "P0001",
       "phase_name": "幼年期",
-      "politeness": "对尊长使用敬语",
+      "politeness": "对长辈用敬语、对外礼貌周全，对同龄人平语但老成",
       "profile_id": "ST0001",
-      "sentence_length": "简洁、有条理",
-      "shy_expression": "转移话题",
-      "stranger_speech": "礼貌自我介绍",
-      "superior_speech": "敬语",
+      "sentence_length": "中等偏长，逻辑清晰，偶有前世宅男梗",
+      "shy_expression": "转移话题、内心吐槽、自嘲‘我可是内心大叔啊’",
+      "stranger_speech": "谨慎礼貌，先自我介绍‘罗尔兹先生，我们可以去玩吗？’",
+      "superior_speech": "敬语+理性辩驳",
       "visible_from_volume": 1
     },
     {
-      "address_habits": "称呼学生「鲁迪」，夫人「塞妮丝夫人」",
-      "anger_expression": "沉默、叹气",
+      "address_habits": "称学生‘鲁迪’，自称‘我’",
+      "anger_expression": "沉默冷对，消沉",
       "canonical_examples": [
-        "「唉……」",
-        "「我叫洛琪希，请多指教。」"
+        "‘是，真的非常抱歉，夫人……’",
+        "叹气"
       ],
       "character_id": "E0005",
-      "emotion_expression": "冷淡、易因被称赞而得意",
+      "emotion_expression": "外冷内热，易被夸奖打动",
       "evidence_refs": [
-        "EV0014",
-        "EV0015"
+        "EV0015",
+        "EV0017",
+        "EV0105",
+        "EV0106"
       ],
-      "inferior_speech": "平淡",
-      "intimate_speech": "偶尔流露温度",
+      "inferior_speech": "耐心教导‘做得很好！’",
+      "intimate_speech": "对信任学生偶尔温柔",
       "phase_id": "roxy-tutor",
       "phase_name": "格雷拉特家家庭教师时期",
-      "politeness": "有礼但冷淡",
+      "politeness": "简短冷淡，对雇主尊敬但保持距离",
       "profile_id": "ST0002",
-      "sentence_length": "简短",
-      "shy_expression": "吞吞吐吐",
-      "stranger_speech": "保持距离",
-      "superior_speech": "恭敬",
+      "sentence_length": "短句为主，偶有叹气",
+      "shy_expression": "别过脸、耳根发红、叹气",
+      "stranger_speech": "保持距离、谨慎",
+      "superior_speech": "对塞妮丝尊敬‘是，真的非常抱歉，夫人……’",
       "visible_from_volume": 1
     },
     {
-      "address_habits": "称呼鲁迪为「鲁迪」",
-      "anger_expression": "几乎不表达",
+      "address_habits": "称鲁迪‘鲁迪’，对莉莉雅‘莉莉雅阿姨’",
+      "anger_expression": "鼓脸、沉默",
       "canonical_examples": [
-        "「……不知道。」",
-        "「我不要……哪里都……不要去……」"
+        "‘莉莉雅阿姨，我想向您学习贵族礼节’"
       ],
       "character_id": "E0006",
-      "emotion_expression": "胆怯、含糊",
+      "emotion_expression": "胆小温柔，紧张时抓衣角",
       "evidence_refs": [
-        "EV0025",
-        "EV0044"
+        "EV0026",
+        "EV0094",
+        "EV0121"
       ],
-      "inferior_speech": "小声",
-      "intimate_speech": "逐渐放松",
+      "inferior_speech": "无",
+      "intimate_speech": "对鲁迪依赖‘鲁迪……’‘拜托你了’",
       "phase_id": "sylphie-childhood",
       "phase_name": "幼年期",
-      "politeness": "礼貌",
+      "politeness": "小声、结巴、礼貌",
       "profile_id": "ST0003",
-      "sentence_length": "短、结巴",
-      "shy_expression": "低头、语塞",
-      "stranger_speech": "极度紧张",
-      "superior_speech": "敬语",
+      "sentence_length": "短句，语尾带颤",
+      "shy_expression": "脸红低头",
+      "stranger_speech": "几乎不与陌生人说话",
+      "superior_speech": "对莉莉雅鞠躬‘莉莉雅阿姨，我想学习贵族礼节’",
       "visible_from_volume": 1
     },
     {
-      "address_habits": "直接叫「鲁迪」，自称「爸爸」",
-      "anger_expression": "吼叫、动手",
+      "address_habits": "称儿子‘鲁迪’，自称‘爸爸/我’",
+      "anger_expression": "大声斥责、拍桌，事后低头‘真抱歉，是爸爸错了’",
       "canonical_examples": [
-        "「要『哼地往前踏然后唰地砍下去』！」",
-        "「真抱歉，是爸爸错了。」"
+        "‘真抱歉，是爸爸错了。告诉我详情吧。’",
+        "‘想让鲁迪变得更强’"
       ],
       "character_id": "E0002",
-      "emotion_expression": "外放、直接",
+      "emotion_expression": "外放，喜怒形于色",
       "evidence_refs": [
-        "EV0018",
-        "EV0030"
+        "EV0029",
+        "EV0048",
+        "EV0122"
       ],
-      "inferior_speech": "平等",
-      "intimate_speech": "随意、爱开玩笑",
+      "inferior_speech": "对儿子有时严厉有时亲近",
+      "intimate_speech": "对妻子愧疚轻声",
       "phase_id": "paul-father",
       "phase_name": "布埃纳村父亲时期",
-      "politeness": "随意、粗鲁",
+      "politeness": "粗鲁直率，对村人豁达，对家人偶尔说教",
       "profile_id": "ST0004",
-      "sentence_length": "口语化",
-      "shy_expression": "苦笑、自嘲",
-      "stranger_speech": "爽快",
-      "superior_speech": "随意",
+      "sentence_length": "短句有力，有说服力",
+      "shy_expression": "挠头",
+      "stranger_speech": "豁达玩笑",
+      "superior_speech": "对领主尊敬",
       "visible_from_volume": 1
     },
     {
@@ -5356,6 +7425,56 @@
       "evidence_refs": [
         "EV0096",
         "EV0097"
+      ]
+    },
+    {
+      "profile_id": "ST0007",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "politeness": "极度简洁、平淡、面无表情",
+      "sentence_length": "极短，常省略主语",
+      "address_habits": "称塞妮丝‘夫人’，鲁迪‘鲁迪少爷’，自称‘我’",
+      "emotion_expression": "几乎不外露，关键时刻才建言",
+      "anger_expression": "沉默承担",
+      "shy_expression": "低头不语",
+      "intimate_speech": "对爱夏温柔，对塞妮丝忠诚轻声",
+      "stranger_speech": "极少与外人交谈",
+      "superior_speech": "对塞妮丝恭敬‘是，夫人’",
+      "inferior_speech": "对爱夏教导口吻",
+      "canonical_examples": [
+        "‘……’ 面无表情的平淡"
+      ],
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0007",
+        "EV0103",
+        "EV0115"
+      ]
+    },
+    {
+      "profile_id": "ST0008",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "phase_name": "罗尔兹作为猎人与父亲时",
+      "politeness": "直接朴实，对保罗尊敬",
+      "sentence_length": "短句",
+      "address_habits": "称保罗‘保罗大人’，鲁迪‘鲁迪少爷’",
+      "emotion_expression": "耿直务实",
+      "anger_expression": "回避冲突",
+      "shy_expression": "搓手",
+      "intimate_speech": "对希露菲温柔‘女儿啊’",
+      "stranger_speech": "谨慎",
+      "superior_speech": "对保罗‘保罗大人，拜托了’",
+      "inferior_speech": "对希露菲教导",
+      "canonical_examples": [
+        "‘鲁迪少爷，拜托你了’"
+      ],
+      "visible_from_volume": 1,
+      "evidence_refs": [
+        "EV0066",
+        "EV0067",
+        "EV0120"
       ]
     }
   ],
@@ -5601,6 +7720,2108 @@
       "evidence_refs": [
         "EV0096",
         "EV0097"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK0001",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "崇拜",
+      "name": "洛琪希特殊崇拜",
+      "description": "对洛琪希抱有近乎信仰的崇拜，视其为神一般的存在，言行中常流露出过度尊敬与依赖。",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "听到洛琪希名字",
+        "看到水系魔术",
+        "提及师傅"
+      ],
+      "preferred_targets": [
+        "E0005"
+      ],
+      "avoided_targets": [],
+      "public_expression": "恭敬称呼为洛琪希师傅，认真听课",
+      "private_expression": "私下将相关物品视为圣物，反复回忆教导",
+      "behavior_patterns": [
+        "主动提起洛琪希的教导",
+        "模仿其口吻"
+      ],
+      "verbal_patterns": [
+        "洛琪希师傅说过……"
+      ],
+      "body_language": "眼睛发亮，坐姿端正",
+      "emotional_reward": "安心感与归属感",
+      "emotional_response": "被肯定时极度喜悦",
+      "boundaries": [
+        "不会在洛琪希面前失礼"
+      ],
+      "exceptions": [
+        "被指出错误时会短暂失落"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0014",
+        "EV0015",
+        "EV0046"
+      ]
+    },
+    {
+      "quirk_id": "QK0002",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "收藏癖",
+      "name": "圣物收藏与隐藏",
+      "description": "将特定物品（尤其是洛琪希相关）视为圣物，认真隐藏、保存，避免被家人发现。",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "获得贴身物品",
+        "独处时"
+      ],
+      "preferred_targets": [
+        "E0005"
+      ],
+      "avoided_targets": [
+        "E0002",
+        "E0003",
+        "E0004"
+      ],
+      "public_expression": "表面若无其事",
+      "private_expression": "小心藏匿，定期确认安好",
+      "behavior_patterns": [
+        "挑选隐蔽处存放",
+        "避免他人进入私人空间"
+      ],
+      "verbal_patterns": [],
+      "body_language": "目光游移，动作谨慎",
+      "emotional_reward": "满足感与安心",
+      "emotional_response": "被发现时极度慌乱、语无伦次",
+      "boundaries": [
+        "不会在公共场合展示"
+      ],
+      "exceptions": [
+        "极度信任的人面前可能松懈"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0037",
+        "EV0046"
+      ]
+    },
+    {
+      "quirk_id": "QK0003",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "情绪反应",
+      "name": "被发现时的慌乱",
+      "description": "私藏被发现时会产生明显的慌乱、脸红、辩解，试图掩饰。",
+      "intensity": "HIGH",
+      "frequency": "低频但表现强烈",
+      "triggers": [
+        "私藏暴露",
+        "被质问"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "支吾其词",
+      "private_expression": "事后反复懊悔",
+      "behavior_patterns": [
+        "立刻转移话题",
+        "编造借口"
+      ],
+      "verbal_patterns": [
+        "不是、那个……"
+      ],
+      "body_language": "脸红、避开视线、手足无措",
+      "emotional_reward": null,
+      "emotional_response": "羞耻与焦虑",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0037"
+      ]
+    },
+    {
+      "quirk_id": "QK0004",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "思维模式",
+      "name": "性相关联想自然侵入",
+      "description": "在普通思考中会自然插入性相关联想，但会自我克制不直接说出。",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "看到女性角色",
+        "独处思考"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "保持礼貌",
+      "private_expression": "内心吐槽中出现联想",
+      "behavior_patterns": [
+        "思考中岔开话题",
+        "用幽默化解"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": "短暂的愉悦",
+      "emotional_response": "随后自我吐槽",
+      "boundaries": [
+        "不会在长辈面前露骨"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0004",
+        "EV0034",
+        "EV0038"
+      ]
+    },
+    {
+      "quirk_id": "QK0005",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "恶作剧",
+      "name": "恶作剧与戏弄冲动",
+      "description": "有轻度恶作剧和戏弄他人的冲动，尤其是对亲近的希露菲，但会把握分寸。",
+      "intensity": "LOW",
+      "frequency": "偶尔",
+      "triggers": [
+        "与希露菲独处",
+        "气氛轻松时"
+      ],
+      "preferred_targets": [
+        "E0006"
+      ],
+      "avoided_targets": [
+        "E0002",
+        "E0003"
+      ],
+      "public_expression": "开玩笑",
+      "private_expression": "内心期待对方反应",
+      "behavior_patterns": [
+        "轻度捉弄",
+        "事后安慰"
+      ],
+      "verbal_patterns": [
+        "开玩笑的语气"
+      ],
+      "body_language": "挑眉、偷笑",
+      "emotional_reward": "亲近感",
+      "emotional_response": "对方生气时会立刻道歉",
+      "boundaries": [
+        "不做伤害性恶作剧"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "INFERENCE",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV0024",
+        "EV0031"
+      ]
+    },
+    {
+      "quirk_id": "QK0006",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "言语习惯",
+      "name": "内心吐槽与自嘲掩饰",
+      "description": "经常通过内心吐槽、自嘲来掩饰真实想法，表面保持冷静或礼貌。",
+      "intensity": "HIGH",
+      "frequency": "极频繁",
+      "triggers": [
+        "遇到尴尬",
+        "被夸奖",
+        "内心矛盾时"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "礼貌回应",
+      "private_expression": "内心大量吐槽",
+      "behavior_patterns": [
+        "表面冷静，内心活动丰富"
+      ],
+      "verbal_patterns": [
+        "内心：又来了……"
+      ],
+      "body_language": "面无表情但内心波动",
+      "emotional_reward": "缓解压力",
+      "emotional_response": "自我解嘲",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0004",
+        "EV0006",
+        "EV0022"
+      ]
+    },
+    {
+      "quirk_id": "QK0007",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "反差",
+      "name": "外表小孩内心成人的言行反差",
+      "description": "外表是小孩，但思维方式、说话逻辑明显成熟，能与大人对等交谈。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "与大人对话",
+        "处理家族事务"
+      ],
+      "preferred_targets": [
+        "E0002",
+        "E0003",
+        "E0005"
+      ],
+      "avoided_targets": [],
+      "public_expression": "用敬语与大人辩论",
+      "private_expression": "私下仍保留孩子气的一面",
+      "behavior_patterns": [
+        "主动参与家族会议",
+        "提出成熟建议"
+      ],
+      "verbal_patterns": [
+        "父亲大人、母亲大人"
+      ],
+      "body_language": "挺胸、直视对方",
+      "emotional_reward": "被认可",
+      "emotional_response": "被当成小孩时会不甘",
+      "boundaries": [
+        "不会暴露前世记忆"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0004",
+        "EV0028",
+        "EV0038"
+      ]
+    },
+    {
+      "quirk_id": "QK0008",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "好色表现",
+      "name": "对不同对象的好色差异化",
+      "description": "对洛琪希是崇拜式的好色，对希露菲是保护欲伴随的克制，对塞妮丝/莉莉雅则保持距离。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "与特定对象互动"
+      ],
+      "preferred_targets": [
+        "E0005",
+        "E0006"
+      ],
+      "avoided_targets": [
+        "E0003",
+        "E0004"
+      ],
+      "public_expression": "对希露菲礼貌克制",
+      "private_expression": "对洛琪希相关物品特别珍视",
+      "behavior_patterns": [
+        "根据对象调整距离和言辞"
+      ],
+      "verbal_patterns": [],
+      "body_language": "对希露菲温柔，对洛琪希恭敬",
+      "emotional_reward": null,
+      "emotional_response": "被误会时会慌张",
+      "boundaries": [
+        "不做强迫行为"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV0031",
+        "EV0034",
+        "EV0037"
+      ]
+    },
+    {
+      "quirk_id": "QK0009",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "谨慎",
+      "name": "好色与谨慎、羞耻并存",
+      "description": "即使有好色想法，也会同时保持谨慎，评估风险，隐藏意图，伴随羞耻感。",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "产生私欲时"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "装作若无其事",
+      "private_expression": "反复确认是否被发现",
+      "behavior_patterns": [
+        "隐藏真实意图",
+        "选择安全时机"
+      ],
+      "verbal_patterns": [],
+      "body_language": "谨慎观察周围",
+      "emotional_reward": null,
+      "emotional_response": "羞耻与紧张并存",
+      "boundaries": [
+        "知道部分行为不能公开"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0009",
+        "EV0012",
+        "EV0037"
+      ]
+    },
+    {
+      "quirk_id": "QK0010",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "category": "学习习惯",
+      "name": "魔术痴迷与每日耗尽魔力训练",
+      "description": "对魔术有痴迷般的热情，坚持每天将魔力用到极限以提升总量。",
+      "intensity": "HIGH",
+      "frequency": "每日",
+      "triggers": [
+        "起床后",
+        "空闲时间"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "向洛琪希请教",
+      "private_expression": "独自反复练习",
+      "behavior_patterns": [
+        "每日耗尽魔力",
+        "记录使用次数"
+      ],
+      "verbal_patterns": [],
+      "body_language": "专注、汗流浃背",
+      "emotional_reward": "成长感",
+      "emotional_response": "遇到瓶颈时焦虑",
+      "boundaries": [],
+      "exceptions": [
+        "身体不适时减少"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0010",
+        "EV0011",
+        "EV0017"
+      ]
+    },
+    {
+      "quirk_id": "QK0011",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "category": "情绪",
+      "name": "先发火再道歉",
+      "description": "遇到冲突时先按直觉发火，事后冷静反省并真诚道歉，能放下父亲威严。",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "儿子被投诉",
+        "家庭危机"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "大声斥责",
+      "private_expression": "私下懊悔",
+      "behavior_patterns": [
+        "冲动指责",
+        "随后道歉"
+      ],
+      "verbal_patterns": [
+        "真抱歉，是爸爸错了"
+      ],
+      "body_language": "低头、叹气",
+      "emotional_reward": null,
+      "emotional_response": "后悔与自责",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0028",
+        "EV0029",
+        "EV0030"
+      ]
+    },
+    {
+      "quirk_id": "QK0012",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "category": "价值观",
+      "name": "重视实战的放养式教育",
+      "description": "相信让孩子通过实战和独立来变强，担心过度保护导致依赖。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "孩子依赖他人"
+      ],
+      "preferred_targets": [
+        "E0001",
+        "E0006"
+      ],
+      "avoided_targets": [],
+      "public_expression": "严格要求",
+      "private_expression": "私下关心",
+      "behavior_patterns": [
+        "安排分离",
+        "写信托付"
+      ],
+      "verbal_patterns": [
+        "想让鲁迪变得更强"
+      ],
+      "body_language": "坚定眼神",
+      "emotional_reward": "看到成长",
+      "emotional_response": "自责但坚定",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0047",
+        "EV0048",
+        "EV0053"
+      ]
+    },
+    {
+      "quirk_id": "QK0013",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "category": "好色",
+      "name": "花心但重情义",
+      "description": "好女色，曾因外遇导致家庭危机，但本质重情义，会承担责任。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "与女性相处"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "轻佻玩笑",
+      "private_expression": "对家人深感愧疚",
+      "behavior_patterns": [
+        "外遇后坦诚承认"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": null,
+      "emotional_response": "被塞妮丝打后狼狈",
+      "boundaries": [
+        "不会抛弃家人"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0035",
+        "EV0038"
+      ]
+    },
+    {
+      "quirk_id": "QK0014",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "category": "性格",
+      "name": "外冷内热易被夸奖打动",
+      "description": "表面冷淡、简短，实则容易因称赞而得意，责任感强。",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "被学生夸奖",
+        "教学成果显现"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "冷淡回应",
+      "private_expression": "私下得意、干劲提升",
+      "behavior_patterns": [
+        "被夸后更卖力教学"
+      ],
+      "verbal_patterns": [
+        "叹气",
+        "简短回答"
+      ],
+      "body_language": "别过脸、耳根发红",
+      "emotional_reward": "成就感",
+      "emotional_response": "被责备时消沉",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0015",
+        "EV0017",
+        "EV0020"
+      ]
+    },
+    {
+      "quirk_id": "QK0015",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "category": "自卑",
+      "name": "对娇小身材与魔族身份的在意",
+      "description": "对自己娇小身材和魔族身份受到歧视的经历敏感，怕被小看。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "被提及身高",
+        "被问及种族"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "装作不在意",
+      "private_expression": "独自消沉",
+      "behavior_patterns": [
+        "回避相关话题"
+      ],
+      "verbal_patterns": [],
+      "body_language": "抱胸、避开视线",
+      "emotional_reward": null,
+      "emotional_response": "被认可时感动",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0014",
+        "EV0015"
+      ]
+    },
+    {
+      "quirk_id": "QK0016",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "category": "教学",
+      "name": "按学生程度调整教学",
+      "description": "会配合学生程度调整教法，按规则行事，认真负责。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "学生提问"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "耐心讲解",
+      "private_expression": "私下备课",
+      "behavior_patterns": [
+        "先示范再让学生尝试"
+      ],
+      "verbal_patterns": [],
+      "body_language": "点头、手势辅助",
+      "emotional_reward": "学生进步时的喜悦",
+      "emotional_response": "失败时自责",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0015",
+        "EV0016",
+        "EV0046"
+      ]
+    },
+    {
+      "quirk_id": "QK0017",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "category": "依赖",
+      "name": "对鲁迪的绝对依赖与仰慕",
+      "description": "因被拯救而对鲁迪产生强烈依赖与仰慕，把鲁迪当唯一依靠。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "与鲁迪分离",
+        "被欺负后"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "紧跟鲁迪",
+      "private_expression": "害怕被抛弃",
+      "behavior_patterns": [
+        "紧抱鲁迪",
+        "哭求不要离开"
+      ],
+      "verbal_patterns": [
+        "鲁迪……"
+      ],
+      "body_language": "抓衣角、抱紧",
+      "emotional_reward": "安心",
+      "emotional_response": "分离时大哭",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0024",
+        "EV0044",
+        "EV0045"
+      ]
+    },
+    {
+      "quirk_id": "QK0018",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "category": "自卑",
+      "name": "因发色产生的自卑与隐忍",
+      "description": "因翠绿色头发被排挤而自卑，受欺负时选择隐忍不反抗，护住重要物品。",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "被嘲笑发色",
+        "被推搡"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [
+        "E0016"
+      ],
+      "public_expression": "沉默承受",
+      "private_expression": "独自哭泣",
+      "behavior_patterns": [
+        "缩身护住便当",
+        "不还手"
+      ],
+      "verbal_patterns": [
+        "无言"
+      ],
+      "body_language": "低头、缩肩",
+      "emotional_reward": null,
+      "emotional_response": "被拯救后感激",
+      "boundaries": [],
+      "exceptions": [
+        "为救鲁迪时会主动攻击"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0023",
+        "EV0024",
+        "EV0026"
+      ]
+    },
+    {
+      "quirk_id": "QK0019",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "category": "努力",
+      "name": "为配得上鲁迪而主动学习礼节",
+      "description": "听说鲁迪不会娶猎人之女后，主动请求学习贵族礼节，决心变强。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "谈及未来"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "礼貌请求莉莉雅教导",
+      "private_expression": "偷偷练习",
+      "behavior_patterns": [
+        "主动向莉莉雅学习"
+      ],
+      "verbal_patterns": [
+        "莉莉雅阿姨，我想学习贵族礼节"
+      ],
+      "body_language": "鞠躬、认真倾听",
+      "emotional_reward": "被认可",
+      "emotional_response": "坚定",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0094",
+        "EV0095"
+      ]
+    },
+    {
+      "quirk_id": "QK0020",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "category": "情绪管理",
+      "name": "先忍耐再爆发的冷静",
+      "description": "面对家庭危机时先强自冷静，主导会议，最后才爆发情绪（如赏巴掌）。",
+      "intensity": "MEDIUM",
+      "frequency": "关键时刻",
+      "triggers": [
+        "丈夫外遇曝光"
+      ],
+      "preferred_targets": [
+        "E0002"
+      ],
+      "avoided_targets": [],
+      "public_expression": "冷静主持会议",
+      "private_expression": "私下担忧",
+      "behavior_patterns": [
+        "先听取各方说法再决定"
+      ],
+      "verbal_patterns": [
+        "那么，你们打算怎么办？"
+      ],
+      "body_language": "握紧拳头、深呼吸",
+      "emotional_reward": null,
+      "emotional_response": "愤怒但克制",
+      "boundaries": [
+        "触及一夫一妻教义时不让步"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0035",
+        "EV0036",
+        "EV0038"
+      ]
+    },
+    {
+      "quirk_id": "QK0021",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "category": "母性",
+      "name": "对鲁迪的溺爱与信任",
+      "description": "对鲁迪极度溺爱，并因其在家族会议上的表现而完全信任。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "鲁迪发言"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "温柔支持",
+      "private_expression": "私下夸奖",
+      "behavior_patterns": [
+        "听取鲁迪建议"
+      ],
+      "verbal_patterns": [],
+      "body_language": "微笑、抚摸头发",
+      "emotional_reward": "安心",
+      "emotional_response": "担忧时寻求鲁迪意见",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0038",
+        "EV0054"
+      ]
+    },
+    {
+      "quirk_id": "QK0022",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "category": "态度",
+      "name": "面无表情的冷静与忠诚",
+      "description": "平时面无表情、简洁寡言，但对塞妮丝和鲁迪忠诚，关键时刻会建言。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "家族危机"
+      ],
+      "preferred_targets": [
+        "E0003",
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "简洁平淡",
+      "private_expression": "私下关心爱夏未来",
+      "behavior_patterns": [
+        "沉默承担",
+        "关键时刻发言"
+      ],
+      "verbal_patterns": [
+        "……"
+      ],
+      "body_language": "面无表情、低头行礼",
+      "emotional_reward": null,
+      "emotional_response": "被接纳后感激",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0007",
+        "EV0035",
+        "EV0038"
+      ]
+    },
+    {
+      "quirk_id": "QK0023",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "category": "报恩",
+      "name": "知恩图报誓让爱夏侍奉",
+      "description": "因鲁迪在家族会议上救了自己，誓言让女儿爱夏侍奉鲁迪。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "提及鲁迪"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "恭敬行礼",
+      "private_expression": "教导爱夏",
+      "behavior_patterns": [
+        "让爱夏学习侍奉"
+      ],
+      "verbal_patterns": [],
+      "body_language": "深深鞠躬",
+      "emotional_reward": "报恩的满足",
+      "emotional_response": "坚定",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0038",
+        "EV0039"
+      ]
+    },
+    {
+      "quirk_id": "QK0024",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "category": "自尊",
+      "name": "厌恶被当大小姐",
+      "description": "厌恶被当成大小姐对待，被如此称呼会怒吼纠正",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "被称大小姐"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "怒吼‘叫我基列奴！’",
+      "private_expression": "私下抱怨",
+      "behavior_patterns": [
+        "要求直呼其名"
+      ],
+      "verbal_patterns": [
+        "叫我基列奴！"
+      ],
+      "body_language": "瞪眼、抱胸",
+      "emotional_reward": null,
+      "emotional_response": "愤怒",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0087"
+      ]
+    },
+    {
+      "quirk_id": "QK0025",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "category": "忠诚",
+      "name": "对雇主的绝对忠诚",
+      "description": "受雇为大小姐剑术师傅并护送鲁迪，认真履行",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "受委托"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "沉默执行",
+      "private_expression": "私下关心鲁迪",
+      "behavior_patterns": [
+        "护送途中教学"
+      ],
+      "verbal_patterns": [],
+      "body_language": "持剑警戒",
+      "emotional_reward": "完成任务的满足",
+      "emotional_response": "认真",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0086",
+        "EV0088"
+      ]
+    },
+    {
+      "quirk_id": "QK0026",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "category": "价值观",
+      "name": "自知身份低微的务实",
+      "description": "深知自己猎人身份配不上贵族，务实为女儿谋划",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "谈及女儿婚事"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "坦然承认身份差距",
+      "private_expression": "私下担忧",
+      "behavior_patterns": [
+        "主动为女儿找贵族礼节老师"
+      ],
+      "verbal_patterns": [
+        "鲁迪少爷才气横溢，不会娶猎人之女"
+      ],
+      "body_language": "低头叹息",
+      "emotional_reward": null,
+      "emotional_response": "自卑但疼爱",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0094",
+        "EV0120"
+      ]
+    },
+    {
+      "quirk_id": "QK0027",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "category": "信仰",
+      "name": "米里斯教一夫一妻的坚守",
+      "description": "虔诚米里斯教徒，坚守男女伴侣只能视彼此为唯一所爱的教义",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "丈夫外遇"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "赏巴掌、当众质问",
+      "private_expression": "私下哭泣但仍考虑家庭",
+      "behavior_patterns": [
+        "主持家族会议",
+        "提出留下莉莉雅的折衷"
+      ],
+      "verbal_patterns": [
+        "那么，你们打算怎么办？"
+      ],
+      "body_language": "握紧拳头、深呼吸",
+      "emotional_reward": null,
+      "emotional_response": "愤怒但克制",
+      "boundaries": [
+        "不忠是底线"
+      ],
+      "exceptions": [
+        "为孩子妥协"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0035",
+        "EV0113"
+      ]
+    },
+    {
+      "quirk_id": "QK0028",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "category": "习惯",
+      "name": "极度节俭寄钱回家",
+      "description": "节俭寄钱回家，安于女仆身份",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "朴素",
+      "private_expression": "计算开支",
+      "behavior_patterns": [
+        "寄钱回家"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": "安心",
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0038"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF0001",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "preference_type": "LIKE",
+      "target": "魔术",
+      "description": "痴迷魔术，每天耗尽魔力训练",
+      "intensity": "HIGH",
+      "context": "公开/私下均显露",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0009",
+        "EV0010"
+      ]
+    },
+    {
+      "preference_id": "PF0002",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "preference_type": "LIKE",
+      "target": "希露菲",
+      "description": "喜欢与希露菲在一起，保护欲强",
+      "intensity": "HIGH",
+      "context": "公开表现关心",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0024",
+        "EV0045"
+      ]
+    },
+    {
+      "preference_id": "PF0003",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "preference_type": "LIKE",
+      "target": "洛琪希的教导",
+      "description": "珍视洛琪希的教导，视其为师",
+      "intensity": "HIGH",
+      "context": "公开尊敬",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0014",
+        "EV0015"
+      ]
+    },
+    {
+      "preference_id": "PF0004",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "preference_type": "DISLIKE",
+      "target": "被轻视",
+      "description": "害怕魔术才能被轻视，前世被霸凌阴影",
+      "intensity": "MEDIUM",
+      "context": "私下不安",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0004",
+        "EV0012"
+      ]
+    },
+    {
+      "preference_id": "PF0005",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "preference_type": "AVERSION",
+      "target": "重蹈前世覆辙",
+      "description": "恐惧重蹈前世尼特覆辙，决心认真生活",
+      "intensity": "HIGH",
+      "context": "内心驱动",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0004",
+        "EV0006"
+      ]
+    },
+    {
+      "preference_id": "PF0006",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "preference_type": "FOOD",
+      "target": "家庭料理",
+      "description": "喜欢家中餐食，无挑食表现",
+      "intensity": "LOW",
+      "context": "日常",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "INFERENCE",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV0005"
+      ]
+    },
+    {
+      "preference_id": "PF0007",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "preference_type": "LIKE",
+      "target": "剑术与冒险",
+      "description": "热爱剑术，重视实战",
+      "intensity": "HIGH",
+      "context": "公开",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0018",
+        "EV0019"
+      ]
+    },
+    {
+      "preference_id": "PF0008",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "preference_type": "DISLIKE",
+      "target": "儿子过度依赖他人",
+      "description": "担心鲁迪与希露菲互相过度依赖",
+      "intensity": "MEDIUM",
+      "context": "作为父亲的担忧",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0047",
+        "EV0048"
+      ]
+    },
+    {
+      "preference_id": "PF0009",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "preference_type": "LIKE",
+      "target": "教学",
+      "description": "喜欢教学，认真负责",
+      "intensity": "HIGH",
+      "context": "公开",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0014",
+        "EV0015"
+      ]
+    },
+    {
+      "preference_id": "PF0010",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "preference_type": "AVERSION",
+      "target": "被当成小孩对待",
+      "description": "厌恶因娇小身材被小看",
+      "intensity": "MEDIUM",
+      "context": "私下在意",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0014"
+      ]
+    },
+    {
+      "preference_id": "PF0011",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "preference_type": "LIKE",
+      "target": "与鲁迪一起学习魔术",
+      "description": "喜欢和鲁迪一起学魔术",
+      "intensity": "HIGH",
+      "context": "公开",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0026",
+        "EV0039"
+      ]
+    },
+    {
+      "preference_id": "PF0012",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "preference_type": "DISLIKE",
+      "target": "被霸凌",
+      "description": "厌恶被村里孩子因发色欺负",
+      "intensity": "HIGH",
+      "context": "公开",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0023",
+        "EV0024"
+      ]
+    },
+    {
+      "preference_id": "PF0013",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "preference_type": "LIKE",
+      "target": "家庭和睦",
+      "description": "最重视家庭和睦",
+      "intensity": "HIGH",
+      "context": "公开",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0035",
+        "EV0038"
+      ]
+    },
+    {
+      "preference_id": "PF0014",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "preference_type": "AVERSION",
+      "target": "不忠",
+      "description": "虔诚米里斯教徒，厌恶不忠",
+      "intensity": "HIGH",
+      "context": "信仰层面",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0035"
+      ]
+    },
+    {
+      "preference_id": "PF0015",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "preference_type": "LIKE",
+      "target": "安稳生活",
+      "description": "渴望安稳，重视孩子未来",
+      "intensity": "MEDIUM",
+      "context": "私下",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0038"
+      ]
+    },
+    {
+      "preference_id": "PF0016",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "preference_type": "LIKE",
+      "target": "剑",
+      "description": "以剑为最高价值",
+      "intensity": "HIGH",
+      "context": "公开",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0087"
+      ]
+    },
+    {
+      "preference_id": "PF0017",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "preference_type": "LIKE",
+      "target": "女儿平安",
+      "description": "最重视女儿平安长大",
+      "intensity": "HIGH",
+      "context": "家庭",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0120"
+      ]
+    },
+    {
+      "preference_id": "PF0018",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "preference_type": "LIKE",
+      "target": "贵族礼节",
+      "description": "为配得上鲁迪而喜欢学习礼节",
+      "intensity": "MEDIUM",
+      "context": "努力",
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0094"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY0001",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "phase_name": "幼年期",
+      "happy_signs": [
+        "眼睛发亮",
+        "主动靠近",
+        "语调上扬"
+      ],
+      "angry_signs": [
+        "冷静说理",
+        "直视对方",
+        "握紧拳头"
+      ],
+      "nervous_signs": [
+        "避开视线",
+        "抓挠后脑",
+        "语速加快"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "支吾其词",
+        "转移话题"
+      ],
+      "lying_signs": [
+        "避开视线",
+        "摸鼻子",
+        "语气不自然"
+      ],
+      "fear_signs": [
+        "腿软",
+        "声音颤抖"
+      ],
+      "thinking_signs": [
+        "托腮",
+        "目光放空"
+      ],
+      "affection_signs": [
+        "轻声细语",
+        "主动帮助"
+      ],
+      "hostility_signs": [
+        "沉默",
+        "冷淡回应"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0004",
+        "EV0024",
+        "EV0028",
+        "EV0037"
+      ]
+    },
+    {
+      "profile_id": "BY0002",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "phase_name": "布埃纳村父亲时期",
+      "happy_signs": [
+        "大笑",
+        "拍肩"
+      ],
+      "angry_signs": [
+        "大声斥责",
+        "拍桌"
+      ],
+      "nervous_signs": [
+        "挠头",
+        "叹气"
+      ],
+      "embarrassed_signs": [
+        "低头道歉",
+        "狼狈"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "沉默"
+      ],
+      "thinking_signs": [
+        "抱胸沉思"
+      ],
+      "affection_signs": [
+        "摸头",
+        "拥抱"
+      ],
+      "hostility_signs": [
+        "拔剑",
+        "挑衅"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0029",
+        "EV0030",
+        "EV0048"
+      ]
+    },
+    {
+      "profile_id": "BY0003",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "phase_name": "格雷拉特家家庭教师时期",
+      "happy_signs": [
+        "微笑",
+        "点头"
+      ],
+      "angry_signs": [
+        "冷淡不语"
+      ],
+      "nervous_signs": [
+        "叹气",
+        "抱胸"
+      ],
+      "embarrassed_signs": [
+        "别过脸",
+        "耳根发红",
+        "叹气"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退半步"
+      ],
+      "thinking_signs": [
+        "扶额"
+      ],
+      "affection_signs": [
+        "轻拍学生肩"
+      ],
+      "hostility_signs": [
+        "冷眼"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0015",
+        "EV0017"
+      ]
+    },
+    {
+      "profile_id": "BY0004",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "phase_name": "幼年期（与鲁迪相处）",
+      "happy_signs": [
+        "小声笑",
+        "靠近鲁迪"
+      ],
+      "angry_signs": [
+        "鼓起脸"
+      ],
+      "nervous_signs": [
+        "抓衣角",
+        "结巴"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "避开视线"
+      ],
+      "fear_signs": [
+        "缩身",
+        "抱紧便当",
+        "发抖"
+      ],
+      "thinking_signs": [
+        "歪头"
+      ],
+      "affection_signs": [
+        "递便当",
+        "紧抱"
+      ],
+      "hostility_signs": [
+        "用魔术反击（罕见）"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0023",
+        "EV0024",
+        "EV0045",
+        "EV0090"
+      ]
+    },
+    {
+      "profile_id": "BY0005",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "phase_name": "布埃纳村母亲时期",
+      "happy_signs": [
+        "温柔微笑",
+        "抚摸孩子头发"
+      ],
+      "angry_signs": [
+        "赏巴掌",
+        "冷声质问"
+      ],
+      "nervous_signs": [
+        "握紧围裙"
+      ],
+      "embarrassed_signs": [
+        "轻叹"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "手抖"
+      ],
+      "thinking_signs": [
+        "闭眼祈祷"
+      ],
+      "affection_signs": [
+        "拥抱",
+        "轻声安慰"
+      ],
+      "hostility_signs": [
+        "沉默冷对"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0035",
+        "EV0038"
+      ]
+    },
+    {
+      "profile_id": "BY0006",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "phase_name": "格雷拉特家女仆时期",
+      "happy_signs": [
+        "微微点头"
+      ],
+      "angry_signs": [
+        "沉默、低头"
+      ],
+      "nervous_signs": [
+        "握紧围裙"
+      ],
+      "embarrassed_signs": [
+        "面无表情但耳根微红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "手抖"
+      ],
+      "thinking_signs": [
+        "闭眼"
+      ],
+      "affection_signs": [
+        "轻抚爱夏头发"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0007",
+        "EV0115"
+      ]
+    },
+    {
+      "profile_id": "BY0007",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "phase_name": "基列奴护送与任教期间",
+      "happy_signs": [
+        "点头"
+      ],
+      "angry_signs": [
+        "怒吼、瞪眼"
+      ],
+      "nervous_signs": [
+        "抱胸"
+      ],
+      "embarrassed_signs": [],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "摸剑柄"
+      ],
+      "affection_signs": [
+        "拍肩"
+      ],
+      "hostility_signs": [
+        "拔剑"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0087",
+        "EV0088"
+      ]
+    },
+    {
+      "profile_id": "BY0008",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "phase_name": "罗尔兹作为猎人与父亲时",
+      "happy_signs": [
+        "憨笑"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "nervous_signs": [
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "低头"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "护住女儿"
+      ],
+      "thinking_signs": [
+        "抱胸"
+      ],
+      "affection_signs": [
+        "摸女儿头"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0066",
+        "EV0120"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN0001",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "persona_type": "PUBLIC",
+      "description": "对公众与长辈表现礼貌、早熟、谨慎，能与大人对等交谈。",
+      "speech_style": "敬语、逻辑清晰",
+      "behavior_traits": [
+        "礼貌",
+        "谨慎",
+        "老成"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0004",
+        "EV0022"
+      ]
+    },
+    {
+      "persona_id": "PN0002",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "persona_type": "PRIVATE",
+      "description": "私下内心活动丰富，频繁吐槽自嘲，好色想法会侵入思考但会隐藏。",
+      "speech_style": "内心独白丰富，毒舌自嘲",
+      "behavior_traits": [
+        "好色",
+        "谨慎",
+        "羞耻",
+        "隐藏意图"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0004",
+        "EV0006",
+        "EV0037"
+      ]
+    },
+    {
+      "persona_id": "PN0003",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "persona_type": "FAMILY",
+      "description": "对家人重视，主动维护家庭关系，孝顺。",
+      "speech_style": "撒娇与尊敬并存",
+      "behavior_traits": [
+        "重视家庭",
+        "保护弱者"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0038",
+        "EV0053"
+      ]
+    },
+    {
+      "persona_id": "PN0004",
+      "character_id": "E0001",
+      "phase_id": "P0001",
+      "persona_type": "ROMANTIC",
+      "description": "对希露菲温柔克制，对洛琪希崇拜恭敬",
+      "speech_style": "对希露菲轻柔，对洛琪希恭敬",
+      "behavior_traits": [
+        "保护欲",
+        "迟钝系伪装"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0031",
+        "EV0034"
+      ]
+    },
+    {
+      "persona_id": "PN0005",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "persona_type": "PUBLIC",
+      "description": "对村人受信赖，对女性受欢迎，豁达自由奔放。",
+      "speech_style": "粗鲁直率",
+      "behavior_traits": [
+        "豁达",
+        "自由奔放"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0018"
+      ]
+    },
+    {
+      "persona_id": "PN0006",
+      "character_id": "E0002",
+      "phase_id": "paul-father",
+      "persona_type": "FAMILY",
+      "description": "对儿子从严厉转为亲近，重视但笨拙，会为长远考虑强制分离。",
+      "speech_style": "说教但真诚",
+      "behavior_traits": [
+        "重视但笨拙",
+        "事后反省"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0029",
+        "EV0048"
+      ]
+    },
+    {
+      "persona_id": "PN0007",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "persona_type": "PUBLIC",
+      "description": "对雇主尊重、服从，保持距离，冷淡。",
+      "speech_style": "简短冷淡",
+      "behavior_traits": [
+        "冷淡",
+        "认真",
+        "怕生"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0014",
+        "EV0015"
+      ]
+    },
+    {
+      "persona_id": "PN0008",
+      "character_id": "E0005",
+      "phase_id": "roxy-tutor",
+      "persona_type": "PRIVATE",
+      "description": "私下容易得意、怕生，害羞",
+      "speech_style": "叹气、自言自语",
+      "behavior_traits": [
+        "容易得意",
+        "害羞"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0015",
+        "EV0017"
+      ]
+    },
+    {
+      "persona_id": "PN0009",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "persona_type": "PUBLIC",
+      "description": "在村里孤僻、胆小，被排挤。",
+      "speech_style": "小声结巴",
+      "behavior_traits": [
+        "胆小",
+        "孤僻"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0023"
+      ]
+    },
+    {
+      "persona_id": "PN0010",
+      "character_id": "E0006",
+      "phase_id": "sylphie-childhood",
+      "persona_type": "FAMILY",
+      "description": "对鲁迪依赖、顺从，珍惜朋友",
+      "speech_style": "对鲁迪轻柔依赖",
+      "behavior_traits": [
+        "珍惜朋友",
+        "顺从"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0024",
+        "EV0045"
+      ]
+    },
+    {
+      "persona_id": "PN0011",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "persona_type": "PUBLIC",
+      "description": "对村人亲切，在诊所帮忙，贵族出身但离家出走后平易近人",
+      "speech_style": "温和带贵族礼仪",
+      "behavior_traits": [
+        "亲切",
+        "温柔"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0005",
+        "EV0113"
+      ]
+    },
+    {
+      "persona_id": "PN0012",
+      "character_id": "E0003",
+      "phase_id": "zenith-mother",
+      "persona_type": "FAMILY",
+      "description": "对鲁迪溺爱信任，对保罗既爱又受米里斯教义束缚",
+      "speech_style": "对鲁迪温柔，对保罗严厉",
+      "behavior_traits": [
+        "溺爱",
+        "虔诚"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0038",
+        "EV0054"
+      ]
+    },
+    {
+      "persona_id": "PN0013",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "persona_type": "PUBLIC",
+      "description": "对外面无表情、谨守本分，极少外出",
+      "speech_style": "简洁平淡",
+      "behavior_traits": [
+        "冷静",
+        "细心"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0007"
+      ]
+    },
+    {
+      "persona_id": "PN0014",
+      "character_id": "E0004",
+      "phase_id": "lilia-maid",
+      "persona_type": "PRIVATE",
+      "description": "私下对爱夏期盼，誓让其侍奉鲁迪以报恩",
+      "speech_style": "对爱夏温柔教导",
+      "behavior_traits": [
+        "知恩图报",
+        "隐忍"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0038",
+        "EV0039"
+      ]
+    },
+    {
+      "persona_id": "PN0015",
+      "character_id": "E0022",
+      "phase_id": "ghislaine-sword",
+      "persona_type": "PUBLIC",
+      "description": "对大小姐忠诚，不摆架子但厌恶被小看",
+      "speech_style": "简短直接，要求直呼其名",
+      "behavior_traits": [
+        "沉默寡言",
+        "自尊心强"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0086",
+        "EV0087"
+      ]
+    },
+    {
+      "persona_id": "PN0016",
+      "character_id": "E0015",
+      "phase_id": "rolf-hunter",
+      "persona_type": "FAMILY",
+      "description": "对希露菲疼爱，务实，敬重保罗，深知身份差距",
+      "speech_style": "朴实直接",
+      "behavior_traits": [
+        "疼爱女儿",
+        "务实"
+      ],
+      "visible_from_volume": 1,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0094",
+        "EV0120"
       ]
     }
   ]
