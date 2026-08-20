@@ -60,6 +60,18 @@ def test_rules_command_reports_invalid_ruleset(
     assert "missing required field 'compatibility'" in captured.err
 
 
+def test_rules_command_normalizes_invalid_path_value(
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    assert main(["rules", "--path", "bad\0name.json"]) == 2
+
+    captured = capsys.readouterr()
+    assert captured.out == ""
+    assert "cannot read ruleset" in captured.err
+    assert "Traceback" not in captured.err
+    assert len(captured.err) < 500
+
+
 def _run_rules_subprocess(path: Path) -> subprocess.CompletedProcess[str]:
     environment = os.environ.copy()
     environment["PYTHONPATH"] = str(PROJECT_ROOT / "src")

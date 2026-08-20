@@ -49,6 +49,27 @@ def test_loads_the_frozen_core_ruleset() -> None:
     assert ruleset.rules_version == "1.0.0"
 
 
+def test_ruleset_empty_direct_construction_is_rejected() -> None:
+    from overlord_worldsim.rules import Ruleset
+
+    with pytest.raises(TypeError, match="load_ruleset"):
+        Ruleset()
+
+
+def test_ruleset_forged_direct_construction_is_rejected() -> None:
+    from overlord_worldsim.rules import Ruleset
+
+    with pytest.raises(TypeError, match="load_ruleset"):
+        Ruleset(
+            ruleset_id="forged",
+            schema_version="forged",
+            rules_version="forged",
+            _document={},
+            _growth_costs={},
+            _magic_thresholds={},
+        )
+
+
 @pytest.mark.parametrize(
     ("target_level", "expected_cost"),
     [(1, 100), (100, 1_000_000)],
@@ -304,13 +325,43 @@ def test_public_lookup_diagnostic_has_a_total_message_ceiling() -> None:
 
 
 def test_ruleset_document_copy_is_detached() -> None:
+    from overlord_worldsim.rules import canonical_json
+
     _, load_ruleset = _rules_api()
     ruleset = load_ruleset(RULESET_PATH)
+    canonical_before = canonical_json(ruleset)
 
     detached = ruleset.to_dict()
     detached["rules_version"] = "changed"
+    detached["progression"]["target_level_growth_costs"][0]["cost"] = 999
+    detached["magic"]["minimum_caster_level_by_tier"]["1"] = 999
 
+    assert canonical_json(ruleset) == canonical_before
     assert ruleset.to_dict()["rules_version"] == "1.0.0"
+    assert ruleset.rules_version == "1.0.0"
+    assert ruleset.growth_cost_for(1) == 100
+    assert ruleset.minimum_level_for_magic_tier(1) == 1
+
+
+def test_ruleset_authority_cannot_be_desynchronized_after_load() -> None:
+    from overlord_worldsim.rules import canonical_json
+
+    _, load_ruleset = _rules_api()
+    ruleset = load_ruleset(RULESET_PATH)
+    internal_document: Any = getattr(ruleset, "_document", None)
+    if isinstance(internal_document, dict):
+        internal_document["rules_version"] = "forged"
+        internal_document["progression"]["target_level_growth_costs"][0]["cost"] = 999
+        internal_document["magic"]["minimum_caster_level_by_tier"]["1"] = 999
+
+    canonical_document: Any = json.loads(canonical_json(ruleset))
+    assert not hasattr(ruleset, "_document")
+    assert canonical_document == ruleset.to_dict()
+    assert canonical_document["rules_version"] == ruleset.rules_version == "1.0.0"
+    assert canonical_document["progression"]["target_level_growth_costs"][0]["cost"] == 100
+    assert ruleset.growth_cost_for(1) == 100
+    assert canonical_document["magic"]["minimum_caster_level_by_tier"]["1"] == 1
+    assert ruleset.minimum_level_for_magic_tier(1) == 1
 
 
 def test_rejects_an_inconsistent_level_cap(tmp_path: Path) -> None:
@@ -386,6 +437,25 @@ def test_missing_ruleset_fails_with_read_context(tmp_path: Path) -> None:
 
     with pytest.raises(error_type, match=r"missing\.json.*cannot read ruleset"):
         load_ruleset(path)
+
+
+@pytest.mark.parametrize(
+    "invalid_path",
+    [
+        pytest.param("bad\0name.json", id="nul"),
+        pytest.param("\N{GRINNING FACE}" * 64 + "\0.json", id="escaped-unicode-nul"),
+    ],
+)
+def test_invalid_ruleset_path_value_has_bounded_read_error(invalid_path: str) -> None:
+    error_type, load_ruleset = _rules_api()
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(invalid_path)
+
+    message = str(captured.value)
+    assert len(message) <= 480
+    assert invalid_path not in message
+    assert "cannot read ruleset" in message
 
 
 def test_unreadable_large_ruleset_path_has_bounded_diagnostic() -> None:
@@ -588,6 +658,40 @@ def test_large_container_mismatch_has_bounded_deterministic_diagnostic(tmp_path:
     assert "array" in first_message
     assert "length=10000" in first_message
     assert len(first_message) < 300
+
+
+def test_composite_mismatch_reports_first_recursive_leaf(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    path = _write_mutated_ruleset(
+        tmp_path,
+        lambda document: document["start_modes"][0].update({"level": True}),
+    )
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(path)
+
+    message = str(captured.value)
+    assert "start_modes[0].level" in message
+    assert "integer(value=1)" in message
+    assert "boolean(value=true)" in message
+    assert len(message) <= 480
+
+
+def test_empty_growth_levels_use_bounded_count_summary(tmp_path: Path) -> None:
+    error_type, load_ruleset = _rules_api()
+    path = _write_mutated_ruleset(
+        tmp_path,
+        lambda document: _replace_growth_entries(document, []),
+    )
+
+    with pytest.raises(error_type) as captured:
+        load_ruleset(path)
+
+    message = str(captured.value)
+    assert len(message) <= 480
+    assert "target level 1 through 100" in message
+    assert "missing_count=100" in message
+    assert "unexpected_count=0" in message
 
 
 def test_ruleset_larger_than_loader_limit_is_rejected(tmp_path: Path) -> None:

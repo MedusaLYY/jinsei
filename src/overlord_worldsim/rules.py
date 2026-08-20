@@ -34,7 +34,6 @@ class _JsonIntegerLimitError(ValueError):
 
 
 _MAX_JSON_INTEGER_DIGITS = 4_300
-# Rulesets are compact constitutional documents; cap input before decoding or parsing.
 _MAX_RULESET_BYTES = 4 * 1024 * 1024
 _MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS = 64
 _MAX_DIAGNOSTIC_INTEGER_MAGNITUDE = 10**18
@@ -268,16 +267,43 @@ _EXPECTED_FIELDS: tuple[tuple[tuple[str, ...], JsonValue], ...] = (
 )
 
 
-@dataclass(frozen=True, slots=True)
+@dataclass(frozen=True, slots=True, init=False)
 class Ruleset:
-    """A validated, typed view over a versioned ruleset document."""
+    """A validated, typed view over a versioned ruleset document.
+
+    Instances can only be created through ``load_ruleset``. Direct construction is
+    rejected so callers cannot forge a ruleset that bypasses validation.
+    """
 
     ruleset_id: str
     schema_version: str
     rules_version: str
-    _document: JsonObject = field(repr=False)
+    _canonical_document: str = field(repr=False)
     _growth_costs: Mapping[int, int] = field(repr=False)
     _magic_thresholds: Mapping[str, int] = field(repr=False)
+
+    def __init__(self, *args: object, **kwargs: object) -> None:
+        del args, kwargs
+        raise TypeError("Ruleset must be loaded through load_ruleset")
+
+    @classmethod
+    def _create(
+        cls,
+        ruleset_id: str,
+        schema_version: str,
+        rules_version: str,
+        canonical_document: str,
+        growth_costs: Mapping[int, int],
+        magic_thresholds: Mapping[str, int],
+    ) -> Ruleset:
+        self = cls.__new__(cls)
+        object.__setattr__(self, "ruleset_id", ruleset_id)
+        object.__setattr__(self, "schema_version", schema_version)
+        object.__setattr__(self, "rules_version", rules_version)
+        object.__setattr__(self, "_canonical_document", canonical_document)
+        object.__setattr__(self, "_growth_costs", growth_costs)
+        object.__setattr__(self, "_magic_thresholds", magic_thresholds)
+        return self
 
     def growth_cost_for(self, target_level: int) -> int:
         """Return the frozen growth cost for a target level from 1 through 100."""
@@ -332,7 +358,7 @@ class Ruleset:
 
     def to_dict(self) -> JsonObject:
         """Return a detached JSON-compatible copy of the ruleset document."""
-        return copy.deepcopy(self._document)
+        return cast(JsonObject, json.loads(self._canonical_document))
 
 
 def load_ruleset(path: str | Path) -> Ruleset:
@@ -342,7 +368,7 @@ def load_ruleset(path: str | Path) -> Ruleset:
     try:
         with rules_path.open("rb") as rules_file:
             serialized_bytes = rules_file.read(_MAX_RULESET_BYTES + 1)
-    except OSError as error:
+    except (OSError, ValueError) as error:
         raise RulesetValidationError(
             _bounded_diagnostic_message(rendered_rules_path, ": cannot read ruleset")
         ) from error
@@ -428,13 +454,15 @@ def load_ruleset(path: str | Path) -> Ruleset:
             _bounded_diagnostic_message(rendered_rules_path, ": JSON nesting is too deep")
         ) from error
 
-    return Ruleset(
+    return Ruleset._create(
         ruleset_id=cast(str, document["ruleset_id"]),
         schema_version=cast(str, document["schema_version"]),
         rules_version=cast(str, document["rules_version"]),
-        _document=validated_document,
-        _growth_costs=MappingProxyType(growth_costs),
-        _magic_thresholds=MappingProxyType(
+        canonical_document=json.dumps(
+            validated_document, ensure_ascii=False, sort_keys=True, separators=(",", ":")
+        ),
+        growth_costs=MappingProxyType(growth_costs),
+        magic_thresholds=MappingProxyType(
             {tier: cast(int, level) for tier, level in _EXPECTED_MAGIC_THRESHOLDS.items()}
         ),
     )
@@ -514,16 +542,50 @@ def _validate_no_unknown_fields(document: JsonObject) -> None:
             )
 
 
+def _find_first_mismatch(
+    actual: JsonValue, expected: JsonValue, field_path: _FieldPath
+) -> tuple[_FieldPath, JsonValue, JsonValue]:
+    """Return the path to the first differing leaf plus its typed values.
+
+    Dicts are traversed in sorted key order and lists in index order so the
+    reported path is deterministic and points at the exact mismatched leaf.
+    """
+    if type(actual) is not type(expected):
+        return field_path, expected, actual
+    if isinstance(expected, dict):
+        assert isinstance(actual, dict)
+        if actual.keys() != expected.keys():
+            for key in sorted(expected.keys() | actual.keys()):
+                if key not in actual:
+                    return (*field_path, key), expected[key], None
+                if key not in expected:
+                    return (*field_path, key), None, actual[key]
+        for key in sorted(expected):
+            if not _json_values_equal_with_strict_types(actual[key], expected[key]):
+                return _find_first_mismatch(actual[key], expected[key], (*field_path, key))
+    elif isinstance(expected, list):
+        assert isinstance(actual, list)
+        if len(actual) != len(expected):
+            return (*field_path,), expected, actual
+        for index, (actual_item, expected_item) in enumerate(zip(actual, expected, strict=True)):
+            if not _json_values_equal_with_strict_types(actual_item, expected_item):
+                return _find_first_mismatch(actual_item, expected_item, (*field_path, index))
+    return field_path, expected, actual
+
+
 def _expect(document: JsonObject, field_path: tuple[str, ...], expected: JsonValue) -> None:
     actual = _at(document, field_path)
     if not _json_values_equal_with_strict_types(actual, expected):
+        mismatch_path, expected_leaf, actual_leaf = _find_first_mismatch(
+            actual, expected, field_path
+        )
         raise RulesetValidationError(
             _bounded_diagnostic_message(
-                _render_diagnostic_field_path(field_path),
+                _render_diagnostic_field_path(mismatch_path),
                 " must be ",
-                _render_diagnostic_value(expected),
+                _render_diagnostic_value(expected_leaf),
                 "; got ",
-                _render_diagnostic_value(actual),
+                _render_diagnostic_value(actual_leaf),
             )
         )
 
@@ -564,11 +626,25 @@ def _render_diagnostic_rules_path(path: Path) -> str:
     raw_path = path.__fspath__()
     return (
         "ruleset path(name="
-        + _render_diagnostic_key(path.name)
+        + _render_diagnostic_rules_name(path.name)
         + ", length="
         + _render_small_decimal(len(raw_path))
         + ")"
     )
+
+
+def _render_diagnostic_rules_name(name: str) -> str:
+    """Render a ruleset file name with a bounded escaped preview.
+
+    Unlike :func:`_render_diagnostic_string_literal` (which must keep exact
+    message ceilings for other diagnostics), the name preview here caps the
+    *escaped* output itself so the read-error reason always survives the final
+    message truncation even for attacker-controlled long names.
+    """
+    escaped = ascii(name)
+    if len(escaped) <= _MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS:
+        return escaped
+    return escaped[:_MAX_DIAGNOSTIC_STRING_PREVIEW_CHARS] + "…" + escaped[-1]
 
 
 def _render_diagnostic_value(value: object) -> str:
@@ -708,8 +784,12 @@ def _validate_growth_costs(document: JsonObject) -> dict[int, int]:
         unexpected = sorted(costs.keys() - required_levels)
         raise RulesetValidationError(
             "progression.target_level_growth_costs must contain each target level "
-            f"1 through 100 exactly once; missing={missing}, unexpected={unexpected}"
+            "1 through 100 exactly once; missing_count="
+            + str(len(missing))
+            + ", unexpected_count="
+            + str(len(unexpected))
         )
+
     return costs
 
 
