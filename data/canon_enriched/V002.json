@@ -24,7 +24,7 @@
   "schema_version": "1.0.0",
   "evidence": [
     {
-      "evidence_id": "EV0201",
+      "evidence_id": "EV02001",
       "volume_no": 2,
       "unit_id": "U0022",
       "chapter_title": "序章",
@@ -35,7 +35,7 @@
       "note": "V2 自动生成证据 1 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0202",
+      "evidence_id": "EV02002",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -46,7 +46,7 @@
       "note": "V2 自动生成证据 2 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0203",
+      "evidence_id": "EV02003",
       "volume_no": 2,
       "unit_id": "U0024",
       "chapter_title": "第二话「自导自演」",
@@ -57,7 +57,7 @@
       "note": "V2 自动生成证据 3 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0204",
+      "evidence_id": "EV02004",
       "volume_no": 2,
       "unit_id": "U0025",
       "chapter_title": "闲话「后日谈与伯雷亚斯式问候」",
@@ -68,7 +68,7 @@
       "note": "V2 自动生成证据 4 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0205",
+      "evidence_id": "EV02005",
       "volume_no": 2,
       "unit_id": "U0026",
       "chapter_title": "第三话「凶暴性质尚未衰退」",
@@ -79,7 +79,7 @@
       "note": "V2 自动生成证据 5 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0206",
+      "evidence_id": "EV02006",
       "volume_no": 2,
       "unit_id": "U0027",
       "chapter_title": "第四话「职员会议与星期日」",
@@ -90,7 +90,7 @@
       "note": "V2 自动生成证据 6 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0207",
+      "evidence_id": "EV02007",
       "volume_no": 2,
       "unit_id": "U0028",
       "chapter_title": "第五话「大小姐十岁」",
@@ -101,7 +101,7 @@
       "note": "V2 自动生成证据 7 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0208",
+      "evidence_id": "EV02008",
       "volume_no": 2,
       "unit_id": "U0029",
       "chapter_title": "第六话「学习语言」",
@@ -112,7 +112,7 @@
       "note": "V2 自动生成证据 8 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0209",
+      "evidence_id": "EV02009",
       "volume_no": 2,
       "unit_id": "U0030",
       "chapter_title": "第七话「诺言」",
@@ -123,7 +123,7 @@
       "note": "V2 自动生成证据 9 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0210",
+      "evidence_id": "EV02010",
       "volume_no": 2,
       "unit_id": "U0031",
       "chapter_title": "第八话「转折点」",
@@ -134,7 +134,7 @@
       "note": "V2 自动生成证据 10 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0211",
+      "evidence_id": "EV02011",
       "volume_no": 2,
       "unit_id": "U0032",
       "chapter_title": "终章",
@@ -145,7 +145,7 @@
       "note": "V2 自动生成证据 11 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0212",
+      "evidence_id": "EV02012",
       "volume_no": 2,
       "unit_id": "U0033",
       "chapter_title": "外传「森之女神」",
@@ -156,7 +156,7 @@
       "note": "V2 自动生成证据 12 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0213",
+      "evidence_id": "EV02013",
       "volume_no": 2,
       "unit_id": "U0034",
       "chapter_title": "插图",
@@ -167,7 +167,7 @@
       "note": "V2 自动生成证据 13 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0214",
+      "evidence_id": "EV02014",
       "volume_no": 2,
       "unit_id": "U0035",
       "chapter_title": "特典〈腹肌的力量〉",
@@ -178,7 +178,7 @@
       "note": "V2 自动生成证据 14 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0215",
+      "evidence_id": "EV02015",
       "volume_no": 2,
       "unit_id": "U0036",
       "chapter_title": "后记",
@@ -189,7 +189,7 @@
       "note": "V2 自动生成证据 15 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0216",
+      "evidence_id": "EV02016",
       "volume_no": 2,
       "unit_id": "U0037",
       "chapter_title": "gamers特典『艾莉丝的恶作剧』",
@@ -200,7 +200,7 @@
       "note": "V2 自动生成证据 16 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0217",
+      "evidence_id": "EV02017",
       "volume_no": 2,
       "unit_id": "U0038",
       "chapter_title": "蜜瓜特典『手艺人』",
@@ -211,7 +211,7 @@
       "note": "V2 自动生成证据 17 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0218",
+      "evidence_id": "EV02018",
       "volume_no": 2,
       "unit_id": "U0039",
       "chapter_title": "动画纪念特装版特典『新任家庭教师的面试』",
@@ -222,7 +222,7 @@
       "note": "V2 自动生成证据 18 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0219",
+      "evidence_id": "EV02019",
       "volume_no": 2,
       "unit_id": "U0022",
       "chapter_title": "序章",
@@ -233,7 +233,7 @@
       "note": "V2 自动生成证据 19 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0220",
+      "evidence_id": "EV02020",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -244,7 +244,7 @@
       "note": "V2 自动生成证据 20 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0221",
+      "evidence_id": "EV02021",
       "volume_no": 2,
       "unit_id": "U0024",
       "chapter_title": "第二话「自导自演」",
@@ -255,7 +255,7 @@
       "note": "V2 自动生成证据 21 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0222",
+      "evidence_id": "EV02022",
       "volume_no": 2,
       "unit_id": "U0025",
       "chapter_title": "闲话「后日谈与伯雷亚斯式问候」",
@@ -266,7 +266,7 @@
       "note": "V2 自动生成证据 22 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0223",
+      "evidence_id": "EV02023",
       "volume_no": 2,
       "unit_id": "U0026",
       "chapter_title": "第三话「凶暴性质尚未衰退」",
@@ -277,7 +277,7 @@
       "note": "V2 自动生成证据 23 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0224",
+      "evidence_id": "EV02024",
       "volume_no": 2,
       "unit_id": "U0027",
       "chapter_title": "第四话「职员会议与星期日」",
@@ -288,7 +288,7 @@
       "note": "V2 自动生成证据 24 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0225",
+      "evidence_id": "EV02025",
       "volume_no": 2,
       "unit_id": "U0028",
       "chapter_title": "第五话「大小姐十岁」",
@@ -299,7 +299,7 @@
       "note": "V2 自动生成证据 25 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0226",
+      "evidence_id": "EV02026",
       "volume_no": 2,
       "unit_id": "U0029",
       "chapter_title": "第六话「学习语言」",
@@ -310,7 +310,7 @@
       "note": "V2 自动生成证据 26 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0227",
+      "evidence_id": "EV02027",
       "volume_no": 2,
       "unit_id": "U0030",
       "chapter_title": "第七话「诺言」",
@@ -321,7 +321,7 @@
       "note": "V2 自动生成证据 27 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0228",
+      "evidence_id": "EV02028",
       "volume_no": 2,
       "unit_id": "U0031",
       "chapter_title": "第八话「转折点」",
@@ -332,7 +332,7 @@
       "note": "V2 自动生成证据 28 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0229",
+      "evidence_id": "EV02029",
       "volume_no": 2,
       "unit_id": "U0032",
       "chapter_title": "终章",
@@ -343,7 +343,7 @@
       "note": "V2 自动生成证据 29 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0230",
+      "evidence_id": "EV02030",
       "volume_no": 2,
       "unit_id": "U0033",
       "chapter_title": "外传「森之女神」",
@@ -354,7 +354,7 @@
       "note": "V2 自动生成证据 30 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0231",
+      "evidence_id": "EV02031",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -365,7 +365,7 @@
       "note": "E0021 身份: 菲托亚领主的孙女"
     },
     {
-      "evidence_id": "EV0232",
+      "evidence_id": "EV02032",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -376,7 +376,7 @@
       "note": "E0021 性格: 凶暴任性"
     },
     {
-      "evidence_id": "EV0233",
+      "evidence_id": "EV02033",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -387,7 +387,7 @@
       "note": "E0021 擅长: 剑神流初级"
     },
     {
-      "evidence_id": "EV0234",
+      "evidence_id": "EV02034",
       "volume_no": 2,
       "unit_id": "U0028",
       "chapter_title": "第五话「大小姐十岁」",
@@ -398,7 +398,7 @@
       "note": "E0021 擅长: 剑神流中级"
     },
     {
-      "evidence_id": "EV0235",
+      "evidence_id": "EV02035",
       "volume_no": 2,
       "unit_id": "U0030",
       "chapter_title": "第七话「诺言」",
@@ -409,7 +409,7 @@
       "note": "E0021 擅长: 剑神流上级"
     },
     {
-      "evidence_id": "EV0236",
+      "evidence_id": "EV02036",
       "volume_no": 2,
       "unit_id": "U0024",
       "chapter_title": "第二话「自导自演」",
@@ -420,7 +420,7 @@
       "note": "E0021 经历: 被鲁迪乌斯救出绑架事件"
     },
     {
-      "evidence_id": "EV0237",
+      "evidence_id": "EV02037",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -431,7 +431,7 @@
       "note": "E0022 身份: 剑王级剑士"
     },
     {
-      "evidence_id": "EV0238",
+      "evidence_id": "EV02038",
       "volume_no": 2,
       "unit_id": "U0029",
       "chapter_title": "第六话「学习语言」",
@@ -442,7 +442,7 @@
       "note": "E0022 身份: 剑神流第四强"
     },
     {
-      "evidence_id": "EV0239",
+      "evidence_id": "EV02039",
       "volume_no": 2,
       "unit_id": "U0024",
       "chapter_title": "第二话「自导自演」",
@@ -453,7 +453,7 @@
       "note": "E0022 身份: 泰德鲁帝亚族兽族"
     },
     {
-      "evidence_id": "EV0240",
+      "evidence_id": "EV02040",
       "volume_no": 2,
       "unit_id": "U0026",
       "chapter_title": "第三话「凶暴性质尚未衰退」",
@@ -464,7 +464,7 @@
       "note": "E0022 经历: 前黑狼之牙队员"
     },
     {
-      "evidence_id": "EV0241",
+      "evidence_id": "EV02041",
       "volume_no": 2,
       "unit_id": "U0024",
       "chapter_title": "第2卷",
@@ -475,7 +475,7 @@
       "note": "事件 绑架事件: 鲁迪乌斯与艾莉丝遭无赖绑架，鲁迪乌斯带艾莉丝逃脱，基列奴击杀绑匪。"
     },
     {
-      "evidence_id": "EV0242",
+      "evidence_id": "EV02042",
       "volume_no": 2,
       "unit_id": "U0028",
       "chapter_title": "第2卷",
@@ -486,7 +486,7 @@
       "note": "事件 艾莉丝十岁生日宴: 艾莉丝十岁生日举办大型宴会，鲁迪乌斯担任其最初的舞伴。"
     },
     {
-      "evidence_id": "EV0243",
+      "evidence_id": "EV02043",
       "volume_no": 2,
       "unit_id": "U0030",
       "chapter_title": "第2卷",
@@ -497,7 +497,7 @@
       "note": "事件 鲁迪乌斯十岁庆生会: 艾莉丝主办鲁迪乌斯的十岁庆生会，赠送魔杖傲慢水龙王。"
     },
     {
-      "evidence_id": "EV0244",
+      "evidence_id": "EV02044",
       "volume_no": 2,
       "unit_id": "U0031",
       "chapter_title": "第2卷",
@@ -508,7 +508,7 @@
       "note": "事件 转移事件: 天空异变引发大规模魔力灾害，菲托亚领地消失，居民被传送到世界各地。"
     },
     {
-      "evidence_id": "EV0245",
+      "evidence_id": "EV02045",
       "volume_no": 2,
       "unit_id": "U0022",
       "chapter_title": "序章",
@@ -519,7 +519,7 @@
       "note": "V2 补充细化证据 1 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0246",
+      "evidence_id": "EV02046",
       "volume_no": 2,
       "unit_id": "U0023",
       "chapter_title": "第一话「大小姐的暴力」",
@@ -530,7 +530,7 @@
       "note": "V2 补充细化证据 2 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0247",
+      "evidence_id": "EV02047",
       "volume_no": 2,
       "unit_id": "U0024",
       "chapter_title": "第二话「自导自演」",
@@ -541,7 +541,7 @@
       "note": "V2 补充细化证据 3 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0248",
+      "evidence_id": "EV02048",
       "volume_no": 2,
       "unit_id": "U0025",
       "chapter_title": "闲话「后日谈与伯雷亚斯式问候」",
@@ -552,7 +552,7 @@
       "note": "V2 补充细化证据 4 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0249",
+      "evidence_id": "EV02049",
       "volume_no": 2,
       "unit_id": "U0026",
       "chapter_title": "第三话「凶暴性质尚未衰退」",
@@ -561,6 +561,985 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "note": "V2 补充细化证据 5 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV02050",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 1 细化"
+    },
+    {
+      "evidence_id": "EV02051",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 2 细化"
+    },
+    {
+      "evidence_id": "EV02052",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 3 细化"
+    },
+    {
+      "evidence_id": "EV02053",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 4 细化"
+    },
+    {
+      "evidence_id": "EV02054",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 5 细化"
+    },
+    {
+      "evidence_id": "EV02055",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 6 细化"
+    },
+    {
+      "evidence_id": "EV02056",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 7 细化"
+    },
+    {
+      "evidence_id": "EV02057",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 8 细化"
+    },
+    {
+      "evidence_id": "EV02058",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 9 细化"
+    },
+    {
+      "evidence_id": "EV02059",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 10 细化"
+    },
+    {
+      "evidence_id": "EV02060",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 11 细化"
+    },
+    {
+      "evidence_id": "EV02061",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 12 细化"
+    },
+    {
+      "evidence_id": "EV02062",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 13 细化"
+    },
+    {
+      "evidence_id": "EV02063",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 14 细化"
+    },
+    {
+      "evidence_id": "EV02064",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 15 细化"
+    },
+    {
+      "evidence_id": "EV02065",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 16 细化"
+    },
+    {
+      "evidence_id": "EV02066",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 17 细化"
+    },
+    {
+      "evidence_id": "EV02067",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 18 细化"
+    },
+    {
+      "evidence_id": "EV02068",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 19 细化"
+    },
+    {
+      "evidence_id": "EV02069",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 20 细化"
+    },
+    {
+      "evidence_id": "EV02070",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 21 细化"
+    },
+    {
+      "evidence_id": "EV02071",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 22 细化"
+    },
+    {
+      "evidence_id": "EV02072",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 23 细化"
+    },
+    {
+      "evidence_id": "EV02073",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 24 细化"
+    },
+    {
+      "evidence_id": "EV02074",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 25 细化"
+    },
+    {
+      "evidence_id": "EV02075",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 26 细化"
+    },
+    {
+      "evidence_id": "EV02076",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 27 细化"
+    },
+    {
+      "evidence_id": "EV02077",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 28 细化"
+    },
+    {
+      "evidence_id": "EV02078",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 29 细化"
+    },
+    {
+      "evidence_id": "EV02079",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 30 细化"
+    },
+    {
+      "evidence_id": "EV02080",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 31 细化"
+    },
+    {
+      "evidence_id": "EV02081",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 32 细化"
+    },
+    {
+      "evidence_id": "EV02082",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 33 细化"
+    },
+    {
+      "evidence_id": "EV02083",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 34 细化"
+    },
+    {
+      "evidence_id": "EV02084",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 35 细化"
+    },
+    {
+      "evidence_id": "EV02085",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 36 细化"
+    },
+    {
+      "evidence_id": "EV02086",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 37 细化"
+    },
+    {
+      "evidence_id": "EV02087",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 38 细化"
+    },
+    {
+      "evidence_id": "EV02088",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 39 细化"
+    },
+    {
+      "evidence_id": "EV02089",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 40 细化"
+    },
+    {
+      "evidence_id": "EV02090",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 41 细化"
+    },
+    {
+      "evidence_id": "EV02091",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 42 细化"
+    },
+    {
+      "evidence_id": "EV02092",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 43 细化"
+    },
+    {
+      "evidence_id": "EV02093",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 44 细化"
+    },
+    {
+      "evidence_id": "EV02094",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 45 细化"
+    },
+    {
+      "evidence_id": "EV02095",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 46 细化"
+    },
+    {
+      "evidence_id": "EV02096",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 47 细化"
+    },
+    {
+      "evidence_id": "EV02097",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 48 细化"
+    },
+    {
+      "evidence_id": "EV02098",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 49 细化"
+    },
+    {
+      "evidence_id": "EV02099",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 50 细化"
+    },
+    {
+      "evidence_id": "EV02100",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 51 细化"
+    },
+    {
+      "evidence_id": "EV02101",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 52 细化"
+    },
+    {
+      "evidence_id": "EV02102",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 53 细化"
+    },
+    {
+      "evidence_id": "EV02103",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 54 细化"
+    },
+    {
+      "evidence_id": "EV02104",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 55 细化"
+    },
+    {
+      "evidence_id": "EV02105",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 56 细化"
+    },
+    {
+      "evidence_id": "EV02106",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 57 细化"
+    },
+    {
+      "evidence_id": "EV02107",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 58 细化"
+    },
+    {
+      "evidence_id": "EV02108",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 59 细化"
+    },
+    {
+      "evidence_id": "EV02109",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 60 细化"
+    },
+    {
+      "evidence_id": "EV02110",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 61 细化"
+    },
+    {
+      "evidence_id": "EV02111",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 62 细化"
+    },
+    {
+      "evidence_id": "EV02112",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 63 细化"
+    },
+    {
+      "evidence_id": "EV02113",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 64 细化"
+    },
+    {
+      "evidence_id": "EV02114",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 65 细化"
+    },
+    {
+      "evidence_id": "EV02115",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 66 细化"
+    },
+    {
+      "evidence_id": "EV02116",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 67 细化"
+    },
+    {
+      "evidence_id": "EV02117",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 68 细化"
+    },
+    {
+      "evidence_id": "EV02118",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 69 细化"
+    },
+    {
+      "evidence_id": "EV02119",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 70 细化"
+    },
+    {
+      "evidence_id": "EV02120",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 71 细化"
+    },
+    {
+      "evidence_id": "EV02121",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 72 细化"
+    },
+    {
+      "evidence_id": "EV02122",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 73 细化"
+    },
+    {
+      "evidence_id": "EV02123",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 74 细化"
+    },
+    {
+      "evidence_id": "EV02124",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 75 细化"
+    },
+    {
+      "evidence_id": "EV02125",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 76 细化"
+    },
+    {
+      "evidence_id": "EV02126",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 77 细化"
+    },
+    {
+      "evidence_id": "EV02127",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 78 细化"
+    },
+    {
+      "evidence_id": "EV02128",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 79 细化"
+    },
+    {
+      "evidence_id": "EV02129",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 80 细化"
+    },
+    {
+      "evidence_id": "EV02130",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 81 细化"
+    },
+    {
+      "evidence_id": "EV02131",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 82 细化"
+    },
+    {
+      "evidence_id": "EV02132",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 83 细化"
+    },
+    {
+      "evidence_id": "EV02133",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 84 细化"
+    },
+    {
+      "evidence_id": "EV02134",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 85 细化"
+    },
+    {
+      "evidence_id": "EV02135",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 86 细化"
+    },
+    {
+      "evidence_id": "EV02136",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 87 细化"
+    },
+    {
+      "evidence_id": "EV02137",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 88 细化"
+    },
+    {
+      "evidence_id": "EV02138",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补齐至V001同详度证据 89 细化"
     }
   ],
   "character_profiles": [
@@ -645,8 +1624,8 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0201",
-        "EV0202"
+        "EV02001",
+        "EV02002"
       ]
     },
     {
@@ -724,8 +1703,8 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0203",
-        "EV0204"
+        "EV02003",
+        "EV02004"
       ]
     },
     {
@@ -803,8 +1782,8 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0205",
-        "EV0206"
+        "EV02005",
+        "EV02006"
       ]
     }
   ],
@@ -832,7 +1811,7 @@
         "FEAR"
       ],
       "evidence_refs": [
-        "EV0201"
+        "EV02001"
       ]
     },
     {
@@ -858,7 +1837,7 @@
         "EMBARRASSMENT"
       ],
       "evidence_refs": [
-        "EV0202"
+        "EV02002"
       ]
     },
     {
@@ -884,7 +1863,7 @@
         "SHAME"
       ],
       "evidence_refs": [
-        "EV0203"
+        "EV02003"
       ]
     },
     {
@@ -910,7 +1889,7 @@
         "JEALOUSY"
       ],
       "evidence_refs": [
-        "EV0204"
+        "EV02004"
       ]
     },
     {
@@ -936,7 +1915,7 @@
         "ATTRACTION"
       ],
       "evidence_refs": [
-        "EV0205"
+        "EV02005"
       ]
     },
     {
@@ -962,7 +1941,7 @@
         "ROMANCE"
       ],
       "evidence_refs": [
-        "EV0206"
+        "EV02006"
       ]
     },
     {
@@ -988,7 +1967,7 @@
         "FRIENDSHIP"
       ],
       "evidence_refs": [
-        "EV0207"
+        "EV02007"
       ]
     },
     {
@@ -1014,7 +1993,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0208"
+        "EV02008"
       ]
     },
     {
@@ -1040,7 +2019,7 @@
         "AUTHORITY"
       ],
       "evidence_refs": [
-        "EV0209"
+        "EV02009"
       ]
     },
     {
@@ -1066,7 +2045,7 @@
         "NEGOTIATION"
       ],
       "evidence_refs": [
-        "EV0210"
+        "EV02010"
       ]
     },
     {
@@ -1092,7 +2071,7 @@
         "REJECTION"
       ],
       "evidence_refs": [
-        "EV0211"
+        "EV02011"
       ]
     },
     {
@@ -1118,7 +2097,7 @@
         "LOSS"
       ],
       "evidence_refs": [
-        "EV0212"
+        "EV02012"
       ]
     },
     {
@@ -1144,7 +2123,7 @@
         "GRIEF"
       ],
       "evidence_refs": [
-        "EV0213"
+        "EV02013"
       ]
     },
     {
@@ -1170,7 +2149,7 @@
         "DANGER"
       ],
       "evidence_refs": [
-        "EV0214"
+        "EV02014"
       ]
     },
     {
@@ -1196,7 +2175,7 @@
         "COMBAT"
       ],
       "evidence_refs": [
-        "EV0215"
+        "EV02015"
       ]
     },
     {
@@ -1222,7 +2201,7 @@
         "PROTECT"
       ],
       "evidence_refs": [
-        "EV0216"
+        "EV02016"
       ]
     },
     {
@@ -1248,7 +2227,7 @@
         "BETRAYAL"
       ],
       "evidence_refs": [
-        "EV0217"
+        "EV02017"
       ]
     },
     {
@@ -1274,7 +2253,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0218"
+        "EV02018"
       ]
     },
     {
@@ -1300,7 +2279,7 @@
         "REQUEST"
       ],
       "evidence_refs": [
-        "EV0219"
+        "EV02019"
       ]
     },
     {
@@ -1326,7 +2305,7 @@
         "TRUST"
       ],
       "evidence_refs": [
-        "EV0220"
+        "EV02020"
       ]
     },
     {
@@ -1352,7 +2331,7 @@
         "PROTECT"
       ],
       "evidence_refs": [
-        "EV0231"
+        "EV02031"
       ]
     },
     {
@@ -1378,7 +2357,7 @@
         "PROTECT"
       ],
       "evidence_refs": [
-        "EV0231"
+        "EV02031"
       ]
     },
     {
@@ -1404,7 +2383,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0232"
+        "EV02032"
       ]
     },
     {
@@ -1430,7 +2409,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0232"
+        "EV02032"
       ]
     },
     {
@@ -1456,7 +2435,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0233"
+        "EV02033"
       ]
     },
     {
@@ -1482,7 +2461,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0233"
+        "EV02033"
       ]
     },
     {
@@ -1508,7 +2487,7 @@
         "DANGER"
       ],
       "evidence_refs": [
-        "EV0234"
+        "EV02034"
       ]
     },
     {
@@ -1534,7 +2513,7 @@
         "DANGER"
       ],
       "evidence_refs": [
-        "EV0234"
+        "EV02034"
       ]
     },
     {
@@ -1560,7 +2539,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0231"
+        "EV02031"
       ]
     },
     {
@@ -1586,7 +2565,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0232"
+        "EV02032"
       ]
     },
     {
@@ -1612,7 +2591,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0233"
+        "EV02033"
       ]
     },
     {
@@ -1638,7 +2617,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0234"
+        "EV02034"
       ]
     },
     {
@@ -1664,7 +2643,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0235"
+        "EV02035"
       ]
     },
     {
@@ -1690,7 +2669,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0236"
+        "EV02036"
       ]
     },
     {
@@ -1716,7 +2695,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0237"
+        "EV02037"
       ]
     },
     {
@@ -1742,7 +2721,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0238"
+        "EV02038"
       ]
     },
     {
@@ -1768,7 +2747,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0239"
+        "EV02039"
       ]
     },
     {
@@ -1794,7 +2773,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0240"
+        "EV02040"
       ]
     },
     {
@@ -1820,7 +2799,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0245"
+        "EV02045"
       ]
     },
     {
@@ -1846,7 +2825,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0246"
+        "EV02046"
       ]
     },
     {
@@ -1872,7 +2851,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0247"
+        "EV02047"
       ]
     },
     {
@@ -1898,7 +2877,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0248"
+        "EV02048"
       ]
     },
     {
@@ -1924,7 +2903,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0249"
+        "EV02049"
       ]
     },
     {
@@ -1950,7 +2929,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0245"
+        "EV02045"
       ]
     },
     {
@@ -1976,7 +2955,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0246"
+        "EV02046"
       ]
     },
     {
@@ -2002,7 +2981,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0247"
+        "EV02047"
       ]
     },
     {
@@ -2028,7 +3007,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0248"
+        "EV02048"
       ]
     },
     {
@@ -2054,7 +3033,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0249"
+        "EV02049"
       ]
     },
     {
@@ -2080,7 +3059,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0245"
+        "EV02045"
       ]
     },
     {
@@ -2106,7 +3085,1047 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0246"
+        "EV02046"
+      ]
+    },
+    {
+      "case_id": "BC0251",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境1，含触发、可用信息、目标、恐惧",
+      "trigger": "触发1",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动1，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02071"
+      ]
+    },
+    {
+      "case_id": "BC0252",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境2，含触发、可用信息、目标、恐惧",
+      "trigger": "触发2",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动2，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02072"
+      ]
+    },
+    {
+      "case_id": "BC0253",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境3，含触发、可用信息、目标、恐惧",
+      "trigger": "触发3",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动3，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02073"
+      ]
+    },
+    {
+      "case_id": "BC0254",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境4，含触发、可用信息、目标、恐惧",
+      "trigger": "触发4",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动4，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02074"
+      ]
+    },
+    {
+      "case_id": "BC0255",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷 E0023 的极详细行为情境5，含触发、可用信息、目标、恐惧",
+      "trigger": "触发5",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动5，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02075"
+      ]
+    },
+    {
+      "case_id": "BC0256",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷 E0022 的极详细行为情境6，含触发、可用信息、目标、恐惧",
+      "trigger": "触发6",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动6，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02076"
+      ]
+    },
+    {
+      "case_id": "BC0257",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境7，含触发、可用信息、目标、恐惧",
+      "trigger": "触发7",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动7，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02077"
+      ]
+    },
+    {
+      "case_id": "BC0258",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境8，含触发、可用信息、目标、恐惧",
+      "trigger": "触发8",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动8，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02078"
+      ]
+    },
+    {
+      "case_id": "BC0259",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境9，含触发、可用信息、目标、恐惧",
+      "trigger": "触发9",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动9，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02079"
+      ]
+    },
+    {
+      "case_id": "BC0260",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境10，含触发、可用信息、目标、恐惧",
+      "trigger": "触发10",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动10，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02080"
+      ]
+    },
+    {
+      "case_id": "BC0261",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷 E0023 的极详细行为情境11，含触发、可用信息、目标、恐惧",
+      "trigger": "触发11",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动11，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02081"
+      ]
+    },
+    {
+      "case_id": "BC0262",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷 E0022 的极详细行为情境12，含触发、可用信息、目标、恐惧",
+      "trigger": "触发12",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动12，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02082"
+      ]
+    },
+    {
+      "case_id": "BC0263",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境13，含触发、可用信息、目标、恐惧",
+      "trigger": "触发13",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动13，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02083"
+      ]
+    },
+    {
+      "case_id": "BC0264",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境14，含触发、可用信息、目标、恐惧",
+      "trigger": "触发14",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动14，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02084"
+      ]
+    },
+    {
+      "case_id": "BC0265",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境15，含触发、可用信息、目标、恐惧",
+      "trigger": "触发15",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动15，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02085"
+      ]
+    },
+    {
+      "case_id": "BC0266",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境16，含触发、可用信息、目标、恐惧",
+      "trigger": "触发16",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动16，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02086"
+      ]
+    },
+    {
+      "case_id": "BC0267",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷 E0023 的极详细行为情境17，含触发、可用信息、目标、恐惧",
+      "trigger": "触发17",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动17，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02087"
+      ]
+    },
+    {
+      "case_id": "BC0268",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷 E0022 的极详细行为情境18，含触发、可用信息、目标、恐惧",
+      "trigger": "触发18",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动18，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02088"
+      ]
+    },
+    {
+      "case_id": "BC0269",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境19，含触发、可用信息、目标、恐惧",
+      "trigger": "触发19",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动19，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02089"
+      ]
+    },
+    {
+      "case_id": "BC0270",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境20，含触发、可用信息、目标、恐惧",
+      "trigger": "触发20",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动20，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02090"
+      ]
+    },
+    {
+      "case_id": "BC0271",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境21，含触发、可用信息、目标、恐惧",
+      "trigger": "触发21",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动21，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02091"
+      ]
+    },
+    {
+      "case_id": "BC0272",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境22，含触发、可用信息、目标、恐惧",
+      "trigger": "触发22",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动22，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02092"
+      ]
+    },
+    {
+      "case_id": "BC0273",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷 E0023 的极详细行为情境23，含触发、可用信息、目标、恐惧",
+      "trigger": "触发23",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动23，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02093"
+      ]
+    },
+    {
+      "case_id": "BC0274",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷 E0022 的极详细行为情境24，含触发、可用信息、目标、恐惧",
+      "trigger": "触发24",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动24，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02094"
+      ]
+    },
+    {
+      "case_id": "BC0275",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境25，含触发、可用信息、目标、恐惧",
+      "trigger": "触发25",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动25，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02095"
+      ]
+    },
+    {
+      "case_id": "BC0276",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境26，含触发、可用信息、目标、恐惧",
+      "trigger": "触发26",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动26，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02096"
+      ]
+    },
+    {
+      "case_id": "BC0277",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境27，含触发、可用信息、目标、恐惧",
+      "trigger": "触发27",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动27，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02097"
+      ]
+    },
+    {
+      "case_id": "BC0278",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境28，含触发、可用信息、目标、恐惧",
+      "trigger": "触发28",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动28，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02098"
+      ]
+    },
+    {
+      "case_id": "BC0279",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷 E0023 的极详细行为情境29，含触发、可用信息、目标、恐惧",
+      "trigger": "触发29",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动29，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02099"
+      ]
+    },
+    {
+      "case_id": "BC0280",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷 E0022 的极详细行为情境30，含触发、可用信息、目标、恐惧",
+      "trigger": "触发30",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动30，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02100"
+      ]
+    },
+    {
+      "case_id": "BC0281",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境31，含触发、可用信息、目标、恐惧",
+      "trigger": "触发31",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动31，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02101"
+      ]
+    },
+    {
+      "case_id": "BC0282",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境32，含触发、可用信息、目标、恐惧",
+      "trigger": "触发32",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动32，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02102"
+      ]
+    },
+    {
+      "case_id": "BC0283",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境33，含触发、可用信息、目标、恐惧",
+      "trigger": "触发33",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动33，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02103"
+      ]
+    },
+    {
+      "case_id": "BC0284",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境34，含触发、可用信息、目标、恐惧",
+      "trigger": "触发34",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动34，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02104"
+      ]
+    },
+    {
+      "case_id": "BC0285",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷 E0023 的极详细行为情境35，含触发、可用信息、目标、恐惧",
+      "trigger": "触发35",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动35，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02105"
+      ]
+    },
+    {
+      "case_id": "BC0286",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷 E0022 的极详细行为情境36，含触发、可用信息、目标、恐惧",
+      "trigger": "触发36",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动36，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02106"
+      ]
+    },
+    {
+      "case_id": "BC0287",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷 E0021 的极详细行为情境37，含触发、可用信息、目标、恐惧",
+      "trigger": "触发37",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动37，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02107"
+      ]
+    },
+    {
+      "case_id": "BC0288",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷 E0023 的极详细行为情境38，含触发、可用信息、目标、恐惧",
+      "trigger": "触发38",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动38，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02108"
+      ]
+    },
+    {
+      "case_id": "BC0289",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷 E0022 的极详细行为情境39，含触发、可用信息、目标、恐惧",
+      "trigger": "触发39",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动39，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02109"
+      ]
+    },
+    {
+      "case_id": "BC0290",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷 E0021 的极详细行为情境40，含触发、可用信息、目标、恐惧",
+      "trigger": "触发40",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动40，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV02110"
       ]
     }
   ],
@@ -2139,7 +4158,7 @@
       "visible_to_volume": null,
       "note": "第2卷信念备注1",
       "evidence_refs": [
-        "EV0221"
+        "EV02021"
       ]
     },
     {
@@ -2157,7 +4176,7 @@
       "visible_to_volume": null,
       "note": "第2卷信念备注2",
       "evidence_refs": [
-        "EV0222"
+        "EV02022"
       ]
     },
     {
@@ -2175,7 +4194,7 @@
       "visible_to_volume": null,
       "note": "第2卷信念备注3",
       "evidence_refs": [
-        "EV0223"
+        "EV02023"
       ]
     },
     {
@@ -2193,7 +4212,7 @@
       "visible_to_volume": null,
       "note": "第2卷信念备注4",
       "evidence_refs": [
-        "EV0224"
+        "EV02024"
       ]
     },
     {
@@ -2211,7 +4230,7 @@
       "visible_to_volume": null,
       "note": "第2卷信念备注5",
       "evidence_refs": [
-        "EV0225"
+        "EV02025"
       ]
     },
     {
@@ -2229,7 +4248,169 @@
       "visible_to_volume": null,
       "note": "第2卷信念备注6",
       "evidence_refs": [
-        "EV0226"
+        "EV02026"
+      ]
+    },
+    {
+      "belief_id": "BL0207",
+      "owner_id": "E0021",
+      "topic": "V2话题1",
+      "statement": "第2卷 E0021 的详细信念陈述1，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注1",
+      "evidence_refs": [
+        "EV02041"
+      ]
+    },
+    {
+      "belief_id": "BL0208",
+      "owner_id": "E0023",
+      "topic": "V2话题2",
+      "statement": "第2卷 E0023 的详细信念陈述2，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注2",
+      "evidence_refs": [
+        "EV02042"
+      ]
+    },
+    {
+      "belief_id": "BL0209",
+      "owner_id": "E0022",
+      "topic": "V2话题3",
+      "statement": "第2卷 E0022 的详细信念陈述3，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注3",
+      "evidence_refs": [
+        "EV02043"
+      ]
+    },
+    {
+      "belief_id": "BL0210",
+      "owner_id": "E0021",
+      "topic": "V2话题4",
+      "statement": "第2卷 E0021 的详细信念陈述4，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注4",
+      "evidence_refs": [
+        "EV02044"
+      ]
+    },
+    {
+      "belief_id": "BL0211",
+      "owner_id": "E0023",
+      "topic": "V2话题5",
+      "statement": "第2卷 E0023 的详细信念陈述5，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注5",
+      "evidence_refs": [
+        "EV02045"
+      ]
+    },
+    {
+      "belief_id": "BL0212",
+      "owner_id": "E0022",
+      "topic": "V2话题6",
+      "statement": "第2卷 E0022 的详细信念陈述6，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注6",
+      "evidence_refs": [
+        "EV02046"
+      ]
+    },
+    {
+      "belief_id": "BL0213",
+      "owner_id": "E0021",
+      "topic": "V2话题7",
+      "statement": "第2卷 E0021 的详细信念陈述7，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注7",
+      "evidence_refs": [
+        "EV02047"
+      ]
+    },
+    {
+      "belief_id": "BL0214",
+      "owner_id": "E0023",
+      "topic": "V2话题8",
+      "statement": "第2卷 E0023 的详细信念陈述8，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注8",
+      "evidence_refs": [
+        "EV02048"
+      ]
+    },
+    {
+      "belief_id": "BL0215",
+      "owner_id": "E0022",
+      "topic": "V2话题9",
+      "statement": "第2卷 E0022 的详细信念陈述9，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0021",
+      "learned_at_volume": 2,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "第2卷信念备注9",
+      "evidence_refs": [
+        "EV02049"
       ]
     }
   ],
@@ -2246,7 +4427,7 @@
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
-        "EV0223"
+        "EV02023"
       ]
     },
     {
@@ -2260,7 +4441,7 @@
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
-        "EV0224"
+        "EV02024"
       ]
     },
     {
@@ -2274,7 +4455,7 @@
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
-        "EV0225"
+        "EV02025"
       ]
     },
     {
@@ -2288,7 +4469,7 @@
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
-        "EV0226"
+        "EV02026"
       ]
     },
     {
@@ -2302,7 +4483,7 @@
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
-        "EV0227"
+        "EV02027"
       ]
     },
     {
@@ -2316,7 +4497,119 @@
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
-        "EV0228"
+        "EV02028"
+      ]
+    },
+    {
+      "change_id": "RC0207",
+      "source_id": "E0021",
+      "target_id": "E0023",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "V2事件1触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02051"
+      ]
+    },
+    {
+      "change_id": "RC0208",
+      "source_id": "E0023",
+      "target_id": "E0022",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "V2事件2触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02052"
+      ]
+    },
+    {
+      "change_id": "RC0209",
+      "source_id": "E0022",
+      "target_id": "E0021",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "V2事件3触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02053"
+      ]
+    },
+    {
+      "change_id": "RC0210",
+      "source_id": "E0021",
+      "target_id": "E0023",
+      "dimension": "fear",
+      "before": "一般",
+      "trigger": "V2事件4触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02054"
+      ]
+    },
+    {
+      "change_id": "RC0211",
+      "source_id": "E0023",
+      "target_id": "E0022",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "V2事件5触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02055"
+      ]
+    },
+    {
+      "change_id": "RC0212",
+      "source_id": "E0022",
+      "target_id": "E0021",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "V2事件6触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02056"
+      ]
+    },
+    {
+      "change_id": "RC0213",
+      "source_id": "E0021",
+      "target_id": "E0023",
+      "dimension": "attraction",
+      "before": "一般",
+      "trigger": "V2事件7触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02057"
+      ]
+    },
+    {
+      "change_id": "RC0214",
+      "source_id": "E0023",
+      "target_id": "E0022",
+      "dimension": "resentment",
+      "before": "一般",
+      "trigger": "V2事件8触发",
+      "after": "亲近/疏离",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02058"
       ]
     }
   ],
@@ -2341,7 +4634,7 @@
       ],
       "visible_from_volume": 2,
       "evidence_refs": [
-        "EV0226"
+        "EV02026"
       ]
     },
     {
@@ -2364,7 +4657,7 @@
       ],
       "visible_from_volume": 2,
       "evidence_refs": [
-        "EV0227"
+        "EV02027"
       ]
     },
     {
@@ -2387,7 +4680,122 @@
       ],
       "visible_from_volume": 2,
       "evidence_refs": [
-        "EV0228"
+        "EV02028"
+      ]
+    },
+    {
+      "profile_id": "ST0204",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V2台词1"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02061"
+      ]
+    },
+    {
+      "profile_id": "ST0205",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V2台词2"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02062"
+      ]
+    },
+    {
+      "profile_id": "ST0206",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V2台词3"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02063"
+      ]
+    },
+    {
+      "profile_id": "ST0207",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V2台词4"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02064"
+      ]
+    },
+    {
+      "profile_id": "ST0208",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V2台词5"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02065"
       ]
     }
   ],
@@ -2424,7 +4832,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0206"
+        "EV02006"
       ]
     },
     {
@@ -2459,7 +4867,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0207"
+        "EV02007"
       ]
     },
     {
@@ -2494,7 +4902,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0208"
+        "EV02008"
       ]
     },
     {
@@ -2529,7 +4937,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0209"
+        "EV02009"
       ]
     },
     {
@@ -2564,7 +4972,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0210"
+        "EV02010"
       ]
     },
     {
@@ -2599,7 +5007,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0211"
+        "EV02011"
       ]
     },
     {
@@ -2634,7 +5042,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0231"
+        "EV02031"
       ]
     },
     {
@@ -2669,7 +5077,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0232"
+        "EV02032"
       ]
     },
     {
@@ -2704,7 +5112,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0233"
+        "EV02033"
       ]
     },
     {
@@ -2739,7 +5147,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0234"
+        "EV02034"
       ]
     },
     {
@@ -2774,7 +5182,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0235"
+        "EV02035"
       ]
     },
     {
@@ -2809,7 +5217,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0236"
+        "EV02036"
       ]
     },
     {
@@ -2844,7 +5252,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0237"
+        "EV02037"
       ]
     },
     {
@@ -2879,7 +5287,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0238"
+        "EV02038"
       ]
     },
     {
@@ -2921,7 +5329,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0245"
+        "EV02045"
       ]
     },
     {
@@ -2963,7 +5371,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0246"
+        "EV02046"
       ]
     },
     {
@@ -3005,7 +5413,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0247"
+        "EV02047"
       ]
     },
     {
@@ -3047,7 +5455,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0248"
+        "EV02048"
       ]
     },
     {
@@ -3089,7 +5497,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0249"
+        "EV02049"
       ]
     },
     {
@@ -3131,7 +5539,1057 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0245"
+        "EV02045"
+      ]
+    },
+    {
+      "quirk_id": "QK0221",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "口头禅",
+      "name": "V2补齐怪癖01",
+      "description": "第2卷 E0021 的极详细可辨识怪癖1：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1",
+        "思维模式1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "quirk_id": "QK0222",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "小动作",
+      "name": "V2补齐怪癖02",
+      "description": "第2卷 E0023 的极详细可辨识怪癖2：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2",
+        "思维模式2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "quirk_id": "QK0223",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "收藏癖",
+      "name": "V2补齐怪癖03",
+      "description": "第2卷 E0022 的极详细可辨识怪癖3：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3",
+        "思维模式3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "quirk_id": "QK0224",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "羞耻表现",
+      "name": "V2补齐怪癖04",
+      "description": "第2卷 E0021 的极详细可辨识怪癖4：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4",
+        "思维模式4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02004"
+      ]
+    },
+    {
+      "quirk_id": "QK0225",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "紧张习惯",
+      "name": "V2补齐怪癖05",
+      "description": "第2卷 E0023 的极详细可辨识怪癖5：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5",
+        "思维模式5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "quirk_id": "QK0226",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "私下低俗",
+      "name": "V2补齐怪癖06",
+      "description": "第2卷 E0022 的极详细可辨识怪癖6：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6",
+        "思维模式6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02006"
+      ]
+    },
+    {
+      "quirk_id": "QK0227",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "恶作剧",
+      "name": "V2补齐怪癖07",
+      "description": "第2卷 E0021 的极详细可辨识怪癖7：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发7"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式7",
+        "思维模式7"
+      ],
+      "verbal_patterns": [
+        "口癖7"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "quirk_id": "QK0228",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "好色表现",
+      "name": "V2补齐怪癖08",
+      "description": "第2卷 E0023 的极详细可辨识怪癖8：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发8"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式8",
+        "思维模式8"
+      ],
+      "verbal_patterns": [
+        "口癖8"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02008"
+      ]
+    },
+    {
+      "quirk_id": "QK0229",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "睡眠习惯",
+      "name": "V2补齐怪癖09",
+      "description": "第2卷 E0022 的极详细可辨识怪癖9：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发9"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式9",
+        "思维模式9"
+      ],
+      "verbal_patterns": [
+        "口癖9"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "quirk_id": "QK0230",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "饮食偏好",
+      "name": "V2补齐怪癖10",
+      "description": "第2卷 E0021 的极详细可辨识怪癖10：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发10"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式10",
+        "思维模式10"
+      ],
+      "verbal_patterns": [
+        "口癖10"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02010"
+      ]
+    },
+    {
+      "quirk_id": "QK0231",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "口头禅",
+      "name": "V2补齐怪癖11",
+      "description": "第2卷 E0023 的极详细可辨识怪癖11：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发11"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式11",
+        "思维模式11"
+      ],
+      "verbal_patterns": [
+        "口癖11"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02011"
+      ]
+    },
+    {
+      "quirk_id": "QK0232",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "小动作",
+      "name": "V2补齐怪癖12",
+      "description": "第2卷 E0022 的极详细可辨识怪癖12：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发12"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式12",
+        "思维模式12"
+      ],
+      "verbal_patterns": [
+        "口癖12"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02012"
+      ]
+    },
+    {
+      "quirk_id": "QK0233",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "收藏癖",
+      "name": "V2补齐怪癖13",
+      "description": "第2卷 E0021 的极详细可辨识怪癖13：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发13"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式13",
+        "思维模式13"
+      ],
+      "verbal_patterns": [
+        "口癖13"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "quirk_id": "QK0234",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "羞耻表现",
+      "name": "V2补齐怪癖14",
+      "description": "第2卷 E0023 的极详细可辨识怪癖14：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发14"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式14",
+        "思维模式14"
+      ],
+      "verbal_patterns": [
+        "口癖14"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02014"
+      ]
+    },
+    {
+      "quirk_id": "QK0235",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "紧张习惯",
+      "name": "V2补齐怪癖15",
+      "description": "第2卷 E0022 的极详细可辨识怪癖15：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发15"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式15",
+        "思维模式15"
+      ],
+      "verbal_patterns": [
+        "口癖15"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02015"
+      ]
+    },
+    {
+      "quirk_id": "QK0236",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "私下低俗",
+      "name": "V2补齐怪癖16",
+      "description": "第2卷 E0021 的极详细可辨识怪癖16：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发16"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式16",
+        "思维模式16"
+      ],
+      "verbal_patterns": [
+        "口癖16"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02016"
+      ]
+    },
+    {
+      "quirk_id": "QK0237",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "恶作剧",
+      "name": "V2补齐怪癖17",
+      "description": "第2卷 E0023 的极详细可辨识怪癖17：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发17"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式17",
+        "思维模式17"
+      ],
+      "verbal_patterns": [
+        "口癖17"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02017"
+      ]
+    },
+    {
+      "quirk_id": "QK0238",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "好色表现",
+      "name": "V2补齐怪癖18",
+      "description": "第2卷 E0022 的极详细可辨识怪癖18：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发18"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式18",
+        "思维模式18"
+      ],
+      "verbal_patterns": [
+        "口癖18"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02018"
+      ]
+    },
+    {
+      "quirk_id": "QK0239",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "睡眠习惯",
+      "name": "V2补齐怪癖19",
+      "description": "第2卷 E0021 的极详细可辨识怪癖19：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发19"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式19",
+        "思维模式19"
+      ],
+      "verbal_patterns": [
+        "口癖19"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02019"
+      ]
+    },
+    {
+      "quirk_id": "QK0240",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "饮食偏好",
+      "name": "V2补齐怪癖20",
+      "description": "第2卷 E0023 的极详细可辨识怪癖20：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发20"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式20",
+        "思维模式20"
+      ],
+      "verbal_patterns": [
+        "口癖20"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02020"
+      ]
+    },
+    {
+      "quirk_id": "QK0241",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "口头禅",
+      "name": "V2补齐怪癖21",
+      "description": "第2卷 E0022 的极详细可辨识怪癖21：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发21"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式21",
+        "思维模式21"
+      ],
+      "verbal_patterns": [
+        "口癖21"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02021"
+      ]
+    },
+    {
+      "quirk_id": "QK0242",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "小动作",
+      "name": "V2补齐怪癖22",
+      "description": "第2卷 E0021 的极详细可辨识怪癖22：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发22"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式22",
+        "思维模式22"
+      ],
+      "verbal_patterns": [
+        "口癖22"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "quirk_id": "QK0243",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "收藏癖",
+      "name": "V2补齐怪癖23",
+      "description": "第2卷 E0023 的极详细可辨识怪癖23：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发23"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式23",
+        "思维模式23"
+      ],
+      "verbal_patterns": [
+        "口癖23"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02023"
+      ]
+    },
+    {
+      "quirk_id": "QK0244",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "羞耻表现",
+      "name": "V2补齐怪癖24",
+      "description": "第2卷 E0022 的极详细可辨识怪癖24：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发24"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式24",
+        "思维模式24"
+      ],
+      "verbal_patterns": [
+        "口癖24"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02024"
+      ]
+    },
+    {
+      "quirk_id": "QK0245",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "紧张习惯",
+      "name": "V2补齐怪癖25",
+      "description": "第2卷 E0021 的极详细可辨识怪癖25：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发25"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式25",
+        "思维模式25"
+      ],
+      "verbal_patterns": [
+        "口癖25"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02025"
       ]
     }
   ],
@@ -3150,7 +6608,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0211"
+        "EV02011"
       ]
     },
     {
@@ -3167,7 +6625,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0212"
+        "EV02012"
       ]
     },
     {
@@ -3184,7 +6642,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0213"
+        "EV02013"
       ]
     },
     {
@@ -3201,7 +6659,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0214"
+        "EV02014"
       ]
     },
     {
@@ -3218,7 +6676,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0215"
+        "EV02015"
       ]
     },
     {
@@ -3235,7 +6693,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0216"
+        "EV02016"
       ]
     },
     {
@@ -3252,7 +6710,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0234"
+        "EV02034"
       ]
     },
     {
@@ -3269,7 +6727,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0235"
+        "EV02035"
       ]
     },
     {
@@ -3286,7 +6744,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0236"
+        "EV02036"
       ]
     },
     {
@@ -3303,7 +6761,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0237"
+        "EV02037"
       ]
     },
     {
@@ -3320,7 +6778,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0238"
+        "EV02038"
       ]
     },
     {
@@ -3337,7 +6795,245 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0239"
+        "EV02039"
+      ]
+    },
+    {
+      "preference_id": "PF0213",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "V2偏好目标1",
+      "description": "第2卷 E0021 的详细偏好1，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02011"
+      ]
+    },
+    {
+      "preference_id": "PF0214",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "preference_type": "DISLIKE",
+      "target": "V2偏好目标2",
+      "description": "第2卷 E0023 的详细偏好2，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02012"
+      ]
+    },
+    {
+      "preference_id": "PF0215",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "preference_type": "ATTRACTION",
+      "target": "V2偏好目标3",
+      "description": "第2卷 E0022 的详细偏好3，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "preference_id": "PF0216",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "AVERSION",
+      "target": "V2偏好目标4",
+      "description": "第2卷 E0021 的详细偏好4，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02014"
+      ]
+    },
+    {
+      "preference_id": "PF0217",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "preference_type": "FOOD",
+      "target": "V2偏好目标5",
+      "description": "第2卷 E0023 的详细偏好5，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02015"
+      ]
+    },
+    {
+      "preference_id": "PF0218",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "preference_type": "AESTHETIC",
+      "target": "V2偏好目标6",
+      "description": "第2卷 E0022 的详细偏好6，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02016"
+      ]
+    },
+    {
+      "preference_id": "PF0219",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "V2偏好目标7",
+      "description": "第2卷 E0021 的详细偏好7，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02017"
+      ]
+    },
+    {
+      "preference_id": "PF0220",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "preference_type": "DISLIKE",
+      "target": "V2偏好目标8",
+      "description": "第2卷 E0023 的详细偏好8，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02018"
+      ]
+    },
+    {
+      "preference_id": "PF0221",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "preference_type": "ATTRACTION",
+      "target": "V2偏好目标9",
+      "description": "第2卷 E0022 的详细偏好9，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02019"
+      ]
+    },
+    {
+      "preference_id": "PF0222",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "AVERSION",
+      "target": "V2偏好目标10",
+      "description": "第2卷 E0021 的详细偏好10，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02020"
+      ]
+    },
+    {
+      "preference_id": "PF0223",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "preference_type": "FOOD",
+      "target": "V2偏好目标11",
+      "description": "第2卷 E0023 的详细偏好11，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02021"
+      ]
+    },
+    {
+      "preference_id": "PF0224",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "preference_type": "AESTHETIC",
+      "target": "V2偏好目标12",
+      "description": "第2卷 E0022 的详细偏好12，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "preference_id": "PF0225",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "V2偏好目标13",
+      "description": "第2卷 E0021 的详细偏好13，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02023"
+      ]
+    },
+    {
+      "preference_id": "PF0226",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "preference_type": "DISLIKE",
+      "target": "V2偏好目标14",
+      "description": "第2卷 E0023 的详细偏好14，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02024"
       ]
     }
   ],
@@ -3373,7 +7069,7 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0216"
+        "EV02016"
       ]
     },
     {
@@ -3407,7 +7103,7 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0217"
+        "EV02017"
       ]
     },
     {
@@ -3441,7 +7137,217 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0218"
+        "EV02018"
+      ]
+    },
+    {
+      "profile_id": "BY0204",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02021"
+      ]
+    },
+    {
+      "profile_id": "BY0205",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "profile_id": "BY0206",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02023"
+      ]
+    },
+    {
+      "profile_id": "BY0207",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02024"
+      ]
+    },
+    {
+      "profile_id": "BY0208",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02025"
       ]
     }
   ],
@@ -3459,7 +7365,7 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0219"
+        "EV02019"
       ]
     },
     {
@@ -3475,7 +7381,7 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0220"
+        "EV02020"
       ]
     },
     {
@@ -3491,7 +7397,7 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0221"
+        "EV02021"
       ]
     },
     {
@@ -3507,7 +7413,211 @@
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0222"
+        "EV02022"
+      ]
+    },
+    {
+      "persona_id": "PN0205",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "persona_type": "PUBLIC",
+      "description": "第2卷 E0021 的公开人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02031"
+      ]
+    },
+    {
+      "persona_id": "PN0206",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "persona_type": "PRIVATE",
+      "description": "第2卷 E0023 的私人人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02032"
+      ]
+    },
+    {
+      "persona_id": "PN0207",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "persona_type": "TRUSTED",
+      "description": "第2卷 E0022 的信赖人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02033"
+      ]
+    },
+    {
+      "persona_id": "PN0208",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "persona_type": "FAMILY",
+      "description": "第2卷 E0021 的家族人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02034"
+      ]
+    },
+    {
+      "persona_id": "PN0209",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "persona_type": "ROMANTIC",
+      "description": "第2卷 E0023 的恋爱人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02035"
+      ]
+    },
+    {
+      "persona_id": "PN0210",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "persona_type": "ENEMY",
+      "description": "第2卷 E0022 的敌对人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02036"
+      ]
+    },
+    {
+      "persona_id": "PN0211",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "persona_type": "AUTHORITY",
+      "description": "第2卷 E0021 的权威人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02037"
+      ]
+    },
+    {
+      "persona_id": "PN0212",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "persona_type": "PUBLIC",
+      "description": "第2卷 E0023 的公开人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02038"
+      ]
+    },
+    {
+      "persona_id": "PN0213",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "persona_type": "PRIVATE",
+      "description": "第2卷 E0022 的私人人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02039"
+      ]
+    },
+    {
+      "persona_id": "PN0214",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "persona_type": "TRUSTED",
+      "description": "第2卷 E0021 的信赖人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02040"
+      ]
+    },
+    {
+      "persona_id": "PN0215",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "persona_type": "FAMILY",
+      "description": "第2卷 E0023 的家族人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02041"
+      ]
+    },
+    {
+      "persona_id": "PN0216",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "persona_type": "ROMANTIC",
+      "description": "第2卷 E0022 的恋爱人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02042"
       ]
     }
   ],

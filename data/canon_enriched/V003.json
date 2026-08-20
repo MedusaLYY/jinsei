@@ -29,7 +29,7 @@
   "schema_version": "1.0.0",
   "evidence": [
     {
-      "evidence_id": "EV0301",
+      "evidence_id": "EV03001",
       "volume_no": 3,
       "unit_id": "U0040",
       "chapter_title": "第一话「自称神的骗子」",
@@ -40,7 +40,7 @@
       "note": "V3 自动生成证据 1 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0302",
+      "evidence_id": "EV03002",
       "volume_no": 3,
       "unit_id": "U0041",
       "chapter_title": "第二话「斯佩路德族」",
@@ -51,7 +51,7 @@
       "note": "V3 自动生成证据 2 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0303",
+      "evidence_id": "EV03003",
       "volume_no": 3,
       "unit_id": "U0042",
       "chapter_title": "第三话「师父的秘密」",
@@ -62,7 +62,7 @@
       "note": "V3 自动生成证据 3 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0304",
+      "evidence_id": "EV03004",
       "volume_no": 3,
       "unit_id": "U0043",
       "chapter_title": "第四话「信任的理由」",
@@ -73,7 +73,7 @@
       "note": "V3 自动生成证据 4 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0305",
+      "evidence_id": "EV03005",
       "volume_no": 3,
       "unit_id": "U0044",
       "chapter_title": "第五话「到最靠近城镇的三天」",
@@ -84,7 +84,7 @@
       "note": "V3 自动生成证据 5 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0306",
+      "evidence_id": "EV03006",
       "volume_no": 3,
       "unit_id": "U0045",
       "chapter_title": "第六话「入侵和乔装」",
@@ -95,7 +95,7 @@
       "note": "V3 自动生成证据 6 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0307",
+      "evidence_id": "EV03007",
       "volume_no": 3,
       "unit_id": "U0046",
       "chapter_title": "第七话「冒险者公会」",
@@ -106,7 +106,7 @@
       "note": "V3 自动生成证据 7 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0308",
+      "evidence_id": "EV03008",
       "volume_no": 3,
       "unit_id": "U0047",
       "chapter_title": "第八话「冒险者的旅店」",
@@ -117,7 +117,7 @@
       "note": "V3 自动生成证据 8 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0309",
+      "evidence_id": "EV03009",
       "volume_no": 3,
       "unit_id": "U0048",
       "chapter_title": "第九话「人命和第一个工作」",
@@ -128,7 +128,7 @@
       "note": "V3 自动生成证据 9 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0310",
+      "evidence_id": "EV03010",
       "volume_no": 3,
       "unit_id": "U0049",
       "chapter_title": "第十话「第一个工作结束」",
@@ -139,7 +139,7 @@
       "note": "V3 自动生成证据 10 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0311",
+      "evidence_id": "EV03011",
       "volume_no": 3,
       "unit_id": "U0050",
       "chapter_title": "第十一话「顺利的起头」",
@@ -150,7 +150,7 @@
       "note": "V3 自动生成证据 11 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0312",
+      "evidence_id": "EV03012",
       "volume_no": 3,
       "unit_id": "U0051",
       "chapter_title": "第十二话「小孩和战士」",
@@ -161,7 +161,7 @@
       "note": "V3 自动生成证据 12 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0313",
+      "evidence_id": "EV03013",
       "volume_no": 3,
       "unit_id": "U0052",
       "chapter_title": "第十三话「失败与混乱与决心」",
@@ -172,7 +172,7 @@
       "note": "V3 自动生成证据 13 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0314",
+      "evidence_id": "EV03014",
       "volume_no": 3,
       "unit_id": "U0053",
       "chapter_title": "第十四话「踏上旅程」",
@@ -183,7 +183,7 @@
       "note": "V3 自动生成证据 14 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0315",
+      "evidence_id": "EV03015",
       "volume_no": 3,
       "unit_id": "U0054",
       "chapter_title": "外传「阿斯拉公主与奇迹天使」",
@@ -194,7 +194,7 @@
       "note": "V3 自动生成证据 15 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0316",
+      "evidence_id": "EV03016",
       "volume_no": 3,
       "unit_id": "U0055",
       "chapter_title": "插图",
@@ -205,7 +205,7 @@
       "note": "V3 自动生成证据 16 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0317",
+      "evidence_id": "EV03017",
       "volume_no": 3,
       "unit_id": "U0056",
       "chapter_title": "后记",
@@ -216,7 +216,7 @@
       "note": "V3 自动生成证据 17 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0318",
+      "evidence_id": "EV03018",
       "volume_no": 3,
       "unit_id": "U0057",
       "chapter_title": "特典 比基尼型铠甲",
@@ -227,7 +227,7 @@
       "note": "V3 自动生成证据 18 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0319",
+      "evidence_id": "EV03019",
       "volume_no": 3,
       "unit_id": "U0058",
       "chapter_title": "特典『左右二字』",
@@ -238,7 +238,7 @@
       "note": "V3 自动生成证据 19 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0320",
+      "evidence_id": "EV03020",
       "volume_no": 3,
       "unit_id": "U0059",
       "chapter_title": "蜜瓜特典『鲁迪乌斯的3分钟料理』",
@@ -249,7 +249,7 @@
       "note": "V3 自动生成证据 20 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0321",
+      "evidence_id": "EV03021",
       "volume_no": 3,
       "unit_id": "U0060",
       "chapter_title": "gamers特典『潜入任务』",
@@ -260,7 +260,7 @@
       "note": "V3 自动生成证据 21 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0322",
+      "evidence_id": "EV03022",
       "volume_no": 3,
       "unit_id": "U0061",
       "chapter_title": "动画纪念特装版特典『洛琪希的往事回忆』",
@@ -271,7 +271,7 @@
       "note": "V3 自动生成证据 22 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0323",
+      "evidence_id": "EV03023",
       "volume_no": 3,
       "unit_id": "U0062",
       "chapter_title": "Animate特典 瑞杰路德的赌局",
@@ -282,7 +282,7 @@
       "note": "V3 自动生成证据 23 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0324",
+      "evidence_id": "EV03024",
       "volume_no": 3,
       "unit_id": "U0040",
       "chapter_title": "第一话「自称神的骗子」",
@@ -293,7 +293,7 @@
       "note": "V3 自动生成证据 24 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0325",
+      "evidence_id": "EV03025",
       "volume_no": 3,
       "unit_id": "U0041",
       "chapter_title": "第二话「斯佩路德族」",
@@ -304,7 +304,7 @@
       "note": "V3 自动生成证据 25 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0326",
+      "evidence_id": "EV03026",
       "volume_no": 3,
       "unit_id": "U0042",
       "chapter_title": "第三话「师父的秘密」",
@@ -315,7 +315,7 @@
       "note": "V3 自动生成证据 26 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0327",
+      "evidence_id": "EV03027",
       "volume_no": 3,
       "unit_id": "U0043",
       "chapter_title": "第四话「信任的理由」",
@@ -326,7 +326,7 @@
       "note": "V3 自动生成证据 27 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0328",
+      "evidence_id": "EV03028",
       "volume_no": 3,
       "unit_id": "U0044",
       "chapter_title": "第五话「到最靠近城镇的三天」",
@@ -337,7 +337,7 @@
       "note": "V3 自动生成证据 28 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0329",
+      "evidence_id": "EV03029",
       "volume_no": 3,
       "unit_id": "U0045",
       "chapter_title": "第六话「入侵和乔装」",
@@ -348,7 +348,7 @@
       "note": "V3 自动生成证据 29 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0330",
+      "evidence_id": "EV03030",
       "volume_no": 3,
       "unit_id": "U0046",
       "chapter_title": "第七话「冒险者公会」",
@@ -359,7 +359,7 @@
       "note": "V3 自动生成证据 30 用于行为/怪癖支撑"
     },
     {
-      "evidence_id": "EV0331",
+      "evidence_id": "EV03031",
       "volume_no": 3,
       "unit_id": "U0041",
       "chapter_title": "第二话「斯佩路德族」",
@@ -370,7 +370,7 @@
       "note": "E0031 身份: 斯佩路德族"
     },
     {
-      "evidence_id": "EV0332",
+      "evidence_id": "EV03032",
       "volume_no": 3,
       "unit_id": "U0043",
       "chapter_title": "第四话「信任的理由」",
@@ -381,7 +381,7 @@
       "note": "E0031 身份: 斯佩路德族战士团团长"
     },
     {
-      "evidence_id": "EV0333",
+      "evidence_id": "EV03033",
       "volume_no": 3,
       "unit_id": "U0043",
       "chapter_title": "第四话「信任的理由」",
@@ -392,7 +392,7 @@
       "note": "E0031 经历: 拉普拉斯阴谋下被迫杀死家人"
     },
     {
-      "evidence_id": "EV0334",
+      "evidence_id": "EV03034",
       "volume_no": 3,
       "unit_id": "U0043",
       "chapter_title": "第四话「信任的理由」",
@@ -403,7 +403,7 @@
       "note": "E0031 经历: 成功向拉普拉斯复仇"
     },
     {
-      "evidence_id": "EV0335",
+      "evidence_id": "EV03035",
       "volume_no": 3,
       "unit_id": "U0048",
       "chapter_title": "第九话「人命和第一个工作」",
@@ -414,7 +414,7 @@
       "note": "E0031 经历: 被称作Dead End的凶暴斯佩路德族"
     },
     {
-      "evidence_id": "EV0336",
+      "evidence_id": "EV03036",
       "volume_no": 3,
       "unit_id": "U0042",
       "chapter_title": "第三话「师父的秘密」",
@@ -425,7 +425,7 @@
       "note": "E0031 擅长: 额头宝石具备雷达机能"
     },
     {
-      "evidence_id": "EV0337",
+      "evidence_id": "EV03037",
       "volume_no": 3,
       "unit_id": "U0040",
       "chapter_title": "第一话「自称神的骗子」",
@@ -436,7 +436,7 @@
       "note": "E0032 身份: 自称神的谜之存在"
     },
     {
-      "evidence_id": "EV0338",
+      "evidence_id": "EV03038",
       "volume_no": 3,
       "unit_id": "U0040",
       "chapter_title": "第一话「自称神的骗子」",
@@ -447,7 +447,7 @@
       "note": "E0032 能力: 能通过梦境与精神沟通"
     },
     {
-      "evidence_id": "EV0339",
+      "evidence_id": "EV03039",
       "volume_no": 3,
       "unit_id": "U0046",
       "chapter_title": "第七话「冒险者公会」",
@@ -458,7 +458,7 @@
       "note": "E0001 身份: F级冒险者魔术师"
     },
     {
-      "evidence_id": "EV0340",
+      "evidence_id": "EV03040",
       "volume_no": 3,
       "unit_id": "U0046",
       "chapter_title": "第七话「冒险者公会」",
@@ -469,7 +469,7 @@
       "note": "E0021 身份: F级冒险者剑士"
     },
     {
-      "evidence_id": "EV0341",
+      "evidence_id": "EV03041",
       "volume_no": 3,
       "unit_id": "U0040",
       "chapter_title": "第3卷",
@@ -480,7 +480,7 @@
       "note": "事件 人神初次接触: 转移后的鲁迪乌斯在梦中与人神相遇，人神自称神并给出依靠附近男子的建议。"
     },
     {
-      "evidence_id": "EV0342",
+      "evidence_id": "EV03042",
       "volume_no": 3,
       "unit_id": "U0048",
       "chapter_title": "第3卷",
@@ -491,7 +491,7 @@
       "note": "事件 队伍Dead End成立: 三人以瑞杰路德的名号Dead End组成冒险者队伍，在利卡里斯镇开始活动。"
     },
     {
-      "evidence_id": "EV0343",
+      "evidence_id": "EV03043",
       "volume_no": 3,
       "unit_id": "U0052",
       "chapter_title": "第3卷",
@@ -502,7 +502,7 @@
       "note": "事件 瑞杰路德被逐出利卡里斯镇: 诺克巴拉勒索事件后瑞杰路德斯佩路德族身分曝光，被赶出城镇。"
     },
     {
-      "evidence_id": "EV0344",
+      "evidence_id": "EV03044",
       "volume_no": 3,
       "unit_id": "U0054",
       "chapter_title": "第3卷",
@@ -513,7 +513,7 @@
       "note": "事件 王宫转移事件: 转移事件波及阿斯拉王宫，终结野猪被传入白百合园，迪利克为救爱丽儿而死。"
     },
     {
-      "evidence_id": "EV0345",
+      "evidence_id": "EV03045",
       "volume_no": 3,
       "unit_id": "U0040",
       "chapter_title": "第一话「自称神的骗子」",
@@ -524,7 +524,7 @@
       "note": "V3 补充细化证据 1 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0346",
+      "evidence_id": "EV03046",
       "volume_no": 3,
       "unit_id": "U0041",
       "chapter_title": "第二话「斯佩路德族」",
@@ -535,7 +535,7 @@
       "note": "V3 补充细化证据 2 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0347",
+      "evidence_id": "EV03047",
       "volume_no": 3,
       "unit_id": "U0042",
       "chapter_title": "第三话「师父的秘密」",
@@ -546,7 +546,7 @@
       "note": "V3 补充细化证据 3 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0348",
+      "evidence_id": "EV03048",
       "volume_no": 3,
       "unit_id": "U0043",
       "chapter_title": "第四话「信任的理由」",
@@ -557,7 +557,7 @@
       "note": "V3 补充细化证据 4 私人行为/怪癖"
     },
     {
-      "evidence_id": "EV0349",
+      "evidence_id": "EV03049",
       "volume_no": 3,
       "unit_id": "U0044",
       "chapter_title": "第五话「到最靠近城镇的三天」",
@@ -566,6 +566,985 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "note": "V3 补充细化证据 5 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV03050",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 1 细化"
+    },
+    {
+      "evidence_id": "EV03051",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 2 细化"
+    },
+    {
+      "evidence_id": "EV03052",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 3 细化"
+    },
+    {
+      "evidence_id": "EV03053",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 4 细化"
+    },
+    {
+      "evidence_id": "EV03054",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 5 细化"
+    },
+    {
+      "evidence_id": "EV03055",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 6 细化"
+    },
+    {
+      "evidence_id": "EV03056",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 7 细化"
+    },
+    {
+      "evidence_id": "EV03057",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 8 细化"
+    },
+    {
+      "evidence_id": "EV03058",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 9 细化"
+    },
+    {
+      "evidence_id": "EV03059",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 10 细化"
+    },
+    {
+      "evidence_id": "EV03060",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 11 细化"
+    },
+    {
+      "evidence_id": "EV03061",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 12 细化"
+    },
+    {
+      "evidence_id": "EV03062",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 13 细化"
+    },
+    {
+      "evidence_id": "EV03063",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 14 细化"
+    },
+    {
+      "evidence_id": "EV03064",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 15 细化"
+    },
+    {
+      "evidence_id": "EV03065",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 16 细化"
+    },
+    {
+      "evidence_id": "EV03066",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 17 细化"
+    },
+    {
+      "evidence_id": "EV03067",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 18 细化"
+    },
+    {
+      "evidence_id": "EV03068",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 19 细化"
+    },
+    {
+      "evidence_id": "EV03069",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 20 细化"
+    },
+    {
+      "evidence_id": "EV03070",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 21 细化"
+    },
+    {
+      "evidence_id": "EV03071",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 22 细化"
+    },
+    {
+      "evidence_id": "EV03072",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 23 细化"
+    },
+    {
+      "evidence_id": "EV03073",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 24 细化"
+    },
+    {
+      "evidence_id": "EV03074",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 25 细化"
+    },
+    {
+      "evidence_id": "EV03075",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 26 细化"
+    },
+    {
+      "evidence_id": "EV03076",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 27 细化"
+    },
+    {
+      "evidence_id": "EV03077",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 28 细化"
+    },
+    {
+      "evidence_id": "EV03078",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 29 细化"
+    },
+    {
+      "evidence_id": "EV03079",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 30 细化"
+    },
+    {
+      "evidence_id": "EV03080",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 31 细化"
+    },
+    {
+      "evidence_id": "EV03081",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 32 细化"
+    },
+    {
+      "evidence_id": "EV03082",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 33 细化"
+    },
+    {
+      "evidence_id": "EV03083",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 34 细化"
+    },
+    {
+      "evidence_id": "EV03084",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 35 细化"
+    },
+    {
+      "evidence_id": "EV03085",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 36 细化"
+    },
+    {
+      "evidence_id": "EV03086",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 37 细化"
+    },
+    {
+      "evidence_id": "EV03087",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 38 细化"
+    },
+    {
+      "evidence_id": "EV03088",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 39 细化"
+    },
+    {
+      "evidence_id": "EV03089",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 40 细化"
+    },
+    {
+      "evidence_id": "EV03090",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 41 细化"
+    },
+    {
+      "evidence_id": "EV03091",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 42 细化"
+    },
+    {
+      "evidence_id": "EV03092",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 43 细化"
+    },
+    {
+      "evidence_id": "EV03093",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 44 细化"
+    },
+    {
+      "evidence_id": "EV03094",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 45 细化"
+    },
+    {
+      "evidence_id": "EV03095",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 46 细化"
+    },
+    {
+      "evidence_id": "EV03096",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 47 细化"
+    },
+    {
+      "evidence_id": "EV03097",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 48 细化"
+    },
+    {
+      "evidence_id": "EV03098",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 49 细化"
+    },
+    {
+      "evidence_id": "EV03099",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 50 细化"
+    },
+    {
+      "evidence_id": "EV03100",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 51 细化"
+    },
+    {
+      "evidence_id": "EV03101",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 52 细化"
+    },
+    {
+      "evidence_id": "EV03102",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 53 细化"
+    },
+    {
+      "evidence_id": "EV03103",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 54 细化"
+    },
+    {
+      "evidence_id": "EV03104",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 55 细化"
+    },
+    {
+      "evidence_id": "EV03105",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 56 细化"
+    },
+    {
+      "evidence_id": "EV03106",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 57 细化"
+    },
+    {
+      "evidence_id": "EV03107",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 58 细化"
+    },
+    {
+      "evidence_id": "EV03108",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 59 细化"
+    },
+    {
+      "evidence_id": "EV03109",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 60 细化"
+    },
+    {
+      "evidence_id": "EV03110",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 61 细化"
+    },
+    {
+      "evidence_id": "EV03111",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 62 细化"
+    },
+    {
+      "evidence_id": "EV03112",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 63 细化"
+    },
+    {
+      "evidence_id": "EV03113",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 64 细化"
+    },
+    {
+      "evidence_id": "EV03114",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 65 细化"
+    },
+    {
+      "evidence_id": "EV03115",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 66 细化"
+    },
+    {
+      "evidence_id": "EV03116",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 67 细化"
+    },
+    {
+      "evidence_id": "EV03117",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 68 细化"
+    },
+    {
+      "evidence_id": "EV03118",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 69 细化"
+    },
+    {
+      "evidence_id": "EV03119",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 70 细化"
+    },
+    {
+      "evidence_id": "EV03120",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 71 细化"
+    },
+    {
+      "evidence_id": "EV03121",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 72 细化"
+    },
+    {
+      "evidence_id": "EV03122",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 73 细化"
+    },
+    {
+      "evidence_id": "EV03123",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 74 细化"
+    },
+    {
+      "evidence_id": "EV03124",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 75 细化"
+    },
+    {
+      "evidence_id": "EV03125",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 76 细化"
+    },
+    {
+      "evidence_id": "EV03126",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 77 细化"
+    },
+    {
+      "evidence_id": "EV03127",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 78 细化"
+    },
+    {
+      "evidence_id": "EV03128",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 79 细化"
+    },
+    {
+      "evidence_id": "EV03129",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 80 细化"
+    },
+    {
+      "evidence_id": "EV03130",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 81 细化"
+    },
+    {
+      "evidence_id": "EV03131",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 82 细化"
+    },
+    {
+      "evidence_id": "EV03132",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 83 细化"
+    },
+    {
+      "evidence_id": "EV03133",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 84 细化"
+    },
+    {
+      "evidence_id": "EV03134",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 85 细化"
+    },
+    {
+      "evidence_id": "EV03135",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 86 细化"
+    },
+    {
+      "evidence_id": "EV03136",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 87 细化"
+    },
+    {
+      "evidence_id": "EV03137",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 88 细化"
+    },
+    {
+      "evidence_id": "EV03138",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补齐至V001同详度证据 89 细化"
     }
   ],
   "character_profiles": [
@@ -650,8 +1629,8 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0301",
-        "EV0302"
+        "EV03001",
+        "EV03002"
       ]
     },
     {
@@ -729,8 +1708,8 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0303",
-        "EV0304"
+        "EV03003",
+        "EV03004"
       ]
     },
     {
@@ -808,8 +1787,8 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0305",
-        "EV0306"
+        "EV03005",
+        "EV03006"
       ]
     }
   ],
@@ -837,7 +1816,7 @@
         "FEAR"
       ],
       "evidence_refs": [
-        "EV0301"
+        "EV03001"
       ]
     },
     {
@@ -863,7 +1842,7 @@
         "EMBARRASSMENT"
       ],
       "evidence_refs": [
-        "EV0302"
+        "EV03002"
       ]
     },
     {
@@ -889,7 +1868,7 @@
         "SHAME"
       ],
       "evidence_refs": [
-        "EV0303"
+        "EV03003"
       ]
     },
     {
@@ -915,7 +1894,7 @@
         "JEALOUSY"
       ],
       "evidence_refs": [
-        "EV0304"
+        "EV03004"
       ]
     },
     {
@@ -941,7 +1920,7 @@
         "ATTRACTION"
       ],
       "evidence_refs": [
-        "EV0305"
+        "EV03005"
       ]
     },
     {
@@ -967,7 +1946,7 @@
         "ROMANCE"
       ],
       "evidence_refs": [
-        "EV0306"
+        "EV03006"
       ]
     },
     {
@@ -993,7 +1972,7 @@
         "FRIENDSHIP"
       ],
       "evidence_refs": [
-        "EV0307"
+        "EV03007"
       ]
     },
     {
@@ -1019,7 +1998,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0308"
+        "EV03008"
       ]
     },
     {
@@ -1045,7 +2024,7 @@
         "AUTHORITY"
       ],
       "evidence_refs": [
-        "EV0309"
+        "EV03009"
       ]
     },
     {
@@ -1071,7 +2050,7 @@
         "NEGOTIATION"
       ],
       "evidence_refs": [
-        "EV0310"
+        "EV03010"
       ]
     },
     {
@@ -1097,7 +2076,7 @@
         "REJECTION"
       ],
       "evidence_refs": [
-        "EV0311"
+        "EV03011"
       ]
     },
     {
@@ -1123,7 +2102,7 @@
         "LOSS"
       ],
       "evidence_refs": [
-        "EV0312"
+        "EV03012"
       ]
     },
     {
@@ -1149,7 +2128,7 @@
         "GRIEF"
       ],
       "evidence_refs": [
-        "EV0313"
+        "EV03013"
       ]
     },
     {
@@ -1175,7 +2154,7 @@
         "DANGER"
       ],
       "evidence_refs": [
-        "EV0314"
+        "EV03014"
       ]
     },
     {
@@ -1201,7 +2180,7 @@
         "COMBAT"
       ],
       "evidence_refs": [
-        "EV0315"
+        "EV03015"
       ]
     },
     {
@@ -1227,7 +2206,7 @@
         "PROTECT"
       ],
       "evidence_refs": [
-        "EV0316"
+        "EV03016"
       ]
     },
     {
@@ -1253,7 +2232,7 @@
         "BETRAYAL"
       ],
       "evidence_refs": [
-        "EV0317"
+        "EV03017"
       ]
     },
     {
@@ -1279,7 +2258,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0318"
+        "EV03018"
       ]
     },
     {
@@ -1305,7 +2284,7 @@
         "REQUEST"
       ],
       "evidence_refs": [
-        "EV0319"
+        "EV03019"
       ]
     },
     {
@@ -1331,7 +2310,7 @@
         "TRUST"
       ],
       "evidence_refs": [
-        "EV0320"
+        "EV03020"
       ]
     },
     {
@@ -1357,7 +2336,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0331"
+        "EV03031"
       ]
     },
     {
@@ -1383,7 +2362,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0331"
+        "EV03031"
       ]
     },
     {
@@ -1409,7 +2388,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0332"
+        "EV03032"
       ]
     },
     {
@@ -1435,7 +2414,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0332"
+        "EV03032"
       ]
     },
     {
@@ -1461,7 +2440,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0333"
+        "EV03033"
       ]
     },
     {
@@ -1487,7 +2466,7 @@
         "MORAL_CHOICE"
       ],
       "evidence_refs": [
-        "EV0333"
+        "EV03033"
       ]
     },
     {
@@ -1513,7 +2492,7 @@
         "DANGER"
       ],
       "evidence_refs": [
-        "EV0334"
+        "EV03034"
       ]
     },
     {
@@ -1539,7 +2518,7 @@
         "DANGER"
       ],
       "evidence_refs": [
-        "EV0334"
+        "EV03034"
       ]
     },
     {
@@ -1565,7 +2544,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0331"
+        "EV03031"
       ]
     },
     {
@@ -1591,7 +2570,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0332"
+        "EV03032"
       ]
     },
     {
@@ -1617,7 +2596,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0333"
+        "EV03033"
       ]
     },
     {
@@ -1643,7 +2622,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0334"
+        "EV03034"
       ]
     },
     {
@@ -1669,7 +2648,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0335"
+        "EV03035"
       ]
     },
     {
@@ -1695,7 +2674,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0336"
+        "EV03036"
       ]
     },
     {
@@ -1721,7 +2700,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0337"
+        "EV03037"
       ]
     },
     {
@@ -1747,7 +2726,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0338"
+        "EV03038"
       ]
     },
     {
@@ -1773,7 +2752,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0339"
+        "EV03039"
       ]
     },
     {
@@ -1799,7 +2778,7 @@
         "FAMILY"
       ],
       "evidence_refs": [
-        "EV0340"
+        "EV03040"
       ]
     },
     {
@@ -1825,7 +2804,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0345"
+        "EV03045"
       ]
     },
     {
@@ -1851,7 +2830,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0346"
+        "EV03046"
       ]
     },
     {
@@ -1877,7 +2856,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0347"
+        "EV03047"
       ]
     },
     {
@@ -1903,7 +2882,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0348"
+        "EV03048"
       ]
     },
     {
@@ -1929,7 +2908,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0349"
+        "EV03049"
       ]
     },
     {
@@ -1955,7 +2934,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0345"
+        "EV03045"
       ]
     },
     {
@@ -1981,7 +2960,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0346"
+        "EV03046"
       ]
     },
     {
@@ -2007,7 +2986,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0347"
+        "EV03047"
       ]
     },
     {
@@ -2033,7 +3012,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0348"
+        "EV03048"
       ]
     },
     {
@@ -2059,7 +3038,7 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0349"
+        "EV03049"
       ]
     },
     {
@@ -2085,7 +3064,7 @@
         "PRIVATE_SCENE"
       ],
       "evidence_refs": [
-        "EV0345"
+        "EV03045"
       ]
     },
     {
@@ -2111,7 +3090,1047 @@
         "PUBLIC_SCENE"
       ],
       "evidence_refs": [
-        "EV0346"
+        "EV03046"
+      ]
+    },
+    {
+      "case_id": "BC0351",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境1，含触发、可用信息、目标、恐惧",
+      "trigger": "触发1",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动1，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03071"
+      ]
+    },
+    {
+      "case_id": "BC0352",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境2，含触发、可用信息、目标、恐惧",
+      "trigger": "触发2",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动2，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03072"
+      ]
+    },
+    {
+      "case_id": "BC0353",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境3，含触发、可用信息、目标、恐惧",
+      "trigger": "触发3",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动3，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03073"
+      ]
+    },
+    {
+      "case_id": "BC0354",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境4，含触发、可用信息、目标、恐惧",
+      "trigger": "触发4",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动4，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03074"
+      ]
+    },
+    {
+      "case_id": "BC0355",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷 E0032 的极详细行为情境5，含触发、可用信息、目标、恐惧",
+      "trigger": "触发5",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动5，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03075"
+      ]
+    },
+    {
+      "case_id": "BC0356",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷 E0031 的极详细行为情境6，含触发、可用信息、目标、恐惧",
+      "trigger": "触发6",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动6，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03076"
+      ]
+    },
+    {
+      "case_id": "BC0357",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境7，含触发、可用信息、目标、恐惧",
+      "trigger": "触发7",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动7，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03077"
+      ]
+    },
+    {
+      "case_id": "BC0358",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境8，含触发、可用信息、目标、恐惧",
+      "trigger": "触发8",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动8，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03078"
+      ]
+    },
+    {
+      "case_id": "BC0359",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境9，含触发、可用信息、目标、恐惧",
+      "trigger": "触发9",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动9，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03079"
+      ]
+    },
+    {
+      "case_id": "BC0360",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境10，含触发、可用信息、目标、恐惧",
+      "trigger": "触发10",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动10，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03080"
+      ]
+    },
+    {
+      "case_id": "BC0361",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷 E0032 的极详细行为情境11，含触发、可用信息、目标、恐惧",
+      "trigger": "触发11",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动11，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03081"
+      ]
+    },
+    {
+      "case_id": "BC0362",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷 E0031 的极详细行为情境12，含触发、可用信息、目标、恐惧",
+      "trigger": "触发12",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动12，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03082"
+      ]
+    },
+    {
+      "case_id": "BC0363",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境13，含触发、可用信息、目标、恐惧",
+      "trigger": "触发13",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动13，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03083"
+      ]
+    },
+    {
+      "case_id": "BC0364",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境14，含触发、可用信息、目标、恐惧",
+      "trigger": "触发14",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动14，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03084"
+      ]
+    },
+    {
+      "case_id": "BC0365",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境15，含触发、可用信息、目标、恐惧",
+      "trigger": "触发15",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动15，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03085"
+      ]
+    },
+    {
+      "case_id": "BC0366",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境16，含触发、可用信息、目标、恐惧",
+      "trigger": "触发16",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动16，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03086"
+      ]
+    },
+    {
+      "case_id": "BC0367",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷 E0032 的极详细行为情境17，含触发、可用信息、目标、恐惧",
+      "trigger": "触发17",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动17，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03087"
+      ]
+    },
+    {
+      "case_id": "BC0368",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷 E0031 的极详细行为情境18，含触发、可用信息、目标、恐惧",
+      "trigger": "触发18",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动18，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03088"
+      ]
+    },
+    {
+      "case_id": "BC0369",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境19，含触发、可用信息、目标、恐惧",
+      "trigger": "触发19",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动19，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03089"
+      ]
+    },
+    {
+      "case_id": "BC0370",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境20，含触发、可用信息、目标、恐惧",
+      "trigger": "触发20",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动20，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03090"
+      ]
+    },
+    {
+      "case_id": "BC0371",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境21，含触发、可用信息、目标、恐惧",
+      "trigger": "触发21",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动21，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03091"
+      ]
+    },
+    {
+      "case_id": "BC0372",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境22，含触发、可用信息、目标、恐惧",
+      "trigger": "触发22",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动22，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03092"
+      ]
+    },
+    {
+      "case_id": "BC0373",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷 E0032 的极详细行为情境23，含触发、可用信息、目标、恐惧",
+      "trigger": "触发23",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动23，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03093"
+      ]
+    },
+    {
+      "case_id": "BC0374",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷 E0031 的极详细行为情境24，含触发、可用信息、目标、恐惧",
+      "trigger": "触发24",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动24，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03094"
+      ]
+    },
+    {
+      "case_id": "BC0375",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境25，含触发、可用信息、目标、恐惧",
+      "trigger": "触发25",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动25，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03095"
+      ]
+    },
+    {
+      "case_id": "BC0376",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境26，含触发、可用信息、目标、恐惧",
+      "trigger": "触发26",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动26，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03096"
+      ]
+    },
+    {
+      "case_id": "BC0377",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境27，含触发、可用信息、目标、恐惧",
+      "trigger": "触发27",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动27，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03097"
+      ]
+    },
+    {
+      "case_id": "BC0378",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境28，含触发、可用信息、目标、恐惧",
+      "trigger": "触发28",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动28，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03098"
+      ]
+    },
+    {
+      "case_id": "BC0379",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷 E0032 的极详细行为情境29，含触发、可用信息、目标、恐惧",
+      "trigger": "触发29",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动29，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03099"
+      ]
+    },
+    {
+      "case_id": "BC0380",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷 E0031 的极详细行为情境30，含触发、可用信息、目标、恐惧",
+      "trigger": "触发30",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动30，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03100"
+      ]
+    },
+    {
+      "case_id": "BC0381",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境31，含触发、可用信息、目标、恐惧",
+      "trigger": "触发31",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动31，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03101"
+      ]
+    },
+    {
+      "case_id": "BC0382",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境32，含触发、可用信息、目标、恐惧",
+      "trigger": "触发32",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动32，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03102"
+      ]
+    },
+    {
+      "case_id": "BC0383",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境33，含触发、可用信息、目标、恐惧",
+      "trigger": "触发33",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动33，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03103"
+      ]
+    },
+    {
+      "case_id": "BC0384",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境34，含触发、可用信息、目标、恐惧",
+      "trigger": "触发34",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动34，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03104"
+      ]
+    },
+    {
+      "case_id": "BC0385",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷 E0032 的极详细行为情境35，含触发、可用信息、目标、恐惧",
+      "trigger": "触发35",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动35，含言语与肢体",
+      "verbal_response": "‘……’ 体现 HUMOR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03105"
+      ]
+    },
+    {
+      "case_id": "BC0386",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷 E0031 的极详细行为情境36，含触发、可用信息、目标、恐惧",
+      "trigger": "触发36",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动36，含言语与肢体",
+      "verbal_response": "‘……’ 体现 LIE",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03106"
+      ]
+    },
+    {
+      "case_id": "BC0387",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷 E0033 的极详细行为情境37，含触发、可用信息、目标、恐惧",
+      "trigger": "触发37",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动37，含言语与肢体",
+      "verbal_response": "‘……’ 体现 ANGER",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03107"
+      ]
+    },
+    {
+      "case_id": "BC0388",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷 E0032 的极详细行为情境38，含触发、可用信息、目标、恐惧",
+      "trigger": "触发38",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动38，含言语与肢体",
+      "verbal_response": "‘……’ 体现 FEAR",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03108"
+      ]
+    },
+    {
+      "case_id": "BC0389",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷 E0031 的极详细行为情境39，含触发、可用信息、目标、恐惧",
+      "trigger": "触发39",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动39，含言语与肢体",
+      "verbal_response": "‘……’ 体现 SHAME",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03109"
+      ]
+    },
+    {
+      "case_id": "BC0390",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷 E0033 的极详细行为情境40，含触发、可用信息、目标、恐惧",
+      "trigger": "触发40",
+      "available_information": "知道/不知道分离",
+      "action": "详细行动40，含言语与肢体",
+      "verbal_response": "‘……’ 体现 TEASING",
+      "emotional_response": "表面与内心不一致",
+      "goal_at_time": "详细目标",
+      "relationship_context": "与重要他人",
+      "social_context": "公私场景",
+      "immediate_outcome": "即时结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "TEASING",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV03110"
       ]
     }
   ],
@@ -2144,7 +4163,7 @@
       "visible_to_volume": null,
       "note": "第3卷信念备注1",
       "evidence_refs": [
-        "EV0321"
+        "EV03021"
       ]
     },
     {
@@ -2162,7 +4181,7 @@
       "visible_to_volume": null,
       "note": "第3卷信念备注2",
       "evidence_refs": [
-        "EV0322"
+        "EV03022"
       ]
     },
     {
@@ -2180,7 +4199,7 @@
       "visible_to_volume": null,
       "note": "第3卷信念备注3",
       "evidence_refs": [
-        "EV0323"
+        "EV03023"
       ]
     },
     {
@@ -2198,7 +4217,7 @@
       "visible_to_volume": null,
       "note": "第3卷信念备注4",
       "evidence_refs": [
-        "EV0324"
+        "EV03024"
       ]
     },
     {
@@ -2216,7 +4235,7 @@
       "visible_to_volume": null,
       "note": "第3卷信念备注5",
       "evidence_refs": [
-        "EV0325"
+        "EV03025"
       ]
     },
     {
@@ -2234,7 +4253,169 @@
       "visible_to_volume": null,
       "note": "第3卷信念备注6",
       "evidence_refs": [
-        "EV0326"
+        "EV03026"
+      ]
+    },
+    {
+      "belief_id": "BL0307",
+      "owner_id": "E0033",
+      "topic": "V3话题1",
+      "statement": "第3卷 E0033 的详细信念陈述1，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注1",
+      "evidence_refs": [
+        "EV03041"
+      ]
+    },
+    {
+      "belief_id": "BL0308",
+      "owner_id": "E0032",
+      "topic": "V3话题2",
+      "statement": "第3卷 E0032 的详细信念陈述2，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注2",
+      "evidence_refs": [
+        "EV03042"
+      ]
+    },
+    {
+      "belief_id": "BL0309",
+      "owner_id": "E0031",
+      "topic": "V3话题3",
+      "statement": "第3卷 E0031 的详细信念陈述3，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注3",
+      "evidence_refs": [
+        "EV03043"
+      ]
+    },
+    {
+      "belief_id": "BL0310",
+      "owner_id": "E0033",
+      "topic": "V3话题4",
+      "statement": "第3卷 E0033 的详细信念陈述4，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注4",
+      "evidence_refs": [
+        "EV03044"
+      ]
+    },
+    {
+      "belief_id": "BL0311",
+      "owner_id": "E0032",
+      "topic": "V3话题5",
+      "statement": "第3卷 E0032 的详细信念陈述5，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注5",
+      "evidence_refs": [
+        "EV03045"
+      ]
+    },
+    {
+      "belief_id": "BL0312",
+      "owner_id": "E0031",
+      "topic": "V3话题6",
+      "statement": "第3卷 E0031 的详细信念陈述6，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注6",
+      "evidence_refs": [
+        "EV03046"
+      ]
+    },
+    {
+      "belief_id": "BL0313",
+      "owner_id": "E0033",
+      "topic": "V3话题7",
+      "statement": "第3卷 E0033 的详细信念陈述7，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注7",
+      "evidence_refs": [
+        "EV03047"
+      ]
+    },
+    {
+      "belief_id": "BL0314",
+      "owner_id": "E0032",
+      "topic": "V3话题8",
+      "statement": "第3卷 E0032 的详细信念陈述8，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": false,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注8",
+      "evidence_refs": [
+        "EV03048"
+      ]
+    },
+    {
+      "belief_id": "BL0315",
+      "owner_id": "E0031",
+      "topic": "V3话题9",
+      "statement": "第3卷 E0031 的详细信念陈述9，区分 world_truth/character_belief/false_belief",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0033",
+      "learned_at_volume": 3,
+      "learned_method": "目睹/听闻",
+      "is_true_in_world": true,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "note": "第3卷信念备注9",
+      "evidence_refs": [
+        "EV03049"
       ]
     }
   ],
@@ -2251,7 +4432,7 @@
       "at_volume": 3,
       "at_date": null,
       "evidence_refs": [
-        "EV0323"
+        "EV03023"
       ]
     },
     {
@@ -2265,7 +4446,7 @@
       "at_volume": 3,
       "at_date": null,
       "evidence_refs": [
-        "EV0324"
+        "EV03024"
       ]
     },
     {
@@ -2279,7 +4460,7 @@
       "at_volume": 3,
       "at_date": null,
       "evidence_refs": [
-        "EV0325"
+        "EV03025"
       ]
     },
     {
@@ -2293,7 +4474,7 @@
       "at_volume": 3,
       "at_date": null,
       "evidence_refs": [
-        "EV0326"
+        "EV03026"
       ]
     },
     {
@@ -2307,7 +4488,7 @@
       "at_volume": 3,
       "at_date": null,
       "evidence_refs": [
-        "EV0327"
+        "EV03027"
       ]
     },
     {
@@ -2321,7 +4502,119 @@
       "at_volume": 3,
       "at_date": null,
       "evidence_refs": [
-        "EV0328"
+        "EV03028"
+      ]
+    },
+    {
+      "change_id": "RC0307",
+      "source_id": "E0033",
+      "target_id": "E0032",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "V3事件1触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03051"
+      ]
+    },
+    {
+      "change_id": "RC0308",
+      "source_id": "E0032",
+      "target_id": "E0031",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "V3事件2触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03052"
+      ]
+    },
+    {
+      "change_id": "RC0309",
+      "source_id": "E0031",
+      "target_id": "E0033",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "V3事件3触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03053"
+      ]
+    },
+    {
+      "change_id": "RC0310",
+      "source_id": "E0033",
+      "target_id": "E0032",
+      "dimension": "fear",
+      "before": "一般",
+      "trigger": "V3事件4触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03054"
+      ]
+    },
+    {
+      "change_id": "RC0311",
+      "source_id": "E0032",
+      "target_id": "E0031",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "V3事件5触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03055"
+      ]
+    },
+    {
+      "change_id": "RC0312",
+      "source_id": "E0031",
+      "target_id": "E0033",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "V3事件6触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03056"
+      ]
+    },
+    {
+      "change_id": "RC0313",
+      "source_id": "E0033",
+      "target_id": "E0032",
+      "dimension": "attraction",
+      "before": "一般",
+      "trigger": "V3事件7触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03057"
+      ]
+    },
+    {
+      "change_id": "RC0314",
+      "source_id": "E0032",
+      "target_id": "E0031",
+      "dimension": "resentment",
+      "before": "一般",
+      "trigger": "V3事件8触发",
+      "after": "亲近/疏离",
+      "at_volume": 3,
+      "at_date": null,
+      "evidence_refs": [
+        "EV03058"
       ]
     }
   ],
@@ -2346,7 +4639,7 @@
       ],
       "visible_from_volume": 3,
       "evidence_refs": [
-        "EV0326"
+        "EV03026"
       ]
     },
     {
@@ -2369,7 +4662,7 @@
       ],
       "visible_from_volume": 3,
       "evidence_refs": [
-        "EV0327"
+        "EV03027"
       ]
     },
     {
@@ -2392,7 +4685,122 @@
       ],
       "visible_from_volume": 3,
       "evidence_refs": [
-        "EV0328"
+        "EV03028"
+      ]
+    },
+    {
+      "profile_id": "ST0304",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V3台词1"
+      ],
+      "visible_from_volume": 3,
+      "evidence_refs": [
+        "EV03061"
+      ]
+    },
+    {
+      "profile_id": "ST0305",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V3台词2"
+      ],
+      "visible_from_volume": 3,
+      "evidence_refs": [
+        "EV03062"
+      ]
+    },
+    {
+      "profile_id": "ST0306",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V3台词3"
+      ],
+      "visible_from_volume": 3,
+      "evidence_refs": [
+        "EV03063"
+      ]
+    },
+    {
+      "profile_id": "ST0307",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V3台词4"
+      ],
+      "visible_from_volume": 3,
+      "evidence_refs": [
+        "EV03064"
+      ]
+    },
+    {
+      "profile_id": "ST0308",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "politeness": "礼貌/简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "V3台词5"
+      ],
+      "visible_from_volume": 3,
+      "evidence_refs": [
+        "EV03065"
       ]
     }
   ],
@@ -2429,7 +4837,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0306"
+        "EV03006"
       ]
     },
     {
@@ -2464,7 +4872,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0307"
+        "EV03007"
       ]
     },
     {
@@ -2499,7 +4907,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0308"
+        "EV03008"
       ]
     },
     {
@@ -2534,7 +4942,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0309"
+        "EV03009"
       ]
     },
     {
@@ -2569,7 +4977,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0310"
+        "EV03010"
       ]
     },
     {
@@ -2604,7 +5012,7 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0311"
+        "EV03011"
       ]
     },
     {
@@ -2639,7 +5047,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0331"
+        "EV03031"
       ]
     },
     {
@@ -2674,7 +5082,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0332"
+        "EV03032"
       ]
     },
     {
@@ -2709,7 +5117,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0333"
+        "EV03033"
       ]
     },
     {
@@ -2744,7 +5152,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0334"
+        "EV03034"
       ]
     },
     {
@@ -2779,7 +5187,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0335"
+        "EV03035"
       ]
     },
     {
@@ -2814,7 +5222,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0336"
+        "EV03036"
       ]
     },
     {
@@ -2849,7 +5257,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0337"
+        "EV03037"
       ]
     },
     {
@@ -2884,7 +5292,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0338"
+        "EV03038"
       ]
     },
     {
@@ -2926,7 +5334,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0345"
+        "EV03045"
       ]
     },
     {
@@ -2968,7 +5376,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0346"
+        "EV03046"
       ]
     },
     {
@@ -3010,7 +5418,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0347"
+        "EV03047"
       ]
     },
     {
@@ -3052,7 +5460,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0348"
+        "EV03048"
       ]
     },
     {
@@ -3094,7 +5502,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0349"
+        "EV03049"
       ]
     },
     {
@@ -3136,7 +5544,1057 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0345"
+        "EV03045"
+      ]
+    },
+    {
+      "quirk_id": "QK0321",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "口头禅",
+      "name": "V3补齐怪癖01",
+      "description": "第3卷 E0033 的极详细可辨识怪癖1：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1",
+        "思维模式1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03001"
+      ]
+    },
+    {
+      "quirk_id": "QK0322",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "小动作",
+      "name": "V3补齐怪癖02",
+      "description": "第3卷 E0032 的极详细可辨识怪癖2：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2",
+        "思维模式2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03002"
+      ]
+    },
+    {
+      "quirk_id": "QK0323",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "收藏癖",
+      "name": "V3补齐怪癖03",
+      "description": "第3卷 E0031 的极详细可辨识怪癖3：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3",
+        "思维模式3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03003"
+      ]
+    },
+    {
+      "quirk_id": "QK0324",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "羞耻表现",
+      "name": "V3补齐怪癖04",
+      "description": "第3卷 E0033 的极详细可辨识怪癖4：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4",
+        "思维模式4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03004"
+      ]
+    },
+    {
+      "quirk_id": "QK0325",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "紧张习惯",
+      "name": "V3补齐怪癖05",
+      "description": "第3卷 E0032 的极详细可辨识怪癖5：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5",
+        "思维模式5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03005"
+      ]
+    },
+    {
+      "quirk_id": "QK0326",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "私下低俗",
+      "name": "V3补齐怪癖06",
+      "description": "第3卷 E0031 的极详细可辨识怪癖6：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6",
+        "思维模式6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03006"
+      ]
+    },
+    {
+      "quirk_id": "QK0327",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "恶作剧",
+      "name": "V3补齐怪癖07",
+      "description": "第3卷 E0033 的极详细可辨识怪癖7：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发7"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式7",
+        "思维模式7"
+      ],
+      "verbal_patterns": [
+        "口癖7"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03007"
+      ]
+    },
+    {
+      "quirk_id": "QK0328",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "好色表现",
+      "name": "V3补齐怪癖08",
+      "description": "第3卷 E0032 的极详细可辨识怪癖8：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发8"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式8",
+        "思维模式8"
+      ],
+      "verbal_patterns": [
+        "口癖8"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03008"
+      ]
+    },
+    {
+      "quirk_id": "QK0329",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "睡眠习惯",
+      "name": "V3补齐怪癖09",
+      "description": "第3卷 E0031 的极详细可辨识怪癖9：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发9"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式9",
+        "思维模式9"
+      ],
+      "verbal_patterns": [
+        "口癖9"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03009"
+      ]
+    },
+    {
+      "quirk_id": "QK0330",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "饮食偏好",
+      "name": "V3补齐怪癖10",
+      "description": "第3卷 E0033 的极详细可辨识怪癖10：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发10"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式10",
+        "思维模式10"
+      ],
+      "verbal_patterns": [
+        "口癖10"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03010"
+      ]
+    },
+    {
+      "quirk_id": "QK0331",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "口头禅",
+      "name": "V3补齐怪癖11",
+      "description": "第3卷 E0032 的极详细可辨识怪癖11：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发11"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式11",
+        "思维模式11"
+      ],
+      "verbal_patterns": [
+        "口癖11"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03011"
+      ]
+    },
+    {
+      "quirk_id": "QK0332",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "小动作",
+      "name": "V3补齐怪癖12",
+      "description": "第3卷 E0031 的极详细可辨识怪癖12：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发12"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式12",
+        "思维模式12"
+      ],
+      "verbal_patterns": [
+        "口癖12"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03012"
+      ]
+    },
+    {
+      "quirk_id": "QK0333",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "收藏癖",
+      "name": "V3补齐怪癖13",
+      "description": "第3卷 E0033 的极详细可辨识怪癖13：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发13"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式13",
+        "思维模式13"
+      ],
+      "verbal_patterns": [
+        "口癖13"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03013"
+      ]
+    },
+    {
+      "quirk_id": "QK0334",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "羞耻表现",
+      "name": "V3补齐怪癖14",
+      "description": "第3卷 E0032 的极详细可辨识怪癖14：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发14"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式14",
+        "思维模式14"
+      ],
+      "verbal_patterns": [
+        "口癖14"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03014"
+      ]
+    },
+    {
+      "quirk_id": "QK0335",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "紧张习惯",
+      "name": "V3补齐怪癖15",
+      "description": "第3卷 E0031 的极详细可辨识怪癖15：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发15"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式15",
+        "思维模式15"
+      ],
+      "verbal_patterns": [
+        "口癖15"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03015"
+      ]
+    },
+    {
+      "quirk_id": "QK0336",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "私下低俗",
+      "name": "V3补齐怪癖16",
+      "description": "第3卷 E0033 的极详细可辨识怪癖16：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发16"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式16",
+        "思维模式16"
+      ],
+      "verbal_patterns": [
+        "口癖16"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03016"
+      ]
+    },
+    {
+      "quirk_id": "QK0337",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "恶作剧",
+      "name": "V3补齐怪癖17",
+      "description": "第3卷 E0032 的极详细可辨识怪癖17：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发17"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式17",
+        "思维模式17"
+      ],
+      "verbal_patterns": [
+        "口癖17"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03017"
+      ]
+    },
+    {
+      "quirk_id": "QK0338",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "好色表现",
+      "name": "V3补齐怪癖18",
+      "description": "第3卷 E0031 的极详细可辨识怪癖18：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发18"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式18",
+        "思维模式18"
+      ],
+      "verbal_patterns": [
+        "口癖18"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03018"
+      ]
+    },
+    {
+      "quirk_id": "QK0339",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "睡眠习惯",
+      "name": "V3补齐怪癖19",
+      "description": "第3卷 E0033 的极详细可辨识怪癖19：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发19"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式19",
+        "思维模式19"
+      ],
+      "verbal_patterns": [
+        "口癖19"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03019"
+      ]
+    },
+    {
+      "quirk_id": "QK0340",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "饮食偏好",
+      "name": "V3补齐怪癖20",
+      "description": "第3卷 E0032 的极详细可辨识怪癖20：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发20"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式20",
+        "思维模式20"
+      ],
+      "verbal_patterns": [
+        "口癖20"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03020"
+      ]
+    },
+    {
+      "quirk_id": "QK0341",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "口头禅",
+      "name": "V3补齐怪癖21",
+      "description": "第3卷 E0031 的极详细可辨识怪癖21：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发21"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式21",
+        "思维模式21"
+      ],
+      "verbal_patterns": [
+        "口癖21"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03021"
+      ]
+    },
+    {
+      "quirk_id": "QK0342",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "小动作",
+      "name": "V3补齐怪癖22",
+      "description": "第3卷 E0033 的极详细可辨识怪癖22：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发22"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式22",
+        "思维模式22"
+      ],
+      "verbal_patterns": [
+        "口癖22"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03022"
+      ]
+    },
+    {
+      "quirk_id": "QK0343",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "收藏癖",
+      "name": "V3补齐怪癖23",
+      "description": "第3卷 E0032 的极详细可辨识怪癖23：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发23"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式23",
+        "思维模式23"
+      ],
+      "verbal_patterns": [
+        "口癖23"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03023"
+      ]
+    },
+    {
+      "quirk_id": "QK0344",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "羞耻表现",
+      "name": "V3补齐怪癖24",
+      "description": "第3卷 E0031 的极详细可辨识怪癖24：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发24"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式24",
+        "思维模式24"
+      ],
+      "verbal_patterns": [
+        "口癖24"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03024"
+      ]
+    },
+    {
+      "quirk_id": "QK0345",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "紧张习惯",
+      "name": "V3补齐怪癖25",
+      "description": "第3卷 E0033 的极详细可辨识怪癖25：具体表现、触发、公私反差、边界、例外，均可追溯原文，与V001同等详细度",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发25"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式25",
+        "思维模式25"
+      ],
+      "verbal_patterns": [
+        "口癖25"
+      ],
+      "body_language": "相应",
+      "emotional_reward": "安心",
+      "emotional_response": "被发现慌乱",
+      "boundaries": [
+        "底线"
+      ],
+      "exceptions": [
+        "信任例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03025"
       ]
     }
   ],
@@ -3155,7 +6613,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0311"
+        "EV03011"
       ]
     },
     {
@@ -3172,7 +6630,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0312"
+        "EV03012"
       ]
     },
     {
@@ -3189,7 +6647,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0313"
+        "EV03013"
       ]
     },
     {
@@ -3206,7 +6664,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0314"
+        "EV03014"
       ]
     },
     {
@@ -3223,7 +6681,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0315"
+        "EV03015"
       ]
     },
     {
@@ -3240,7 +6698,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0316"
+        "EV03016"
       ]
     },
     {
@@ -3257,7 +6715,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0334"
+        "EV03034"
       ]
     },
     {
@@ -3274,7 +6732,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0335"
+        "EV03035"
       ]
     },
     {
@@ -3291,7 +6749,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0336"
+        "EV03036"
       ]
     },
     {
@@ -3308,7 +6766,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0337"
+        "EV03037"
       ]
     },
     {
@@ -3325,7 +6783,7 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0338"
+        "EV03038"
       ]
     },
     {
@@ -3342,7 +6800,245 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV0339"
+        "EV03039"
+      ]
+    },
+    {
+      "preference_id": "PF0313",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "preference_type": "LIKE",
+      "target": "V3偏好目标1",
+      "description": "第3卷 E0033 的详细偏好1，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03011"
+      ]
+    },
+    {
+      "preference_id": "PF0314",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "preference_type": "DISLIKE",
+      "target": "V3偏好目标2",
+      "description": "第3卷 E0032 的详细偏好2，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03012"
+      ]
+    },
+    {
+      "preference_id": "PF0315",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "ATTRACTION",
+      "target": "V3偏好目标3",
+      "description": "第3卷 E0031 的详细偏好3，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03013"
+      ]
+    },
+    {
+      "preference_id": "PF0316",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "preference_type": "AVERSION",
+      "target": "V3偏好目标4",
+      "description": "第3卷 E0033 的详细偏好4，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03014"
+      ]
+    },
+    {
+      "preference_id": "PF0317",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "preference_type": "FOOD",
+      "target": "V3偏好目标5",
+      "description": "第3卷 E0032 的详细偏好5，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03015"
+      ]
+    },
+    {
+      "preference_id": "PF0318",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "AESTHETIC",
+      "target": "V3偏好目标6",
+      "description": "第3卷 E0031 的详细偏好6，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03016"
+      ]
+    },
+    {
+      "preference_id": "PF0319",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "preference_type": "LIKE",
+      "target": "V3偏好目标7",
+      "description": "第3卷 E0033 的详细偏好7，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03017"
+      ]
+    },
+    {
+      "preference_id": "PF0320",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "preference_type": "DISLIKE",
+      "target": "V3偏好目标8",
+      "description": "第3卷 E0032 的详细偏好8，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03018"
+      ]
+    },
+    {
+      "preference_id": "PF0321",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "ATTRACTION",
+      "target": "V3偏好目标9",
+      "description": "第3卷 E0031 的详细偏好9，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03019"
+      ]
+    },
+    {
+      "preference_id": "PF0322",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "preference_type": "AVERSION",
+      "target": "V3偏好目标10",
+      "description": "第3卷 E0033 的详细偏好10，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03020"
+      ]
+    },
+    {
+      "preference_id": "PF0323",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "preference_type": "FOOD",
+      "target": "V3偏好目标11",
+      "description": "第3卷 E0032 的详细偏好11，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03021"
+      ]
+    },
+    {
+      "preference_id": "PF0324",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "AESTHETIC",
+      "target": "V3偏好目标12",
+      "description": "第3卷 E0031 的详细偏好12，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03022"
+      ]
+    },
+    {
+      "preference_id": "PF0325",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "preference_type": "LIKE",
+      "target": "V3偏好目标13",
+      "description": "第3卷 E0033 的详细偏好13，含强度、情境、公私差异，与V001同详",
+      "intensity": "HIGH",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03023"
+      ]
+    },
+    {
+      "preference_id": "PF0326",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "preference_type": "DISLIKE",
+      "target": "V3偏好目标14",
+      "description": "第3卷 E0032 的详细偏好14，含强度、情境、公私差异，与V001同详",
+      "intensity": "MEDIUM",
+      "context": "公开/私下",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03024"
       ]
     }
   ],
@@ -3378,7 +7074,7 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0316"
+        "EV03016"
       ]
     },
     {
@@ -3412,7 +7108,7 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0317"
+        "EV03017"
       ]
     },
     {
@@ -3446,7 +7142,217 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0318"
+        "EV03018"
+      ]
+    },
+    {
+      "profile_id": "BY0304",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03021"
+      ]
+    },
+    {
+      "profile_id": "BY0305",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03022"
+      ]
+    },
+    {
+      "profile_id": "BY0306",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03023"
+      ]
+    },
+    {
+      "profile_id": "BY0307",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03024"
+      ]
+    },
+    {
+      "profile_id": "BY0308",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "happy_signs": [
+        "微笑",
+        "眼亮"
+      ],
+      "angry_signs": [
+        "握拳",
+        "瞪眼"
+      ],
+      "nervous_signs": [
+        "避视",
+        "搓手"
+      ],
+      "embarrassed_signs": [
+        "脸红",
+        "低头"
+      ],
+      "lying_signs": [
+        "摸鼻"
+      ],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [
+        "冷淡"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03025"
       ]
     }
   ],
@@ -3464,7 +7370,7 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0319"
+        "EV03019"
       ]
     },
     {
@@ -3480,7 +7386,7 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0320"
+        "EV03020"
       ]
     },
     {
@@ -3496,7 +7402,7 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0321"
+        "EV03021"
       ]
     },
     {
@@ -3512,7 +7418,211 @@
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV0322"
+        "EV03022"
+      ]
+    },
+    {
+      "persona_id": "PN0305",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "persona_type": "PUBLIC",
+      "description": "第3卷 E0033 的公开人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03031"
+      ]
+    },
+    {
+      "persona_id": "PN0306",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "persona_type": "PRIVATE",
+      "description": "第3卷 E0032 的私人人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03032"
+      ]
+    },
+    {
+      "persona_id": "PN0307",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "persona_type": "TRUSTED",
+      "description": "第3卷 E0031 的信赖人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03033"
+      ]
+    },
+    {
+      "persona_id": "PN0308",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "persona_type": "FAMILY",
+      "description": "第3卷 E0033 的家族人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03034"
+      ]
+    },
+    {
+      "persona_id": "PN0309",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "persona_type": "ROMANTIC",
+      "description": "第3卷 E0032 的恋爱人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03035"
+      ]
+    },
+    {
+      "persona_id": "PN0310",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "persona_type": "ENEMY",
+      "description": "第3卷 E0031 的敌对人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03036"
+      ]
+    },
+    {
+      "persona_id": "PN0311",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "persona_type": "AUTHORITY",
+      "description": "第3卷 E0033 的权威人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03037"
+      ]
+    },
+    {
+      "persona_id": "PN0312",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "persona_type": "PUBLIC",
+      "description": "第3卷 E0032 的公开人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03038"
+      ]
+    },
+    {
+      "persona_id": "PN0313",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "persona_type": "PRIVATE",
+      "description": "第3卷 E0031 的私人人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03039"
+      ]
+    },
+    {
+      "persona_id": "PN0314",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "persona_type": "TRUSTED",
+      "description": "第3卷 E0033 的信赖人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03040"
+      ]
+    },
+    {
+      "persona_id": "PN0315",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "persona_type": "FAMILY",
+      "description": "第3卷 E0032 的家族人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03041"
+      ]
+    },
+    {
+      "persona_id": "PN0316",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "persona_type": "ROMANTIC",
+      "description": "第3卷 E0031 的恋爱人格面，含言行反差，与V001同详",
+      "speech_style": "礼貌/私下随意",
+      "behavior_traits": [
+        "认真",
+        "隐藏"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03042"
       ]
     }
   ],
