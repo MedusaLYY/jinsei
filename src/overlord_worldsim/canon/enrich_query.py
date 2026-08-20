@@ -395,7 +395,7 @@ def _event_dict(
     event["participants"] = [
         participant_row["entity_id"]
         for participant_row in connection.execute(
-            "SELECT entity_id FROM event_participants WHERE event_id = ? ORDER BY entity_id",
+            "SELECT entity_id FROM enrichment_event_participants WHERE event_id = ? ORDER BY entity_id",
             (event["event_id"],),
         ).fetchall()
     ]

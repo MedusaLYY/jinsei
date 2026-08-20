@@ -27,7 +27,7 @@ _ENRICH_TABLES = (
     "event_prerequisites",
     "event_dependencies",
     "event_state_changes",
-    "event_participants",
+    "enrichment_event_participants",
     "items",
     "item_instances",
     "item_ownership_history",

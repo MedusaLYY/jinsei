@@ -350,9 +350,9 @@ def _run_canon_enrich_apply(arguments: argparse.Namespace) -> int:
         apply_enrichment,
         build_manifest,
         canonical_content_hash,
-        open_canon_db,
         write_manifest_json,
     )
+    from overlord_worldsim.canon.loader import open_canon_db
     from overlord_worldsim.canon.enrich_query import enrichment_summary
     from overlord_worldsim.canon.enrich_registry import (
         load_enrichment_batches,

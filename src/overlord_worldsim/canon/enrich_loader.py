@@ -56,7 +56,7 @@ _ENRICHMENT_TABLES = (
     "event_prerequisites",
     "event_dependencies",
     "event_state_changes",
-    "event_participants",
+    "enrichment_event_participants",
     "items",
     "item_instances",
     "item_ownership_history",
@@ -231,12 +231,12 @@ CREATE TABLE IF NOT EXISTS event_state_changes (
     after TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_state_subject ON event_state_changes(subject_id);
-CREATE TABLE IF NOT EXISTS event_participants (
+CREATE TABLE IF NOT EXISTS enrichment_event_participants (
     event_id TEXT NOT NULL REFERENCES detailed_events(event_id),
     entity_id TEXT NOT NULL,
     PRIMARY KEY (event_id, entity_id)
 );
-CREATE INDEX IF NOT EXISTS idx_event_participant ON event_participants(entity_id);
+CREATE INDEX IF NOT EXISTS idx_enrichment_event_participant ON enrichment_event_participants(entity_id);
 
 CREATE TABLE IF NOT EXISTS items (
     item_id TEXT PRIMARY KEY,
@@ -754,7 +754,7 @@ def _insert_events(
             ),
         )
         connection.executemany(
-            "INSERT INTO event_participants(event_id, entity_id) VALUES (?, ?)",
+            "INSERT INTO enrichment_event_participants(event_id, entity_id) VALUES (?, ?)",
             [(event.event_id, participant) for participant in event.participants],
         )
         connection.executemany(
