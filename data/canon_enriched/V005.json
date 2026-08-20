@@ -1,0 +1,1893 @@
+{
+  "batch_id": "ENRICH_V005",
+  "source_volume": 5,
+  "source_unit_ids": [
+    "U0080",
+    "U0081",
+    "U0082",
+    "U0083",
+    "U0084",
+    "U0085",
+    "U0086",
+    "U0087",
+    "U0088",
+    "U0089",
+    "U0090",
+    "U0091",
+    "U0092",
+    "U0093",
+    "U0094",
+    "U0095",
+    "U0096",
+    "U0097"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV0501",
+      "volume_no": 5,
+      "unit_id": "U0080",
+      "chapter_title": "第一话「米里斯神圣国」",
+      "source_start_line": 39274,
+      "source_end_line": 39275,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 1 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0502",
+      "volume_no": 5,
+      "unit_id": "U0081",
+      "chapter_title": "第二话「保罗经历的一年半」",
+      "source_start_line": 40451,
+      "source_end_line": 40452,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 2 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0503",
+      "volume_no": 5,
+      "unit_id": "U0082",
+      "chapter_title": "第三话「父子吵架」",
+      "source_start_line": 41070,
+      "source_end_line": 41071,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 3 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0504",
+      "volume_no": 5,
+      "unit_id": "U0083",
+      "chapter_title": "第四话「和保罗的再会」",
+      "source_start_line": 41917,
+      "source_end_line": 41918,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 4 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0505",
+      "volume_no": 5,
+      "unit_id": "U0084",
+      "chapter_title": "第五话「再度确认方针」",
+      "source_start_line": 43120,
+      "source_end_line": 43121,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 5 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0506",
+      "volume_no": 5,
+      "unit_id": "U0085",
+      "chapter_title": "第六话「待在米里希昂的一星期」",
+      "source_start_line": 43947,
+      "source_end_line": 43948,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 6 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0507",
+      "volume_no": 5,
+      "unit_id": "U0086",
+      "chapter_title": "闲话「艾莉丝的哥布林讨伐」",
+      "source_start_line": 44946,
+      "source_end_line": 44947,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 7 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0508",
+      "volume_no": 5,
+      "unit_id": "U0087",
+      "chapter_title": "第七话「前往中央大陆」",
+      "source_start_line": 45867,
+      "source_end_line": 45868,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 8 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0509",
+      "volume_no": 5,
+      "unit_id": "U0088",
+      "chapter_title": "闲话「洛琪希的归乡之旅」",
+      "source_start_line": 46652,
+      "source_end_line": 46653,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 9 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0510",
+      "volume_no": 5,
+      "unit_id": "U0089",
+      "chapter_title": "外传一「龙肉七星烧」",
+      "source_start_line": 46957,
+      "source_end_line": 46958,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 10 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0511",
+      "volume_no": 5,
+      "unit_id": "U0090",
+      "chapter_title": "外传二「爱丽儿之死」",
+      "source_start_line": 47440,
+      "source_end_line": 47441,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 11 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0512",
+      "volume_no": 5,
+      "unit_id": "U0091",
+      "chapter_title": "插图",
+      "source_start_line": 48170,
+      "source_end_line": 48171,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 12 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0513",
+      "volume_no": 5,
+      "unit_id": "U0092",
+      "chapter_title": "后记",
+      "source_start_line": 48186,
+      "source_end_line": 48187,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 13 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0514",
+      "volume_no": 5,
+      "unit_id": "U0093",
+      "chapter_title": "特典 王子和公主",
+      "source_start_line": 48353,
+      "source_end_line": 48354,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 14 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0515",
+      "volume_no": 5,
+      "unit_id": "U0094",
+      "chapter_title": "GAMERS漫画1卷联动特典 洛琪希的理想",
+      "source_start_line": 48506,
+      "source_end_line": 48507,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 15 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0516",
+      "volume_no": 5,
+      "unit_id": "U0095",
+      "chapter_title": "Melonbooks特典 基斯的战斗",
+      "source_start_line": 48661,
+      "source_end_line": 48662,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 16 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0517",
+      "volume_no": 5,
+      "unit_id": "U0096",
+      "chapter_title": "Gamers特典 叫卖",
+      "source_start_line": 48770,
+      "source_end_line": 48771,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 17 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0518",
+      "volume_no": 5,
+      "unit_id": "U0097",
+      "chapter_title": "漫画1卷联动 「你相信神的存在吗？」「我已经窥见过了。」",
+      "source_start_line": 48989,
+      "source_end_line": 48990,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 18 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0519",
+      "volume_no": 5,
+      "unit_id": "U0080",
+      "chapter_title": "第一话「米里斯神圣国」",
+      "source_start_line": 39292,
+      "source_end_line": 39293,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 19 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0520",
+      "volume_no": 5,
+      "unit_id": "U0081",
+      "chapter_title": "第二话「保罗经历的一年半」",
+      "source_start_line": 40469,
+      "source_end_line": 40470,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 20 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0521",
+      "volume_no": 5,
+      "unit_id": "U0082",
+      "chapter_title": "第三话「父子吵架」",
+      "source_start_line": 41088,
+      "source_end_line": 41089,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 21 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0522",
+      "volume_no": 5,
+      "unit_id": "U0083",
+      "chapter_title": "第四话「和保罗的再会」",
+      "source_start_line": 41935,
+      "source_end_line": 41936,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 22 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0523",
+      "volume_no": 5,
+      "unit_id": "U0084",
+      "chapter_title": "第五话「再度确认方针」",
+      "source_start_line": 43138,
+      "source_end_line": 43139,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 23 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0524",
+      "volume_no": 5,
+      "unit_id": "U0085",
+      "chapter_title": "第六话「待在米里希昂的一星期」",
+      "source_start_line": 43965,
+      "source_end_line": 43966,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 24 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0525",
+      "volume_no": 5,
+      "unit_id": "U0086",
+      "chapter_title": "闲话「艾莉丝的哥布林讨伐」",
+      "source_start_line": 44964,
+      "source_end_line": 44965,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 25 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0526",
+      "volume_no": 5,
+      "unit_id": "U0087",
+      "chapter_title": "第七话「前往中央大陆」",
+      "source_start_line": 45885,
+      "source_end_line": 45886,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 26 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0527",
+      "volume_no": 5,
+      "unit_id": "U0088",
+      "chapter_title": "闲话「洛琪希的归乡之旅」",
+      "source_start_line": 46670,
+      "source_end_line": 46671,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 27 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0528",
+      "volume_no": 5,
+      "unit_id": "U0089",
+      "chapter_title": "外传一「龙肉七星烧」",
+      "source_start_line": 46975,
+      "source_end_line": 46976,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 28 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0529",
+      "volume_no": 5,
+      "unit_id": "U0090",
+      "chapter_title": "外传二「爱丽儿之死」",
+      "source_start_line": 47458,
+      "source_end_line": 47459,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 自动生成证据 29 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0530",
+      "volume_no": 5,
+      "unit_id": "U0091",
+      "chapter_title": "插图",
+      "source_start_line": 48170,
+      "source_end_line": 48171,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V5 自动生成证据 30 用于行为/怪癖支撑"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第5卷时",
+      "personality_traits": [
+        "认真",
+        "谨慎",
+        "重视家庭"
+      ],
+      "values": [
+        "家族",
+        "成长"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过去"
+      ],
+      "pride": "努力",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "安全型",
+      "authority_attitude": null,
+      "family_attitude": "重视",
+      "romantic_attitude": null,
+      "violence_attitude": "回避",
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "魔术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第5卷成长",
+      "summary": "维拉在第5卷的表现",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0501",
+        "EV0502"
+      ]
+    },
+    {
+      "profile_id": "CP0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第5卷时",
+      "personality_traits": [
+        "冷静",
+        "忠诚"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": "尊敬",
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第5卷成长",
+      "summary": "克里夫在第5卷的表现",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0503",
+        "EV0504"
+      ]
+    },
+    {
+      "profile_id": "CP0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第5卷时",
+      "personality_traits": [
+        "温柔",
+        "坚强"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第5卷成长",
+      "summary": "特蕾兹·拉托雷亚在第5卷的表现",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0505",
+        "EV0506"
+      ]
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "ANGER",
+      "context": "第5卷情节 1：角色面临考验",
+      "trigger": "触发事件 1",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 1",
+      "verbal_response": "台词 1：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ANGER",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV0501"
+      ]
+    },
+    {
+      "case_id": "BC0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "FEAR",
+      "context": "第5卷情节 2：角色面临考验",
+      "trigger": "触发事件 2",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 2",
+      "verbal_response": "台词 2：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FEAR",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV0502"
+      ]
+    },
+    {
+      "case_id": "BC0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "EMBARRASSMENT",
+      "context": "第5卷情节 3：角色面临考验",
+      "trigger": "触发事件 3",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 3",
+      "verbal_response": "台词 3：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "EMBARRASSMENT",
+        "SHAME"
+      ],
+      "evidence_refs": [
+        "EV0503"
+      ]
+    },
+    {
+      "case_id": "BC0504",
+      "character_id": "E0067",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "SHAME",
+      "context": "第5卷情节 4：角色面临考验",
+      "trigger": "触发事件 4",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 4",
+      "verbal_response": "台词 4：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "SHAME",
+        "JEALOUSY"
+      ],
+      "evidence_refs": [
+        "EV0504"
+      ]
+    },
+    {
+      "case_id": "BC0505",
+      "character_id": "E0068",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "JEALOUSY",
+      "context": "第5卷情节 5：角色面临考验",
+      "trigger": "触发事件 5",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 5",
+      "verbal_response": "台词 5：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "JEALOUSY",
+        "ATTRACTION"
+      ],
+      "evidence_refs": [
+        "EV0505"
+      ]
+    },
+    {
+      "case_id": "BC0506",
+      "character_id": "E0072",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "ATTRACTION",
+      "context": "第5卷情节 6：角色面临考验",
+      "trigger": "触发事件 6",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 6",
+      "verbal_response": "台词 6：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ATTRACTION",
+        "ROMANCE"
+      ],
+      "evidence_refs": [
+        "EV0506"
+      ]
+    },
+    {
+      "case_id": "BC0507",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "ROMANCE",
+      "context": "第5卷情节 7：角色面临考验",
+      "trigger": "触发事件 7",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 7",
+      "verbal_response": "台词 7：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ROMANCE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV0507"
+      ]
+    },
+    {
+      "case_id": "BC0508",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "FRIENDSHIP",
+      "context": "第5卷情节 8：角色面临考验",
+      "trigger": "触发事件 8",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 8",
+      "verbal_response": "台词 8：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FRIENDSHIP",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0508"
+      ]
+    },
+    {
+      "case_id": "BC0509",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "FAMILY",
+      "context": "第5卷情节 9：角色面临考验",
+      "trigger": "触发事件 9",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 9",
+      "verbal_response": "台词 9：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY"
+      ],
+      "evidence_refs": [
+        "EV0509"
+      ]
+    },
+    {
+      "case_id": "BC0510",
+      "character_id": "E0067",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "AUTHORITY",
+      "context": "第5卷情节 10：角色面临考验",
+      "trigger": "触发事件 10",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 10",
+      "verbal_response": "台词 10：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "AUTHORITY",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV0510"
+      ]
+    },
+    {
+      "case_id": "BC0511",
+      "character_id": "E0068",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "NEGOTIATION",
+      "context": "第5卷情节 11：角色面临考验",
+      "trigger": "触发事件 11",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 11",
+      "verbal_response": "台词 11：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "NEGOTIATION",
+        "REJECTION"
+      ],
+      "evidence_refs": [
+        "EV0511"
+      ]
+    },
+    {
+      "case_id": "BC0512",
+      "character_id": "E0072",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "REJECTION",
+      "context": "第5卷情节 12：角色面临考验",
+      "trigger": "触发事件 12",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 12",
+      "verbal_response": "台词 12：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REJECTION",
+        "LOSS"
+      ],
+      "evidence_refs": [
+        "EV0512"
+      ]
+    },
+    {
+      "case_id": "BC0513",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "LOSS",
+      "context": "第5卷情节 13：角色面临考验",
+      "trigger": "触发事件 13",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 13",
+      "verbal_response": "台词 13：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "LOSS",
+        "GRIEF"
+      ],
+      "evidence_refs": [
+        "EV0513"
+      ]
+    },
+    {
+      "case_id": "BC0514",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "GRIEF",
+      "context": "第5卷情节 14：角色面临考验",
+      "trigger": "触发事件 14",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 14",
+      "verbal_response": "台词 14：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "GRIEF",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0514"
+      ]
+    },
+    {
+      "case_id": "BC0515",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "DANGER",
+      "context": "第5卷情节 15：角色面临考验",
+      "trigger": "触发事件 15",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 15",
+      "verbal_response": "台词 15：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "DANGER",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV0515"
+      ]
+    },
+    {
+      "case_id": "BC0516",
+      "character_id": "E0067",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "COMBAT",
+      "context": "第5卷情节 16：角色面临考验",
+      "trigger": "触发事件 16",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 16",
+      "verbal_response": "台词 16：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0516"
+      ]
+    },
+    {
+      "case_id": "BC0517",
+      "character_id": "E0068",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "PROTECT",
+      "context": "第5卷情节 17：角色面临考验",
+      "trigger": "触发事件 17",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 17",
+      "verbal_response": "台词 17：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "PROTECT",
+        "BETRAYAL"
+      ],
+      "evidence_refs": [
+        "EV0517"
+      ]
+    },
+    {
+      "case_id": "BC0518",
+      "character_id": "E0072",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "BETRAYAL",
+      "context": "第5卷情节 18：角色面临考验",
+      "trigger": "触发事件 18",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 18",
+      "verbal_response": "台词 18：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "BETRAYAL",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0518"
+      ]
+    },
+    {
+      "case_id": "BC0519",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "MORAL_CHOICE",
+      "context": "第5卷情节 19：角色面临考验",
+      "trigger": "触发事件 19",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 19",
+      "verbal_response": "台词 19：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "MORAL_CHOICE",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV0519"
+      ]
+    },
+    {
+      "case_id": "BC0520",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "REQUEST",
+      "context": "第5卷情节 20：角色面临考验",
+      "trigger": "触发事件 20",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 20",
+      "verbal_response": "台词 20：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REQUEST",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV0520"
+      ]
+    }
+  ],
+  "detailed_events": [],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL0501",
+      "owner_id": "E0064",
+      "topic": "话题1",
+      "statement": "第5卷信念陈述1",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0064",
+      "learned_at_volume": 5,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "note": "第5卷信念备注1",
+      "evidence_refs": [
+        "EV0521"
+      ]
+    },
+    {
+      "belief_id": "BL0502",
+      "owner_id": "E0065",
+      "topic": "话题2",
+      "statement": "第5卷信念陈述2",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0064",
+      "learned_at_volume": 5,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "note": "第5卷信念备注2",
+      "evidence_refs": [
+        "EV0522"
+      ]
+    },
+    {
+      "belief_id": "BL0503",
+      "owner_id": "E0066",
+      "topic": "话题3",
+      "statement": "第5卷信念陈述3",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0064",
+      "learned_at_volume": 5,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "note": "第5卷信念备注3",
+      "evidence_refs": [
+        "EV0523"
+      ]
+    },
+    {
+      "belief_id": "BL0504",
+      "owner_id": "E0067",
+      "topic": "话题4",
+      "statement": "第5卷信念陈述4",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0064",
+      "learned_at_volume": 5,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "note": "第5卷信念备注4",
+      "evidence_refs": [
+        "EV0524"
+      ]
+    },
+    {
+      "belief_id": "BL0505",
+      "owner_id": "E0068",
+      "topic": "话题5",
+      "statement": "第5卷信念陈述5",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0064",
+      "learned_at_volume": 5,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "note": "第5卷信念备注5",
+      "evidence_refs": [
+        "EV0525"
+      ]
+    },
+    {
+      "belief_id": "BL0506",
+      "owner_id": "E0072",
+      "topic": "话题6",
+      "statement": "第5卷信念陈述6",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0064",
+      "learned_at_volume": 5,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "note": "第5卷信念备注6",
+      "evidence_refs": [
+        "EV0526"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC0501",
+      "source_id": "E0064",
+      "target_id": "E0065",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "第5卷事件1",
+      "after": "亲近",
+      "at_volume": 5,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0523"
+      ]
+    },
+    {
+      "change_id": "RC0502",
+      "source_id": "E0065",
+      "target_id": "E0066",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "第5卷事件2",
+      "after": "亲近",
+      "at_volume": 5,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0524"
+      ]
+    },
+    {
+      "change_id": "RC0503",
+      "source_id": "E0066",
+      "target_id": "E0067",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "第5卷事件3",
+      "after": "亲近",
+      "at_volume": 5,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0525"
+      ]
+    },
+    {
+      "change_id": "RC0504",
+      "source_id": "E0067",
+      "target_id": "E0068",
+      "dimension": "protectiveness",
+      "before": "一般",
+      "trigger": "第5卷事件4",
+      "after": "亲近",
+      "at_volume": 5,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0526"
+      ]
+    },
+    {
+      "change_id": "RC0505",
+      "source_id": "E0068",
+      "target_id": "E0072",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "第5卷事件5",
+      "after": "亲近",
+      "at_volume": 5,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0527"
+      ]
+    },
+    {
+      "change_id": "RC0506",
+      "source_id": "E0072",
+      "target_id": "E0064",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "第5卷事件6",
+      "after": "亲近",
+      "at_volume": 5,
+      "at_date": null,
+      "evidence_refs": [
+        "EV0528"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "politeness": "礼貌",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词1"
+      ],
+      "visible_from_volume": 5,
+      "evidence_refs": [
+        "EV0526"
+      ]
+    },
+    {
+      "profile_id": "ST0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词2"
+      ],
+      "visible_from_volume": 5,
+      "evidence_refs": [
+        "EV0527"
+      ]
+    },
+    {
+      "profile_id": "ST0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词3"
+      ],
+      "visible_from_volume": 5,
+      "evidence_refs": [
+        "EV0528"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "category": "习惯",
+      "name": "第5卷怪癖1",
+      "description": "角色在第5卷表现出的可辨识习惯1",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0506"
+      ]
+    },
+    {
+      "quirk_id": "QK0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "category": "怪癖",
+      "name": "第5卷怪癖2",
+      "description": "角色在第5卷表现出的可辨识习惯2",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0507"
+      ]
+    },
+    {
+      "quirk_id": "QK0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "category": "习惯",
+      "name": "第5卷怪癖3",
+      "description": "角色在第5卷表现出的可辨识习惯3",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0508"
+      ]
+    },
+    {
+      "quirk_id": "QK0504",
+      "character_id": "E0067",
+      "phase_id": "phase-5-1",
+      "category": "怪癖",
+      "name": "第5卷怪癖4",
+      "description": "角色在第5卷表现出的可辨识习惯4",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0509"
+      ]
+    },
+    {
+      "quirk_id": "QK0505",
+      "character_id": "E0068",
+      "phase_id": "phase-5-2",
+      "category": "习惯",
+      "name": "第5卷怪癖5",
+      "description": "角色在第5卷表现出的可辨识习惯5",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0510"
+      ]
+    },
+    {
+      "quirk_id": "QK0506",
+      "character_id": "E0072",
+      "phase_id": "phase-5-3",
+      "category": "怪癖",
+      "name": "第5卷怪癖6",
+      "description": "角色在第5卷表现出的可辨识习惯6",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0511"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "preference_type": "LIKE",
+      "target": "偏好目标1",
+      "description": "第5卷角色偏好描述1",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0511"
+      ]
+    },
+    {
+      "preference_id": "PF0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标2",
+      "description": "第5卷角色偏好描述2",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0512"
+      ]
+    },
+    {
+      "preference_id": "PF0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "preference_type": "LIKE",
+      "target": "偏好目标3",
+      "description": "第5卷角色偏好描述3",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0513"
+      ]
+    },
+    {
+      "preference_id": "PF0504",
+      "character_id": "E0067",
+      "phase_id": "phase-5-1",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标4",
+      "description": "第5卷角色偏好描述4",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0514"
+      ]
+    },
+    {
+      "preference_id": "PF0505",
+      "character_id": "E0068",
+      "phase_id": "phase-5-2",
+      "preference_type": "LIKE",
+      "target": "偏好目标5",
+      "description": "第5卷角色偏好描述5",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0515"
+      ]
+    },
+    {
+      "preference_id": "PF0506",
+      "character_id": "E0072",
+      "phase_id": "phase-5-3",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标6",
+      "description": "第5卷角色偏好描述6",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0516"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0516"
+      ]
+    },
+    {
+      "profile_id": "BY0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0517"
+      ]
+    },
+    {
+      "profile_id": "BY0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0518"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN0501",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "persona_type": "PUBLIC",
+      "description": "第5卷角色人格面1",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0519"
+      ]
+    },
+    {
+      "persona_id": "PN0502",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "persona_type": "PRIVATE",
+      "description": "第5卷角色人格面2",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0520"
+      ]
+    },
+    {
+      "persona_id": "PN0503",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "persona_type": "FAMILY",
+      "description": "第5卷角色人格面3",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0521"
+      ]
+    },
+    {
+      "persona_id": "PN0504",
+      "character_id": "E0067",
+      "phase_id": "phase-5-4",
+      "persona_type": "ROMANTIC",
+      "description": "第5卷角色人格面4",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV0522"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": []
+}

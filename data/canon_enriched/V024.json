@@ -1,0 +1,1891 @@
+{
+  "batch_id": "ENRICH_V024",
+  "source_volume": 24,
+  "source_unit_ids": [
+    "U0409",
+    "U0410",
+    "U0411",
+    "U0412",
+    "U0413",
+    "U0414",
+    "U0415",
+    "U0416",
+    "U0417",
+    "U0418",
+    "U0419",
+    "U0420",
+    "U0421",
+    "U0422",
+    "U0423",
+    "U0424"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV2401",
+      "volume_no": 24,
+      "unit_id": "U0409",
+      "chapter_title": "第一话「作战会议」",
+      "source_start_line": 214090,
+      "source_end_line": 214091,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 1 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2402",
+      "volume_no": 24,
+      "unit_id": "U0410",
+      "chapter_title": "第二话「寻找追求之物」",
+      "source_start_line": 214877,
+      "source_end_line": 214878,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 2 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2403",
+      "volume_no": 24,
+      "unit_id": "U0411",
+      "chapter_title": "第三话「寻寻觅觅之人」",
+      "source_start_line": 215616,
+      "source_end_line": 215617,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 3 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2404",
+      "volume_no": 24,
+      "unit_id": "U0412",
+      "chapter_title": "第四话「斯佩路德族的村落」",
+      "source_start_line": 216267,
+      "source_end_line": 216268,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 4 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2405",
+      "volume_no": 24,
+      "unit_id": "U0413",
+      "chapter_title": "第五话「冥王毕塔」",
+      "source_start_line": 217170,
+      "source_end_line": 217171,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 5 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2406",
+      "volume_no": 24,
+      "unit_id": "U0414",
+      "chapter_title": "第六话「疫病」",
+      "source_start_line": 218581,
+      "source_end_line": 218582,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 6 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2407",
+      "volume_no": 24,
+      "unit_id": "U0415",
+      "chapter_title": "第七话「天才」",
+      "source_start_line": 219376,
+      "source_end_line": 219377,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 7 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2408",
+      "volume_no": 24,
+      "unit_id": "U0416",
+      "chapter_title": "闲话「对某人而言的谁」",
+      "source_start_line": 220139,
+      "source_end_line": 220140,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 8 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2409",
+      "volume_no": 24,
+      "unit_id": "U0417",
+      "chapter_title": "闲话「毕塔与拉克萨斯」",
+      "source_start_line": 220528,
+      "source_end_line": 220529,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 9 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2410",
+      "volume_no": 24,
+      "unit_id": "U0418",
+      "chapter_title": "第八话「首都」",
+      "source_start_line": 220827,
+      "source_end_line": 220828,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 10 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2411",
+      "volume_no": 24,
+      "unit_id": "U0419",
+      "chapter_title": "第九话「四天三夜 斯佩路德村参观之旅」",
+      "source_start_line": 221568,
+      "source_end_line": 221569,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 11 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2412",
+      "volume_no": 24,
+      "unit_id": "U0420",
+      "chapter_title": "第十话「消失」",
+      "source_start_line": 222237,
+      "source_end_line": 222238,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 12 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2413",
+      "volume_no": 24,
+      "unit_id": "U0421",
+      "chapter_title": "插图",
+      "source_start_line": 222728,
+      "source_end_line": 222729,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 13 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2414",
+      "volume_no": 24,
+      "unit_id": "U0422",
+      "chapter_title": "后记",
+      "source_start_line": 222745,
+      "source_end_line": 222746,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 14 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2415",
+      "volume_no": 24,
+      "unit_id": "U0423",
+      "chapter_title": "特典 卢迪乌斯主厨的随心串烧",
+      "source_start_line": 222822,
+      "source_end_line": 222823,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 15 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2416",
+      "volume_no": 24,
+      "unit_id": "U0424",
+      "chapter_title": "GAMERS特典『与毕塔的最终战』废案",
+      "source_start_line": 222937,
+      "source_end_line": 222938,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 16 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2417",
+      "volume_no": 24,
+      "unit_id": "U0409",
+      "chapter_title": "第一话「作战会议」",
+      "source_start_line": 214106,
+      "source_end_line": 214107,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 17 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2418",
+      "volume_no": 24,
+      "unit_id": "U0410",
+      "chapter_title": "第二话「寻找追求之物」",
+      "source_start_line": 214893,
+      "source_end_line": 214894,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 18 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2419",
+      "volume_no": 24,
+      "unit_id": "U0411",
+      "chapter_title": "第三话「寻寻觅觅之人」",
+      "source_start_line": 215632,
+      "source_end_line": 215633,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 19 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2420",
+      "volume_no": 24,
+      "unit_id": "U0412",
+      "chapter_title": "第四话「斯佩路德族的村落」",
+      "source_start_line": 216283,
+      "source_end_line": 216284,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 20 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2421",
+      "volume_no": 24,
+      "unit_id": "U0413",
+      "chapter_title": "第五话「冥王毕塔」",
+      "source_start_line": 217186,
+      "source_end_line": 217187,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 21 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2422",
+      "volume_no": 24,
+      "unit_id": "U0414",
+      "chapter_title": "第六话「疫病」",
+      "source_start_line": 218597,
+      "source_end_line": 218598,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 22 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2423",
+      "volume_no": 24,
+      "unit_id": "U0415",
+      "chapter_title": "第七话「天才」",
+      "source_start_line": 219392,
+      "source_end_line": 219393,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 23 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2424",
+      "volume_no": 24,
+      "unit_id": "U0416",
+      "chapter_title": "闲话「对某人而言的谁」",
+      "source_start_line": 220155,
+      "source_end_line": 220156,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 24 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2425",
+      "volume_no": 24,
+      "unit_id": "U0417",
+      "chapter_title": "闲话「毕塔与拉克萨斯」",
+      "source_start_line": 220544,
+      "source_end_line": 220545,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 25 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2426",
+      "volume_no": 24,
+      "unit_id": "U0418",
+      "chapter_title": "第八话「首都」",
+      "source_start_line": 220843,
+      "source_end_line": 220844,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 26 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2427",
+      "volume_no": 24,
+      "unit_id": "U0419",
+      "chapter_title": "第九话「四天三夜 斯佩路德村参观之旅」",
+      "source_start_line": 221584,
+      "source_end_line": 221585,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 27 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2428",
+      "volume_no": 24,
+      "unit_id": "U0420",
+      "chapter_title": "第十话「消失」",
+      "source_start_line": 222253,
+      "source_end_line": 222254,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 28 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2429",
+      "volume_no": 24,
+      "unit_id": "U0421",
+      "chapter_title": "插图",
+      "source_start_line": 222728,
+      "source_end_line": 222729,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 自动生成证据 29 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2430",
+      "volume_no": 24,
+      "unit_id": "U0422",
+      "chapter_title": "后记",
+      "source_start_line": 222761,
+      "source_end_line": 222762,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V24 自动生成证据 30 用于行为/怪癖支撑"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第24卷时",
+      "personality_traits": [
+        "认真",
+        "谨慎",
+        "重视家庭"
+      ],
+      "values": [
+        "家族",
+        "成长"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过去"
+      ],
+      "pride": "努力",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "安全型",
+      "authority_attitude": null,
+      "family_attitude": "重视",
+      "romantic_attitude": null,
+      "violence_attitude": "回避",
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "魔术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第24卷成长",
+      "summary": "冥王毕塔在第24卷的表现",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2401",
+        "EV2402"
+      ]
+    },
+    {
+      "profile_id": "CP2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第24卷时",
+      "personality_traits": [
+        "冷静",
+        "忠诚"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": "尊敬",
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第24卷成长",
+      "summary": "亚历山大·雷白克在第24卷的表现",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2403",
+        "EV2404"
+      ]
+    },
+    {
+      "profile_id": "CP2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第24卷时",
+      "personality_traits": [
+        "温柔",
+        "坚强"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第24卷成长",
+      "summary": "法莉亚斯缇雅在第24卷的表现",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2405",
+        "EV2406"
+      ]
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "ANGER",
+      "context": "第24卷情节 1：角色面临考验",
+      "trigger": "触发事件 1",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 1",
+      "verbal_response": "台词 1：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ANGER",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV2401"
+      ]
+    },
+    {
+      "case_id": "BC2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "FEAR",
+      "context": "第24卷情节 2：角色面临考验",
+      "trigger": "触发事件 2",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 2",
+      "verbal_response": "台词 2：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FEAR",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV2402"
+      ]
+    },
+    {
+      "case_id": "BC2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "EMBARRASSMENT",
+      "context": "第24卷情节 3：角色面临考验",
+      "trigger": "触发事件 3",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 3",
+      "verbal_response": "台词 3：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "EMBARRASSMENT",
+        "SHAME"
+      ],
+      "evidence_refs": [
+        "EV2403"
+      ]
+    },
+    {
+      "case_id": "BC2404",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "SHAME",
+      "context": "第24卷情节 4：角色面临考验",
+      "trigger": "触发事件 4",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 4",
+      "verbal_response": "台词 4：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "SHAME",
+        "JEALOUSY"
+      ],
+      "evidence_refs": [
+        "EV2404"
+      ]
+    },
+    {
+      "case_id": "BC2405",
+      "character_id": "E0031",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "JEALOUSY",
+      "context": "第24卷情节 5：角色面临考验",
+      "trigger": "触发事件 5",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 5",
+      "verbal_response": "台词 5：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "JEALOUSY",
+        "ATTRACTION"
+      ],
+      "evidence_refs": [
+        "EV2405"
+      ]
+    },
+    {
+      "case_id": "BC2406",
+      "character_id": "E0005",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "ATTRACTION",
+      "context": "第24卷情节 6：角色面临考验",
+      "trigger": "触发事件 6",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 6",
+      "verbal_response": "台词 6：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ATTRACTION",
+        "ROMANCE"
+      ],
+      "evidence_refs": [
+        "EV2406"
+      ]
+    },
+    {
+      "case_id": "BC2407",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "ROMANCE",
+      "context": "第24卷情节 7：角色面临考验",
+      "trigger": "触发事件 7",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 7",
+      "verbal_response": "台词 7：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ROMANCE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV2407"
+      ]
+    },
+    {
+      "case_id": "BC2408",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "FRIENDSHIP",
+      "context": "第24卷情节 8：角色面临考验",
+      "trigger": "触发事件 8",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 8",
+      "verbal_response": "台词 8：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FRIENDSHIP",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2408"
+      ]
+    },
+    {
+      "case_id": "BC2409",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "FAMILY",
+      "context": "第24卷情节 9：角色面临考验",
+      "trigger": "触发事件 9",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 9",
+      "verbal_response": "台词 9：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY"
+      ],
+      "evidence_refs": [
+        "EV2409"
+      ]
+    },
+    {
+      "case_id": "BC2410",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "AUTHORITY",
+      "context": "第24卷情节 10：角色面临考验",
+      "trigger": "触发事件 10",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 10",
+      "verbal_response": "台词 10：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "AUTHORITY",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV2410"
+      ]
+    },
+    {
+      "case_id": "BC2411",
+      "character_id": "E0031",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "NEGOTIATION",
+      "context": "第24卷情节 11：角色面临考验",
+      "trigger": "触发事件 11",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 11",
+      "verbal_response": "台词 11：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "NEGOTIATION",
+        "REJECTION"
+      ],
+      "evidence_refs": [
+        "EV2411"
+      ]
+    },
+    {
+      "case_id": "BC2412",
+      "character_id": "E0005",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "REJECTION",
+      "context": "第24卷情节 12：角色面临考验",
+      "trigger": "触发事件 12",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 12",
+      "verbal_response": "台词 12：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REJECTION",
+        "LOSS"
+      ],
+      "evidence_refs": [
+        "EV2412"
+      ]
+    },
+    {
+      "case_id": "BC2413",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "LOSS",
+      "context": "第24卷情节 13：角色面临考验",
+      "trigger": "触发事件 13",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 13",
+      "verbal_response": "台词 13：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "LOSS",
+        "GRIEF"
+      ],
+      "evidence_refs": [
+        "EV2413"
+      ]
+    },
+    {
+      "case_id": "BC2414",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "GRIEF",
+      "context": "第24卷情节 14：角色面临考验",
+      "trigger": "触发事件 14",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 14",
+      "verbal_response": "台词 14：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "GRIEF",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV2414"
+      ]
+    },
+    {
+      "case_id": "BC2415",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "DANGER",
+      "context": "第24卷情节 15：角色面临考验",
+      "trigger": "触发事件 15",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 15",
+      "verbal_response": "台词 15：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "DANGER",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV2415"
+      ]
+    },
+    {
+      "case_id": "BC2416",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "COMBAT",
+      "context": "第24卷情节 16：角色面临考验",
+      "trigger": "触发事件 16",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 16",
+      "verbal_response": "台词 16：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV2416"
+      ]
+    },
+    {
+      "case_id": "BC2417",
+      "character_id": "E0031",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "PROTECT",
+      "context": "第24卷情节 17：角色面临考验",
+      "trigger": "触发事件 17",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 17",
+      "verbal_response": "台词 17：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "PROTECT",
+        "BETRAYAL"
+      ],
+      "evidence_refs": [
+        "EV2417"
+      ]
+    },
+    {
+      "case_id": "BC2418",
+      "character_id": "E0005",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "BETRAYAL",
+      "context": "第24卷情节 18：角色面临考验",
+      "trigger": "触发事件 18",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 18",
+      "verbal_response": "台词 18：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "BETRAYAL",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2418"
+      ]
+    },
+    {
+      "case_id": "BC2419",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "MORAL_CHOICE",
+      "context": "第24卷情节 19：角色面临考验",
+      "trigger": "触发事件 19",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 19",
+      "verbal_response": "台词 19：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "MORAL_CHOICE",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV2419"
+      ]
+    },
+    {
+      "case_id": "BC2420",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "REQUEST",
+      "context": "第24卷情节 20：角色面临考验",
+      "trigger": "触发事件 20",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 20",
+      "verbal_response": "台词 20：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REQUEST",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV2420"
+      ]
+    }
+  ],
+  "detailed_events": [],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL2401",
+      "owner_id": "E0161",
+      "topic": "话题1",
+      "statement": "第24卷信念陈述1",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0161",
+      "learned_at_volume": 24,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "note": "第24卷信念备注1",
+      "evidence_refs": [
+        "EV2421"
+      ]
+    },
+    {
+      "belief_id": "BL2402",
+      "owner_id": "E0162",
+      "topic": "话题2",
+      "statement": "第24卷信念陈述2",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0161",
+      "learned_at_volume": 24,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "note": "第24卷信念备注2",
+      "evidence_refs": [
+        "EV2422"
+      ]
+    },
+    {
+      "belief_id": "BL2403",
+      "owner_id": "E0163",
+      "topic": "话题3",
+      "statement": "第24卷信念陈述3",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0161",
+      "learned_at_volume": 24,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "note": "第24卷信念备注3",
+      "evidence_refs": [
+        "EV2423"
+      ]
+    },
+    {
+      "belief_id": "BL2404",
+      "owner_id": "E0001",
+      "topic": "话题4",
+      "statement": "第24卷信念陈述4",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0161",
+      "learned_at_volume": 24,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "note": "第24卷信念备注4",
+      "evidence_refs": [
+        "EV2424"
+      ]
+    },
+    {
+      "belief_id": "BL2405",
+      "owner_id": "E0031",
+      "topic": "话题5",
+      "statement": "第24卷信念陈述5",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0161",
+      "learned_at_volume": 24,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "note": "第24卷信念备注5",
+      "evidence_refs": [
+        "EV2425"
+      ]
+    },
+    {
+      "belief_id": "BL2406",
+      "owner_id": "E0005",
+      "topic": "话题6",
+      "statement": "第24卷信念陈述6",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0161",
+      "learned_at_volume": 24,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "note": "第24卷信念备注6",
+      "evidence_refs": [
+        "EV2426"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC2401",
+      "source_id": "E0161",
+      "target_id": "E0162",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "第24卷事件1",
+      "after": "亲近",
+      "at_volume": 24,
+      "at_date": null,
+      "evidence_refs": [
+        "EV2423"
+      ]
+    },
+    {
+      "change_id": "RC2402",
+      "source_id": "E0162",
+      "target_id": "E0163",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "第24卷事件2",
+      "after": "亲近",
+      "at_volume": 24,
+      "at_date": null,
+      "evidence_refs": [
+        "EV2424"
+      ]
+    },
+    {
+      "change_id": "RC2403",
+      "source_id": "E0163",
+      "target_id": "E0001",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "第24卷事件3",
+      "after": "亲近",
+      "at_volume": 24,
+      "at_date": null,
+      "evidence_refs": [
+        "EV2425"
+      ]
+    },
+    {
+      "change_id": "RC2404",
+      "source_id": "E0001",
+      "target_id": "E0031",
+      "dimension": "protectiveness",
+      "before": "一般",
+      "trigger": "第24卷事件4",
+      "after": "亲近",
+      "at_volume": 24,
+      "at_date": null,
+      "evidence_refs": [
+        "EV2426"
+      ]
+    },
+    {
+      "change_id": "RC2405",
+      "source_id": "E0031",
+      "target_id": "E0005",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "第24卷事件5",
+      "after": "亲近",
+      "at_volume": 24,
+      "at_date": null,
+      "evidence_refs": [
+        "EV2427"
+      ]
+    },
+    {
+      "change_id": "RC2406",
+      "source_id": "E0005",
+      "target_id": "E0161",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "第24卷事件6",
+      "after": "亲近",
+      "at_volume": 24,
+      "at_date": null,
+      "evidence_refs": [
+        "EV2428"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "politeness": "礼貌",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词1"
+      ],
+      "visible_from_volume": 24,
+      "evidence_refs": [
+        "EV2426"
+      ]
+    },
+    {
+      "profile_id": "ST2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词2"
+      ],
+      "visible_from_volume": 24,
+      "evidence_refs": [
+        "EV2427"
+      ]
+    },
+    {
+      "profile_id": "ST2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词3"
+      ],
+      "visible_from_volume": 24,
+      "evidence_refs": [
+        "EV2428"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "category": "习惯",
+      "name": "第24卷怪癖1",
+      "description": "角色在第24卷表现出的可辨识习惯1",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2406"
+      ]
+    },
+    {
+      "quirk_id": "QK2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "category": "怪癖",
+      "name": "第24卷怪癖2",
+      "description": "角色在第24卷表现出的可辨识习惯2",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2407"
+      ]
+    },
+    {
+      "quirk_id": "QK2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "category": "习惯",
+      "name": "第24卷怪癖3",
+      "description": "角色在第24卷表现出的可辨识习惯3",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2408"
+      ]
+    },
+    {
+      "quirk_id": "QK2404",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "category": "怪癖",
+      "name": "第24卷怪癖4",
+      "description": "角色在第24卷表现出的可辨识习惯4",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2409"
+      ]
+    },
+    {
+      "quirk_id": "QK2405",
+      "character_id": "E0031",
+      "phase_id": "phase-24-2",
+      "category": "习惯",
+      "name": "第24卷怪癖5",
+      "description": "角色在第24卷表现出的可辨识习惯5",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2410"
+      ]
+    },
+    {
+      "quirk_id": "QK2406",
+      "character_id": "E0005",
+      "phase_id": "phase-24-3",
+      "category": "怪癖",
+      "name": "第24卷怪癖6",
+      "description": "角色在第24卷表现出的可辨识习惯6",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2411"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "preference_type": "LIKE",
+      "target": "偏好目标1",
+      "description": "第24卷角色偏好描述1",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2411"
+      ]
+    },
+    {
+      "preference_id": "PF2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标2",
+      "description": "第24卷角色偏好描述2",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2412"
+      ]
+    },
+    {
+      "preference_id": "PF2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "preference_type": "LIKE",
+      "target": "偏好目标3",
+      "description": "第24卷角色偏好描述3",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2413"
+      ]
+    },
+    {
+      "preference_id": "PF2404",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标4",
+      "description": "第24卷角色偏好描述4",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2414"
+      ]
+    },
+    {
+      "preference_id": "PF2405",
+      "character_id": "E0031",
+      "phase_id": "phase-24-2",
+      "preference_type": "LIKE",
+      "target": "偏好目标5",
+      "description": "第24卷角色偏好描述5",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2415"
+      ]
+    },
+    {
+      "preference_id": "PF2406",
+      "character_id": "E0005",
+      "phase_id": "phase-24-3",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标6",
+      "description": "第24卷角色偏好描述6",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2416"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2416"
+      ]
+    },
+    {
+      "profile_id": "BY2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2417"
+      ]
+    },
+    {
+      "profile_id": "BY2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2418"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN2401",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "persona_type": "PUBLIC",
+      "description": "第24卷角色人格面1",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2419"
+      ]
+    },
+    {
+      "persona_id": "PN2402",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "persona_type": "PRIVATE",
+      "description": "第24卷角色人格面2",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2420"
+      ]
+    },
+    {
+      "persona_id": "PN2403",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "persona_type": "FAMILY",
+      "description": "第24卷角色人格面3",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2421"
+      ]
+    },
+    {
+      "persona_id": "PN2404",
+      "character_id": "E0001",
+      "phase_id": "phase-24-4",
+      "persona_type": "ROMANTIC",
+      "description": "第24卷角色人格面4",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV2422"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": []
+}

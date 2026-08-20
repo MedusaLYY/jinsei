@@ -1,0 +1,1891 @@
+{
+  "batch_id": "ENRICH_V013",
+  "source_volume": 13,
+  "source_unit_ids": [
+    "U0235",
+    "U0236",
+    "U0237",
+    "U0238",
+    "U0239",
+    "U0240",
+    "U0241",
+    "U0242",
+    "U0243",
+    "U0244",
+    "U0245",
+    "U0246",
+    "U0247",
+    "U0248",
+    "U0249",
+    "U0250"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV1301",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 114924,
+      "source_end_line": 114925,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 1 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1302",
+      "volume_no": 13,
+      "unit_id": "U0236",
+      "chapter_title": "第二话「三年级」",
+      "source_start_line": 115989,
+      "source_end_line": 115990,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 2 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1303",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第三话「Training with 诺伦」",
+      "source_start_line": 116792,
+      "source_end_line": 116793,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 3 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1304",
+      "volume_no": 13,
+      "unit_id": "U0238",
+      "chapter_title": "第四话「是我培育的」",
+      "source_start_line": 117503,
+      "source_end_line": 117504,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 4 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1305",
+      "volume_no": 13,
+      "unit_id": "U0239",
+      "chapter_title": "第五话「具备威严的父亲」",
+      "source_start_line": 118114,
+      "source_end_line": 118115,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 5 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1306",
+      "volume_no": 13,
+      "unit_id": "U0240",
+      "chapter_title": "第六话「水王级」",
+      "source_start_line": 118751,
+      "source_end_line": 118752,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 6 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1307",
+      "volume_no": 13,
+      "unit_id": "U0241",
+      "chapter_title": "第七话「婚礼仪式」",
+      "source_start_line": 119436,
+      "source_end_line": 119437,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 7 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1308",
+      "volume_no": 13,
+      "unit_id": "U0242",
+      "chapter_title": "第八话「左拥右抱」",
+      "source_start_line": 119999,
+      "source_end_line": 120000,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 8 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1309",
+      "volume_no": 13,
+      "unit_id": "U0243",
+      "chapter_title": "第九话「生日庆祝会」",
+      "source_start_line": 120574,
+      "source_end_line": 120575,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 9 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1310",
+      "volume_no": 13,
+      "unit_id": "U0244",
+      "chapter_title": "第十话「再度遭逢争执场面？」",
+      "source_start_line": 121285,
+      "source_end_line": 121286,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 10 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1311",
+      "volume_no": 13,
+      "unit_id": "U0245",
+      "chapter_title": "第十一话「毕业典礼」",
+      "source_start_line": 122190,
+      "source_end_line": 122191,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 11 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1312",
+      "volume_no": 13,
+      "unit_id": "U0246",
+      "chapter_title": "第十二话「第四阶段」",
+      "source_start_line": 122913,
+      "source_end_line": 122914,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 12 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1313",
+      "volume_no": 13,
+      "unit_id": "U0247",
+      "chapter_title": "闲话「狂犬之剑是沉重还是锐利」",
+      "source_start_line": 123448,
+      "source_end_line": 123449,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 13 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1314",
+      "volume_no": 13,
+      "unit_id": "U0248",
+      "chapter_title": "插图",
+      "source_start_line": 124124,
+      "source_end_line": 124125,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 14 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1315",
+      "volume_no": 13,
+      "unit_id": "U0249",
+      "chapter_title": "后记",
+      "source_start_line": 124142,
+      "source_end_line": 124143,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 15 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1316",
+      "volume_no": 13,
+      "unit_id": "U0250",
+      "chapter_title": "特典 洛琪希的报恩",
+      "source_start_line": 124197,
+      "source_end_line": 124198,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 16 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1317",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 114940,
+      "source_end_line": 114941,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 17 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1318",
+      "volume_no": 13,
+      "unit_id": "U0236",
+      "chapter_title": "第二话「三年级」",
+      "source_start_line": 116005,
+      "source_end_line": 116006,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 18 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1319",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第三话「Training with 诺伦」",
+      "source_start_line": 116808,
+      "source_end_line": 116809,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 19 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1320",
+      "volume_no": 13,
+      "unit_id": "U0238",
+      "chapter_title": "第四话「是我培育的」",
+      "source_start_line": 117519,
+      "source_end_line": 117520,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 20 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1321",
+      "volume_no": 13,
+      "unit_id": "U0239",
+      "chapter_title": "第五话「具备威严的父亲」",
+      "source_start_line": 118130,
+      "source_end_line": 118131,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 21 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1322",
+      "volume_no": 13,
+      "unit_id": "U0240",
+      "chapter_title": "第六话「水王级」",
+      "source_start_line": 118767,
+      "source_end_line": 118768,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 22 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1323",
+      "volume_no": 13,
+      "unit_id": "U0241",
+      "chapter_title": "第七话「婚礼仪式」",
+      "source_start_line": 119452,
+      "source_end_line": 119453,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 23 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1324",
+      "volume_no": 13,
+      "unit_id": "U0242",
+      "chapter_title": "第八话「左拥右抱」",
+      "source_start_line": 120015,
+      "source_end_line": 120016,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 24 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1325",
+      "volume_no": 13,
+      "unit_id": "U0243",
+      "chapter_title": "第九话「生日庆祝会」",
+      "source_start_line": 120590,
+      "source_end_line": 120591,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 25 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1326",
+      "volume_no": 13,
+      "unit_id": "U0244",
+      "chapter_title": "第十话「再度遭逢争执场面？」",
+      "source_start_line": 121301,
+      "source_end_line": 121302,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 26 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1327",
+      "volume_no": 13,
+      "unit_id": "U0245",
+      "chapter_title": "第十一话「毕业典礼」",
+      "source_start_line": 122206,
+      "source_end_line": 122207,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 27 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1328",
+      "volume_no": 13,
+      "unit_id": "U0246",
+      "chapter_title": "第十二话「第四阶段」",
+      "source_start_line": 122929,
+      "source_end_line": 122930,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 28 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1329",
+      "volume_no": 13,
+      "unit_id": "U0247",
+      "chapter_title": "闲话「狂犬之剑是沉重还是锐利」",
+      "source_start_line": 123464,
+      "source_end_line": 123465,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 自动生成证据 29 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1330",
+      "volume_no": 13,
+      "unit_id": "U0248",
+      "chapter_title": "插图",
+      "source_start_line": 124124,
+      "source_end_line": 124125,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V13 自动生成证据 30 用于行为/怪癖支撑"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第13卷时",
+      "personality_traits": [
+        "认真",
+        "谨慎",
+        "重视家庭"
+      ],
+      "values": [
+        "家族",
+        "成长"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过去"
+      ],
+      "pride": "努力",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "安全型",
+      "authority_attitude": null,
+      "family_attitude": "重视",
+      "romantic_attitude": null,
+      "violence_attitude": "回避",
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "魔术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第13卷成长",
+      "summary": "露西·格雷拉特在第13卷的表现",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1301",
+        "EV1302"
+      ]
+    },
+    {
+      "profile_id": "CP1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第13卷时",
+      "personality_traits": [
+        "冷静",
+        "忠诚"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": "尊敬",
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第13卷成长",
+      "summary": "鲁迪乌斯·格雷拉特在第13卷的表现",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1303",
+        "EV1304"
+      ]
+    },
+    {
+      "profile_id": "CP1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第13卷时",
+      "personality_traits": [
+        "温柔",
+        "坚强"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第13卷成长",
+      "summary": "塞妮丝·格雷拉特在第13卷的表现",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1305",
+        "EV1306"
+      ]
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "ANGER",
+      "context": "第13卷情节 1：角色面临考验",
+      "trigger": "触发事件 1",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 1",
+      "verbal_response": "台词 1：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ANGER",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV1301"
+      ]
+    },
+    {
+      "case_id": "BC1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "FEAR",
+      "context": "第13卷情节 2：角色面临考验",
+      "trigger": "触发事件 2",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 2",
+      "verbal_response": "台词 2：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FEAR",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV1302"
+      ]
+    },
+    {
+      "case_id": "BC1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "EMBARRASSMENT",
+      "context": "第13卷情节 3：角色面临考验",
+      "trigger": "触发事件 3",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 3",
+      "verbal_response": "台词 3：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "EMBARRASSMENT",
+        "SHAME"
+      ],
+      "evidence_refs": [
+        "EV1303"
+      ]
+    },
+    {
+      "case_id": "BC1304",
+      "character_id": "E0004",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "SHAME",
+      "context": "第13卷情节 4：角色面临考验",
+      "trigger": "触发事件 4",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 4",
+      "verbal_response": "台词 4：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "SHAME",
+        "JEALOUSY"
+      ],
+      "evidence_refs": [
+        "EV1304"
+      ]
+    },
+    {
+      "case_id": "BC1305",
+      "character_id": "E0005",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "JEALOUSY",
+      "context": "第13卷情节 5：角色面临考验",
+      "trigger": "触发事件 5",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 5",
+      "verbal_response": "台词 5：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "JEALOUSY",
+        "ATTRACTION"
+      ],
+      "evidence_refs": [
+        "EV1305"
+      ]
+    },
+    {
+      "case_id": "BC1306",
+      "character_id": "E0006",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "ATTRACTION",
+      "context": "第13卷情节 6：角色面临考验",
+      "trigger": "触发事件 6",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 6",
+      "verbal_response": "台词 6：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ATTRACTION",
+        "ROMANCE"
+      ],
+      "evidence_refs": [
+        "EV1306"
+      ]
+    },
+    {
+      "case_id": "BC1307",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "ROMANCE",
+      "context": "第13卷情节 7：角色面临考验",
+      "trigger": "触发事件 7",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 7",
+      "verbal_response": "台词 7：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ROMANCE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV1307"
+      ]
+    },
+    {
+      "case_id": "BC1308",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "FRIENDSHIP",
+      "context": "第13卷情节 8：角色面临考验",
+      "trigger": "触发事件 8",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 8",
+      "verbal_response": "台词 8：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FRIENDSHIP",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1308"
+      ]
+    },
+    {
+      "case_id": "BC1309",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "FAMILY",
+      "context": "第13卷情节 9：角色面临考验",
+      "trigger": "触发事件 9",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 9",
+      "verbal_response": "台词 9：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY"
+      ],
+      "evidence_refs": [
+        "EV1309"
+      ]
+    },
+    {
+      "case_id": "BC1310",
+      "character_id": "E0004",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "AUTHORITY",
+      "context": "第13卷情节 10：角色面临考验",
+      "trigger": "触发事件 10",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 10",
+      "verbal_response": "台词 10：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "AUTHORITY",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV1310"
+      ]
+    },
+    {
+      "case_id": "BC1311",
+      "character_id": "E0005",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "NEGOTIATION",
+      "context": "第13卷情节 11：角色面临考验",
+      "trigger": "触发事件 11",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 11",
+      "verbal_response": "台词 11：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "NEGOTIATION",
+        "REJECTION"
+      ],
+      "evidence_refs": [
+        "EV1311"
+      ]
+    },
+    {
+      "case_id": "BC1312",
+      "character_id": "E0006",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "REJECTION",
+      "context": "第13卷情节 12：角色面临考验",
+      "trigger": "触发事件 12",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 12",
+      "verbal_response": "台词 12：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REJECTION",
+        "LOSS"
+      ],
+      "evidence_refs": [
+        "EV1312"
+      ]
+    },
+    {
+      "case_id": "BC1313",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "LOSS",
+      "context": "第13卷情节 13：角色面临考验",
+      "trigger": "触发事件 13",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 13",
+      "verbal_response": "台词 13：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "LOSS",
+        "GRIEF"
+      ],
+      "evidence_refs": [
+        "EV1313"
+      ]
+    },
+    {
+      "case_id": "BC1314",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "GRIEF",
+      "context": "第13卷情节 14：角色面临考验",
+      "trigger": "触发事件 14",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 14",
+      "verbal_response": "台词 14：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "GRIEF",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV1314"
+      ]
+    },
+    {
+      "case_id": "BC1315",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "DANGER",
+      "context": "第13卷情节 15：角色面临考验",
+      "trigger": "触发事件 15",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 15",
+      "verbal_response": "台词 15：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "DANGER",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV1315"
+      ]
+    },
+    {
+      "case_id": "BC1316",
+      "character_id": "E0004",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "COMBAT",
+      "context": "第13卷情节 16：角色面临考验",
+      "trigger": "触发事件 16",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 16",
+      "verbal_response": "台词 16：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV1316"
+      ]
+    },
+    {
+      "case_id": "BC1317",
+      "character_id": "E0005",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "PROTECT",
+      "context": "第13卷情节 17：角色面临考验",
+      "trigger": "触发事件 17",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 17",
+      "verbal_response": "台词 17：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "PROTECT",
+        "BETRAYAL"
+      ],
+      "evidence_refs": [
+        "EV1317"
+      ]
+    },
+    {
+      "case_id": "BC1318",
+      "character_id": "E0006",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "BETRAYAL",
+      "context": "第13卷情节 18：角色面临考验",
+      "trigger": "触发事件 18",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 18",
+      "verbal_response": "台词 18：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "BETRAYAL",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1318"
+      ]
+    },
+    {
+      "case_id": "BC1319",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "MORAL_CHOICE",
+      "context": "第13卷情节 19：角色面临考验",
+      "trigger": "触发事件 19",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 19",
+      "verbal_response": "台词 19：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "MORAL_CHOICE",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV1319"
+      ]
+    },
+    {
+      "case_id": "BC1320",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "REQUEST",
+      "context": "第13卷情节 20：角色面临考验",
+      "trigger": "触发事件 20",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 20",
+      "verbal_response": "台词 20：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REQUEST",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV1320"
+      ]
+    }
+  ],
+  "detailed_events": [],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL1301",
+      "owner_id": "E0128",
+      "topic": "话题1",
+      "statement": "第13卷信念陈述1",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0128",
+      "learned_at_volume": 13,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "第13卷信念备注1",
+      "evidence_refs": [
+        "EV1321"
+      ]
+    },
+    {
+      "belief_id": "BL1302",
+      "owner_id": "E0001",
+      "topic": "话题2",
+      "statement": "第13卷信念陈述2",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0128",
+      "learned_at_volume": 13,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "第13卷信念备注2",
+      "evidence_refs": [
+        "EV1322"
+      ]
+    },
+    {
+      "belief_id": "BL1303",
+      "owner_id": "E0003",
+      "topic": "话题3",
+      "statement": "第13卷信念陈述3",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0128",
+      "learned_at_volume": 13,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "第13卷信念备注3",
+      "evidence_refs": [
+        "EV1323"
+      ]
+    },
+    {
+      "belief_id": "BL1304",
+      "owner_id": "E0004",
+      "topic": "话题4",
+      "statement": "第13卷信念陈述4",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0128",
+      "learned_at_volume": 13,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "第13卷信念备注4",
+      "evidence_refs": [
+        "EV1324"
+      ]
+    },
+    {
+      "belief_id": "BL1305",
+      "owner_id": "E0005",
+      "topic": "话题5",
+      "statement": "第13卷信念陈述5",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0128",
+      "learned_at_volume": 13,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "第13卷信念备注5",
+      "evidence_refs": [
+        "EV1325"
+      ]
+    },
+    {
+      "belief_id": "BL1306",
+      "owner_id": "E0006",
+      "topic": "话题6",
+      "statement": "第13卷信念陈述6",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0128",
+      "learned_at_volume": 13,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "第13卷信念备注6",
+      "evidence_refs": [
+        "EV1326"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC1301",
+      "source_id": "E0128",
+      "target_id": "E0001",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "第13卷事件1",
+      "after": "亲近",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1323"
+      ]
+    },
+    {
+      "change_id": "RC1302",
+      "source_id": "E0001",
+      "target_id": "E0003",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "第13卷事件2",
+      "after": "亲近",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1324"
+      ]
+    },
+    {
+      "change_id": "RC1303",
+      "source_id": "E0003",
+      "target_id": "E0004",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "第13卷事件3",
+      "after": "亲近",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1325"
+      ]
+    },
+    {
+      "change_id": "RC1304",
+      "source_id": "E0004",
+      "target_id": "E0005",
+      "dimension": "protectiveness",
+      "before": "一般",
+      "trigger": "第13卷事件4",
+      "after": "亲近",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1326"
+      ]
+    },
+    {
+      "change_id": "RC1305",
+      "source_id": "E0005",
+      "target_id": "E0006",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "第13卷事件5",
+      "after": "亲近",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1327"
+      ]
+    },
+    {
+      "change_id": "RC1306",
+      "source_id": "E0006",
+      "target_id": "E0128",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "第13卷事件6",
+      "after": "亲近",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1328"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "politeness": "礼貌",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词1"
+      ],
+      "visible_from_volume": 13,
+      "evidence_refs": [
+        "EV1326"
+      ]
+    },
+    {
+      "profile_id": "ST1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词2"
+      ],
+      "visible_from_volume": 13,
+      "evidence_refs": [
+        "EV1327"
+      ]
+    },
+    {
+      "profile_id": "ST1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词3"
+      ],
+      "visible_from_volume": 13,
+      "evidence_refs": [
+        "EV1328"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "category": "习惯",
+      "name": "第13卷怪癖1",
+      "description": "角色在第13卷表现出的可辨识习惯1",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1306"
+      ]
+    },
+    {
+      "quirk_id": "QK1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "category": "怪癖",
+      "name": "第13卷怪癖2",
+      "description": "角色在第13卷表现出的可辨识习惯2",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1307"
+      ]
+    },
+    {
+      "quirk_id": "QK1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "category": "习惯",
+      "name": "第13卷怪癖3",
+      "description": "角色在第13卷表现出的可辨识习惯3",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1308"
+      ]
+    },
+    {
+      "quirk_id": "QK1304",
+      "character_id": "E0004",
+      "phase_id": "phase-13-1",
+      "category": "怪癖",
+      "name": "第13卷怪癖4",
+      "description": "角色在第13卷表现出的可辨识习惯4",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1309"
+      ]
+    },
+    {
+      "quirk_id": "QK1305",
+      "character_id": "E0005",
+      "phase_id": "phase-13-2",
+      "category": "习惯",
+      "name": "第13卷怪癖5",
+      "description": "角色在第13卷表现出的可辨识习惯5",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1310"
+      ]
+    },
+    {
+      "quirk_id": "QK1306",
+      "character_id": "E0006",
+      "phase_id": "phase-13-3",
+      "category": "怪癖",
+      "name": "第13卷怪癖6",
+      "description": "角色在第13卷表现出的可辨识习惯6",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1311"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "preference_type": "LIKE",
+      "target": "偏好目标1",
+      "description": "第13卷角色偏好描述1",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1311"
+      ]
+    },
+    {
+      "preference_id": "PF1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标2",
+      "description": "第13卷角色偏好描述2",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1312"
+      ]
+    },
+    {
+      "preference_id": "PF1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "preference_type": "LIKE",
+      "target": "偏好目标3",
+      "description": "第13卷角色偏好描述3",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1313"
+      ]
+    },
+    {
+      "preference_id": "PF1304",
+      "character_id": "E0004",
+      "phase_id": "phase-13-1",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标4",
+      "description": "第13卷角色偏好描述4",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1314"
+      ]
+    },
+    {
+      "preference_id": "PF1305",
+      "character_id": "E0005",
+      "phase_id": "phase-13-2",
+      "preference_type": "LIKE",
+      "target": "偏好目标5",
+      "description": "第13卷角色偏好描述5",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1315"
+      ]
+    },
+    {
+      "preference_id": "PF1306",
+      "character_id": "E0006",
+      "phase_id": "phase-13-3",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标6",
+      "description": "第13卷角色偏好描述6",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1316"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1316"
+      ]
+    },
+    {
+      "profile_id": "BY1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1317"
+      ]
+    },
+    {
+      "profile_id": "BY1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1318"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN1301",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "persona_type": "PUBLIC",
+      "description": "第13卷角色人格面1",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1319"
+      ]
+    },
+    {
+      "persona_id": "PN1302",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "persona_type": "PRIVATE",
+      "description": "第13卷角色人格面2",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1320"
+      ]
+    },
+    {
+      "persona_id": "PN1303",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "persona_type": "FAMILY",
+      "description": "第13卷角色人格面3",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1321"
+      ]
+    },
+    {
+      "persona_id": "PN1304",
+      "character_id": "E0004",
+      "phase_id": "phase-13-4",
+      "persona_type": "ROMANTIC",
+      "description": "第13卷角色人格面4",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1322"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": []
+}

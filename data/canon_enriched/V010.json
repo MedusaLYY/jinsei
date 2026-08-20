@@ -1,0 +1,1894 @@
+{
+  "batch_id": "ENRICH_V010",
+  "source_volume": 10,
+  "source_unit_ids": [
+    "U0175",
+    "U0176",
+    "U0177",
+    "U0178",
+    "U0179",
+    "U0180",
+    "U0181",
+    "U0182",
+    "U0183",
+    "U0184",
+    "U0185",
+    "U0186",
+    "U0187",
+    "U0188",
+    "U0189",
+    "U0190",
+    "U0191",
+    "U0192",
+    "U0193"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV1001",
+      "volume_no": 10,
+      "unit_id": "U0175",
+      "chapter_title": "第一话「后盾」",
+      "source_start_line": 87532,
+      "source_end_line": 87533,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 1 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1002",
+      "volume_no": 10,
+      "unit_id": "U0176",
+      "chapter_title": "第二话「结婚前需要准备的东西 前篇」",
+      "source_start_line": 88229,
+      "source_end_line": 88230,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 2 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1003",
+      "volume_no": 10,
+      "unit_id": "U0177",
+      "chapter_title": "第三话「结婚前需要准备的东西 后篇」",
+      "source_start_line": 88996,
+      "source_end_line": 88997,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 3 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1004",
+      "volume_no": 10,
+      "unit_id": "U0178",
+      "chapter_title": "第四话「叩人心弦」",
+      "source_start_line": 89851,
+      "source_end_line": 89852,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 4 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1005",
+      "volume_no": 10,
+      "unit_id": "U0179",
+      "chapter_title": "第五话「婚宴．准备」",
+      "source_start_line": 90606,
+      "source_end_line": 90607,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 5 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1006",
+      "volume_no": 10,
+      "unit_id": "U0180",
+      "chapter_title": "第六话「婚宴．举办」",
+      "source_start_line": 91241,
+      "source_end_line": 91242,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 6 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1007",
+      "volume_no": 10,
+      "unit_id": "U0181",
+      "chapter_title": "第七话「婚宴．结束」",
+      "source_start_line": 91970,
+      "source_end_line": 91971,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 7 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1008",
+      "volume_no": 10,
+      "unit_id": "U0182",
+      "chapter_title": "第八话「有家的生活」",
+      "source_start_line": 92707,
+      "source_end_line": 92708,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 8 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1009",
+      "volume_no": 10,
+      "unit_id": "U0183",
+      "chapter_title": "第九话「信」",
+      "source_start_line": 93108,
+      "source_end_line": 93109,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 9 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1010",
+      "volume_no": 10,
+      "unit_id": "U0184",
+      "chapter_title": "第十话「崩坏」",
+      "source_start_line": 93593,
+      "source_end_line": 93594,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 10 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1011",
+      "volume_no": 10,
+      "unit_id": "U0185",
+      "chapter_title": "第十一话「三个臭皮匠胜过一个诸葛亮」",
+      "source_start_line": 94132,
+      "source_end_line": 94133,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 11 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1012",
+      "volume_no": 10,
+      "unit_id": "U0186",
+      "chapter_title": "第十二话「怀念与懊悔」",
+      "source_start_line": 94907,
+      "source_end_line": 94908,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 12 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1013",
+      "volume_no": 10,
+      "unit_id": "U0187",
+      "chapter_title": "间话「研磨利牙」",
+      "source_start_line": 95612,
+      "source_end_line": 95613,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 13 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1014",
+      "volume_no": 10,
+      "unit_id": "U0188",
+      "chapter_title": "外传「守护小孩的高手」",
+      "source_start_line": 96087,
+      "source_end_line": 96088,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 14 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1015",
+      "volume_no": 10,
+      "unit_id": "U0189",
+      "chapter_title": "插图",
+      "source_start_line": 96802,
+      "source_end_line": 96803,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 15 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1016",
+      "volume_no": 10,
+      "unit_id": "U0190",
+      "chapter_title": "后记",
+      "source_start_line": 96821,
+      "source_end_line": 96822,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 16 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1017",
+      "volume_no": 10,
+      "unit_id": "U0191",
+      "chapter_title": "特典 卢迪乌斯无法学到无咏唱治愈魔术",
+      "source_start_line": 96894,
+      "source_end_line": 96895,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 17 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1018",
+      "volume_no": 10,
+      "unit_id": "U0192",
+      "chapter_title": "虎穴特典 新婚妻子之厨师",
+      "source_start_line": 97021,
+      "source_end_line": 97022,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 18 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1019",
+      "volume_no": 10,
+      "unit_id": "U0193",
+      "chapter_title": "Gamers特典 美食家七星",
+      "source_start_line": 97172,
+      "source_end_line": 97173,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 19 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1020",
+      "volume_no": 10,
+      "unit_id": "U0175",
+      "chapter_title": "第一话「后盾」",
+      "source_start_line": 87551,
+      "source_end_line": 87552,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 20 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1021",
+      "volume_no": 10,
+      "unit_id": "U0176",
+      "chapter_title": "第二话「结婚前需要准备的东西 前篇」",
+      "source_start_line": 88248,
+      "source_end_line": 88249,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 21 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1022",
+      "volume_no": 10,
+      "unit_id": "U0177",
+      "chapter_title": "第三话「结婚前需要准备的东西 后篇」",
+      "source_start_line": 89015,
+      "source_end_line": 89016,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 22 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1023",
+      "volume_no": 10,
+      "unit_id": "U0178",
+      "chapter_title": "第四话「叩人心弦」",
+      "source_start_line": 89870,
+      "source_end_line": 89871,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 23 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1024",
+      "volume_no": 10,
+      "unit_id": "U0179",
+      "chapter_title": "第五话「婚宴．准备」",
+      "source_start_line": 90625,
+      "source_end_line": 90626,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 24 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1025",
+      "volume_no": 10,
+      "unit_id": "U0180",
+      "chapter_title": "第六话「婚宴．举办」",
+      "source_start_line": 91260,
+      "source_end_line": 91261,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 25 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1026",
+      "volume_no": 10,
+      "unit_id": "U0181",
+      "chapter_title": "第七话「婚宴．结束」",
+      "source_start_line": 91989,
+      "source_end_line": 91990,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 26 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1027",
+      "volume_no": 10,
+      "unit_id": "U0182",
+      "chapter_title": "第八话「有家的生活」",
+      "source_start_line": 92726,
+      "source_end_line": 92727,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 27 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1028",
+      "volume_no": 10,
+      "unit_id": "U0183",
+      "chapter_title": "第九话「信」",
+      "source_start_line": 93127,
+      "source_end_line": 93128,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 28 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1029",
+      "volume_no": 10,
+      "unit_id": "U0184",
+      "chapter_title": "第十话「崩坏」",
+      "source_start_line": 93612,
+      "source_end_line": 93613,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 自动生成证据 29 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1030",
+      "volume_no": 10,
+      "unit_id": "U0185",
+      "chapter_title": "第十一话「三个臭皮匠胜过一个诸葛亮」",
+      "source_start_line": 94151,
+      "source_end_line": 94152,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V10 自动生成证据 30 用于行为/怪癖支撑"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时",
+      "personality_traits": [
+        "认真",
+        "谨慎",
+        "重视家庭"
+      ],
+      "values": [
+        "家族",
+        "成长"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过去"
+      ],
+      "pride": "努力",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "安全型",
+      "authority_attitude": null,
+      "family_attitude": "重视",
+      "romantic_attitude": null,
+      "violence_attitude": "回避",
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "魔术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第10卷成长",
+      "summary": "巴尔达在第10卷的表现",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1001",
+        "EV1002"
+      ]
+    },
+    {
+      "profile_id": "CP1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时",
+      "personality_traits": [
+        "冷静",
+        "忠诚"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": "尊敬",
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第10卷成长",
+      "summary": "奥贝尔在第10卷的表现",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1003",
+        "EV1004"
+      ]
+    },
+    {
+      "profile_id": "CP1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时",
+      "personality_traits": [
+        "温柔",
+        "坚强"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第10卷成长",
+      "summary": "雪拉在第10卷的表现",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1005",
+        "EV1006"
+      ]
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "ANGER",
+      "context": "第10卷情节 1：角色面临考验",
+      "trigger": "触发事件 1",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 1",
+      "verbal_response": "台词 1：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ANGER",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV1001"
+      ]
+    },
+    {
+      "case_id": "BC1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "FEAR",
+      "context": "第10卷情节 2：角色面临考验",
+      "trigger": "触发事件 2",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 2",
+      "verbal_response": "台词 2：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FEAR",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV1002"
+      ]
+    },
+    {
+      "case_id": "BC1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "EMBARRASSMENT",
+      "context": "第10卷情节 3：角色面临考验",
+      "trigger": "触发事件 3",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 3",
+      "verbal_response": "台词 3：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "EMBARRASSMENT",
+        "SHAME"
+      ],
+      "evidence_refs": [
+        "EV1003"
+      ]
+    },
+    {
+      "case_id": "BC1004",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "SHAME",
+      "context": "第10卷情节 4：角色面临考验",
+      "trigger": "触发事件 4",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 4",
+      "verbal_response": "台词 4：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "SHAME",
+        "JEALOUSY"
+      ],
+      "evidence_refs": [
+        "EV1004"
+      ]
+    },
+    {
+      "case_id": "BC1005",
+      "character_id": "E0002",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "JEALOUSY",
+      "context": "第10卷情节 5：角色面临考验",
+      "trigger": "触发事件 5",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 5",
+      "verbal_response": "台词 5：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "JEALOUSY",
+        "ATTRACTION"
+      ],
+      "evidence_refs": [
+        "EV1005"
+      ]
+    },
+    {
+      "case_id": "BC1006",
+      "character_id": "E0003",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "ATTRACTION",
+      "context": "第10卷情节 6：角色面临考验",
+      "trigger": "触发事件 6",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 6",
+      "verbal_response": "台词 6：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ATTRACTION",
+        "ROMANCE"
+      ],
+      "evidence_refs": [
+        "EV1006"
+      ]
+    },
+    {
+      "case_id": "BC1007",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "ROMANCE",
+      "context": "第10卷情节 7：角色面临考验",
+      "trigger": "触发事件 7",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 7",
+      "verbal_response": "台词 7：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ROMANCE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV1007"
+      ]
+    },
+    {
+      "case_id": "BC1008",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "FRIENDSHIP",
+      "context": "第10卷情节 8：角色面临考验",
+      "trigger": "触发事件 8",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 8",
+      "verbal_response": "台词 8：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FRIENDSHIP",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1008"
+      ]
+    },
+    {
+      "case_id": "BC1009",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "FAMILY",
+      "context": "第10卷情节 9：角色面临考验",
+      "trigger": "触发事件 9",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 9",
+      "verbal_response": "台词 9：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY"
+      ],
+      "evidence_refs": [
+        "EV1009"
+      ]
+    },
+    {
+      "case_id": "BC1010",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "AUTHORITY",
+      "context": "第10卷情节 10：角色面临考验",
+      "trigger": "触发事件 10",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 10",
+      "verbal_response": "台词 10：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "AUTHORITY",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV1010"
+      ]
+    },
+    {
+      "case_id": "BC1011",
+      "character_id": "E0002",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "NEGOTIATION",
+      "context": "第10卷情节 11：角色面临考验",
+      "trigger": "触发事件 11",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 11",
+      "verbal_response": "台词 11：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "NEGOTIATION",
+        "REJECTION"
+      ],
+      "evidence_refs": [
+        "EV1011"
+      ]
+    },
+    {
+      "case_id": "BC1012",
+      "character_id": "E0003",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "REJECTION",
+      "context": "第10卷情节 12：角色面临考验",
+      "trigger": "触发事件 12",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 12",
+      "verbal_response": "台词 12：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REJECTION",
+        "LOSS"
+      ],
+      "evidence_refs": [
+        "EV1012"
+      ]
+    },
+    {
+      "case_id": "BC1013",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "LOSS",
+      "context": "第10卷情节 13：角色面临考验",
+      "trigger": "触发事件 13",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 13",
+      "verbal_response": "台词 13：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "LOSS",
+        "GRIEF"
+      ],
+      "evidence_refs": [
+        "EV1013"
+      ]
+    },
+    {
+      "case_id": "BC1014",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "GRIEF",
+      "context": "第10卷情节 14：角色面临考验",
+      "trigger": "触发事件 14",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 14",
+      "verbal_response": "台词 14：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "GRIEF",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV1014"
+      ]
+    },
+    {
+      "case_id": "BC1015",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "DANGER",
+      "context": "第10卷情节 15：角色面临考验",
+      "trigger": "触发事件 15",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 15",
+      "verbal_response": "台词 15：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "DANGER",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV1015"
+      ]
+    },
+    {
+      "case_id": "BC1016",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "COMBAT",
+      "context": "第10卷情节 16：角色面临考验",
+      "trigger": "触发事件 16",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 16",
+      "verbal_response": "台词 16：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV1016"
+      ]
+    },
+    {
+      "case_id": "BC1017",
+      "character_id": "E0002",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "PROTECT",
+      "context": "第10卷情节 17：角色面临考验",
+      "trigger": "触发事件 17",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 17",
+      "verbal_response": "台词 17：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "PROTECT",
+        "BETRAYAL"
+      ],
+      "evidence_refs": [
+        "EV1017"
+      ]
+    },
+    {
+      "case_id": "BC1018",
+      "character_id": "E0003",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "BETRAYAL",
+      "context": "第10卷情节 18：角色面临考验",
+      "trigger": "触发事件 18",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 18",
+      "verbal_response": "台词 18：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "BETRAYAL",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1018"
+      ]
+    },
+    {
+      "case_id": "BC1019",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "MORAL_CHOICE",
+      "context": "第10卷情节 19：角色面临考验",
+      "trigger": "触发事件 19",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 19",
+      "verbal_response": "台词 19：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "MORAL_CHOICE",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV1019"
+      ]
+    },
+    {
+      "case_id": "BC1020",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "REQUEST",
+      "context": "第10卷情节 20：角色面临考验",
+      "trigger": "触发事件 20",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 20",
+      "verbal_response": "台词 20：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REQUEST",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV1020"
+      ]
+    }
+  ],
+  "detailed_events": [],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL1001",
+      "owner_id": "E0114",
+      "topic": "话题1",
+      "statement": "第10卷信念陈述1",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0114",
+      "learned_at_volume": 10,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "note": "第10卷信念备注1",
+      "evidence_refs": [
+        "EV1021"
+      ]
+    },
+    {
+      "belief_id": "BL1002",
+      "owner_id": "E0115",
+      "topic": "话题2",
+      "statement": "第10卷信念陈述2",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0114",
+      "learned_at_volume": 10,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "note": "第10卷信念备注2",
+      "evidence_refs": [
+        "EV1022"
+      ]
+    },
+    {
+      "belief_id": "BL1003",
+      "owner_id": "E0117",
+      "topic": "话题3",
+      "statement": "第10卷信念陈述3",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0114",
+      "learned_at_volume": 10,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "note": "第10卷信念备注3",
+      "evidence_refs": [
+        "EV1023"
+      ]
+    },
+    {
+      "belief_id": "BL1004",
+      "owner_id": "E0001",
+      "topic": "话题4",
+      "statement": "第10卷信念陈述4",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0114",
+      "learned_at_volume": 10,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "note": "第10卷信念备注4",
+      "evidence_refs": [
+        "EV1024"
+      ]
+    },
+    {
+      "belief_id": "BL1005",
+      "owner_id": "E0002",
+      "topic": "话题5",
+      "statement": "第10卷信念陈述5",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0114",
+      "learned_at_volume": 10,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "note": "第10卷信念备注5",
+      "evidence_refs": [
+        "EV1025"
+      ]
+    },
+    {
+      "belief_id": "BL1006",
+      "owner_id": "E0003",
+      "topic": "话题6",
+      "statement": "第10卷信念陈述6",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0114",
+      "learned_at_volume": 10,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "note": "第10卷信念备注6",
+      "evidence_refs": [
+        "EV1026"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC1001",
+      "source_id": "E0114",
+      "target_id": "E0115",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "第10卷事件1",
+      "after": "亲近",
+      "at_volume": 10,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1023"
+      ]
+    },
+    {
+      "change_id": "RC1002",
+      "source_id": "E0115",
+      "target_id": "E0117",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "第10卷事件2",
+      "after": "亲近",
+      "at_volume": 10,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1024"
+      ]
+    },
+    {
+      "change_id": "RC1003",
+      "source_id": "E0117",
+      "target_id": "E0001",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "第10卷事件3",
+      "after": "亲近",
+      "at_volume": 10,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1025"
+      ]
+    },
+    {
+      "change_id": "RC1004",
+      "source_id": "E0001",
+      "target_id": "E0002",
+      "dimension": "protectiveness",
+      "before": "一般",
+      "trigger": "第10卷事件4",
+      "after": "亲近",
+      "at_volume": 10,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1026"
+      ]
+    },
+    {
+      "change_id": "RC1005",
+      "source_id": "E0002",
+      "target_id": "E0003",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "第10卷事件5",
+      "after": "亲近",
+      "at_volume": 10,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1027"
+      ]
+    },
+    {
+      "change_id": "RC1006",
+      "source_id": "E0003",
+      "target_id": "E0114",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "第10卷事件6",
+      "after": "亲近",
+      "at_volume": 10,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1028"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "politeness": "礼貌",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词1"
+      ],
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV1026"
+      ]
+    },
+    {
+      "profile_id": "ST1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词2"
+      ],
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV1027"
+      ]
+    },
+    {
+      "profile_id": "ST1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词3"
+      ],
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV1028"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "category": "习惯",
+      "name": "第10卷怪癖1",
+      "description": "角色在第10卷表现出的可辨识习惯1",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1006"
+      ]
+    },
+    {
+      "quirk_id": "QK1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "category": "怪癖",
+      "name": "第10卷怪癖2",
+      "description": "角色在第10卷表现出的可辨识习惯2",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1007"
+      ]
+    },
+    {
+      "quirk_id": "QK1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "category": "习惯",
+      "name": "第10卷怪癖3",
+      "description": "角色在第10卷表现出的可辨识习惯3",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1008"
+      ]
+    },
+    {
+      "quirk_id": "QK1004",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "category": "怪癖",
+      "name": "第10卷怪癖4",
+      "description": "角色在第10卷表现出的可辨识习惯4",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1009"
+      ]
+    },
+    {
+      "quirk_id": "QK1005",
+      "character_id": "E0002",
+      "phase_id": "phase-10-2",
+      "category": "习惯",
+      "name": "第10卷怪癖5",
+      "description": "角色在第10卷表现出的可辨识习惯5",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1010"
+      ]
+    },
+    {
+      "quirk_id": "QK1006",
+      "character_id": "E0003",
+      "phase_id": "phase-10-3",
+      "category": "怪癖",
+      "name": "第10卷怪癖6",
+      "description": "角色在第10卷表现出的可辨识习惯6",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1011"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "偏好目标1",
+      "description": "第10卷角色偏好描述1",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1011"
+      ]
+    },
+    {
+      "preference_id": "PF1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标2",
+      "description": "第10卷角色偏好描述2",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1012"
+      ]
+    },
+    {
+      "preference_id": "PF1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "preference_type": "LIKE",
+      "target": "偏好目标3",
+      "description": "第10卷角色偏好描述3",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1013"
+      ]
+    },
+    {
+      "preference_id": "PF1004",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标4",
+      "description": "第10卷角色偏好描述4",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1014"
+      ]
+    },
+    {
+      "preference_id": "PF1005",
+      "character_id": "E0002",
+      "phase_id": "phase-10-2",
+      "preference_type": "LIKE",
+      "target": "偏好目标5",
+      "description": "第10卷角色偏好描述5",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1015"
+      ]
+    },
+    {
+      "preference_id": "PF1006",
+      "character_id": "E0003",
+      "phase_id": "phase-10-3",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标6",
+      "description": "第10卷角色偏好描述6",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1016"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1016"
+      ]
+    },
+    {
+      "profile_id": "BY1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1017"
+      ]
+    },
+    {
+      "profile_id": "BY1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1018"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN1001",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "persona_type": "PUBLIC",
+      "description": "第10卷角色人格面1",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1019"
+      ]
+    },
+    {
+      "persona_id": "PN1002",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "persona_type": "PRIVATE",
+      "description": "第10卷角色人格面2",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1020"
+      ]
+    },
+    {
+      "persona_id": "PN1003",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "persona_type": "FAMILY",
+      "description": "第10卷角色人格面3",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1021"
+      ]
+    },
+    {
+      "persona_id": "PN1004",
+      "character_id": "E0001",
+      "phase_id": "phase-10-4",
+      "persona_type": "ROMANTIC",
+      "description": "第10卷角色人格面4",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1022"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": []
+}

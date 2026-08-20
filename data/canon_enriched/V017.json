@@ -1,0 +1,1893 @@
+{
+  "batch_id": "ENRICH_V017",
+  "source_volume": 17,
+  "source_unit_ids": [
+    "U0298",
+    "U0299",
+    "U0300",
+    "U0301",
+    "U0302",
+    "U0303",
+    "U0304",
+    "U0305",
+    "U0306",
+    "U0307",
+    "U0308",
+    "U0309",
+    "U0310",
+    "U0311",
+    "U0312",
+    "U0313",
+    "U0314",
+    "U0315"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV1701",
+      "volume_no": 17,
+      "unit_id": "U0298",
+      "chapter_title": "第一话「前往阿斯拉王国」",
+      "source_start_line": 151062,
+      "source_end_line": 151063,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 1 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1702",
+      "volume_no": 17,
+      "unit_id": "U0299",
+      "chapter_title": "第二话「赤龙上颚」",
+      "source_start_line": 151541,
+      "source_end_line": 151542,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 2 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1703",
+      "volume_no": 17,
+      "unit_id": "U0300",
+      "chapter_title": "第三话「推敲」",
+      "source_start_line": 152176,
+      "source_end_line": 152177,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 3 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1704",
+      "volume_no": 17,
+      "unit_id": "U0301",
+      "chapter_title": "第四话「爱丽儿的选择」",
+      "source_start_line": 152753,
+      "source_end_line": 152754,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 4 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1705",
+      "volume_no": 17,
+      "unit_id": "U0302",
+      "chapter_title": "第五话「朵莉丝堤娜」",
+      "source_start_line": 153342,
+      "source_end_line": 153343,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 5 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1706",
+      "volume_no": 17,
+      "unit_id": "U0303",
+      "chapter_title": "第六话「路上」",
+      "source_start_line": 153809,
+      "source_end_line": 153810,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 6 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1707",
+      "volume_no": 17,
+      "unit_id": "U0304",
+      "chapter_title": "第七话「王都亚尔斯」",
+      "source_start_line": 154640,
+      "source_end_line": 154641,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 7 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1708",
+      "volume_no": 17,
+      "unit_id": "U0305",
+      "chapter_title": "第八话「黄昏的死斗」",
+      "source_start_line": 155175,
+      "source_end_line": 155176,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 8 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1709",
+      "volume_no": 17,
+      "unit_id": "U0306",
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "source_start_line": 155786,
+      "source_end_line": 155787,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 9 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1710",
+      "volume_no": 17,
+      "unit_id": "U0307",
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "source_start_line": 156461,
+      "source_end_line": 156462,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 10 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1711",
+      "volume_no": 17,
+      "unit_id": "U0308",
+      "chapter_title": "第十一话「路克失控」",
+      "source_start_line": 157386,
+      "source_end_line": 157387,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 11 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1712",
+      "volume_no": 17,
+      "unit_id": "U0309",
+      "chapter_title": "第十二话「奥尔斯帝德的真相以及王都的十天」",
+      "source_start_line": 157999,
+      "source_end_line": 158000,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 12 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1713",
+      "volume_no": 17,
+      "unit_id": "U0310",
+      "chapter_title": "第十三话「诀别的训练和希露菲的变化」",
+      "source_start_line": 158638,
+      "source_end_line": 158639,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 13 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1714",
+      "volume_no": 17,
+      "unit_id": "U0311",
+      "chapter_title": "第十四话「归乡与决意」",
+      "source_start_line": 159187,
+      "source_end_line": 159188,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 14 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1715",
+      "volume_no": 17,
+      "unit_id": "U0312",
+      "chapter_title": "闲话「？？？」",
+      "source_start_line": 159702,
+      "source_end_line": 159703,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 15 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1716",
+      "volume_no": 17,
+      "unit_id": "U0313",
+      "chapter_title": "插图",
+      "source_start_line": 159836,
+      "source_end_line": 159837,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 16 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1717",
+      "volume_no": 17,
+      "unit_id": "U0314",
+      "chapter_title": "特典〈幽禁的王子〉",
+      "source_start_line": 159856,
+      "source_end_line": 159857,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 17 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1718",
+      "volume_no": 17,
+      "unit_id": "U0315",
+      "chapter_title": "后记",
+      "source_start_line": 160003,
+      "source_end_line": 160004,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 18 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1719",
+      "volume_no": 17,
+      "unit_id": "U0298",
+      "chapter_title": "第一话「前往阿斯拉王国」",
+      "source_start_line": 151080,
+      "source_end_line": 151081,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 19 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1720",
+      "volume_no": 17,
+      "unit_id": "U0299",
+      "chapter_title": "第二话「赤龙上颚」",
+      "source_start_line": 151559,
+      "source_end_line": 151560,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 20 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1721",
+      "volume_no": 17,
+      "unit_id": "U0300",
+      "chapter_title": "第三话「推敲」",
+      "source_start_line": 152194,
+      "source_end_line": 152195,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 21 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1722",
+      "volume_no": 17,
+      "unit_id": "U0301",
+      "chapter_title": "第四话「爱丽儿的选择」",
+      "source_start_line": 152771,
+      "source_end_line": 152772,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 22 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1723",
+      "volume_no": 17,
+      "unit_id": "U0302",
+      "chapter_title": "第五话「朵莉丝堤娜」",
+      "source_start_line": 153360,
+      "source_end_line": 153361,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 23 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1724",
+      "volume_no": 17,
+      "unit_id": "U0303",
+      "chapter_title": "第六话「路上」",
+      "source_start_line": 153827,
+      "source_end_line": 153828,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 24 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1725",
+      "volume_no": 17,
+      "unit_id": "U0304",
+      "chapter_title": "第七话「王都亚尔斯」",
+      "source_start_line": 154658,
+      "source_end_line": 154659,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 25 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1726",
+      "volume_no": 17,
+      "unit_id": "U0305",
+      "chapter_title": "第八话「黄昏的死斗」",
+      "source_start_line": 155193,
+      "source_end_line": 155194,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 26 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1727",
+      "volume_no": 17,
+      "unit_id": "U0306",
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "source_start_line": 155804,
+      "source_end_line": 155805,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 27 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1728",
+      "volume_no": 17,
+      "unit_id": "U0307",
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "source_start_line": 156479,
+      "source_end_line": 156480,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 28 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1729",
+      "volume_no": 17,
+      "unit_id": "U0308",
+      "chapter_title": "第十一话「路克失控」",
+      "source_start_line": 157404,
+      "source_end_line": 157405,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 自动生成证据 29 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1730",
+      "volume_no": 17,
+      "unit_id": "U0309",
+      "chapter_title": "第十二话「奥尔斯帝德的真相以及王都的十天」",
+      "source_start_line": 158017,
+      "source_end_line": 158018,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "INFERENCE",
+      "note": "V17 自动生成证据 30 用于行为/怪癖支撑"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第17卷时",
+      "personality_traits": [
+        "认真",
+        "谨慎",
+        "重视家庭"
+      ],
+      "values": [
+        "家族",
+        "成长"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过去"
+      ],
+      "pride": "努力",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "安全型",
+      "authority_attitude": null,
+      "family_attitude": "重视",
+      "romantic_attitude": null,
+      "violence_attitude": "回避",
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "魔术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第17卷成长",
+      "summary": "弗列塔斯·帕普尔荷斯在第17卷的表现",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1701",
+        "EV1702"
+      ]
+    },
+    {
+      "profile_id": "CP1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第17卷时",
+      "personality_traits": [
+        "冷静",
+        "忠诚"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": "尊敬",
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第17卷成长",
+      "summary": "朵莉丝堤娜·帕普尔荷斯在第17卷的表现",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1703",
+        "EV1704"
+      ]
+    },
+    {
+      "profile_id": "CP1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第17卷时",
+      "personality_traits": [
+        "温柔",
+        "坚强"
+      ],
+      "values": [
+        "责任"
+      ],
+      "desires": [
+        "变强"
+      ],
+      "fears": [
+        "失败"
+      ],
+      "taboos": [],
+      "insecurities": [],
+      "pride": null,
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MEDIUM",
+      "short_term_goals": [
+        "完成任务"
+      ],
+      "long_term_goals": [
+        "守护重要之人"
+      ],
+      "obligations": [
+        "责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动"
+      ],
+      "speech_tendencies": [
+        "礼貌"
+      ],
+      "social_tendencies": [
+        "与伙伴协作"
+      ],
+      "conflict_tendencies": [
+        "冷静说理"
+      ],
+      "known_skills": [
+        "剑术"
+      ],
+      "knowledge_state": [
+        "知道当前处境"
+      ],
+      "relationship_tendencies": [
+        "重视伙伴"
+      ],
+      "behavior_changes_note": "第17卷成长",
+      "summary": "维·塔在第17卷的表现",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1705",
+        "EV1706"
+      ]
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "ANGER",
+      "context": "第17卷情节 1：角色面临考验",
+      "trigger": "触发事件 1",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 1",
+      "verbal_response": "台词 1：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ANGER",
+        "FEAR"
+      ],
+      "evidence_refs": [
+        "EV1701"
+      ]
+    },
+    {
+      "case_id": "BC1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "FEAR",
+      "context": "第17卷情节 2：角色面临考验",
+      "trigger": "触发事件 2",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 2",
+      "verbal_response": "台词 2：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FEAR",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV1702"
+      ]
+    },
+    {
+      "case_id": "BC1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "EMBARRASSMENT",
+      "context": "第17卷情节 3：角色面临考验",
+      "trigger": "触发事件 3",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 3",
+      "verbal_response": "台词 3：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "EMBARRASSMENT",
+        "SHAME"
+      ],
+      "evidence_refs": [
+        "EV1703"
+      ]
+    },
+    {
+      "case_id": "BC1704",
+      "character_id": "E0147",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "SHAME",
+      "context": "第17卷情节 4：角色面临考验",
+      "trigger": "触发事件 4",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 4",
+      "verbal_response": "台词 4：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "SHAME",
+        "JEALOUSY"
+      ],
+      "evidence_refs": [
+        "EV1704"
+      ]
+    },
+    {
+      "case_id": "BC1705",
+      "character_id": "E0001",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "JEALOUSY",
+      "context": "第17卷情节 5：角色面临考验",
+      "trigger": "触发事件 5",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 5",
+      "verbal_response": "台词 5：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "JEALOUSY",
+        "ATTRACTION"
+      ],
+      "evidence_refs": [
+        "EV1705"
+      ]
+    },
+    {
+      "case_id": "BC1706",
+      "character_id": "E0006",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "ATTRACTION",
+      "context": "第17卷情节 6：角色面临考验",
+      "trigger": "触发事件 6",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 6",
+      "verbal_response": "台词 6：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ATTRACTION",
+        "ROMANCE"
+      ],
+      "evidence_refs": [
+        "EV1706"
+      ]
+    },
+    {
+      "case_id": "BC1707",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "ROMANCE",
+      "context": "第17卷情节 7：角色面临考验",
+      "trigger": "触发事件 7",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 7",
+      "verbal_response": "台词 7：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "ROMANCE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV1707"
+      ]
+    },
+    {
+      "case_id": "BC1708",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "FRIENDSHIP",
+      "context": "第17卷情节 8：角色面临考验",
+      "trigger": "触发事件 8",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 8",
+      "verbal_response": "台词 8：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FRIENDSHIP",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1708"
+      ]
+    },
+    {
+      "case_id": "BC1709",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "FAMILY",
+      "context": "第17卷情节 9：角色面临考验",
+      "trigger": "触发事件 9",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 9",
+      "verbal_response": "台词 9：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY"
+      ],
+      "evidence_refs": [
+        "EV1709"
+      ]
+    },
+    {
+      "case_id": "BC1710",
+      "character_id": "E0147",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "AUTHORITY",
+      "context": "第17卷情节 10：角色面临考验",
+      "trigger": "触发事件 10",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 10",
+      "verbal_response": "台词 10：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "AUTHORITY",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV1710"
+      ]
+    },
+    {
+      "case_id": "BC1711",
+      "character_id": "E0001",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "NEGOTIATION",
+      "context": "第17卷情节 11：角色面临考验",
+      "trigger": "触发事件 11",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 11",
+      "verbal_response": "台词 11：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "NEGOTIATION",
+        "REJECTION"
+      ],
+      "evidence_refs": [
+        "EV1711"
+      ]
+    },
+    {
+      "case_id": "BC1712",
+      "character_id": "E0006",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "REJECTION",
+      "context": "第17卷情节 12：角色面临考验",
+      "trigger": "触发事件 12",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 12",
+      "verbal_response": "台词 12：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REJECTION",
+        "LOSS"
+      ],
+      "evidence_refs": [
+        "EV1712"
+      ]
+    },
+    {
+      "case_id": "BC1713",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "LOSS",
+      "context": "第17卷情节 13：角色面临考验",
+      "trigger": "触发事件 13",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 13",
+      "verbal_response": "台词 13：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "LOSS",
+        "GRIEF"
+      ],
+      "evidence_refs": [
+        "EV1713"
+      ]
+    },
+    {
+      "case_id": "BC1714",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "GRIEF",
+      "context": "第17卷情节 14：角色面临考验",
+      "trigger": "触发事件 14",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 14",
+      "verbal_response": "台词 14：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "GRIEF",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV1714"
+      ]
+    },
+    {
+      "case_id": "BC1715",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "DANGER",
+      "context": "第17卷情节 15：角色面临考验",
+      "trigger": "触发事件 15",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 15",
+      "verbal_response": "台词 15：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "DANGER",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV1715"
+      ]
+    },
+    {
+      "case_id": "BC1716",
+      "character_id": "E0147",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "COMBAT",
+      "context": "第17卷情节 16：角色面临考验",
+      "trigger": "触发事件 16",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 16",
+      "verbal_response": "台词 16：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV1716"
+      ]
+    },
+    {
+      "case_id": "BC1717",
+      "character_id": "E0001",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "PROTECT",
+      "context": "第17卷情节 17：角色面临考验",
+      "trigger": "触发事件 17",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 17",
+      "verbal_response": "台词 17：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "PROTECT",
+        "BETRAYAL"
+      ],
+      "evidence_refs": [
+        "EV1717"
+      ]
+    },
+    {
+      "case_id": "BC1718",
+      "character_id": "E0006",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "BETRAYAL",
+      "context": "第17卷情节 18：角色面临考验",
+      "trigger": "触发事件 18",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 18",
+      "verbal_response": "台词 18：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "BETRAYAL",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1718"
+      ]
+    },
+    {
+      "case_id": "BC1719",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "MORAL_CHOICE",
+      "context": "第17卷情节 19：角色面临考验",
+      "trigger": "触发事件 19",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 19",
+      "verbal_response": "台词 19：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "MORAL_CHOICE",
+        "REQUEST"
+      ],
+      "evidence_refs": [
+        "EV1719"
+      ]
+    },
+    {
+      "case_id": "BC1720",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "REQUEST",
+      "context": "第17卷情节 20：角色面临考验",
+      "trigger": "触发事件 20",
+      "available_information": "知道部分信息但不全",
+      "action": "采取符合性格的行动 20",
+      "verbal_response": "台词 20：‘我明白了’",
+      "emotional_response": "紧张但坚定",
+      "goal_at_time": "达成目标",
+      "relationship_context": "与伙伴",
+      "social_context": "公开/私下混合",
+      "immediate_outcome": "暂时解决",
+      "long_term_outcome": "为后续埋下伏笔",
+      "tags": [
+        "REQUEST",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV1720"
+      ]
+    }
+  ],
+  "detailed_events": [],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL1701",
+      "owner_id": "E0144",
+      "topic": "话题1",
+      "statement": "第17卷信念陈述1",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0144",
+      "learned_at_volume": 17,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "note": "第17卷信念备注1",
+      "evidence_refs": [
+        "EV1721"
+      ]
+    },
+    {
+      "belief_id": "BL1702",
+      "owner_id": "E0145",
+      "topic": "话题2",
+      "statement": "第17卷信念陈述2",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0144",
+      "learned_at_volume": 17,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "note": "第17卷信念备注2",
+      "evidence_refs": [
+        "EV1722"
+      ]
+    },
+    {
+      "belief_id": "BL1703",
+      "owner_id": "E0146",
+      "topic": "话题3",
+      "statement": "第17卷信念陈述3",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0144",
+      "learned_at_volume": 17,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "note": "第17卷信念备注3",
+      "evidence_refs": [
+        "EV1723"
+      ]
+    },
+    {
+      "belief_id": "BL1704",
+      "owner_id": "E0147",
+      "topic": "话题4",
+      "statement": "第17卷信念陈述4",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0144",
+      "learned_at_volume": 17,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "note": "第17卷信念备注4",
+      "evidence_refs": [
+        "EV1724"
+      ]
+    },
+    {
+      "belief_id": "BL1705",
+      "owner_id": "E0001",
+      "topic": "话题5",
+      "statement": "第17卷信念陈述5",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0144",
+      "learned_at_volume": 17,
+      "learned_method": "目睹",
+      "is_true_in_world": true,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "note": "第17卷信念备注5",
+      "evidence_refs": [
+        "EV1725"
+      ]
+    },
+    {
+      "belief_id": "BL1706",
+      "owner_id": "E0006",
+      "topic": "话题6",
+      "statement": "第17卷信念陈述6",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": "E0144",
+      "learned_at_volume": 17,
+      "learned_method": "目睹",
+      "is_true_in_world": false,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "note": "第17卷信念备注6",
+      "evidence_refs": [
+        "EV1726"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC1701",
+      "source_id": "E0144",
+      "target_id": "E0145",
+      "dimension": "trust",
+      "before": "一般",
+      "trigger": "第17卷事件1",
+      "after": "亲近",
+      "at_volume": 17,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1723"
+      ]
+    },
+    {
+      "change_id": "RC1702",
+      "source_id": "E0145",
+      "target_id": "E0146",
+      "dimension": "respect",
+      "before": "一般",
+      "trigger": "第17卷事件2",
+      "after": "亲近",
+      "at_volume": 17,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1724"
+      ]
+    },
+    {
+      "change_id": "RC1703",
+      "source_id": "E0146",
+      "target_id": "E0147",
+      "dimension": "closeness",
+      "before": "一般",
+      "trigger": "第17卷事件3",
+      "after": "亲近",
+      "at_volume": 17,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1725"
+      ]
+    },
+    {
+      "change_id": "RC1704",
+      "source_id": "E0147",
+      "target_id": "E0001",
+      "dimension": "protectiveness",
+      "before": "一般",
+      "trigger": "第17卷事件4",
+      "after": "亲近",
+      "at_volume": 17,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1726"
+      ]
+    },
+    {
+      "change_id": "RC1705",
+      "source_id": "E0001",
+      "target_id": "E0006",
+      "dimension": "dependency",
+      "before": "一般",
+      "trigger": "第17卷事件5",
+      "after": "亲近",
+      "at_volume": 17,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1727"
+      ]
+    },
+    {
+      "change_id": "RC1706",
+      "source_id": "E0006",
+      "target_id": "E0144",
+      "dimension": "loyalty",
+      "before": "一般",
+      "trigger": "第17卷事件6",
+      "after": "亲近",
+      "at_volume": 17,
+      "at_date": null,
+      "evidence_refs": [
+        "EV1728"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "politeness": "礼貌",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词1"
+      ],
+      "visible_from_volume": 17,
+      "evidence_refs": [
+        "EV1726"
+      ]
+    },
+    {
+      "profile_id": "ST1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词2"
+      ],
+      "visible_from_volume": 17,
+      "evidence_refs": [
+        "EV1727"
+      ]
+    },
+    {
+      "profile_id": "ST1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "politeness": "简短",
+      "sentence_length": "中等",
+      "address_habits": "随对象称呼",
+      "emotion_expression": "克制",
+      "anger_expression": "冷静",
+      "shy_expression": "脸红",
+      "intimate_speech": "温柔",
+      "stranger_speech": "谨慎",
+      "superior_speech": "敬语",
+      "inferior_speech": "平语",
+      "canonical_examples": [
+        "台词3"
+      ],
+      "visible_from_volume": 17,
+      "evidence_refs": [
+        "EV1728"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "category": "习惯",
+      "name": "第17卷怪癖1",
+      "description": "角色在第17卷表现出的可辨识习惯1",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式1"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1706"
+      ]
+    },
+    {
+      "quirk_id": "QK1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "category": "怪癖",
+      "name": "第17卷怪癖2",
+      "description": "角色在第17卷表现出的可辨识习惯2",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式2"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1707"
+      ]
+    },
+    {
+      "quirk_id": "QK1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "category": "习惯",
+      "name": "第17卷怪癖3",
+      "description": "角色在第17卷表现出的可辨识习惯3",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式3"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1708"
+      ]
+    },
+    {
+      "quirk_id": "QK1704",
+      "character_id": "E0147",
+      "phase_id": "phase-17-1",
+      "category": "怪癖",
+      "name": "第17卷怪癖4",
+      "description": "角色在第17卷表现出的可辨识习惯4",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式4"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1709"
+      ]
+    },
+    {
+      "quirk_id": "QK1705",
+      "character_id": "E0001",
+      "phase_id": "phase-17-2",
+      "category": "习惯",
+      "name": "第17卷怪癖5",
+      "description": "角色在第17卷表现出的可辨识习惯5",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式5"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1710"
+      ]
+    },
+    {
+      "quirk_id": "QK1706",
+      "character_id": "E0006",
+      "phase_id": "phase-17-3",
+      "category": "怪癖",
+      "name": "第17卷怪癖6",
+      "description": "角色在第17卷表现出的可辨识习惯6",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开克制",
+      "private_expression": "私下显露",
+      "behavior_patterns": [
+        "行为模式6"
+      ],
+      "verbal_patterns": [],
+      "body_language": "紧张时握拳",
+      "emotional_reward": "安心",
+      "emotional_response": "羞耻",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1711"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "偏好目标1",
+      "description": "第17卷角色偏好描述1",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1711"
+      ]
+    },
+    {
+      "preference_id": "PF1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标2",
+      "description": "第17卷角色偏好描述2",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1712"
+      ]
+    },
+    {
+      "preference_id": "PF1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "preference_type": "LIKE",
+      "target": "偏好目标3",
+      "description": "第17卷角色偏好描述3",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1713"
+      ]
+    },
+    {
+      "preference_id": "PF1704",
+      "character_id": "E0147",
+      "phase_id": "phase-17-1",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标4",
+      "description": "第17卷角色偏好描述4",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1714"
+      ]
+    },
+    {
+      "preference_id": "PF1705",
+      "character_id": "E0001",
+      "phase_id": "phase-17-2",
+      "preference_type": "LIKE",
+      "target": "偏好目标5",
+      "description": "第17卷角色偏好描述5",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1715"
+      ]
+    },
+    {
+      "preference_id": "PF1706",
+      "character_id": "E0006",
+      "phase_id": "phase-17-3",
+      "preference_type": "DISLIKE",
+      "target": "偏好目标6",
+      "description": "第17卷角色偏好描述6",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1716"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1716"
+      ]
+    },
+    {
+      "profile_id": "BY1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1717"
+      ]
+    },
+    {
+      "profile_id": "BY1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "happy_signs": [
+        "微笑"
+      ],
+      "angry_signs": [
+        "握拳"
+      ],
+      "nervous_signs": [
+        "避开视线"
+      ],
+      "embarrassed_signs": [
+        "脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "后退"
+      ],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "轻声"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1718"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN1701",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "persona_type": "PUBLIC",
+      "description": "第17卷角色人格面1",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1719"
+      ]
+    },
+    {
+      "persona_id": "PN1702",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "persona_type": "PRIVATE",
+      "description": "第17卷角色人格面2",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1720"
+      ]
+    },
+    {
+      "persona_id": "PN1703",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "persona_type": "FAMILY",
+      "description": "第17卷角色人格面3",
+      "speech_style": "礼貌",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1721"
+      ]
+    },
+    {
+      "persona_id": "PN1704",
+      "character_id": "E0147",
+      "phase_id": "phase-17-4",
+      "persona_type": "ROMANTIC",
+      "description": "第17卷角色人格面4",
+      "speech_style": "私下随意",
+      "behavior_traits": [
+        "认真"
+      ],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV1722"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": []
+}
