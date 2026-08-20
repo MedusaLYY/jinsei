@@ -350,6 +350,127 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V20 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2031",
+      "volume_no": 20,
+      "unit_id": "U0352",
+      "chapter_title": "闲话「乡巴佬，前往都会」",
+      "source_start_line": 181540,
+      "source_end_line": 181542,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0044 经历: 完成加冕仪式，正式成为阿斯拉女王"
+    },
+    {
+      "evidence_id": "EV2032",
+      "volume_no": 20,
+      "unit_id": "U0351",
+      "chapter_title": "第四话「克里夫与札诺巴的毕业典礼」",
+      "source_start_line": 181022,
+      "source_end_line": 181024,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0065 经历: 决定加入奥尔斯帝德阵营，在米里斯教团中出人头地"
+    },
+    {
+      "evidence_id": "EV2033",
+      "volume_no": 20,
+      "unit_id": "U0353",
+      "chapter_title": "闲话「成人式」",
+      "source_start_line": 182020,
+      "source_end_line": 182022,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 满十五岁并举办成人式"
+    },
+    {
+      "evidence_id": "EV2034",
+      "volume_no": 20,
+      "unit_id": "U0353",
+      "chapter_title": "闲话「成人式」",
+      "source_start_line": 182020,
+      "source_end_line": 182022,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0008 经历: 满十五岁并举办成人式"
+    },
+    {
+      "evidence_id": "EV2035",
+      "volume_no": 20,
+      "unit_id": "U0352",
+      "chapter_title": "第20卷",
+      "source_start_line": 181540,
+      "source_end_line": 181542,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 爱丽儿加冕: 爱丽儿完成加冕仪式，正式成为阿斯拉女王。"
+    },
+    {
+      "evidence_id": "EV2036",
+      "volume_no": 20,
+      "unit_id": "U0353",
+      "chapter_title": "第20卷",
+      "source_start_line": 182020,
+      "source_end_line": 182022,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 诺伦爱夏成人式: 诺伦与爱夏满十五岁，家人为其举办成人式庆祝。"
+    },
+    {
+      "evidence_id": "EV2037",
+      "volume_no": 20,
+      "unit_id": "U0348",
+      "chapter_title": "第一话「今后的方针与克里夫的烦恼」",
+      "source_start_line": 177734,
+      "source_end_line": 177735,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2038",
+      "volume_no": 20,
+      "unit_id": "U0349",
+      "chapter_title": "第二话「札诺巴商行」",
+      "source_start_line": 178247,
+      "source_end_line": 178248,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2039",
+      "volume_no": 20,
+      "unit_id": "U0350",
+      "chapter_title": "第三话「克里夫与魔法大学学生会」",
+      "source_start_line": 179108,
+      "source_end_line": 179109,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2040",
+      "volume_no": 20,
+      "unit_id": "U0351",
+      "chapter_title": "第四话「克里夫与札诺巴的毕业典礼」",
+      "source_start_line": 180583,
+      "source_end_line": 180584,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2041",
+      "volume_no": 20,
+      "unit_id": "U0352",
+      "chapter_title": "闲话「乡巴佬，前往都会」",
+      "source_start_line": 181154,
+      "source_end_line": 181155,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1117,6 +1238,682 @@
       "evidence_refs": [
         "EV2020"
       ]
+    },
+    {
+      "case_id": "BC2021",
+      "character_id": "E0044",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "家庭",
+      "context": "事件：爱丽儿加冕 - 爱丽儿完成加冕仪式，正式成为阿斯拉女王。",
+      "trigger": "事件触发：爱丽儿加冕",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 爱丽儿加冕 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2031"
+      ]
+    },
+    {
+      "case_id": "BC2022",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "家庭",
+      "context": "事件：爱丽儿加冕 - 爱丽儿完成加冕仪式，正式成为阿斯拉女王。",
+      "trigger": "事件触发：爱丽儿加冕",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 爱丽儿加冕 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2031"
+      ]
+    },
+    {
+      "case_id": "BC2023",
+      "character_id": "E0007",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "家庭",
+      "context": "事件：诺伦爱夏成人式 - 诺伦与爱夏满十五岁，家人为其举办成人式庆祝。",
+      "trigger": "事件触发：诺伦爱夏成人式",
+      "available_information": "知道部分情况",
+      "action": "诺伦 在 诺伦爱夏成人式 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2032"
+      ]
+    },
+    {
+      "case_id": "BC2024",
+      "character_id": "E0008",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "家庭",
+      "context": "事件：诺伦爱夏成人式 - 诺伦与爱夏满十五岁，家人为其举办成人式庆祝。",
+      "trigger": "事件触发：诺伦爱夏成人式",
+      "available_information": "知道部分情况",
+      "action": "爱夏 在 诺伦爱夏成人式 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2032"
+      ]
+    },
+    {
+      "case_id": "BC2025",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "愤怒",
+      "context": "第20卷中 鲁迪乌斯·格雷拉特 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2031"
+      ]
+    },
+    {
+      "case_id": "BC2026",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "恐惧",
+      "context": "第20卷中 希露菲叶特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希露菲叶特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2032"
+      ]
+    },
+    {
+      "case_id": "BC2027",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "羞耻",
+      "context": "第20卷中 洛琪希 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛琪希 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2033"
+      ]
+    },
+    {
+      "case_id": "BC2028",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "嫉妒",
+      "context": "第20卷中 鲁迪乌斯·格雷拉特 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2034"
+      ]
+    },
+    {
+      "case_id": "BC2029",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "说谎",
+      "context": "第20卷中 希露菲叶特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希露菲叶特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2035"
+      ]
+    },
+    {
+      "case_id": "BC2030",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "幽默",
+      "context": "第20卷中 洛琪希 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛琪希 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2036"
+      ]
+    },
+    {
+      "case_id": "BC2031",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "愤怒",
+      "context": "第20卷中 鲁迪乌斯·格雷拉特 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2031"
+      ]
+    },
+    {
+      "case_id": "BC2032",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "恐惧",
+      "context": "第20卷中 希露菲叶特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希露菲叶特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2032"
+      ]
+    },
+    {
+      "case_id": "BC2033",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "羞耻",
+      "context": "第20卷中 洛琪希 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛琪希 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2033"
+      ]
+    },
+    {
+      "case_id": "BC2034",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "嫉妒",
+      "context": "第20卷中 鲁迪乌斯·格雷拉特 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2034"
+      ]
+    },
+    {
+      "case_id": "BC2035",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "幽默",
+      "context": "第20卷中 E0001 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2037"
+      ]
+    },
+    {
+      "case_id": "BC2036",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "戏弄",
+      "context": "第20卷中 E0006 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2038"
+      ]
+    },
+    {
+      "case_id": "BC2037",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "说谎",
+      "context": "第20卷中 E0005 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2039"
+      ]
+    },
+    {
+      "case_id": "BC2038",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "秘密",
+      "context": "第20卷中 E0001 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2040"
+      ]
+    },
+    {
+      "case_id": "BC2039",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "吸引",
+      "context": "第20卷中 E0006 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2041"
+      ]
+    },
+    {
+      "case_id": "BC2040",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "羞耻",
+      "context": "第20卷中 E0005 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2037"
+      ]
+    },
+    {
+      "case_id": "BC2041",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "幽默",
+      "context": "第20卷中 E0001 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2038"
+      ]
+    },
+    {
+      "case_id": "BC2042",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "戏弄",
+      "context": "第20卷中 E0006 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2039"
+      ]
+    },
+    {
+      "case_id": "BC2043",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "说谎",
+      "context": "第20卷中 E0005 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2040"
+      ]
+    },
+    {
+      "case_id": "BC2044",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "phase_name": "第20卷阶段1",
+      "volume_no": 20,
+      "situation_type": "秘密",
+      "context": "第20卷中 E0001 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2041"
+      ]
+    },
+    {
+      "case_id": "BC2045",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "phase_name": "第20卷阶段3",
+      "volume_no": 20,
+      "situation_type": "吸引",
+      "context": "第20卷中 E0006 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2037"
+      ]
+    },
+    {
+      "case_id": "BC2046",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "phase_name": "第20卷阶段2",
+      "volume_no": 20,
+      "situation_type": "羞耻",
+      "context": "第20卷中 E0005 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2038"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1610,6 +2407,398 @@
       "evidence_refs": [
         "EV2011"
       ]
+    },
+    {
+      "quirk_id": "QK2007",
+      "character_id": "E0044",
+      "phase_id": "phase-20-1",
+      "category": "经历",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉经历完成加冕仪式，正式成",
+      "description": "基于原文事实：爱丽儿·阿涅摩伊·阿斯拉 的 经历 为 完成加冕仪式，正式成为阿斯拉女王。阿斯拉王国女王，完成加冕仪式。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及完成加冕仪式，正式成为阿斯拉女王"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出完成加冕仪式，正式成为阿斯拉女王",
+      "private_expression": "私下也保持完成加冕仪式，正式成为阿斯拉女王",
+      "behavior_patterns": [
+        "因完成加冕仪式，正式成为阿斯拉女王而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2031"
+      ]
+    },
+    {
+      "quirk_id": "QK2008",
+      "character_id": "E0065",
+      "phase_id": "phase-20-1",
+      "category": "经历",
+      "name": "克里夫·格利摩尔经历决定加入奥尔斯帝德阵",
+      "description": "基于原文事实：克里夫·格利摩尔 的 经历 为 决定加入奥尔斯帝德阵营，在米里斯教团中出人头地。米里斯教团教皇之孙，决定加入奥尔斯帝德阵营。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及决定加入奥尔斯帝德阵营，在米里斯教团中出人头地"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出决定加入奥尔斯帝德阵营，在米里斯教团中出人头地",
+      "private_expression": "私下也保持决定加入奥尔斯帝德阵营，在米里斯教团中出人头地",
+      "behavior_patterns": [
+        "因决定加入奥尔斯帝德阵营，在米里斯教团中出人头地而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2032"
+      ]
+    },
+    {
+      "quirk_id": "QK2009",
+      "character_id": "E0007",
+      "phase_id": "phase-20-1",
+      "category": "经历",
+      "name": "诺伦经历满十五岁并举办成人式",
+      "description": "基于原文事实：诺伦 的 经历 为 满十五岁并举办成人式。保罗与塞妮丝的女儿，魔法大学学生会会长，满十五岁。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及满十五岁并举办成人式"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出满十五岁并举办成人式",
+      "private_expression": "私下也保持满十五岁并举办成人式",
+      "behavior_patterns": [
+        "因满十五岁并举办成人式而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2033"
+      ]
+    },
+    {
+      "quirk_id": "QK2010",
+      "character_id": "E0008",
+      "phase_id": "phase-20-1",
+      "category": "经历",
+      "name": "爱夏经历满十五岁并举办成人式",
+      "description": "基于原文事实：爱夏 的 经历 为 满十五岁并举办成人式。保罗与莉莉雅的女儿，家中女仆，鲁德佣兵团的智囊，满十五岁。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及满十五岁并举办成人式"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出满十五岁并举办成人式",
+      "private_expression": "私下也保持满十五岁并举办成人式",
+      "behavior_patterns": [
+        "因满十五岁并举办成人式而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2034"
+      ]
+    },
+    {
+      "quirk_id": "QK2011",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "category": "口头禅",
+      "name": "V20极详细怪癖1",
+      "description": "第20卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2037"
+      ]
+    },
+    {
+      "quirk_id": "QK2012",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "category": "小动作",
+      "name": "V20极详细怪癖2",
+      "description": "第20卷中 E0006 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2038"
+      ]
+    },
+    {
+      "quirk_id": "QK2013",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "category": "收藏癖",
+      "name": "V20极详细怪癖3",
+      "description": "第20卷中 E0005 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2039"
+      ]
+    },
+    {
+      "quirk_id": "QK2014",
+      "character_id": "E0001",
+      "phase_id": "phase-20-1",
+      "category": "羞耻表现",
+      "name": "V20极详细怪癖4",
+      "description": "第20卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2040"
+      ]
+    },
+    {
+      "quirk_id": "QK2015",
+      "character_id": "E0006",
+      "phase_id": "phase-20-3",
+      "category": "紧张习惯",
+      "name": "V20极详细怪癖5",
+      "description": "第20卷中 E0006 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2041"
+      ]
+    },
+    {
+      "quirk_id": "QK2016",
+      "character_id": "E0005",
+      "phase_id": "phase-20-2",
+      "category": "私下低俗",
+      "name": "V20极详细怪癖6",
+      "description": "第20卷中 E0005 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2037"
+      ]
     }
   ],
   "character_preferences": [
@@ -1713,6 +2902,74 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV2016"
+      ]
+    },
+    {
+      "preference_id": "PF2007",
+      "character_id": "E0044",
+      "phase_id": "phase-20-1",
+      "preference_type": "LIKE",
+      "target": "完成加冕仪式，正式成为阿斯拉女王",
+      "description": "爱丽儿·阿涅摩伊·阿斯拉 对 完成加冕仪式，正式成为阿斯拉女王 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2034"
+      ]
+    },
+    {
+      "preference_id": "PF2008",
+      "character_id": "E0065",
+      "phase_id": "phase-20-1",
+      "preference_type": "LIKE",
+      "target": "决定加入奥尔斯帝德阵营，在米里斯教团中出",
+      "description": "克里夫·格利摩尔 对 决定加入奥尔斯帝德阵营，在米里斯教团中出人头地 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2035"
+      ]
+    },
+    {
+      "preference_id": "PF2009",
+      "character_id": "E0007",
+      "phase_id": "phase-20-1",
+      "preference_type": "LIKE",
+      "target": "满十五岁并举办成人式",
+      "description": "诺伦 对 满十五岁并举办成人式 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2036"
+      ]
+    },
+    {
+      "preference_id": "PF2010",
+      "character_id": "E0008",
+      "phase_id": "phase-20-1",
+      "preference_type": "LIKE",
+      "target": "满十五岁并举办成人式",
+      "description": "爱夏 对 满十五岁并举办成人式 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2031"
       ]
     }
   ],

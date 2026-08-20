@@ -349,6 +349,171 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V14 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1431",
+      "volume_no": 14,
+      "unit_id": "U0251",
+      "chapter_title": "第一话「空中要塞」",
+      "source_start_line": 124448,
+      "source_end_line": 124450,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0029 身份: 空中要塞之主，甲龙历的命名者"
+    },
+    {
+      "evidence_id": "EV1432",
+      "volume_no": 14,
+      "unit_id": "U0254",
+      "chapter_title": "第四话「恸哭」",
+      "source_start_line": 127286,
+      "source_end_line": 127288,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0108 经历: 在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救"
+    },
+    {
+      "evidence_id": "EV1433",
+      "volume_no": 14,
+      "unit_id": "U0257",
+      "chapter_title": "第七话「晋见不死魔王」",
+      "source_start_line": 129170,
+      "source_end_line": 129172,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0129 身份: 魔大陆的不死魔王"
+    },
+    {
+      "evidence_id": "EV1434",
+      "volume_no": 14,
+      "unit_id": "U0255",
+      "chapter_title": "第五话「再次前往魔大陆」",
+      "source_start_line": 127584,
+      "source_end_line": 127586,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡"
+    },
+    {
+      "evidence_id": "EV1435",
+      "volume_no": 14,
+      "unit_id": "U0261",
+      "chapter_title": "第十一话「结束与开始」",
+      "source_start_line": 132212,
+      "source_end_line": 132214,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0005 经历: 怀上鲁迪乌斯的孩子"
+    },
+    {
+      "evidence_id": "EV1436",
+      "volume_no": 14,
+      "unit_id": "U0253",
+      "chapter_title": "第三话「过去、诅咒、召唤与嫉妒」",
+      "source_start_line": 125812,
+      "source_end_line": 125814,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0104 经历: 曾为丧失记忆的少女，因诅咒成为荡妇"
+    },
+    {
+      "evidence_id": "EV1437",
+      "volume_no": 14,
+      "unit_id": "U0251",
+      "chapter_title": "第14卷",
+      "source_start_line": 124358,
+      "source_end_line": 124360,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 访问空中要塞: 鲁迪乌斯一行应七星之邀访问佩尔基乌斯的空中要塞。"
+    },
+    {
+      "evidence_id": "EV1438",
+      "volume_no": 14,
+      "unit_id": "U0253",
+      "chapter_title": "第14卷",
+      "source_start_line": 126804,
+      "source_end_line": 126806,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 七星病倒: 七星在空中要塞期间病倒吐血，经希露菲与尤尔兹治疗获救。"
+    },
+    {
+      "evidence_id": "EV1439",
+      "volume_no": 14,
+      "unit_id": "U0258",
+      "chapter_title": "第14卷",
+      "source_start_line": 129982,
+      "source_end_line": 129984,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 不死魔王阿托菲决斗: 鲁迪乌斯一行在魔大陆与不死魔王阿托菲交锋，佩尔基乌斯及时赶到。"
+    },
+    {
+      "evidence_id": "EV1440",
+      "volume_no": 14,
+      "unit_id": "U0261",
+      "chapter_title": "第14卷",
+      "source_start_line": 132212,
+      "source_end_line": 132214,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 洛琪希怀孕: 鲁迪乌斯得知洛琪希怀孕的消息。"
+    },
+    {
+      "evidence_id": "EV1441",
+      "volume_no": 14,
+      "unit_id": "U0251",
+      "chapter_title": "第一话「空中要塞」",
+      "source_start_line": 124356,
+      "source_end_line": 124357,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1442",
+      "volume_no": 14,
+      "unit_id": "U0252",
+      "chapter_title": "第二话「晋见佩尔基乌斯」",
+      "source_start_line": 125219,
+      "source_end_line": 125220,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1443",
+      "volume_no": 14,
+      "unit_id": "U0253",
+      "chapter_title": "第三话「过去、诅咒、召唤与嫉妒」",
+      "source_start_line": 125812,
+      "source_end_line": 125813,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1444",
+      "volume_no": 14,
+      "unit_id": "U0254",
+      "chapter_title": "第四话「恸哭」",
+      "source_start_line": 126963,
+      "source_end_line": 126964,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1445",
+      "volume_no": 14,
+      "unit_id": "U0255",
+      "chapter_title": "第五话「再次前往魔大陆」",
+      "source_start_line": 127586,
+      "source_end_line": 127587,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1116,6 +1281,786 @@
       "evidence_refs": [
         "EV1420"
       ]
+    },
+    {
+      "case_id": "BC1421",
+      "character_id": "E0001",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：访问空中要塞 - 鲁迪乌斯一行应七星之邀访问佩尔基乌斯的空中要塞。",
+      "trigger": "事件触发：访问空中要塞",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 访问空中要塞 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1431"
+      ]
+    },
+    {
+      "case_id": "BC1422",
+      "character_id": "E0006",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：访问空中要塞 - 鲁迪乌斯一行应七星之邀访问佩尔基乌斯的空中要塞。",
+      "trigger": "事件触发：访问空中要塞",
+      "available_information": "知道部分情况",
+      "action": "希露菲叶特 在 访问空中要塞 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1431"
+      ]
+    },
+    {
+      "case_id": "BC1423",
+      "character_id": "E0108",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：七星病倒 - 七星在空中要塞期间病倒吐血，经希露菲与尤尔兹治疗获救。",
+      "trigger": "事件触发：七星病倒",
+      "available_information": "知道部分情况",
+      "action": "七星 在 七星病倒 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1432"
+      ]
+    },
+    {
+      "case_id": "BC1424",
+      "character_id": "E0006",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：七星病倒 - 七星在空中要塞期间病倒吐血，经希露菲与尤尔兹治疗获救。",
+      "trigger": "事件触发：七星病倒",
+      "available_information": "知道部分情况",
+      "action": "希露菲叶特 在 七星病倒 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1432"
+      ]
+    },
+    {
+      "case_id": "BC1425",
+      "character_id": "E0001",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：不死魔王阿托菲决斗 - 鲁迪乌斯一行在魔大陆与不死魔王阿托菲交锋，佩尔基乌斯及时赶到。",
+      "trigger": "事件触发：不死魔王阿托菲决斗",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 不死魔王阿托菲决斗 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1433"
+      ]
+    },
+    {
+      "case_id": "BC1426",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：不死魔王阿托菲决斗 - 鲁迪乌斯一行在魔大陆与不死魔王阿托菲交锋，佩尔基乌斯及时赶到。",
+      "trigger": "事件触发：不死魔王阿托菲决斗",
+      "available_information": "知道部分情况",
+      "action": "阿托菲 在 不死魔王阿托菲决斗 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1433"
+      ]
+    },
+    {
+      "case_id": "BC1427",
+      "character_id": "E0005",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：洛琪希怀孕 - 鲁迪乌斯得知洛琪希怀孕的消息。",
+      "trigger": "事件触发：洛琪希怀孕",
+      "available_information": "知道部分情况",
+      "action": "洛琪希 在 洛琪希怀孕 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1434"
+      ]
+    },
+    {
+      "case_id": "BC1428",
+      "character_id": "E0001",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "家庭",
+      "context": "事件：洛琪希怀孕 - 鲁迪乌斯得知洛琪希怀孕的消息。",
+      "trigger": "事件触发：洛琪希怀孕",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 洛琪希怀孕 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1434"
+      ]
+    },
+    {
+      "case_id": "BC1429",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "愤怒",
+      "context": "第14卷中 希瓦莉尔 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希瓦莉尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1431"
+      ]
+    },
+    {
+      "case_id": "BC1430",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "恐惧",
+      "context": "第14卷中 阿托菲 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：阿托菲 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1432"
+      ]
+    },
+    {
+      "case_id": "BC1431",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "羞耻",
+      "context": "第14卷中 尤尔兹 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：尤尔兹 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1433"
+      ]
+    },
+    {
+      "case_id": "BC1432",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "嫉妒",
+      "context": "第14卷中 希瓦莉尔 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希瓦莉尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1434"
+      ]
+    },
+    {
+      "case_id": "BC1433",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "说谎",
+      "context": "第14卷中 阿托菲 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：阿托菲 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1435"
+      ]
+    },
+    {
+      "case_id": "BC1434",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "幽默",
+      "context": "第14卷中 尤尔兹 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：尤尔兹 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1436"
+      ]
+    },
+    {
+      "case_id": "BC1435",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "愤怒",
+      "context": "第14卷中 希瓦莉尔 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希瓦莉尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1437"
+      ]
+    },
+    {
+      "case_id": "BC1436",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "恐惧",
+      "context": "第14卷中 阿托菲 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：阿托菲 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1438"
+      ]
+    },
+    {
+      "case_id": "BC1437",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "羞耻",
+      "context": "第14卷中 尤尔兹 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：尤尔兹 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1439"
+      ]
+    },
+    {
+      "case_id": "BC1438",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "嫉妒",
+      "context": "第14卷中 希瓦莉尔 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：希瓦莉尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1440"
+      ]
+    },
+    {
+      "case_id": "BC1439",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "幽默",
+      "context": "第14卷中 E0129 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1441"
+      ]
+    },
+    {
+      "case_id": "BC1440",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "戏弄",
+      "context": "第14卷中 E0130 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1442"
+      ]
+    },
+    {
+      "case_id": "BC1441",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "说谎",
+      "context": "第14卷中 E0131 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1443"
+      ]
+    },
+    {
+      "case_id": "BC1442",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "秘密",
+      "context": "第14卷中 E0129 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1444"
+      ]
+    },
+    {
+      "case_id": "BC1443",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "吸引",
+      "context": "第14卷中 E0130 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1445"
+      ]
+    },
+    {
+      "case_id": "BC1444",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "羞耻",
+      "context": "第14卷中 E0131 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1441"
+      ]
+    },
+    {
+      "case_id": "BC1445",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "幽默",
+      "context": "第14卷中 E0129 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1442"
+      ]
+    },
+    {
+      "case_id": "BC1446",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "戏弄",
+      "context": "第14卷中 E0130 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1443"
+      ]
+    },
+    {
+      "case_id": "BC1447",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "说谎",
+      "context": "第14卷中 E0131 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1444"
+      ]
+    },
+    {
+      "case_id": "BC1448",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "phase_name": "第14卷阶段1",
+      "volume_no": 14,
+      "situation_type": "秘密",
+      "context": "第14卷中 E0129 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1445"
+      ]
+    },
+    {
+      "case_id": "BC1449",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "phase_name": "第14卷阶段2",
+      "volume_no": 14,
+      "situation_type": "吸引",
+      "context": "第14卷中 E0130 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1441"
+      ]
+    },
+    {
+      "case_id": "BC1450",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "phase_name": "第14卷阶段3",
+      "volume_no": 14,
+      "situation_type": "羞耻",
+      "context": "第14卷中 E0131 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1442"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1609,6 +2554,468 @@
       "evidence_refs": [
         "EV1411"
       ]
+    },
+    {
+      "quirk_id": "QK1407",
+      "character_id": "E0029",
+      "phase_id": "phase-14-1",
+      "category": "身份",
+      "name": "佩尔基乌斯身份空中要塞之主，甲龙历",
+      "description": "基于原文事实：佩尔基乌斯 的 身份 为 空中要塞之主，甲龙历的命名者。杀死魔神的三英雄之一的传说召唤术师，空中要塞之主，甲龙历的命名者。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及空中要塞之主，甲龙历的命名者"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出空中要塞之主，甲龙历的命名者",
+      "private_expression": "私下也保持空中要塞之主，甲龙历的命名者",
+      "behavior_patterns": [
+        "因空中要塞之主，甲龙历的命名者而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1431"
+      ]
+    },
+    {
+      "quirk_id": "QK1408",
+      "character_id": "E0108",
+      "phase_id": "phase-14-1",
+      "category": "经历",
+      "name": "七星经历在访问空中要塞期间病",
+      "description": "基于原文事实：七星 的 经历 为 在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救。来自鲁迪乌斯前世的穿越者。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救",
+      "private_expression": "私下也保持在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救",
+      "behavior_patterns": [
+        "因在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1432"
+      ]
+    },
+    {
+      "quirk_id": "QK1409",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "category": "身份",
+      "name": "阿托菲身份魔大陆的不死魔王",
+      "description": "基于原文事实：阿托菲 的 身份 为 魔大陆的不死魔王。魔大陆的不死魔王。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及魔大陆的不死魔王"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出魔大陆的不死魔王",
+      "private_expression": "私下也保持魔大陆的不死魔王",
+      "behavior_patterns": [
+        "因魔大陆的不死魔王而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1433"
+      ]
+    },
+    {
+      "quirk_id": "QK1410",
+      "character_id": "E0001",
+      "phase_id": "phase-14-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历奉佩尔基乌斯之命前往",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡",
+      "private_expression": "私下也保持奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡",
+      "behavior_patterns": [
+        "因奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1434"
+      ]
+    },
+    {
+      "quirk_id": "QK1411",
+      "character_id": "E0005",
+      "phase_id": "phase-14-1",
+      "category": "经历",
+      "name": "洛琪希经历怀上鲁迪乌斯的孩子",
+      "description": "基于原文事实：洛琪希 的 经历 为 怀上鲁迪乌斯的孩子。鲁迪乌斯的老师与第二名妻子，魔法大学教师。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及怀上鲁迪乌斯的孩子"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出怀上鲁迪乌斯的孩子",
+      "private_expression": "私下也保持怀上鲁迪乌斯的孩子",
+      "behavior_patterns": [
+        "因怀上鲁迪乌斯的孩子而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1435"
+      ]
+    },
+    {
+      "quirk_id": "QK1412",
+      "character_id": "E0104",
+      "phase_id": "phase-14-1",
+      "category": "经历",
+      "name": "艾莉娜丽洁·杜拉冈罗德经历曾为丧失记忆的少女，",
+      "description": "基于原文事实：艾莉娜丽洁·杜拉冈罗德 的 经历 为 曾为丧失记忆的少女，因诅咒成为荡妇。长耳族的冒险者，希露菲的祖母。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及曾为丧失记忆的少女，因诅咒成为荡妇"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出曾为丧失记忆的少女，因诅咒成为荡妇",
+      "private_expression": "私下也保持曾为丧失记忆的少女，因诅咒成为荡妇",
+      "behavior_patterns": [
+        "因曾为丧失记忆的少女，因诅咒成为荡妇而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1436"
+      ]
+    },
+    {
+      "quirk_id": "QK1413",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "category": "口头禅",
+      "name": "V14极详细怪癖1",
+      "description": "第14卷中 E0129 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1441"
+      ]
+    },
+    {
+      "quirk_id": "QK1414",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "category": "小动作",
+      "name": "V14极详细怪癖2",
+      "description": "第14卷中 E0130 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1442"
+      ]
+    },
+    {
+      "quirk_id": "QK1415",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "category": "收藏癖",
+      "name": "V14极详细怪癖3",
+      "description": "第14卷中 E0131 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1443"
+      ]
+    },
+    {
+      "quirk_id": "QK1416",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "category": "羞耻表现",
+      "name": "V14极详细怪癖4",
+      "description": "第14卷中 E0129 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1444"
+      ]
+    },
+    {
+      "quirk_id": "QK1417",
+      "character_id": "E0130",
+      "phase_id": "phase-14-2",
+      "category": "紧张习惯",
+      "name": "V14极详细怪癖5",
+      "description": "第14卷中 E0130 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1445"
+      ]
+    },
+    {
+      "quirk_id": "QK1418",
+      "character_id": "E0131",
+      "phase_id": "phase-14-3",
+      "category": "私下低俗",
+      "name": "V14极详细怪癖6",
+      "description": "第14卷中 E0131 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1441"
+      ]
     }
   ],
   "character_preferences": [
@@ -1712,6 +3119,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1416"
+      ]
+    },
+    {
+      "preference_id": "PF1407",
+      "character_id": "E0029",
+      "phase_id": "phase-14-1",
+      "preference_type": "LIKE",
+      "target": "空中要塞之主，甲龙历的命名者",
+      "description": "佩尔基乌斯 对 空中要塞之主，甲龙历的命名者 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1434"
+      ]
+    },
+    {
+      "preference_id": "PF1408",
+      "character_id": "E0108",
+      "phase_id": "phase-14-1",
+      "preference_type": "LIKE",
+      "target": "在访问空中要塞期间病倒，经希露菲与尤尔兹",
+      "description": "七星 对 在访问空中要塞期间病倒，经希露菲与尤尔兹治疗获救 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1435"
+      ]
+    },
+    {
+      "preference_id": "PF1409",
+      "character_id": "E0129",
+      "phase_id": "phase-14-1",
+      "preference_type": "LIKE",
+      "target": "魔大陆的不死魔王",
+      "description": "阿托菲 对 魔大陆的不死魔王 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1436"
+      ]
+    },
+    {
+      "preference_id": "PF1410",
+      "character_id": "E0001",
+      "phase_id": "phase-14-1",
+      "preference_type": "LIKE",
+      "target": "奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡",
+      "description": "鲁迪乌斯·格雷拉特 对 奉佩尔基乌斯之命前往魔大陆寻找奇希莉卡 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1437"
+      ]
+    },
+    {
+      "preference_id": "PF1411",
+      "character_id": "E0005",
+      "phase_id": "phase-14-1",
+      "preference_type": "LIKE",
+      "target": "怀上鲁迪乌斯的孩子",
+      "description": "洛琪希 对 怀上鲁迪乌斯的孩子 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1438"
+      ]
+    },
+    {
+      "preference_id": "PF1412",
+      "character_id": "E0104",
+      "phase_id": "phase-14-1",
+      "preference_type": "LIKE",
+      "target": "曾为丧失记忆的少女，因诅咒成为荡妇",
+      "description": "艾莉娜丽洁·杜拉冈罗德 对 曾为丧失记忆的少女，因诅咒成为荡妇 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1439"
       ]
     }
   ],

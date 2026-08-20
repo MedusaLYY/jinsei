@@ -351,6 +351,116 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V22 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2231",
+      "volume_no": 22,
+      "unit_id": "U0388",
+      "chapter_title": "第十话「激战，魔王阿托菲」",
+      "source_start_line": 202516,
+      "source_end_line": 202518,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0129 经历: 与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯"
+    },
+    {
+      "evidence_id": "EV2232",
+      "volume_no": 22,
+      "unit_id": "U0389",
+      "chapter_title": "闲话「我们结婚了」",
+      "source_start_line": 202662,
+      "source_end_line": 202664,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0005 经历: 带鲁迪乌斯与菈菈返回米格路德族故乡"
+    },
+    {
+      "evidence_id": "EV2233",
+      "volume_no": 22,
+      "unit_id": "U0391",
+      "chapter_title": "闲话「猴子与作梦的年轻人」",
+      "source_start_line": 204360,
+      "source_end_line": 204362,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0057 经历: 为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者"
+    },
+    {
+      "evidence_id": "EV2234",
+      "volume_no": 22,
+      "unit_id": "U0388",
+      "chapter_title": "第22卷",
+      "source_start_line": 202284,
+      "source_end_line": 202286,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 阿托菲结盟: 鲁迪乌斯在涅克罗斯要塞与不死魔王阿托菲交手后达成协议。"
+    },
+    {
+      "evidence_id": "EV2235",
+      "volume_no": 22,
+      "unit_id": "U0390",
+      "chapter_title": "第22卷",
+      "source_start_line": 203672,
+      "source_end_line": 203674,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 齐格诞生: 希露菲生下与鲁迪乌斯的第二个孩子（即后来的齐格哈尔德），绿发令她担忧其可能是拉普"
+    },
+    {
+      "evidence_id": "EV2236",
+      "volume_no": 22,
+      "unit_id": "U0378",
+      "chapter_title": "第一话「归还与报告」",
+      "source_start_line": 195854,
+      "source_end_line": 195855,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V22 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2237",
+      "volume_no": 22,
+      "unit_id": "U0379",
+      "chapter_title": "第二话「蓝道夫的烦恼」",
+      "source_start_line": 196889,
+      "source_end_line": 196890,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V22 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2238",
+      "volume_no": 22,
+      "unit_id": "U0380",
+      "chapter_title": "第三话「王龙王国的内情」",
+      "source_start_line": 197416,
+      "source_end_line": 197417,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V22 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2239",
+      "volume_no": 22,
+      "unit_id": "U0381",
+      "chapter_title": "第四话「最坏的小孩」",
+      "source_start_line": 197893,
+      "source_end_line": 197894,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V22 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2240",
+      "volume_no": 22,
+      "unit_id": "U0382",
+      "chapter_title": "第五话「王龙王国国王」",
+      "source_start_line": 198562,
+      "source_end_line": 198563,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V22 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1118,6 +1228,682 @@
       "evidence_refs": [
         "EV2220"
       ]
+    },
+    {
+      "case_id": "BC2221",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "家庭",
+      "context": "事件：阿托菲结盟 - 鲁迪乌斯在涅克罗斯要塞与不死魔王阿托菲交手后达成协议。",
+      "trigger": "事件触发：阿托菲结盟",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 阿托菲结盟 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2231"
+      ]
+    },
+    {
+      "case_id": "BC2222",
+      "character_id": "E0129",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "家庭",
+      "context": "事件：阿托菲结盟 - 鲁迪乌斯在涅克罗斯要塞与不死魔王阿托菲交手后达成协议。",
+      "trigger": "事件触发：阿托菲结盟",
+      "available_information": "知道部分情况",
+      "action": "阿托菲 在 阿托菲结盟 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2231"
+      ]
+    },
+    {
+      "case_id": "BC2223",
+      "character_id": "E0006",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "家庭",
+      "context": "事件：齐格诞生 - 希露菲生下与鲁迪乌斯的第二个孩子（即后来的齐格哈尔德），绿发令她担忧其可能是拉普拉斯。",
+      "trigger": "事件触发：齐格诞生",
+      "available_information": "知道部分情况",
+      "action": "希露菲叶特 在 齐格诞生 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2232"
+      ]
+    },
+    {
+      "case_id": "BC2224",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "家庭",
+      "context": "事件：齐格诞生 - 希露菲生下与鲁迪乌斯的第二个孩子（即后来的齐格哈尔德），绿发令她担忧其可能是拉普拉斯。",
+      "trigger": "事件触发：齐格诞生",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 齐格诞生 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2232"
+      ]
+    },
+    {
+      "case_id": "BC2225",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "愤怒",
+      "context": "第22卷中 鲁迪乌斯·格雷拉特 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2231"
+      ]
+    },
+    {
+      "case_id": "BC2226",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "恐惧",
+      "context": "第22卷中 洛因 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛因 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2232"
+      ]
+    },
+    {
+      "case_id": "BC2227",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "羞耻",
+      "context": "第22卷中 洛嘉莉 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛嘉莉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2233"
+      ]
+    },
+    {
+      "case_id": "BC2228",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "嫉妒",
+      "context": "第22卷中 鲁迪乌斯·格雷拉特 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2234"
+      ]
+    },
+    {
+      "case_id": "BC2229",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "说谎",
+      "context": "第22卷中 洛因 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛因 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2235"
+      ]
+    },
+    {
+      "case_id": "BC2230",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "幽默",
+      "context": "第22卷中 洛嘉莉 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛嘉莉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2231"
+      ]
+    },
+    {
+      "case_id": "BC2231",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "愤怒",
+      "context": "第22卷中 鲁迪乌斯·格雷拉特 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2232"
+      ]
+    },
+    {
+      "case_id": "BC2232",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "恐惧",
+      "context": "第22卷中 洛因 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛因 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2233"
+      ]
+    },
+    {
+      "case_id": "BC2233",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "羞耻",
+      "context": "第22卷中 洛嘉莉 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛嘉莉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2234"
+      ]
+    },
+    {
+      "case_id": "BC2234",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "嫉妒",
+      "context": "第22卷中 鲁迪乌斯·格雷拉特 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2235"
+      ]
+    },
+    {
+      "case_id": "BC2235",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "幽默",
+      "context": "第22卷中 E0157 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2236"
+      ]
+    },
+    {
+      "case_id": "BC2236",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "戏弄",
+      "context": "第22卷中 E0158 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2237"
+      ]
+    },
+    {
+      "case_id": "BC2237",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "说谎",
+      "context": "第22卷中 E0001 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2238"
+      ]
+    },
+    {
+      "case_id": "BC2238",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "秘密",
+      "context": "第22卷中 E0157 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2239"
+      ]
+    },
+    {
+      "case_id": "BC2239",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "吸引",
+      "context": "第22卷中 E0158 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2240"
+      ]
+    },
+    {
+      "case_id": "BC2240",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "羞耻",
+      "context": "第22卷中 E0001 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2236"
+      ]
+    },
+    {
+      "case_id": "BC2241",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "幽默",
+      "context": "第22卷中 E0157 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2237"
+      ]
+    },
+    {
+      "case_id": "BC2242",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "戏弄",
+      "context": "第22卷中 E0158 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2238"
+      ]
+    },
+    {
+      "case_id": "BC2243",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "说谎",
+      "context": "第22卷中 E0001 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2239"
+      ]
+    },
+    {
+      "case_id": "BC2244",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "phase_name": "第22卷阶段1",
+      "volume_no": 22,
+      "situation_type": "秘密",
+      "context": "第22卷中 E0157 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2240"
+      ]
+    },
+    {
+      "case_id": "BC2245",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "phase_name": "第22卷阶段2",
+      "volume_no": 22,
+      "situation_type": "吸引",
+      "context": "第22卷中 E0158 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2236"
+      ]
+    },
+    {
+      "case_id": "BC2246",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "phase_name": "第22卷阶段3",
+      "volume_no": 22,
+      "situation_type": "羞耻",
+      "context": "第22卷中 E0001 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2237"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1611,6 +2397,363 @@
       "evidence_refs": [
         "EV2211"
       ]
+    },
+    {
+      "quirk_id": "QK2207",
+      "character_id": "E0129",
+      "phase_id": "phase-22-1",
+      "category": "经历",
+      "name": "阿托菲经历与鲁迪乌斯达成协议，",
+      "description": "基于原文事实：阿托菲 的 经历 为 与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯。魔大陆的不死魔王，与鲁迪乌斯达成协议加入对抗基斯。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯",
+      "private_expression": "私下也保持与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯",
+      "behavior_patterns": [
+        "因与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2231"
+      ]
+    },
+    {
+      "quirk_id": "QK2208",
+      "character_id": "E0005",
+      "phase_id": "phase-22-1",
+      "category": "经历",
+      "name": "洛琪希经历带鲁迪乌斯与菈菈返回",
+      "description": "基于原文事实：洛琪希 的 经历 为 带鲁迪乌斯与菈菈返回米格路德族故乡。鲁迪乌斯的老师与第二名妻子，菈菈的母亲。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及带鲁迪乌斯与菈菈返回米格路德族故乡"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出带鲁迪乌斯与菈菈返回米格路德族故乡",
+      "private_expression": "私下也保持带鲁迪乌斯与菈菈返回米格路德族故乡",
+      "behavior_patterns": [
+        "因带鲁迪乌斯与菈菈返回米格路德族故乡而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2232"
+      ]
+    },
+    {
+      "quirk_id": "QK2209",
+      "character_id": "E0057",
+      "phase_id": "phase-22-1",
+      "category": "经历",
+      "name": "基斯经历为杀死奥尔斯帝德与鲁",
+      "description": "基于原文事实：基斯 的 经历 为 为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者。被揭示为人神使徒，聚集斯佩路德族幸存者以对抗奥尔斯帝德与鲁迪乌斯。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者",
+      "private_expression": "私下也保持为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者",
+      "behavior_patterns": [
+        "因为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2233"
+      ]
+    },
+    {
+      "quirk_id": "QK2210",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "category": "口头禅",
+      "name": "V22极详细怪癖1",
+      "description": "第22卷中 E0157 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2236"
+      ]
+    },
+    {
+      "quirk_id": "QK2211",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "category": "小动作",
+      "name": "V22极详细怪癖2",
+      "description": "第22卷中 E0158 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2237"
+      ]
+    },
+    {
+      "quirk_id": "QK2212",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "category": "收藏癖",
+      "name": "V22极详细怪癖3",
+      "description": "第22卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2238"
+      ]
+    },
+    {
+      "quirk_id": "QK2213",
+      "character_id": "E0157",
+      "phase_id": "phase-22-1",
+      "category": "羞耻表现",
+      "name": "V22极详细怪癖4",
+      "description": "第22卷中 E0157 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2239"
+      ]
+    },
+    {
+      "quirk_id": "QK2214",
+      "character_id": "E0158",
+      "phase_id": "phase-22-2",
+      "category": "紧张习惯",
+      "name": "V22极详细怪癖5",
+      "description": "第22卷中 E0158 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2240"
+      ]
+    },
+    {
+      "quirk_id": "QK2215",
+      "character_id": "E0001",
+      "phase_id": "phase-22-3",
+      "category": "私下低俗",
+      "name": "V22极详细怪癖6",
+      "description": "第22卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2236"
+      ]
     }
   ],
   "character_preferences": [
@@ -1714,6 +2857,57 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV2216"
+      ]
+    },
+    {
+      "preference_id": "PF2207",
+      "character_id": "E0129",
+      "phase_id": "phase-22-1",
+      "preference_type": "LIKE",
+      "target": "与鲁迪乌斯达成协议，协助搜索奇希莉卡与对",
+      "description": "阿托菲 对 与鲁迪乌斯达成协议，协助搜索奇希莉卡与对抗基斯 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2234"
+      ]
+    },
+    {
+      "preference_id": "PF2208",
+      "character_id": "E0005",
+      "phase_id": "phase-22-1",
+      "preference_type": "LIKE",
+      "target": "带鲁迪乌斯与菈菈返回米格路德族故乡",
+      "description": "洛琪希 对 带鲁迪乌斯与菈菈返回米格路德族故乡 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2235"
+      ]
+    },
+    {
+      "preference_id": "PF2209",
+      "character_id": "E0057",
+      "phase_id": "phase-22-1",
+      "preference_type": "LIKE",
+      "target": "为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德",
+      "description": "基斯 对 为杀死奥尔斯帝德与鲁迪乌斯而聚集斯佩路德族幸存者 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 22,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2231"
       ]
     }
   ],

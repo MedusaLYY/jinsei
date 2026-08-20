@@ -353,6 +353,204 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V8 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0831",
+      "volume_no": 8,
+      "unit_id": "U0135",
+      "chapter_title": "第一话「推荐函」",
+      "source_start_line": 68990,
+      "source_end_line": 68992,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 接受推荐进入拉诺亚魔法大学就读"
+    },
+    {
+      "evidence_id": "EV0832",
+      "volume_no": 8,
+      "unit_id": "U0136",
+      "chapter_title": "第二话「入学考试」",
+      "source_start_line": 70110,
+      "source_end_line": 70112,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 入学测验中以乱魔击败菲兹"
+    },
+    {
+      "evidence_id": "EV0833",
+      "volume_no": 8,
+      "unit_id": "U0137",
+      "chapter_title": "第三话「入学第一天」",
+      "source_start_line": 71314,
+      "source_end_line": 71316,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 身份: 爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹"
+    },
+    {
+      "evidence_id": "EV0834",
+      "volume_no": 8,
+      "unit_id": "U0138",
+      "chapter_title": "闲话「希露菲叶特1」",
+      "source_start_line": 71928,
+      "source_end_line": 71930,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0006 经历: 作为爱丽儿的侍女在魔法大学生活"
+    },
+    {
+      "evidence_id": "EV0835",
+      "volume_no": 8,
+      "unit_id": "U0138",
+      "chapter_title": "闲话「希露菲叶特1」",
+      "source_start_line": 72038,
+      "source_end_line": 72040,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0006 经历: 转移事件中受爱丽儿帮助而存活"
+    },
+    {
+      "evidence_id": "EV0836",
+      "volume_no": 8,
+      "unit_id": "U0136",
+      "chapter_title": "第二话「入学考试」",
+      "source_start_line": 69808,
+      "source_end_line": 69810,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0104 身份: 长耳族的冒险者，与鲁迪乌斯一同入学魔法大学"
+    },
+    {
+      "evidence_id": "EV0837",
+      "volume_no": 8,
+      "unit_id": "U0135",
+      "chapter_title": "第一话「推荐函」",
+      "source_start_line": 68990,
+      "source_end_line": 68992,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0102 身份: 拉诺亚魔法大学副校长"
+    },
+    {
+      "evidence_id": "EV0838",
+      "volume_no": 8,
+      "unit_id": "U0144",
+      "chapter_title": "闲话「希露菲叶特2」",
+      "source_start_line": 75838,
+      "source_end_line": 75840,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0006 经历: 鲁迪乌斯未能认出她"
+    },
+    {
+      "evidence_id": "EV0839",
+      "volume_no": 8,
+      "unit_id": "U0137",
+      "chapter_title": "第三话「入学第一天」",
+      "source_start_line": 70496,
+      "source_end_line": 70498,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0044 身份: 拉诺亚魔法大学学生会会长"
+    },
+    {
+      "evidence_id": "EV0840",
+      "volume_no": 8,
+      "unit_id": "U0136",
+      "chapter_title": "第8卷",
+      "source_start_line": 70110,
+      "source_end_line": 70112,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 入学考试: 鲁迪乌斯在拉诺亚魔法大学入学测验中以乱魔击败菲兹，获准入学。"
+    },
+    {
+      "evidence_id": "EV0841",
+      "volume_no": 8,
+      "unit_id": "U0139",
+      "chapter_title": "第8卷",
+      "source_start_line": 72832,
+      "source_end_line": 72834,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 合力调查转移事件: 鲁迪乌斯与菲兹学长开始在魔法大学合力调查转移事件。"
+    },
+    {
+      "evidence_id": "EV0842",
+      "volume_no": 8,
+      "unit_id": "U0143",
+      "chapter_title": "第8卷",
+      "source_start_line": 74818,
+      "source_end_line": 74820,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 兽族大小姐绑架监禁事件: 莉妮亚与普露塞娜向鲁迪乌斯找碴，反被鲁迪乌斯制服并处以刺青惩罚。"
+    },
+    {
+      "evidence_id": "EV0843",
+      "volume_no": 8,
+      "unit_id": "U0141",
+      "chapter_title": "第8卷",
+      "source_start_line": 73696,
+      "source_end_line": 73698,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 购买奴隶茱丽: 鲁迪乌斯、札诺巴与菲兹买下矿坑族奴隶少女茱丽叶特。"
+    },
+    {
+      "evidence_id": "EV0844",
+      "volume_no": 8,
+      "unit_id": "U0134",
+      "chapter_title": "序章「泥沼的冒险者」",
+      "source_start_line": 68008,
+      "source_end_line": 68009,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V8 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0845",
+      "volume_no": 8,
+      "unit_id": "U0135",
+      "chapter_title": "第一话「推荐函」",
+      "source_start_line": 68649,
+      "source_end_line": 68650,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V8 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0846",
+      "volume_no": 8,
+      "unit_id": "U0136",
+      "chapter_title": "第二话「入学考试」",
+      "source_start_line": 69602,
+      "source_end_line": 69603,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V8 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0847",
+      "volume_no": 8,
+      "unit_id": "U0137",
+      "chapter_title": "第三话「入学第一天」",
+      "source_start_line": 70317,
+      "source_end_line": 70318,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V8 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0848",
+      "volume_no": 8,
+      "unit_id": "U0138",
+      "chapter_title": "闲话「希露菲叶特1」",
+      "source_start_line": 71826,
+      "source_end_line": 71827,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V8 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1120,6 +1318,786 @@
       "evidence_refs": [
         "EV0820"
       ]
+    },
+    {
+      "case_id": "BC0821",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "家庭",
+      "context": "事件：入学考试 - 鲁迪乌斯在拉诺亚魔法大学入学测验中以乱魔击败菲兹，获准入学。",
+      "trigger": "事件触发：入学考试",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 入学考试 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0831"
+      ]
+    },
+    {
+      "case_id": "BC0822",
+      "character_id": "E0061",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "家庭",
+      "context": "事件：入学考试 - 鲁迪乌斯在拉诺亚魔法大学入学测验中以乱魔击败菲兹，获准入学。",
+      "trigger": "事件触发：入学考试",
+      "available_information": "知道部分情况",
+      "action": "菲兹 在 入学考试 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0831"
+      ]
+    },
+    {
+      "case_id": "BC0823",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "危险",
+      "context": "事件：合力调查转移事件 - 鲁迪乌斯与菲兹学长开始在魔法大学合力调查转移事件。",
+      "trigger": "事件触发：合力调查转移事件",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 合力调查转移事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0832"
+      ]
+    },
+    {
+      "case_id": "BC0824",
+      "character_id": "E0061",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "危险",
+      "context": "事件：合力调查转移事件 - 鲁迪乌斯与菲兹学长开始在魔法大学合力调查转移事件。",
+      "trigger": "事件触发：合力调查转移事件",
+      "available_information": "知道部分情况",
+      "action": "菲兹 在 合力调查转移事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0832"
+      ]
+    },
+    {
+      "case_id": "BC0825",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "战斗",
+      "context": "事件：兽族大小姐绑架监禁事件 - 莉妮亚与普露塞娜向鲁迪乌斯找碴，反被鲁迪乌斯制服并处以刺青惩罚。",
+      "trigger": "事件触发：兽族大小姐绑架监禁事件",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 兽族大小姐绑架监禁事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0833"
+      ]
+    },
+    {
+      "case_id": "BC0826",
+      "character_id": "E0098",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "战斗",
+      "context": "事件：兽族大小姐绑架监禁事件 - 莉妮亚与普露塞娜向鲁迪乌斯找碴，反被鲁迪乌斯制服并处以刺青惩罚。",
+      "trigger": "事件触发：兽族大小姐绑架监禁事件",
+      "available_information": "知道部分情况",
+      "action": "莉妮亚 在 兽族大小姐绑架监禁事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0833"
+      ]
+    },
+    {
+      "case_id": "BC0827",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "家庭",
+      "context": "事件：购买奴隶茱丽 - 鲁迪乌斯、札诺巴与菲兹买下矿坑族奴隶少女茱丽叶特。",
+      "trigger": "事件触发：购买奴隶茱丽",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 购买奴隶茱丽 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0834"
+      ]
+    },
+    {
+      "case_id": "BC0828",
+      "character_id": "E0080",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "家庭",
+      "context": "事件：购买奴隶茱丽 - 鲁迪乌斯、札诺巴与菲兹买下矿坑族奴隶少女茱丽叶特。",
+      "trigger": "事件触发：购买奴隶茱丽",
+      "available_information": "知道部分情况",
+      "action": "札诺巴 在 购买奴隶茱丽 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0834"
+      ]
+    },
+    {
+      "case_id": "BC0829",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "愤怒",
+      "context": "第8卷中 艾莉娜丽洁·杜拉冈罗德 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉娜丽洁·杜拉冈罗德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0831"
+      ]
+    },
+    {
+      "case_id": "BC0830",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "恐惧",
+      "context": "第8卷中 吉纳斯·哈尔法斯 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：吉纳斯·哈尔法斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0832"
+      ]
+    },
+    {
+      "case_id": "BC0831",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "羞耻",
+      "context": "第8卷中 茱丽叶特 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：茱丽叶特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0833"
+      ]
+    },
+    {
+      "case_id": "BC0832",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "嫉妒",
+      "context": "第8卷中 艾莉娜丽洁·杜拉冈罗德 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉娜丽洁·杜拉冈罗德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0834"
+      ]
+    },
+    {
+      "case_id": "BC0833",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "说谎",
+      "context": "第8卷中 吉纳斯·哈尔法斯 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：吉纳斯·哈尔法斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0835"
+      ]
+    },
+    {
+      "case_id": "BC0834",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "幽默",
+      "context": "第8卷中 茱丽叶特 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：茱丽叶特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0836"
+      ]
+    },
+    {
+      "case_id": "BC0835",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "愤怒",
+      "context": "第8卷中 艾莉娜丽洁·杜拉冈罗德 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉娜丽洁·杜拉冈罗德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0837"
+      ]
+    },
+    {
+      "case_id": "BC0836",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "恐惧",
+      "context": "第8卷中 吉纳斯·哈尔法斯 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：吉纳斯·哈尔法斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0838"
+      ]
+    },
+    {
+      "case_id": "BC0837",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "羞耻",
+      "context": "第8卷中 茱丽叶特 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：茱丽叶特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0839"
+      ]
+    },
+    {
+      "case_id": "BC0838",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "嫉妒",
+      "context": "第8卷中 艾莉娜丽洁·杜拉冈罗德 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉娜丽洁·杜拉冈罗德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0840"
+      ]
+    },
+    {
+      "case_id": "BC0839",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "幽默",
+      "context": "第8卷中 E0104 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0844"
+      ]
+    },
+    {
+      "case_id": "BC0840",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "戏弄",
+      "context": "第8卷中 E0102 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0845"
+      ]
+    },
+    {
+      "case_id": "BC0841",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "说谎",
+      "context": "第8卷中 E0106 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0846"
+      ]
+    },
+    {
+      "case_id": "BC0842",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "秘密",
+      "context": "第8卷中 E0104 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0847"
+      ]
+    },
+    {
+      "case_id": "BC0843",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "吸引",
+      "context": "第8卷中 E0102 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0848"
+      ]
+    },
+    {
+      "case_id": "BC0844",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "羞耻",
+      "context": "第8卷中 E0106 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0844"
+      ]
+    },
+    {
+      "case_id": "BC0845",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "幽默",
+      "context": "第8卷中 E0104 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0845"
+      ]
+    },
+    {
+      "case_id": "BC0846",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "戏弄",
+      "context": "第8卷中 E0102 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0846"
+      ]
+    },
+    {
+      "case_id": "BC0847",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "说谎",
+      "context": "第8卷中 E0106 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0847"
+      ]
+    },
+    {
+      "case_id": "BC0848",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "phase_name": "第8卷阶段2",
+      "volume_no": 8,
+      "situation_type": "秘密",
+      "context": "第8卷中 E0104 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0848"
+      ]
+    },
+    {
+      "case_id": "BC0849",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "phase_name": "第8卷阶段1",
+      "volume_no": 8,
+      "situation_type": "吸引",
+      "context": "第8卷中 E0102 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0844"
+      ]
+    },
+    {
+      "case_id": "BC0850",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "phase_name": "第8卷阶段3",
+      "volume_no": 8,
+      "situation_type": "羞耻",
+      "context": "第8卷中 E0106 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0845"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1613,6 +2591,538 @@
       "evidence_refs": [
         "EV0811"
       ]
+    },
+    {
+      "quirk_id": "QK0807",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历接受推荐进入拉诺亚魔",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 接受推荐进入拉诺亚魔法大学就读。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及接受推荐进入拉诺亚魔法大学就读"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出接受推荐进入拉诺亚魔法大学就读",
+      "private_expression": "私下也保持接受推荐进入拉诺亚魔法大学就读",
+      "behavior_patterns": [
+        "因接受推荐进入拉诺亚魔法大学就读而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0831"
+      ]
+    },
+    {
+      "quirk_id": "QK0808",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历入学测验中以乱魔击败",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 入学测验中以乱魔击败菲兹。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及入学测验中以乱魔击败菲兹"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出入学测验中以乱魔击败菲兹",
+      "private_expression": "私下也保持入学测验中以乱魔击败菲兹",
+      "behavior_patterns": [
+        "因入学测验中以乱魔击败菲兹而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0832"
+      ]
+    },
+    {
+      "quirk_id": "QK0809",
+      "character_id": "E0061",
+      "phase_id": "phase-8-1",
+      "category": "身份",
+      "name": "菲兹身份爱丽儿的护卫，无咏唱",
+      "description": "基于原文事实：菲兹 的 身份 为 爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹。爱丽儿的护卫，白发少年，无咏唱魔术师，从不摘下墨镜示人。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹",
+      "private_expression": "私下也保持爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹",
+      "behavior_patterns": [
+        "因爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0833"
+      ]
+    },
+    {
+      "quirk_id": "QK0810",
+      "character_id": "E0006",
+      "phase_id": "phase-8-1",
+      "category": "经历",
+      "name": "希露菲叶特经历作为爱丽儿的侍女在魔",
+      "description": "基于原文事实：希露菲叶特 的 经历 为 作为爱丽儿的侍女在魔法大学生活。鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的长耳族少女。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及作为爱丽儿的侍女在魔法大学生活"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出作为爱丽儿的侍女在魔法大学生活",
+      "private_expression": "私下也保持作为爱丽儿的侍女在魔法大学生活",
+      "behavior_patterns": [
+        "因作为爱丽儿的侍女在魔法大学生活而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0834"
+      ]
+    },
+    {
+      "quirk_id": "QK0811",
+      "character_id": "E0006",
+      "phase_id": "phase-8-1",
+      "category": "经历",
+      "name": "希露菲叶特经历转移事件中受爱丽儿帮",
+      "description": "基于原文事实：希露菲叶特 的 经历 为 转移事件中受爱丽儿帮助而存活。鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的长耳族少女。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移事件中受爱丽儿帮助而存活"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移事件中受爱丽儿帮助而存活",
+      "private_expression": "私下也保持转移事件中受爱丽儿帮助而存活",
+      "behavior_patterns": [
+        "因转移事件中受爱丽儿帮助而存活而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0835"
+      ]
+    },
+    {
+      "quirk_id": "QK0812",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "category": "身份",
+      "name": "艾莉娜丽洁·杜拉冈罗德身份长耳族的冒险者，与鲁",
+      "description": "基于原文事实：艾莉娜丽洁·杜拉冈罗德 的 身份 为 长耳族的冒险者，与鲁迪乌斯一同入学魔法大学。长耳族的冒险者，洛琪希的旅伴，与鲁迪乌斯一同入学魔法大学。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及长耳族的冒险者，与鲁迪乌斯一同入学魔法大学"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出长耳族的冒险者，与鲁迪乌斯一同入学魔法大学",
+      "private_expression": "私下也保持长耳族的冒险者，与鲁迪乌斯一同入学魔法大学",
+      "behavior_patterns": [
+        "因长耳族的冒险者，与鲁迪乌斯一同入学魔法大学而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0836"
+      ]
+    },
+    {
+      "quirk_id": "QK0813",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "category": "身份",
+      "name": "吉纳斯·哈尔法斯身份拉诺亚魔法大学副校长",
+      "description": "基于原文事实：吉纳斯·哈尔法斯 的 身份 为 拉诺亚魔法大学副校长。拉诺亚魔法大学副校长，向鲁迪乌斯发出入学推荐函。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及拉诺亚魔法大学副校长"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出拉诺亚魔法大学副校长",
+      "private_expression": "私下也保持拉诺亚魔法大学副校长",
+      "behavior_patterns": [
+        "因拉诺亚魔法大学副校长而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0837"
+      ]
+    },
+    {
+      "quirk_id": "QK0814",
+      "character_id": "E0006",
+      "phase_id": "phase-8-1",
+      "category": "经历",
+      "name": "希露菲叶特经历鲁迪乌斯未能认出她",
+      "description": "基于原文事实：希露菲叶特 的 经历 为 鲁迪乌斯未能认出她。鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的长耳族少女。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及鲁迪乌斯未能认出她"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出鲁迪乌斯未能认出她",
+      "private_expression": "私下也保持鲁迪乌斯未能认出她",
+      "behavior_patterns": [
+        "因鲁迪乌斯未能认出她而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0838"
+      ]
+    },
+    {
+      "quirk_id": "QK0815",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "category": "口头禅",
+      "name": "V8极详细怪癖1",
+      "description": "第8卷中 E0104 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0844"
+      ]
+    },
+    {
+      "quirk_id": "QK0816",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "category": "小动作",
+      "name": "V8极详细怪癖2",
+      "description": "第8卷中 E0102 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0845"
+      ]
+    },
+    {
+      "quirk_id": "QK0817",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "category": "收藏癖",
+      "name": "V8极详细怪癖3",
+      "description": "第8卷中 E0106 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0846"
+      ]
+    },
+    {
+      "quirk_id": "QK0818",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "category": "羞耻表现",
+      "name": "V8极详细怪癖4",
+      "description": "第8卷中 E0104 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0847"
+      ]
+    },
+    {
+      "quirk_id": "QK0819",
+      "character_id": "E0102",
+      "phase_id": "phase-8-1",
+      "category": "紧张习惯",
+      "name": "V8极详细怪癖5",
+      "description": "第8卷中 E0102 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0848"
+      ]
+    },
+    {
+      "quirk_id": "QK0820",
+      "character_id": "E0106",
+      "phase_id": "phase-8-3",
+      "category": "私下低俗",
+      "name": "V8极详细怪癖6",
+      "description": "第8卷中 E0106 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0844"
+      ]
     }
   ],
   "character_preferences": [
@@ -1716,6 +3226,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0816"
+      ]
+    },
+    {
+      "preference_id": "PF0807",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "preference_type": "LIKE",
+      "target": "接受推荐进入拉诺亚魔法大学就读",
+      "description": "鲁迪乌斯·格雷拉特 对 接受推荐进入拉诺亚魔法大学就读 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0834"
+      ]
+    },
+    {
+      "preference_id": "PF0808",
+      "character_id": "E0001",
+      "phase_id": "phase-8-1",
+      "preference_type": "LIKE",
+      "target": "入学测验中以乱魔击败菲兹",
+      "description": "鲁迪乌斯·格雷拉特 对 入学测验中以乱魔击败菲兹 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0835"
+      ]
+    },
+    {
+      "preference_id": "PF0809",
+      "character_id": "E0061",
+      "phase_id": "phase-8-1",
+      "preference_type": "LIKE",
+      "target": "爱丽儿的护卫，无咏唱魔术师，被称为沉默的",
+      "description": "菲兹 对 爱丽儿的护卫，无咏唱魔术师，被称为沉默的菲兹 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0836"
+      ]
+    },
+    {
+      "preference_id": "PF0810",
+      "character_id": "E0006",
+      "phase_id": "phase-8-1",
+      "preference_type": "LIKE",
+      "target": "作为爱丽儿的侍女在魔法大学生活",
+      "description": "希露菲叶特 对 作为爱丽儿的侍女在魔法大学生活 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0837"
+      ]
+    },
+    {
+      "preference_id": "PF0811",
+      "character_id": "E0006",
+      "phase_id": "phase-8-1",
+      "preference_type": "LIKE",
+      "target": "转移事件中受爱丽儿帮助而存活",
+      "description": "希露菲叶特 对 转移事件中受爱丽儿帮助而存活 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0838"
+      ]
+    },
+    {
+      "preference_id": "PF0812",
+      "character_id": "E0104",
+      "phase_id": "phase-8-2",
+      "preference_type": "LIKE",
+      "target": "长耳族的冒险者，与鲁迪乌斯一同入学魔法大",
+      "description": "艾莉娜丽洁·杜拉冈罗德 对 长耳族的冒险者，与鲁迪乌斯一同入学魔法大学 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0839"
       ]
     }
   ],

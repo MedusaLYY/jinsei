@@ -350,6 +350,182 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V13 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1331",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 115858,
+      "source_end_line": 115860,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 迎娶洛琪希为第二名妻子"
+    },
+    {
+      "evidence_id": "EV1332",
+      "volume_no": 13,
+      "unit_id": "U0236",
+      "chapter_title": "第二话「三年级」",
+      "source_start_line": 115990,
+      "source_end_line": 115992,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0128 身份: 鲁迪乌斯与希露菲的女儿"
+    },
+    {
+      "evidence_id": "EV1333",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 115170,
+      "source_end_line": 115172,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0005 经历: 成为拉诺亚魔法大学的教师"
+    },
+    {
+      "evidence_id": "EV1334",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 115170,
+      "source_end_line": 115172,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 在转移迷宫的战斗中失去左手，使用义手"
+    },
+    {
+      "evidence_id": "EV1335",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第三话「Training with 诺伦」",
+      "source_start_line": 116792,
+      "source_end_line": 116794,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 开始接受鲁迪乌斯的剑术训练"
+    },
+    {
+      "evidence_id": "EV1336",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第三话「Training with 诺伦」",
+      "source_start_line": 117470,
+      "source_end_line": 117472,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 成为公设粉丝同好会的对象"
+    },
+    {
+      "evidence_id": "EV1337",
+      "volume_no": 13,
+      "unit_id": "U0239",
+      "chapter_title": "第五话「具备威严的父亲」",
+      "source_start_line": 118112,
+      "source_end_line": 118114,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0091 经历: 担任露西的奶妈"
+    },
+    {
+      "evidence_id": "EV1338",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第13卷",
+      "source_start_line": 115516,
+      "source_end_line": 115518,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 洛琪希任教: 洛琪希通过面试成为拉诺亚魔法大学的教师。"
+    },
+    {
+      "evidence_id": "EV1339",
+      "volume_no": 13,
+      "unit_id": "U0240",
+      "chapter_title": "第13卷",
+      "source_start_line": 119002,
+      "source_end_line": 119004,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 水王级修习: 洛琪希教导鲁迪乌斯与希露菲水王级魔术，鲁迪乌斯成功使出雷光。"
+    },
+    {
+      "evidence_id": "EV1340",
+      "volume_no": 13,
+      "unit_id": "U0243",
+      "chapter_title": "第13卷",
+      "source_start_line": 120964,
+      "source_end_line": 120966,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 生日庆祝会: 一家人为诺伦与爱夏举办生日庆祝会并互赠礼物。"
+    },
+    {
+      "evidence_id": "EV1341",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第13卷",
+      "source_start_line": 116792,
+      "source_end_line": 116794,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 诺伦剑术训练开始: 鲁迪乌斯开始正式指导诺伦剑术。"
+    },
+    {
+      "evidence_id": "EV1342",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 114924,
+      "source_end_line": 114925,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1343",
+      "volume_no": 13,
+      "unit_id": "U0236",
+      "chapter_title": "第二话「三年级」",
+      "source_start_line": 115989,
+      "source_end_line": 115990,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1344",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第三话「Training with 诺伦」",
+      "source_start_line": 116792,
+      "source_end_line": 116793,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1345",
+      "volume_no": 13,
+      "unit_id": "U0238",
+      "chapter_title": "第四话「是我培育的」",
+      "source_start_line": 117503,
+      "source_end_line": 117504,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1346",
+      "volume_no": 13,
+      "unit_id": "U0239",
+      "chapter_title": "第五话「具备威严的父亲」",
+      "source_start_line": 118114,
+      "source_end_line": 118115,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1117,6 +1293,786 @@
       "evidence_refs": [
         "EV1320"
       ]
+    },
+    {
+      "case_id": "BC1321",
+      "character_id": "E0005",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "家庭",
+      "context": "事件：洛琪希任教 - 洛琪希通过面试成为拉诺亚魔法大学的教师。",
+      "trigger": "事件触发：洛琪希任教",
+      "available_information": "知道部分情况",
+      "action": "洛琪希 在 洛琪希任教 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1331"
+      ]
+    },
+    {
+      "case_id": "BC1322",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "家庭",
+      "context": "事件：洛琪希任教 - 洛琪希通过面试成为拉诺亚魔法大学的教师。",
+      "trigger": "事件触发：洛琪希任教",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 洛琪希任教 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1331"
+      ]
+    },
+    {
+      "case_id": "BC1323",
+      "character_id": "E0005",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "家庭",
+      "context": "事件：水王级修习 - 洛琪希教导鲁迪乌斯与希露菲水王级魔术，鲁迪乌斯成功使出雷光。",
+      "trigger": "事件触发：水王级修习",
+      "available_information": "知道部分情况",
+      "action": "洛琪希 在 水王级修习 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1332"
+      ]
+    },
+    {
+      "case_id": "BC1324",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "家庭",
+      "context": "事件：水王级修习 - 洛琪希教导鲁迪乌斯与希露菲水王级魔术，鲁迪乌斯成功使出雷光。",
+      "trigger": "事件触发：水王级修习",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 水王级修习 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1332"
+      ]
+    },
+    {
+      "case_id": "BC1325",
+      "character_id": "E0007",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "公开场合",
+      "context": "事件：生日庆祝会 - 一家人为诺伦与爱夏举办生日庆祝会并互赠礼物。",
+      "trigger": "事件触发：生日庆祝会",
+      "available_information": "知道部分情况",
+      "action": "诺伦 在 生日庆祝会 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1333"
+      ]
+    },
+    {
+      "case_id": "BC1326",
+      "character_id": "E0008",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "公开场合",
+      "context": "事件：生日庆祝会 - 一家人为诺伦与爱夏举办生日庆祝会并互赠礼物。",
+      "trigger": "事件触发：生日庆祝会",
+      "available_information": "知道部分情况",
+      "action": "爱夏 在 生日庆祝会 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1333"
+      ]
+    },
+    {
+      "case_id": "BC1327",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "家庭",
+      "context": "事件：诺伦剑术训练开始 - 鲁迪乌斯开始正式指导诺伦剑术。",
+      "trigger": "事件触发：诺伦剑术训练开始",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 诺伦剑术训练开始 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1334"
+      ]
+    },
+    {
+      "case_id": "BC1328",
+      "character_id": "E0007",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "家庭",
+      "context": "事件：诺伦剑术训练开始 - 鲁迪乌斯开始正式指导诺伦剑术。",
+      "trigger": "事件触发：诺伦剑术训练开始",
+      "available_information": "知道部分情况",
+      "action": "诺伦 在 诺伦剑术训练开始 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1334"
+      ]
+    },
+    {
+      "case_id": "BC1329",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "愤怒",
+      "context": "第13卷中 露西·格雷拉特 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：露西·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1331"
+      ]
+    },
+    {
+      "case_id": "BC1330",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "恐惧",
+      "context": "第13卷中 鲁迪乌斯·格雷拉特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1332"
+      ]
+    },
+    {
+      "case_id": "BC1331",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "羞耻",
+      "context": "第13卷中 塞妮丝·格雷拉特 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：塞妮丝·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1333"
+      ]
+    },
+    {
+      "case_id": "BC1332",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "嫉妒",
+      "context": "第13卷中 露西·格雷拉特 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：露西·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1334"
+      ]
+    },
+    {
+      "case_id": "BC1333",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "说谎",
+      "context": "第13卷中 鲁迪乌斯·格雷拉特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1335"
+      ]
+    },
+    {
+      "case_id": "BC1334",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "幽默",
+      "context": "第13卷中 塞妮丝·格雷拉特 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：塞妮丝·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1336"
+      ]
+    },
+    {
+      "case_id": "BC1335",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "愤怒",
+      "context": "第13卷中 露西·格雷拉特 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：露西·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1337"
+      ]
+    },
+    {
+      "case_id": "BC1336",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "恐惧",
+      "context": "第13卷中 鲁迪乌斯·格雷拉特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1338"
+      ]
+    },
+    {
+      "case_id": "BC1337",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "羞耻",
+      "context": "第13卷中 塞妮丝·格雷拉特 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：塞妮丝·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1339"
+      ]
+    },
+    {
+      "case_id": "BC1338",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "嫉妒",
+      "context": "第13卷中 露西·格雷拉特 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：露西·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1340"
+      ]
+    },
+    {
+      "case_id": "BC1339",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "幽默",
+      "context": "第13卷中 E0128 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1342"
+      ]
+    },
+    {
+      "case_id": "BC1340",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "戏弄",
+      "context": "第13卷中 E0003 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1343"
+      ]
+    },
+    {
+      "case_id": "BC1341",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "说谎",
+      "context": "第13卷中 E0001 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1344"
+      ]
+    },
+    {
+      "case_id": "BC1342",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "秘密",
+      "context": "第13卷中 E0128 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1345"
+      ]
+    },
+    {
+      "case_id": "BC1343",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "吸引",
+      "context": "第13卷中 E0003 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1346"
+      ]
+    },
+    {
+      "case_id": "BC1344",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "羞耻",
+      "context": "第13卷中 E0001 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1342"
+      ]
+    },
+    {
+      "case_id": "BC1345",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "幽默",
+      "context": "第13卷中 E0128 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1343"
+      ]
+    },
+    {
+      "case_id": "BC1346",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "戏弄",
+      "context": "第13卷中 E0003 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1344"
+      ]
+    },
+    {
+      "case_id": "BC1347",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "说谎",
+      "context": "第13卷中 E0001 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1345"
+      ]
+    },
+    {
+      "case_id": "BC1348",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "phase_name": "第13卷阶段1",
+      "volume_no": 13,
+      "situation_type": "秘密",
+      "context": "第13卷中 E0128 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1346"
+      ]
+    },
+    {
+      "case_id": "BC1349",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "phase_name": "第13卷阶段3",
+      "volume_no": 13,
+      "situation_type": "吸引",
+      "context": "第13卷中 E0003 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1342"
+      ]
+    },
+    {
+      "case_id": "BC1350",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "phase_name": "第13卷阶段2",
+      "volume_no": 13,
+      "situation_type": "羞耻",
+      "context": "第13卷中 E0001 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1343"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1610,6 +2566,503 @@
       "evidence_refs": [
         "EV1311"
       ]
+    },
+    {
+      "quirk_id": "QK1307",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历迎娶洛琪希为第二名妻",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 迎娶洛琪希为第二名妻子。携带前世记忆转生的格雷拉特家长男，魔法大学三年级学生。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及迎娶洛琪希为第二名妻子"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出迎娶洛琪希为第二名妻子",
+      "private_expression": "私下也保持迎娶洛琪希为第二名妻子",
+      "behavior_patterns": [
+        "因迎娶洛琪希为第二名妻子而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1331"
+      ]
+    },
+    {
+      "quirk_id": "QK1308",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "category": "身份",
+      "name": "露西·格雷拉特身份鲁迪乌斯与希露菲的女",
+      "description": "基于原文事实：露西·格雷拉特 的 身份 为 鲁迪乌斯与希露菲的女儿。鲁迪乌斯与希露菲的女儿，乖巧的婴儿。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及鲁迪乌斯与希露菲的女儿"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出鲁迪乌斯与希露菲的女儿",
+      "private_expression": "私下也保持鲁迪乌斯与希露菲的女儿",
+      "behavior_patterns": [
+        "因鲁迪乌斯与希露菲的女儿而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1332"
+      ]
+    },
+    {
+      "quirk_id": "QK1309",
+      "character_id": "E0005",
+      "phase_id": "phase-13-1",
+      "category": "经历",
+      "name": "洛琪希经历成为拉诺亚魔法大学的",
+      "description": "基于原文事实：洛琪希 的 经历 为 成为拉诺亚魔法大学的教师。鲁迪乌斯的老师与第二名妻子，魔法大学教师。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及成为拉诺亚魔法大学的教师"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出成为拉诺亚魔法大学的教师",
+      "private_expression": "私下也保持成为拉诺亚魔法大学的教师",
+      "behavior_patterns": [
+        "因成为拉诺亚魔法大学的教师而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1333"
+      ]
+    },
+    {
+      "quirk_id": "QK1310",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历在转移迷宫的战斗中失",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 在转移迷宫的战斗中失去左手，使用义手。携带前世记忆转生的格雷拉特家长男，魔法大学三年级学生。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在转移迷宫的战斗中失去左手，使用义手"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在转移迷宫的战斗中失去左手，使用义手",
+      "private_expression": "私下也保持在转移迷宫的战斗中失去左手，使用义手",
+      "behavior_patterns": [
+        "因在转移迷宫的战斗中失去左手，使用义手而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1334"
+      ]
+    },
+    {
+      "quirk_id": "QK1311",
+      "character_id": "E0007",
+      "phase_id": "phase-13-1",
+      "category": "经历",
+      "name": "诺伦经历开始接受鲁迪乌斯的剑",
+      "description": "基于原文事实：诺伦 的 经历 为 开始接受鲁迪乌斯的剑术训练。保罗与塞妮丝的女儿，鲁迪乌斯的妹妹，开始学习剑术。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及开始接受鲁迪乌斯的剑术训练"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出开始接受鲁迪乌斯的剑术训练",
+      "private_expression": "私下也保持开始接受鲁迪乌斯的剑术训练",
+      "behavior_patterns": [
+        "因开始接受鲁迪乌斯的剑术训练而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1335"
+      ]
+    },
+    {
+      "quirk_id": "QK1312",
+      "character_id": "E0007",
+      "phase_id": "phase-13-1",
+      "category": "经历",
+      "name": "诺伦经历成为公设粉丝同好会的",
+      "description": "基于原文事实：诺伦 的 经历 为 成为公设粉丝同好会的对象。保罗与塞妮丝的女儿，鲁迪乌斯的妹妹，开始学习剑术。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及成为公设粉丝同好会的对象"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出成为公设粉丝同好会的对象",
+      "private_expression": "私下也保持成为公设粉丝同好会的对象",
+      "behavior_patterns": [
+        "因成为公设粉丝同好会的对象而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1336"
+      ]
+    },
+    {
+      "quirk_id": "QK1313",
+      "character_id": "E0091",
+      "phase_id": "phase-13-1",
+      "category": "经历",
+      "name": "苏珊娜经历担任露西的奶妈",
+      "description": "基于原文事实：苏珊娜 的 经历 为 担任露西的奶妈。原Counter Arrow成员，现为露西的奶妈。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及担任露西的奶妈"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出担任露西的奶妈",
+      "private_expression": "私下也保持担任露西的奶妈",
+      "behavior_patterns": [
+        "因担任露西的奶妈而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1337"
+      ]
+    },
+    {
+      "quirk_id": "QK1314",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "category": "口头禅",
+      "name": "V13极详细怪癖1",
+      "description": "第13卷中 E0128 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1342"
+      ]
+    },
+    {
+      "quirk_id": "QK1315",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "category": "小动作",
+      "name": "V13极详细怪癖2",
+      "description": "第13卷中 E0003 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1343"
+      ]
+    },
+    {
+      "quirk_id": "QK1316",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "category": "收藏癖",
+      "name": "V13极详细怪癖3",
+      "description": "第13卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1344"
+      ]
+    },
+    {
+      "quirk_id": "QK1317",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "category": "羞耻表现",
+      "name": "V13极详细怪癖4",
+      "description": "第13卷中 E0128 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1345"
+      ]
+    },
+    {
+      "quirk_id": "QK1318",
+      "character_id": "E0003",
+      "phase_id": "phase-13-3",
+      "category": "紧张习惯",
+      "name": "V13极详细怪癖5",
+      "description": "第13卷中 E0003 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1346"
+      ]
+    },
+    {
+      "quirk_id": "QK1319",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "category": "私下低俗",
+      "name": "V13极详细怪癖6",
+      "description": "第13卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1342"
+      ]
     }
   ],
   "character_preferences": [
@@ -1713,6 +3166,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1316"
+      ]
+    },
+    {
+      "preference_id": "PF1307",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "preference_type": "LIKE",
+      "target": "迎娶洛琪希为第二名妻子",
+      "description": "鲁迪乌斯·格雷拉特 对 迎娶洛琪希为第二名妻子 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1334"
+      ]
+    },
+    {
+      "preference_id": "PF1308",
+      "character_id": "E0128",
+      "phase_id": "phase-13-1",
+      "preference_type": "LIKE",
+      "target": "鲁迪乌斯与希露菲的女儿",
+      "description": "露西·格雷拉特 对 鲁迪乌斯与希露菲的女儿 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1335"
+      ]
+    },
+    {
+      "preference_id": "PF1309",
+      "character_id": "E0005",
+      "phase_id": "phase-13-1",
+      "preference_type": "LIKE",
+      "target": "成为拉诺亚魔法大学的教师",
+      "description": "洛琪希 对 成为拉诺亚魔法大学的教师 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1336"
+      ]
+    },
+    {
+      "preference_id": "PF1310",
+      "character_id": "E0001",
+      "phase_id": "phase-13-2",
+      "preference_type": "LIKE",
+      "target": "在转移迷宫的战斗中失去左手，使用义手",
+      "description": "鲁迪乌斯·格雷拉特 对 在转移迷宫的战斗中失去左手，使用义手 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1337"
+      ]
+    },
+    {
+      "preference_id": "PF1311",
+      "character_id": "E0007",
+      "phase_id": "phase-13-1",
+      "preference_type": "LIKE",
+      "target": "开始接受鲁迪乌斯的剑术训练",
+      "description": "诺伦 对 开始接受鲁迪乌斯的剑术训练 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1338"
+      ]
+    },
+    {
+      "preference_id": "PF1312",
+      "character_id": "E0007",
+      "phase_id": "phase-13-1",
+      "preference_type": "LIKE",
+      "target": "成为公设粉丝同好会的对象",
+      "description": "诺伦 对 成为公设粉丝同好会的对象 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1339"
       ]
     }
   ],

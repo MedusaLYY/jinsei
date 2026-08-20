@@ -354,6 +354,171 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V12 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1231",
+      "volume_no": 12,
+      "unit_id": "U0215",
+      "chapter_title": "第一话「到达」",
+      "source_start_line": 106864,
+      "source_end_line": 106866,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0005 经历: 在转移迷宫中踩中转移魔法阵陷阱而受困一个月"
+    },
+    {
+      "evidence_id": "EV1232",
+      "volume_no": 12,
+      "unit_id": "U0222",
+      "chapter_title": "第八话「转移迷宫的守护者」",
+      "source_start_line": 109676,
+      "source_end_line": 109678,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0003 经历: 被封印在转移迷宫深处的魔力结晶中"
+    },
+    {
+      "evidence_id": "EV1233",
+      "volume_no": 12,
+      "unit_id": "U0223",
+      "chapter_title": "第九话「死斗」",
+      "source_start_line": 110580,
+      "source_end_line": 110582,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0002 经历: 在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲"
+    },
+    {
+      "evidence_id": "EV1234",
+      "volume_no": 12,
+      "unit_id": "U0224",
+      "chapter_title": "第十话「双亲」",
+      "source_start_line": 110914,
+      "source_end_line": 110916,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0003 经历: 获救后失去全部记忆与语言能力"
+    },
+    {
+      "evidence_id": "EV1235",
+      "volume_no": 12,
+      "unit_id": "U0225",
+      "chapter_title": "第十一话「朝向前方」",
+      "source_start_line": 111498,
+      "source_end_line": 111500,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0005 经历: 向陷入低潮的鲁迪乌斯告白并发生关系"
+    },
+    {
+      "evidence_id": "EV1236",
+      "volume_no": 12,
+      "unit_id": "U0226",
+      "chapter_title": "第十二话「回去吧」",
+      "source_start_line": 112268,
+      "source_end_line": 112270,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 与洛琪希约定在归途期间以恋人身分相处"
+    },
+    {
+      "evidence_id": "EV1237",
+      "volume_no": 12,
+      "unit_id": "U0218",
+      "chapter_title": "第12卷",
+      "source_start_line": 108050,
+      "source_end_line": 108052,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 救出洛琪希: 探索队在转移迷宫第三层救出受困一个月的洛琪希。"
+    },
+    {
+      "evidence_id": "EV1238",
+      "volume_no": 12,
+      "unit_id": "U0223",
+      "chapter_title": "第12卷",
+      "source_start_line": 110206,
+      "source_end_line": 110208,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 死斗魔石多头龙: 探索队与守护塞妮丝的魔石多头龙展开死斗，保罗为保护鲁迪乌斯而牺牲。"
+    },
+    {
+      "evidence_id": "EV1239",
+      "volume_no": 12,
+      "unit_id": "U0224",
+      "chapter_title": "第12卷",
+      "source_start_line": 110708,
+      "source_end_line": 110710,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 塞妮丝获救: 九头龙被击败后，塞妮丝从魔力结晶中被救出。"
+    },
+    {
+      "evidence_id": "EV1240",
+      "volume_no": 12,
+      "unit_id": "U0227",
+      "chapter_title": "第12卷",
+      "source_start_line": 112400,
+      "source_end_line": 112402,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 返回夏利亚: 众人带着塞妮丝踏上归途，返回魔法都市夏利亚。"
+    },
+    {
+      "evidence_id": "EV1241",
+      "volume_no": 12,
+      "unit_id": "U0215",
+      "chapter_title": "第一话「到达」",
+      "source_start_line": 106074,
+      "source_end_line": 106075,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1242",
+      "volume_no": 12,
+      "unit_id": "U0216",
+      "chapter_title": "第二话「确认状况」",
+      "source_start_line": 106959,
+      "source_end_line": 106960,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1243",
+      "volume_no": 12,
+      "unit_id": "U0217",
+      "chapter_title": "第三话「进入迷宫」",
+      "source_start_line": 107364,
+      "source_end_line": 107365,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1244",
+      "volume_no": 12,
+      "unit_id": "U0218",
+      "chapter_title": "第四话「她当时的心情」",
+      "source_start_line": 107813,
+      "source_end_line": 107814,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1245",
+      "volume_no": 12,
+      "unit_id": "U0219",
+      "chapter_title": "第五话「不屈的魔术师」",
+      "source_start_line": 108204,
+      "source_end_line": 108205,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1121,6 +1286,786 @@
       "evidence_refs": [
         "EV1220"
       ]
+    },
+    {
+      "case_id": "BC1221",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：救出洛琪希 - 探索队在转移迷宫第三层救出受困一个月的洛琪希。",
+      "trigger": "事件触发：救出洛琪希",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 救出洛琪希 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1231"
+      ]
+    },
+    {
+      "case_id": "BC1222",
+      "character_id": "E0005",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：救出洛琪希 - 探索队在转移迷宫第三层救出受困一个月的洛琪希。",
+      "trigger": "事件触发：救出洛琪希",
+      "available_information": "知道部分情况",
+      "action": "洛琪希 在 救出洛琪希 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1231"
+      ]
+    },
+    {
+      "case_id": "BC1223",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：死斗魔石多头龙 - 探索队与守护塞妮丝的魔石多头龙展开死斗，保罗为保护鲁迪乌斯而牺牲。",
+      "trigger": "事件触发：死斗魔石多头龙",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 死斗魔石多头龙 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1232"
+      ]
+    },
+    {
+      "case_id": "BC1224",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：死斗魔石多头龙 - 探索队与守护塞妮丝的魔石多头龙展开死斗，保罗为保护鲁迪乌斯而牺牲。",
+      "trigger": "事件触发：死斗魔石多头龙",
+      "available_information": "知道部分情况",
+      "action": "保罗·格雷拉特 在 死斗魔石多头龙 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1232"
+      ]
+    },
+    {
+      "case_id": "BC1225",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：塞妮丝获救 - 九头龙被击败后，塞妮丝从魔力结晶中被救出。",
+      "trigger": "事件触发：塞妮丝获救",
+      "available_information": "知道部分情况",
+      "action": "塞妮丝·格雷拉特 在 塞妮丝获救 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1233"
+      ]
+    },
+    {
+      "case_id": "BC1226",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：塞妮丝获救 - 九头龙被击败后，塞妮丝从魔力结晶中被救出。",
+      "trigger": "事件触发：塞妮丝获救",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 塞妮丝获救 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1233"
+      ]
+    },
+    {
+      "case_id": "BC1227",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：返回夏利亚 - 众人带着塞妮丝踏上归途，返回魔法都市夏利亚。",
+      "trigger": "事件触发：返回夏利亚",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 返回夏利亚 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1234"
+      ]
+    },
+    {
+      "case_id": "BC1228",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "家庭",
+      "context": "事件：返回夏利亚 - 众人带着塞妮丝踏上归途，返回魔法都市夏利亚。",
+      "trigger": "事件触发：返回夏利亚",
+      "available_information": "知道部分情况",
+      "action": "塞妮丝·格雷拉特 在 返回夏利亚 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1234"
+      ]
+    },
+    {
+      "case_id": "BC1229",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "愤怒",
+      "context": "第12卷中 保罗·格雷拉特 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：保罗·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1231"
+      ]
+    },
+    {
+      "case_id": "BC1230",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "恐惧",
+      "context": "第12卷中 鲁迪乌斯·格雷拉特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1232"
+      ]
+    },
+    {
+      "case_id": "BC1231",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "羞耻",
+      "context": "第12卷中 塞妮丝·格雷拉特 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：塞妮丝·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1233"
+      ]
+    },
+    {
+      "case_id": "BC1232",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "嫉妒",
+      "context": "第12卷中 保罗·格雷拉特 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：保罗·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1234"
+      ]
+    },
+    {
+      "case_id": "BC1233",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "说谎",
+      "context": "第12卷中 鲁迪乌斯·格雷拉特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1235"
+      ]
+    },
+    {
+      "case_id": "BC1234",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "幽默",
+      "context": "第12卷中 塞妮丝·格雷拉特 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：塞妮丝·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1236"
+      ]
+    },
+    {
+      "case_id": "BC1235",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "愤怒",
+      "context": "第12卷中 保罗·格雷拉特 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：保罗·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1237"
+      ]
+    },
+    {
+      "case_id": "BC1236",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "恐惧",
+      "context": "第12卷中 鲁迪乌斯·格雷拉特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1238"
+      ]
+    },
+    {
+      "case_id": "BC1237",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "羞耻",
+      "context": "第12卷中 塞妮丝·格雷拉特 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：塞妮丝·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1239"
+      ]
+    },
+    {
+      "case_id": "BC1238",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "嫉妒",
+      "context": "第12卷中 保罗·格雷拉特 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：保罗·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1240"
+      ]
+    },
+    {
+      "case_id": "BC1239",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "幽默",
+      "context": "第12卷中 E0002 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1241"
+      ]
+    },
+    {
+      "case_id": "BC1240",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "戏弄",
+      "context": "第12卷中 E0003 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1242"
+      ]
+    },
+    {
+      "case_id": "BC1241",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "说谎",
+      "context": "第12卷中 E0001 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1243"
+      ]
+    },
+    {
+      "case_id": "BC1242",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "秘密",
+      "context": "第12卷中 E0002 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1244"
+      ]
+    },
+    {
+      "case_id": "BC1243",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "吸引",
+      "context": "第12卷中 E0003 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1245"
+      ]
+    },
+    {
+      "case_id": "BC1244",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "羞耻",
+      "context": "第12卷中 E0001 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1241"
+      ]
+    },
+    {
+      "case_id": "BC1245",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "幽默",
+      "context": "第12卷中 E0002 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1242"
+      ]
+    },
+    {
+      "case_id": "BC1246",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "戏弄",
+      "context": "第12卷中 E0003 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1243"
+      ]
+    },
+    {
+      "case_id": "BC1247",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "说谎",
+      "context": "第12卷中 E0001 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1244"
+      ]
+    },
+    {
+      "case_id": "BC1248",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "phase_name": "第12卷阶段2",
+      "volume_no": 12,
+      "situation_type": "秘密",
+      "context": "第12卷中 E0002 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1245"
+      ]
+    },
+    {
+      "case_id": "BC1249",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "phase_name": "第12卷阶段3",
+      "volume_no": 12,
+      "situation_type": "吸引",
+      "context": "第12卷中 E0003 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1241"
+      ]
+    },
+    {
+      "case_id": "BC1250",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "phase_name": "第12卷阶段1",
+      "volume_no": 12,
+      "situation_type": "羞耻",
+      "context": "第12卷中 E0001 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1242"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1614,6 +2559,468 @@
       "evidence_refs": [
         "EV1211"
       ]
+    },
+    {
+      "quirk_id": "QK1207",
+      "character_id": "E0005",
+      "phase_id": "phase-12-1",
+      "category": "经历",
+      "name": "洛琪希经历在转移迷宫中踩中转移",
+      "description": "基于原文事实：洛琪希 的 经历 为 在转移迷宫中踩中转移魔法阵陷阱而受困一个月。鲁迪乌斯的魔术老师，水圣级魔术师，在转移迷宫获救后向鲁迪乌斯告白。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在转移迷宫中踩中转移魔法阵陷阱而受困一个月"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在转移迷宫中踩中转移魔法阵陷阱而受困一个月",
+      "private_expression": "私下也保持在转移迷宫中踩中转移魔法阵陷阱而受困一个月",
+      "behavior_patterns": [
+        "因在转移迷宫中踩中转移魔法阵陷阱而受困一个月而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1231"
+      ]
+    },
+    {
+      "quirk_id": "QK1208",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "category": "经历",
+      "name": "塞妮丝·格雷拉特经历被封印在转移迷宫深处",
+      "description": "基于原文事实：塞妮丝·格雷拉特 的 经历 为 被封印在转移迷宫深处的魔力结晶中。鲁迪乌斯的母亲，获救后失去全部记忆。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被封印在转移迷宫深处的魔力结晶中"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被封印在转移迷宫深处的魔力结晶中",
+      "private_expression": "私下也保持被封印在转移迷宫深处的魔力结晶中",
+      "behavior_patterns": [
+        "因被封印在转移迷宫深处的魔力结晶中而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1232"
+      ]
+    },
+    {
+      "quirk_id": "QK1209",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "category": "经历",
+      "name": "保罗·格雷拉特经历在与魔石多头龙的战斗",
+      "description": "基于原文事实：保罗·格雷拉特 的 经历 为 在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲。鲁迪乌斯的父亲，在转移迷宫与魔石多头龙的战斗中牺牲。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲",
+      "private_expression": "私下也保持在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲",
+      "behavior_patterns": [
+        "因在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1233"
+      ]
+    },
+    {
+      "quirk_id": "QK1210",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "category": "经历",
+      "name": "塞妮丝·格雷拉特经历获救后失去全部记忆与",
+      "description": "基于原文事实：塞妮丝·格雷拉特 的 经历 为 获救后失去全部记忆与语言能力。鲁迪乌斯的母亲，获救后失去全部记忆。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及获救后失去全部记忆与语言能力"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出获救后失去全部记忆与语言能力",
+      "private_expression": "私下也保持获救后失去全部记忆与语言能力",
+      "behavior_patterns": [
+        "因获救后失去全部记忆与语言能力而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1234"
+      ]
+    },
+    {
+      "quirk_id": "QK1211",
+      "character_id": "E0005",
+      "phase_id": "phase-12-1",
+      "category": "经历",
+      "name": "洛琪希经历向陷入低潮的鲁迪乌斯",
+      "description": "基于原文事实：洛琪希 的 经历 为 向陷入低潮的鲁迪乌斯告白并发生关系。鲁迪乌斯的魔术老师，水圣级魔术师，在转移迷宫获救后向鲁迪乌斯告白。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及向陷入低潮的鲁迪乌斯告白并发生关系"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出向陷入低潮的鲁迪乌斯告白并发生关系",
+      "private_expression": "私下也保持向陷入低潮的鲁迪乌斯告白并发生关系",
+      "behavior_patterns": [
+        "因向陷入低潮的鲁迪乌斯告白并发生关系而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1235"
+      ]
+    },
+    {
+      "quirk_id": "QK1212",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历与洛琪希约定在归途期",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 与洛琪希约定在归途期间以恋人身分相处。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与洛琪希约定在归途期间以恋人身分相处"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与洛琪希约定在归途期间以恋人身分相处",
+      "private_expression": "私下也保持与洛琪希约定在归途期间以恋人身分相处",
+      "behavior_patterns": [
+        "因与洛琪希约定在归途期间以恋人身分相处而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1236"
+      ]
+    },
+    {
+      "quirk_id": "QK1213",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "category": "口头禅",
+      "name": "V12极详细怪癖1",
+      "description": "第12卷中 E0002 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1241"
+      ]
+    },
+    {
+      "quirk_id": "QK1214",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "category": "小动作",
+      "name": "V12极详细怪癖2",
+      "description": "第12卷中 E0003 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1242"
+      ]
+    },
+    {
+      "quirk_id": "QK1215",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "category": "收藏癖",
+      "name": "V12极详细怪癖3",
+      "description": "第12卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1243"
+      ]
+    },
+    {
+      "quirk_id": "QK1216",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "category": "羞耻表现",
+      "name": "V12极详细怪癖4",
+      "description": "第12卷中 E0002 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1244"
+      ]
+    },
+    {
+      "quirk_id": "QK1217",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "category": "紧张习惯",
+      "name": "V12极详细怪癖5",
+      "description": "第12卷中 E0003 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1245"
+      ]
+    },
+    {
+      "quirk_id": "QK1218",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "category": "私下低俗",
+      "name": "V12极详细怪癖6",
+      "description": "第12卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1241"
+      ]
     }
   ],
   "character_preferences": [
@@ -1717,6 +3124,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1216"
+      ]
+    },
+    {
+      "preference_id": "PF1207",
+      "character_id": "E0005",
+      "phase_id": "phase-12-1",
+      "preference_type": "LIKE",
+      "target": "在转移迷宫中踩中转移魔法阵陷阱而受困一个",
+      "description": "洛琪希 对 在转移迷宫中踩中转移魔法阵陷阱而受困一个月 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1234"
+      ]
+    },
+    {
+      "preference_id": "PF1208",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "preference_type": "LIKE",
+      "target": "被封印在转移迷宫深处的魔力结晶中",
+      "description": "塞妮丝·格雷拉特 对 被封印在转移迷宫深处的魔力结晶中 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1235"
+      ]
+    },
+    {
+      "preference_id": "PF1209",
+      "character_id": "E0002",
+      "phase_id": "phase-12-2",
+      "preference_type": "LIKE",
+      "target": "在与魔石多头龙的战斗中为保护鲁迪乌斯而牺",
+      "description": "保罗·格雷拉特 对 在与魔石多头龙的战斗中为保护鲁迪乌斯而牺牲 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1236"
+      ]
+    },
+    {
+      "preference_id": "PF1210",
+      "character_id": "E0003",
+      "phase_id": "phase-12-3",
+      "preference_type": "LIKE",
+      "target": "获救后失去全部记忆与语言能力",
+      "description": "塞妮丝·格雷拉特 对 获救后失去全部记忆与语言能力 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1237"
+      ]
+    },
+    {
+      "preference_id": "PF1211",
+      "character_id": "E0005",
+      "phase_id": "phase-12-1",
+      "preference_type": "LIKE",
+      "target": "向陷入低潮的鲁迪乌斯告白并发生关系",
+      "description": "洛琪希 对 向陷入低潮的鲁迪乌斯告白并发生关系 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1238"
+      ]
+    },
+    {
+      "preference_id": "PF1212",
+      "character_id": "E0001",
+      "phase_id": "phase-12-1",
+      "preference_type": "LIKE",
+      "target": "与洛琪希约定在归途期间以恋人身分相处",
+      "description": "鲁迪乌斯·格雷拉特 对 与洛琪希约定在归途期间以恋人身分相处 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1239"
       ]
     }
   ],

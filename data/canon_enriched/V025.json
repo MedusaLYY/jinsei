@@ -350,6 +350,160 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V25 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2531",
+      "volume_no": 25,
+      "unit_id": "U0428",
+      "chapter_title": "第四话「狂剑王vs前剑神」",
+      "source_start_line": 225670,
+      "source_end_line": 225672,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0110 死亡: 被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝"
+    },
+    {
+      "evidence_id": "EV2532",
+      "volume_no": 25,
+      "unit_id": "U0431",
+      "chapter_title": "第七话「亚历山大vs鲁迪乌斯」",
+      "source_start_line": 227666,
+      "source_end_line": 227668,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0162 死亡: 在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击"
+    },
+    {
+      "evidence_id": "EV2533",
+      "volume_no": 25,
+      "unit_id": "U0427",
+      "chapter_title": "第三话「有胜算」",
+      "source_start_line": 224892,
+      "source_end_line": 224894,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0162 身份: 北神卡尔曼三世，北神卡尔曼二世的儿子"
+    },
+    {
+      "evidence_id": "EV2534",
+      "volume_no": 25,
+      "unit_id": "U0432",
+      "chapter_title": "第八话「休息」",
+      "source_start_line": 228544,
+      "source_end_line": 228546,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0164 身份: 真实身份为北神卡尔曼二世亚历克斯·雷白克"
+    },
+    {
+      "evidence_id": "EV2535",
+      "volume_no": 25,
+      "unit_id": "U0433",
+      "chapter_title": "第九话「与鬼神和解」",
+      "source_start_line": 229606,
+      "source_end_line": 229608,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0113 身份: 人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠"
+    },
+    {
+      "evidence_id": "EV2536",
+      "volume_no": 25,
+      "unit_id": "U0428",
+      "chapter_title": "第25卷",
+      "source_start_line": 225310,
+      "source_end_line": 225312,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 剑神战: 艾莉丝与瑞杰路德联手斩杀剑神加尔·法利昂。"
+    },
+    {
+      "evidence_id": "EV2537",
+      "volume_no": 25,
+      "unit_id": "U0431",
+      "chapter_title": "第25卷",
+      "source_start_line": 227666,
+      "source_end_line": 227668,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 北神三世战: 鲁迪乌斯等人在斯佩路德村决战中击败北神卡尔曼三世亚历山大·雷白克。"
+    },
+    {
+      "evidence_id": "EV2538",
+      "volume_no": 25,
+      "unit_id": "U0433",
+      "chapter_title": "第25卷",
+      "source_start_line": 229370,
+      "source_end_line": 229372,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 鬼神和解: 阿托菲与香杜尔出使鬼岛，鬼神马尔塔承认受基斯蒙骗，与鲁迪乌斯阵营和解。"
+    },
+    {
+      "evidence_id": "EV2539",
+      "volume_no": 25,
+      "unit_id": "U0433",
+      "chapter_title": "第25卷",
+      "source_start_line": 229606,
+      "source_end_line": 229608,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 巴迪冈迪现身: 巴迪冈迪自称人神使徒身穿斗神铠现身，向鲁迪乌斯阵营宣战，并与北神卡尔曼二世提出决"
+    },
+    {
+      "evidence_id": "EV2540",
+      "volume_no": 25,
+      "unit_id": "U0425",
+      "chapter_title": "第一话「察觉异变之人」",
+      "source_start_line": 223082,
+      "source_end_line": 223083,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V25 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2541",
+      "volume_no": 25,
+      "unit_id": "U0426",
+      "chapter_title": "第二话「地龙之谷深处」",
+      "source_start_line": 223499,
+      "source_end_line": 223500,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V25 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2542",
+      "volume_no": 25,
+      "unit_id": "U0427",
+      "chapter_title": "第三话「有胜算」",
+      "source_start_line": 224364,
+      "source_end_line": 224365,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V25 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2543",
+      "volume_no": 25,
+      "unit_id": "U0428",
+      "chapter_title": "第四话「狂剑王vs前剑神」",
+      "source_start_line": 225197,
+      "source_end_line": 225198,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V25 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2544",
+      "volume_no": 25,
+      "unit_id": "U0429",
+      "chapter_title": "第五话「三世vs二世＋α」",
+      "source_start_line": 225748,
+      "source_end_line": 225749,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V25 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1117,6 +1271,786 @@
       "evidence_refs": [
         "EV2520"
       ]
+    },
+    {
+      "case_id": "BC2521",
+      "character_id": "E0021",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：剑神战 - 艾莉丝与瑞杰路德联手斩杀剑神加尔·法利昂。",
+      "trigger": "事件触发：剑神战",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·格雷拉特 在 剑神战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2531"
+      ]
+    },
+    {
+      "case_id": "BC2522",
+      "character_id": "E0031",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：剑神战 - 艾莉丝与瑞杰路德联手斩杀剑神加尔·法利昂。",
+      "trigger": "事件触发：剑神战",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 剑神战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2531"
+      ]
+    },
+    {
+      "case_id": "BC2523",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：北神三世战 - 鲁迪乌斯等人在斯佩路德村决战中击败北神卡尔曼三世亚历山大·雷白克。",
+      "trigger": "事件触发：北神三世战",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 北神三世战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2532"
+      ]
+    },
+    {
+      "case_id": "BC2524",
+      "character_id": "E0021",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：北神三世战 - 鲁迪乌斯等人在斯佩路德村决战中击败北神卡尔曼三世亚历山大·雷白克。",
+      "trigger": "事件触发：北神三世战",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·格雷拉特 在 北神三世战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2532"
+      ]
+    },
+    {
+      "case_id": "BC2525",
+      "character_id": "E0129",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：鬼神和解 - 阿托菲与香杜尔出使鬼岛，鬼神马尔塔承认受基斯蒙骗，与鲁迪乌斯阵营和解。",
+      "trigger": "事件触发：鬼神和解",
+      "available_information": "知道部分情况",
+      "action": "阿托菲 在 鬼神和解 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2533"
+      ]
+    },
+    {
+      "case_id": "BC2526",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：鬼神和解 - 阿托菲与香杜尔出使鬼岛，鬼神马尔塔承认受基斯蒙骗，与鲁迪乌斯阵营和解。",
+      "trigger": "事件触发：鬼神和解",
+      "available_information": "知道部分情况",
+      "action": "香杜尔·冯·格兰道尔 在 鬼神和解 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2533"
+      ]
+    },
+    {
+      "case_id": "BC2527",
+      "character_id": "E0113",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：巴迪冈迪现身 - 巴迪冈迪自称人神使徒身穿斗神铠现身，向鲁迪乌斯阵营宣战，并与北神卡尔曼二世提出决斗。",
+      "trigger": "事件触发：巴迪冈迪现身",
+      "available_information": "知道部分情况",
+      "action": "巴迪冈迪 在 巴迪冈迪现身 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2534"
+      ]
+    },
+    {
+      "case_id": "BC2528",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "家庭",
+      "context": "事件：巴迪冈迪现身 - 巴迪冈迪自称人神使徒身穿斗神铠现身，向鲁迪乌斯阵营宣战，并与北神卡尔曼二世提出决斗。",
+      "trigger": "事件触发：巴迪冈迪现身",
+      "available_information": "知道部分情况",
+      "action": "香杜尔·冯·格兰道尔 在 巴迪冈迪现身 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2534"
+      ]
+    },
+    {
+      "case_id": "BC2529",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "愤怒",
+      "context": "第25卷中 鬼神马尔塔 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鬼神马尔塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2531"
+      ]
+    },
+    {
+      "case_id": "BC2530",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "恐惧",
+      "context": "第25卷中 鲁迪乌斯·格雷拉特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2532"
+      ]
+    },
+    {
+      "case_id": "BC2531",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "羞耻",
+      "context": "第25卷中 香杜尔·冯·格兰道尔 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：香杜尔·冯·格兰道尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2533"
+      ]
+    },
+    {
+      "case_id": "BC2532",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "嫉妒",
+      "context": "第25卷中 鬼神马尔塔 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鬼神马尔塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2534"
+      ]
+    },
+    {
+      "case_id": "BC2533",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "说谎",
+      "context": "第25卷中 鲁迪乌斯·格雷拉特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2535"
+      ]
+    },
+    {
+      "case_id": "BC2534",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "幽默",
+      "context": "第25卷中 香杜尔·冯·格兰道尔 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：香杜尔·冯·格兰道尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2536"
+      ]
+    },
+    {
+      "case_id": "BC2535",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "愤怒",
+      "context": "第25卷中 鬼神马尔塔 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鬼神马尔塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2537"
+      ]
+    },
+    {
+      "case_id": "BC2536",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "恐惧",
+      "context": "第25卷中 鲁迪乌斯·格雷拉特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2538"
+      ]
+    },
+    {
+      "case_id": "BC2537",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "羞耻",
+      "context": "第25卷中 香杜尔·冯·格兰道尔 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：香杜尔·冯·格兰道尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2539"
+      ]
+    },
+    {
+      "case_id": "BC2538",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "嫉妒",
+      "context": "第25卷中 鬼神马尔塔 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鬼神马尔塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2531"
+      ]
+    },
+    {
+      "case_id": "BC2539",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "幽默",
+      "context": "第25卷中 E0165 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2540"
+      ]
+    },
+    {
+      "case_id": "BC2540",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "戏弄",
+      "context": "第25卷中 E0001 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2541"
+      ]
+    },
+    {
+      "case_id": "BC2541",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "说谎",
+      "context": "第25卷中 E0164 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2542"
+      ]
+    },
+    {
+      "case_id": "BC2542",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "秘密",
+      "context": "第25卷中 E0165 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2543"
+      ]
+    },
+    {
+      "case_id": "BC2543",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "吸引",
+      "context": "第25卷中 E0001 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2544"
+      ]
+    },
+    {
+      "case_id": "BC2544",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "羞耻",
+      "context": "第25卷中 E0164 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2540"
+      ]
+    },
+    {
+      "case_id": "BC2545",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "幽默",
+      "context": "第25卷中 E0165 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2541"
+      ]
+    },
+    {
+      "case_id": "BC2546",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "戏弄",
+      "context": "第25卷中 E0001 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2542"
+      ]
+    },
+    {
+      "case_id": "BC2547",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "说谎",
+      "context": "第25卷中 E0164 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2543"
+      ]
+    },
+    {
+      "case_id": "BC2548",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "phase_name": "第25卷阶段2",
+      "volume_no": 25,
+      "situation_type": "秘密",
+      "context": "第25卷中 E0165 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2544"
+      ]
+    },
+    {
+      "case_id": "BC2549",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "phase_name": "第25卷阶段3",
+      "volume_no": 25,
+      "situation_type": "吸引",
+      "context": "第25卷中 E0001 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2540"
+      ]
+    },
+    {
+      "case_id": "BC2550",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "phase_name": "第25卷阶段1",
+      "volume_no": 25,
+      "situation_type": "羞耻",
+      "context": "第25卷中 E0164 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2541"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1610,6 +2544,433 @@
       "evidence_refs": [
         "EV2511"
       ]
+    },
+    {
+      "quirk_id": "QK2507",
+      "character_id": "E0110",
+      "phase_id": "phase-25-1",
+      "category": "特征",
+      "name": "加尔·法利昂死亡被艾莉丝与瑞杰路德联",
+      "description": "基于原文事实：加尔·法利昂 的 死亡 为 被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝。前剑神，加入基斯阵营，在毕黑利尔决战中被艾莉丝与瑞杰路德斩杀。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝",
+      "private_expression": "私下也保持被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝",
+      "behavior_patterns": [
+        "因被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2531"
+      ]
+    },
+    {
+      "quirk_id": "QK2508",
+      "character_id": "E0162",
+      "phase_id": "phase-25-1",
+      "category": "特征",
+      "name": "亚历山大·雷白克死亡在毕黑利尔决战中被鲁",
+      "description": "基于原文事实：亚历山大·雷白克 的 死亡 为 在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击。北神卡尔曼三世，北神卡尔曼二世的儿子，在毕黑利尔决战中被鲁迪乌斯等人击败身亡。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击",
+      "private_expression": "私下也保持在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击",
+      "behavior_patterns": [
+        "因在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2532"
+      ]
+    },
+    {
+      "quirk_id": "QK2509",
+      "character_id": "E0162",
+      "phase_id": "phase-25-1",
+      "category": "身份",
+      "name": "亚历山大·雷白克身份北神卡尔曼三世，北神",
+      "description": "基于原文事实：亚历山大·雷白克 的 身份 为 北神卡尔曼三世，北神卡尔曼二世的儿子。北神卡尔曼三世，北神卡尔曼二世的儿子，在毕黑利尔决战中被鲁迪乌斯等人击败身亡。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及北神卡尔曼三世，北神卡尔曼二世的儿子"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出北神卡尔曼三世，北神卡尔曼二世的儿子",
+      "private_expression": "私下也保持北神卡尔曼三世，北神卡尔曼二世的儿子",
+      "behavior_patterns": [
+        "因北神卡尔曼三世，北神卡尔曼二世的儿子而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2533"
+      ]
+    },
+    {
+      "quirk_id": "QK2510",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "category": "身份",
+      "name": "香杜尔·冯·格兰道尔身份真实身份为北神卡尔曼",
+      "description": "基于原文事实：香杜尔·冯·格兰道尔 的 身份 为 真实身份为北神卡尔曼二世亚历克斯·雷白克。真实身份为北神卡尔曼二世亚历克斯·雷白克，随鲁迪乌斯行动并在毕黑利尔决战中与巴迪冈迪决斗。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及真实身份为北神卡尔曼二世亚历克斯·雷白克"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出真实身份为北神卡尔曼二世亚历克斯·雷白克",
+      "private_expression": "私下也保持真实身份为北神卡尔曼二世亚历克斯·雷白克",
+      "behavior_patterns": [
+        "因真实身份为北神卡尔曼二世亚历克斯·雷白克而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2534"
+      ]
+    },
+    {
+      "quirk_id": "QK2511",
+      "character_id": "E0113",
+      "phase_id": "phase-25-1",
+      "category": "身份",
+      "name": "巴迪冈迪身份人神的使徒，身穿拉普",
+      "description": "基于原文事实：巴迪冈迪 的 身份 为 人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠。不死身的魔王，阿托菲的弟弟，人神的使徒，身穿斗神铠现身。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠",
+      "private_expression": "私下也保持人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠",
+      "behavior_patterns": [
+        "因人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2535"
+      ]
+    },
+    {
+      "quirk_id": "QK2512",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "category": "口头禅",
+      "name": "V25极详细怪癖1",
+      "description": "第25卷中 E0165 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2540"
+      ]
+    },
+    {
+      "quirk_id": "QK2513",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "category": "小动作",
+      "name": "V25极详细怪癖2",
+      "description": "第25卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2541"
+      ]
+    },
+    {
+      "quirk_id": "QK2514",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "category": "收藏癖",
+      "name": "V25极详细怪癖3",
+      "description": "第25卷中 E0164 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2542"
+      ]
+    },
+    {
+      "quirk_id": "QK2515",
+      "character_id": "E0165",
+      "phase_id": "phase-25-2",
+      "category": "羞耻表现",
+      "name": "V25极详细怪癖4",
+      "description": "第25卷中 E0165 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2543"
+      ]
+    },
+    {
+      "quirk_id": "QK2516",
+      "character_id": "E0001",
+      "phase_id": "phase-25-3",
+      "category": "紧张习惯",
+      "name": "V25极详细怪癖5",
+      "description": "第25卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2544"
+      ]
+    },
+    {
+      "quirk_id": "QK2517",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "category": "私下低俗",
+      "name": "V25极详细怪癖6",
+      "description": "第25卷中 E0164 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2540"
+      ]
     }
   ],
   "character_preferences": [
@@ -1713,6 +3074,91 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV2516"
+      ]
+    },
+    {
+      "preference_id": "PF2507",
+      "character_id": "E0110",
+      "phase_id": "phase-25-1",
+      "preference_type": "LIKE",
+      "target": "被艾莉丝与瑞杰路德联手斩杀，临死前将自己",
+      "description": "加尔·法利昂 对 被艾莉丝与瑞杰路德联手斩杀，临死前将自己的爱剑交给艾莉丝 的偏好/特征，源自 死亡",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2534"
+      ]
+    },
+    {
+      "preference_id": "PF2508",
+      "character_id": "E0162",
+      "phase_id": "phase-25-1",
+      "preference_type": "LIKE",
+      "target": "在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷",
+      "description": "亚历山大·雷白克 对 在毕黑利尔决战中被鲁迪乌斯等人击败，坠谷后由鲁迪乌斯补上最后一击 的偏好/特征，源自 死亡",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2535"
+      ]
+    },
+    {
+      "preference_id": "PF2509",
+      "character_id": "E0162",
+      "phase_id": "phase-25-1",
+      "preference_type": "LIKE",
+      "target": "北神卡尔曼三世，北神卡尔曼二世的儿子",
+      "description": "亚历山大·雷白克 对 北神卡尔曼三世，北神卡尔曼二世的儿子 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2536"
+      ]
+    },
+    {
+      "preference_id": "PF2510",
+      "character_id": "E0164",
+      "phase_id": "phase-25-1",
+      "preference_type": "LIKE",
+      "target": "真实身份为北神卡尔曼二世亚历克斯·雷白克",
+      "description": "香杜尔·冯·格兰道尔 对 真实身份为北神卡尔曼二世亚历克斯·雷白克 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2537"
+      ]
+    },
+    {
+      "preference_id": "PF2511",
+      "character_id": "E0113",
+      "phase_id": "phase-25-1",
+      "preference_type": "LIKE",
+      "target": "人神的使徒，身穿拉普拉斯制作的最强铠甲斗",
+      "description": "巴迪冈迪 对 人神的使徒，身穿拉普拉斯制作的最强铠甲斗神铠 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 25,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2538"
       ]
     }
   ],

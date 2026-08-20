@@ -350,6 +350,171 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V24 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2431",
+      "volume_no": 24,
+      "unit_id": "U0412",
+      "chapter_title": "第四话「斯佩路德族的村落」",
+      "source_start_line": 217042,
+      "source_end_line": 217044,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 经历: 在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯"
+    },
+    {
+      "evidence_id": "EV2432",
+      "volume_no": 24,
+      "unit_id": "U0417",
+      "chapter_title": "闲话「毕塔与拉克萨斯」",
+      "source_start_line": 220646,
+      "source_end_line": 220648,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0161 经历: 受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德"
+    },
+    {
+      "evidence_id": "EV2433",
+      "volume_no": 24,
+      "unit_id": "U0413",
+      "chapter_title": "第五话「冥王毕塔」",
+      "source_start_line": 218378,
+      "source_end_line": 218380,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0161 经历: 被鲁迪乌斯以死神戒指击败"
+    },
+    {
+      "evidence_id": "EV2434",
+      "volume_no": 24,
+      "unit_id": "U0419",
+      "chapter_title": "第九话「四天三夜 斯佩路德村参观之旅」",
+      "source_start_line": 222108,
+      "source_end_line": 222110,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0162 经历: 与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底"
+    },
+    {
+      "evidence_id": "EV2435",
+      "volume_no": 24,
+      "unit_id": "U0419",
+      "chapter_title": "第九话「四天三夜 斯佩路德村参观之旅」",
+      "source_start_line": 222108,
+      "source_end_line": 222110,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0110 经历: 加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯"
+    },
+    {
+      "evidence_id": "EV2436",
+      "volume_no": 24,
+      "unit_id": "U0412",
+      "chapter_title": "第24卷",
+      "source_start_line": 216384,
+      "source_end_line": 216386,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 瑞杰路德重逢: 鲁迪乌斯在斯佩路德族村落与瑞杰路德重逢。"
+    },
+    {
+      "evidence_id": "EV2437",
+      "volume_no": 24,
+      "unit_id": "U0413",
+      "chapter_title": "第24卷",
+      "source_start_line": 218378,
+      "source_end_line": 218380,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 冥王毕塔之死: 冥王毕塔借操纵瑞杰路德转移入鲁迪乌斯体内，被死神戒指击败。"
+    },
+    {
+      "evidence_id": "EV2438",
+      "volume_no": 24,
+      "unit_id": "U0415",
+      "chapter_title": "第24卷",
+      "source_start_line": 219488,
+      "source_end_line": 219490,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 斯佩路德族疫病治愈: 克里夫查明斯佩路德族疫病源于食物与饮水并治愈全族。"
+    },
+    {
+      "evidence_id": "EV2439",
+      "volume_no": 24,
+      "unit_id": "U0419",
+      "chapter_title": "第24卷",
+      "source_start_line": 222108,
+      "source_end_line": 222110,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 桥上的袭击: 加尔·法利昂与北神卡尔曼三世在斯佩路德村外的桥上袭击鲁迪乌斯，将其打入谷底。"
+    },
+    {
+      "evidence_id": "EV2440",
+      "volume_no": 24,
+      "unit_id": "U0420",
+      "chapter_title": "第24卷",
+      "source_start_line": 222336,
+      "source_end_line": 222338,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 转移魔法阵失效: 鲁迪乌斯设置的所有转移魔法阵与通讯石板停止运作，鲁迪乌斯下落不明。"
+    },
+    {
+      "evidence_id": "EV2441",
+      "volume_no": 24,
+      "unit_id": "U0409",
+      "chapter_title": "第一话「作战会议」",
+      "source_start_line": 214090,
+      "source_end_line": 214091,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2442",
+      "volume_no": 24,
+      "unit_id": "U0410",
+      "chapter_title": "第二话「寻找追求之物」",
+      "source_start_line": 214877,
+      "source_end_line": 214878,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2443",
+      "volume_no": 24,
+      "unit_id": "U0411",
+      "chapter_title": "第三话「寻寻觅觅之人」",
+      "source_start_line": 215616,
+      "source_end_line": 215617,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2444",
+      "volume_no": 24,
+      "unit_id": "U0412",
+      "chapter_title": "第四话「斯佩路德族的村落」",
+      "source_start_line": 216267,
+      "source_end_line": 216268,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2445",
+      "volume_no": 24,
+      "unit_id": "U0413",
+      "chapter_title": "第五话「冥王毕塔」",
+      "source_start_line": 217170,
+      "source_end_line": 217171,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V24 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1117,6 +1282,812 @@
       "evidence_refs": [
         "EV2420"
       ]
+    },
+    {
+      "case_id": "BC2421",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：瑞杰路德重逢 - 鲁迪乌斯在斯佩路德族村落与瑞杰路德重逢。",
+      "trigger": "事件触发：瑞杰路德重逢",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 瑞杰路德重逢 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2431"
+      ]
+    },
+    {
+      "case_id": "BC2422",
+      "character_id": "E0031",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：瑞杰路德重逢 - 鲁迪乌斯在斯佩路德族村落与瑞杰路德重逢。",
+      "trigger": "事件触发：瑞杰路德重逢",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 瑞杰路德重逢 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2431"
+      ]
+    },
+    {
+      "case_id": "BC2423",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：冥王毕塔之死 - 冥王毕塔借操纵瑞杰路德转移入鲁迪乌斯体内，被死神戒指击败。",
+      "trigger": "事件触发：冥王毕塔之死",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 冥王毕塔之死 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2432"
+      ]
+    },
+    {
+      "case_id": "BC2424",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：冥王毕塔之死 - 冥王毕塔借操纵瑞杰路德转移入鲁迪乌斯体内，被死神戒指击败。",
+      "trigger": "事件触发：冥王毕塔之死",
+      "available_information": "知道部分情况",
+      "action": "冥王毕塔 在 冥王毕塔之死 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2432"
+      ]
+    },
+    {
+      "case_id": "BC2425",
+      "character_id": "E0065",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：斯佩路德族疫病治愈 - 克里夫查明斯佩路德族疫病源于食物与饮水并治愈全族。",
+      "trigger": "事件触发：斯佩路德族疫病治愈",
+      "available_information": "知道部分情况",
+      "action": "克里夫·格利摩尔 在 斯佩路德族疫病治愈 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2433"
+      ]
+    },
+    {
+      "case_id": "BC2426",
+      "character_id": "E0031",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：斯佩路德族疫病治愈 - 克里夫查明斯佩路德族疫病源于食物与饮水并治愈全族。",
+      "trigger": "事件触发：斯佩路德族疫病治愈",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 斯佩路德族疫病治愈 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2433"
+      ]
+    },
+    {
+      "case_id": "BC2427",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：桥上的袭击 - 加尔·法利昂与北神卡尔曼三世在斯佩路德村外的桥上袭击鲁迪乌斯，将其打入谷底。",
+      "trigger": "事件触发：桥上的袭击",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 桥上的袭击 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2434"
+      ]
+    },
+    {
+      "case_id": "BC2428",
+      "character_id": "E0110",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "家庭",
+      "context": "事件：桥上的袭击 - 加尔·法利昂与北神卡尔曼三世在斯佩路德村外的桥上袭击鲁迪乌斯，将其打入谷底。",
+      "trigger": "事件触发：桥上的袭击",
+      "available_information": "知道部分情况",
+      "action": "加尔·法利昂 在 桥上的袭击 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2434"
+      ]
+    },
+    {
+      "case_id": "BC2429",
+      "character_id": "E0001",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "危险",
+      "context": "事件：转移魔法阵失效 - 鲁迪乌斯设置的所有转移魔法阵与通讯石板停止运作，鲁迪乌斯下落不明。",
+      "trigger": "事件触发：转移魔法阵失效",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 转移魔法阵失效 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV2435"
+      ]
+    },
+    {
+      "case_id": "BC2430",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "愤怒",
+      "context": "第24卷中 冥王毕塔 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：冥王毕塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2431"
+      ]
+    },
+    {
+      "case_id": "BC2431",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "恐惧",
+      "context": "第24卷中 法莉亚斯缇雅 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：法莉亚斯缇雅 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2432"
+      ]
+    },
+    {
+      "case_id": "BC2432",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "羞耻",
+      "context": "第24卷中 亚历山大·雷白克 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：亚历山大·雷白克 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2433"
+      ]
+    },
+    {
+      "case_id": "BC2433",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "嫉妒",
+      "context": "第24卷中 冥王毕塔 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：冥王毕塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2434"
+      ]
+    },
+    {
+      "case_id": "BC2434",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "说谎",
+      "context": "第24卷中 法莉亚斯缇雅 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：法莉亚斯缇雅 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2435"
+      ]
+    },
+    {
+      "case_id": "BC2435",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "幽默",
+      "context": "第24卷中 亚历山大·雷白克 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：亚历山大·雷白克 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2436"
+      ]
+    },
+    {
+      "case_id": "BC2436",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "愤怒",
+      "context": "第24卷中 冥王毕塔 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：冥王毕塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2437"
+      ]
+    },
+    {
+      "case_id": "BC2437",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "恐惧",
+      "context": "第24卷中 法莉亚斯缇雅 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：法莉亚斯缇雅 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2438"
+      ]
+    },
+    {
+      "case_id": "BC2438",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "羞耻",
+      "context": "第24卷中 亚历山大·雷白克 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：亚历山大·雷白克 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2439"
+      ]
+    },
+    {
+      "case_id": "BC2439",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "嫉妒",
+      "context": "第24卷中 冥王毕塔 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：冥王毕塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2440"
+      ]
+    },
+    {
+      "case_id": "BC2440",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "幽默",
+      "context": "第24卷中 E0163 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2441"
+      ]
+    },
+    {
+      "case_id": "BC2441",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "戏弄",
+      "context": "第24卷中 E0161 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2442"
+      ]
+    },
+    {
+      "case_id": "BC2442",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "说谎",
+      "context": "第24卷中 E0162 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2443"
+      ]
+    },
+    {
+      "case_id": "BC2443",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "秘密",
+      "context": "第24卷中 E0163 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2444"
+      ]
+    },
+    {
+      "case_id": "BC2444",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "吸引",
+      "context": "第24卷中 E0161 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2445"
+      ]
+    },
+    {
+      "case_id": "BC2445",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "羞耻",
+      "context": "第24卷中 E0162 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2441"
+      ]
+    },
+    {
+      "case_id": "BC2446",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "幽默",
+      "context": "第24卷中 E0163 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2442"
+      ]
+    },
+    {
+      "case_id": "BC2447",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "戏弄",
+      "context": "第24卷中 E0161 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2443"
+      ]
+    },
+    {
+      "case_id": "BC2448",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "说谎",
+      "context": "第24卷中 E0162 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2444"
+      ]
+    },
+    {
+      "case_id": "BC2449",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "phase_name": "第24卷阶段3",
+      "volume_no": 24,
+      "situation_type": "秘密",
+      "context": "第24卷中 E0163 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2445"
+      ]
+    },
+    {
+      "case_id": "BC2450",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "phase_name": "第24卷阶段1",
+      "volume_no": 24,
+      "situation_type": "吸引",
+      "context": "第24卷中 E0161 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2441"
+      ]
+    },
+    {
+      "case_id": "BC2451",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "phase_name": "第24卷阶段2",
+      "volume_no": 24,
+      "situation_type": "羞耻",
+      "context": "第24卷中 E0162 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2442"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1610,6 +2581,433 @@
       "evidence_refs": [
         "EV2411"
       ]
+    },
+    {
+      "quirk_id": "QK2407",
+      "character_id": "E0031",
+      "phase_id": "phase-24-1",
+      "category": "经历",
+      "name": "瑞杰路德·斯佩路迪亚经历在斯佩路德族村落与鲁",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 经历 为 在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯。斯佩路德族，鲁迪乌斯的恩人，在毕黑利尔王国的斯佩路德族村落定居，重新加入鲁迪乌斯阵营。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯",
+      "private_expression": "私下也保持在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯",
+      "behavior_patterns": [
+        "因在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2431"
+      ]
+    },
+    {
+      "quirk_id": "QK2408",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "category": "经历",
+      "name": "冥王毕塔经历受基斯指使潜入斯佩路",
+      "description": "基于原文事实：冥王毕塔 的 经历 为 受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德。天大陆迷宫地狱的凶恶黏族之王，受基斯指使向斯佩路德族散布疫病，被鲁迪乌斯以死神戒指击败。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德",
+      "private_expression": "私下也保持受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德",
+      "behavior_patterns": [
+        "因受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2432"
+      ]
+    },
+    {
+      "quirk_id": "QK2409",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "category": "经历",
+      "name": "冥王毕塔经历被鲁迪乌斯以死神戒指",
+      "description": "基于原文事实：冥王毕塔 的 经历 为 被鲁迪乌斯以死神戒指击败。天大陆迷宫地狱的凶恶黏族之王，受基斯指使向斯佩路德族散布疫病，被鲁迪乌斯以死神戒指击败。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被鲁迪乌斯以死神戒指击败"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被鲁迪乌斯以死神戒指击败",
+      "private_expression": "私下也保持被鲁迪乌斯以死神戒指击败",
+      "behavior_patterns": [
+        "因被鲁迪乌斯以死神戒指击败而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2433"
+      ]
+    },
+    {
+      "quirk_id": "QK2410",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "category": "经历",
+      "name": "亚历山大·雷白克经历与加尔·法利昂一同在",
+      "description": "基于原文事实：亚历山大·雷白克 的 经历 为 与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底。北神卡尔曼三世，与加尔·法利昂一同袭击鲁迪乌斯。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底",
+      "private_expression": "私下也保持与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底",
+      "behavior_patterns": [
+        "因与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2434"
+      ]
+    },
+    {
+      "quirk_id": "QK2411",
+      "character_id": "E0110",
+      "phase_id": "phase-24-1",
+      "category": "经历",
+      "name": "加尔·法利昂经历加入基斯阵营，与亚历",
+      "description": "基于原文事实：加尔·法利昂 的 经历 为 加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯。前剑神，加入基斯阵营，与亚历山大一同袭击鲁迪乌斯。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯",
+      "private_expression": "私下也保持加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯",
+      "behavior_patterns": [
+        "因加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2435"
+      ]
+    },
+    {
+      "quirk_id": "QK2412",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "category": "口头禅",
+      "name": "V24极详细怪癖1",
+      "description": "第24卷中 E0163 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2441"
+      ]
+    },
+    {
+      "quirk_id": "QK2413",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "category": "小动作",
+      "name": "V24极详细怪癖2",
+      "description": "第24卷中 E0161 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2442"
+      ]
+    },
+    {
+      "quirk_id": "QK2414",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "category": "收藏癖",
+      "name": "V24极详细怪癖3",
+      "description": "第24卷中 E0162 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2443"
+      ]
+    },
+    {
+      "quirk_id": "QK2415",
+      "character_id": "E0163",
+      "phase_id": "phase-24-3",
+      "category": "羞耻表现",
+      "name": "V24极详细怪癖4",
+      "description": "第24卷中 E0163 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2444"
+      ]
+    },
+    {
+      "quirk_id": "QK2416",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "category": "紧张习惯",
+      "name": "V24极详细怪癖5",
+      "description": "第24卷中 E0161 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2445"
+      ]
+    },
+    {
+      "quirk_id": "QK2417",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "category": "私下低俗",
+      "name": "V24极详细怪癖6",
+      "description": "第24卷中 E0162 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2441"
+      ]
     }
   ],
   "character_preferences": [
@@ -1713,6 +3111,91 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV2416"
+      ]
+    },
+    {
+      "preference_id": "PF2407",
+      "character_id": "E0031",
+      "phase_id": "phase-24-1",
+      "preference_type": "LIKE",
+      "target": "在斯佩路德族村落与鲁迪乌斯重逢，加入其阵",
+      "description": "瑞杰路德·斯佩路迪亚 对 在斯佩路德族村落与鲁迪乌斯重逢，加入其阵营对抗基斯 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2434"
+      ]
+    },
+    {
+      "preference_id": "PF2408",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "preference_type": "LIKE",
+      "target": "受基斯指使潜入斯佩路德族村落散布疫病并操",
+      "description": "冥王毕塔 对 受基斯指使潜入斯佩路德族村落散布疫病并操纵瑞杰路德 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2435"
+      ]
+    },
+    {
+      "preference_id": "PF2409",
+      "character_id": "E0161",
+      "phase_id": "phase-24-1",
+      "preference_type": "LIKE",
+      "target": "被鲁迪乌斯以死神戒指击败",
+      "description": "冥王毕塔 对 被鲁迪乌斯以死神戒指击败 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2436"
+      ]
+    },
+    {
+      "preference_id": "PF2410",
+      "character_id": "E0162",
+      "phase_id": "phase-24-2",
+      "preference_type": "LIKE",
+      "target": "与加尔·法利昂一同在桥上袭击鲁迪乌斯，将",
+      "description": "亚历山大·雷白克 对 与加尔·法利昂一同在桥上袭击鲁迪乌斯，将其打入谷底 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2437"
+      ]
+    },
+    {
+      "preference_id": "PF2411",
+      "character_id": "E0110",
+      "phase_id": "phase-24-1",
+      "preference_type": "LIKE",
+      "target": "加入基斯阵营，与亚历山大·雷白克一同袭击",
+      "description": "加尔·法利昂 对 加入基斯阵营，与亚历山大·雷白克一同袭击鲁迪乌斯 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 24,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2438"
       ]
     }
   ],

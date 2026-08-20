@@ -353,6 +353,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V10 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1031",
+      "volume_no": 10,
+      "unit_id": "U0175",
+      "chapter_title": "第一话「后盾」",
+      "source_start_line": 88100,
+      "source_end_line": 88102,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 与希露菲结婚"
+    },
+    {
+      "evidence_id": "EV1032",
+      "volume_no": 10,
+      "unit_id": "U0175",
+      "chapter_title": "第一话「后盾」",
+      "source_start_line": 88100,
+      "source_end_line": 88102,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 经历: 恢复女性身分，不再女扮男装"
+    },
+    {
+      "evidence_id": "EV1033",
+      "volume_no": 10,
+      "unit_id": "U0181",
+      "chapter_title": "第七话「婚宴．结束」",
+      "source_start_line": 92556,
+      "source_end_line": 92558,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0104 身份: 希露菲的祖母"
+    },
+    {
+      "evidence_id": "EV1034",
+      "volume_no": 10,
+      "unit_id": "U0188",
+      "chapter_title": "外传「守护小孩的高手」",
+      "source_start_line": 96076,
+      "source_end_line": 96078,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0003 经历: 身在贝卡利特大陆的迷宫都市拉庞"
+    },
+    {
+      "evidence_id": "EV1035",
+      "volume_no": 10,
+      "unit_id": "U0185",
+      "chapter_title": "第十一话「三个臭皮匠胜过一个诸葛亮」",
+      "source_start_line": 94782,
+      "source_end_line": 94784,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 与爱夏一同被送到鲁迪乌斯身边"
+    },
+    {
+      "evidence_id": "EV1036",
+      "volume_no": 10,
+      "unit_id": "U0185",
+      "chapter_title": "第十一话「三个臭皮匠胜过一个诸葛亮」",
+      "source_start_line": 94782,
+      "source_end_line": 94784,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0008 经历: 与诺伦一同被送到鲁迪乌斯身边"
+    },
+    {
+      "evidence_id": "EV1037",
+      "volume_no": 10,
+      "unit_id": "U0186",
+      "chapter_title": "第十二话「怀念与懊悔」",
+      "source_start_line": 95010,
+      "source_end_line": 95012,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 经历: 自愿担任诺伦与爱夏的护卫"
+    },
+    {
+      "evidence_id": "EV1038",
+      "volume_no": 10,
+      "unit_id": "U0184",
+      "chapter_title": "第十话「崩坏」",
+      "source_start_line": 93814,
+      "source_end_line": 93816,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0108 经历: 转移实验失败后情绪失控"
+    },
+    {
+      "evidence_id": "EV1039",
+      "volume_no": 10,
+      "unit_id": "U0187",
+      "chapter_title": "间话「研磨利牙」",
+      "source_start_line": 95980,
+      "source_end_line": 95982,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 经历: 在剑之圣地修行并获得北圣认可"
+    },
+    {
+      "evidence_id": "EV1040",
+      "volume_no": 10,
+      "unit_id": "U0187",
+      "chapter_title": "间话「研磨利牙」",
+      "source_start_line": 95980,
+      "source_end_line": 95982,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0115 身份: 北神流的北帝"
+    },
+    {
+      "evidence_id": "EV1041",
+      "volume_no": 10,
+      "unit_id": "U0180",
+      "chapter_title": "第10卷",
+      "source_start_line": 91238,
+      "source_end_line": 91240,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 婚宴: 鲁迪乌斯与希露菲在鲁迪乌斯宅举办婚宴，魔王巴迪冈迪、爱丽儿一行等宾客出席。"
+    },
+    {
+      "evidence_id": "EV1042",
+      "volume_no": 10,
+      "unit_id": "U0181",
+      "chapter_title": "第10卷",
+      "source_start_line": 92218,
+      "source_end_line": 92220,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 路克决斗: 路克在爱丽儿见证下与鲁迪乌斯决斗以确认其实力，鲁迪乌斯一招取胜。"
+    },
+    {
+      "evidence_id": "EV1043",
+      "volume_no": 10,
+      "unit_id": "U0184",
+      "chapter_title": "第10卷",
+      "source_start_line": 93586,
+      "source_end_line": 93588,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 七星实验失败: 七星在魔法大学进行的转移召唤实验失败，引发骚动。"
+    },
+    {
+      "evidence_id": "EV1044",
+      "volume_no": 10,
+      "unit_id": "U0185",
+      "chapter_title": "第10卷",
+      "source_start_line": 94782,
+      "source_end_line": 94784,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 妹妹们到来: 瑞杰路德护送诺伦与爱夏抵达鲁迪乌斯家。"
+    },
+    {
+      "evidence_id": "EV1045",
+      "volume_no": 10,
+      "unit_id": "U0175",
+      "chapter_title": "第一话「后盾」",
+      "source_start_line": 87532,
+      "source_end_line": 87533,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1046",
+      "volume_no": 10,
+      "unit_id": "U0176",
+      "chapter_title": "第二话「结婚前需要准备的东西 前篇」",
+      "source_start_line": 88229,
+      "source_end_line": 88230,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1047",
+      "volume_no": 10,
+      "unit_id": "U0177",
+      "chapter_title": "第三话「结婚前需要准备的东西 后篇」",
+      "source_start_line": 88996,
+      "source_end_line": 88997,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1048",
+      "volume_no": 10,
+      "unit_id": "U0178",
+      "chapter_title": "第四话「叩人心弦」",
+      "source_start_line": 89851,
+      "source_end_line": 89852,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1049",
+      "volume_no": 10,
+      "unit_id": "U0179",
+      "chapter_title": "第五话「婚宴．准备」",
+      "source_start_line": 90606,
+      "source_end_line": 90607,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V10 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1120,6 +1329,786 @@
       "evidence_refs": [
         "EV1020"
       ]
+    },
+    {
+      "case_id": "BC1021",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "公开场合",
+      "context": "事件：婚宴 - 鲁迪乌斯与希露菲在鲁迪乌斯宅举办婚宴，魔王巴迪冈迪、爱丽儿一行等宾客出席。",
+      "trigger": "事件触发：婚宴",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 婚宴 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1031"
+      ]
+    },
+    {
+      "case_id": "BC1022",
+      "character_id": "E0006",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "公开场合",
+      "context": "事件：婚宴 - 鲁迪乌斯与希露菲在鲁迪乌斯宅举办婚宴，魔王巴迪冈迪、爱丽儿一行等宾客出席。",
+      "trigger": "事件触发：婚宴",
+      "available_information": "知道部分情况",
+      "action": "希露菲叶特 在 婚宴 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1031"
+      ]
+    },
+    {
+      "case_id": "BC1023",
+      "character_id": "E0045",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "家庭",
+      "context": "事件：路克决斗 - 路克在爱丽儿见证下与鲁迪乌斯决斗以确认其实力，鲁迪乌斯一招取胜。",
+      "trigger": "事件触发：路克决斗",
+      "available_information": "知道部分情况",
+      "action": "路克·诺托斯·格雷拉特 在 路克决斗 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1032"
+      ]
+    },
+    {
+      "case_id": "BC1024",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "家庭",
+      "context": "事件：路克决斗 - 路克在爱丽儿见证下与鲁迪乌斯决斗以确认其实力，鲁迪乌斯一招取胜。",
+      "trigger": "事件触发：路克决斗",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 路克决斗 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1032"
+      ]
+    },
+    {
+      "case_id": "BC1025",
+      "character_id": "E0108",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "家庭",
+      "context": "事件：七星实验失败 - 七星在魔法大学进行的转移召唤实验失败，引发骚动。",
+      "trigger": "事件触发：七星实验失败",
+      "available_information": "知道部分情况",
+      "action": "七星 在 七星实验失败 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1033"
+      ]
+    },
+    {
+      "case_id": "BC1026",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "家庭",
+      "context": "事件：七星实验失败 - 七星在魔法大学进行的转移召唤实验失败，引发骚动。",
+      "trigger": "事件触发：七星实验失败",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 七星实验失败 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1033"
+      ]
+    },
+    {
+      "case_id": "BC1027",
+      "character_id": "E0007",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "家庭",
+      "context": "事件：妹妹们到来 - 瑞杰路德护送诺伦与爱夏抵达鲁迪乌斯家。",
+      "trigger": "事件触发：妹妹们到来",
+      "available_information": "知道部分情况",
+      "action": "诺伦 在 妹妹们到来 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1034"
+      ]
+    },
+    {
+      "case_id": "BC1028",
+      "character_id": "E0008",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "家庭",
+      "context": "事件：妹妹们到来 - 瑞杰路德护送诺伦与爱夏抵达鲁迪乌斯家。",
+      "trigger": "事件触发：妹妹们到来",
+      "available_information": "知道部分情况",
+      "action": "爱夏 在 妹妹们到来 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1034"
+      ]
+    },
+    {
+      "case_id": "BC1029",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "愤怒",
+      "context": "第10卷中 雪拉 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雪拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1031"
+      ]
+    },
+    {
+      "case_id": "BC1030",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "恐惧",
+      "context": "第10卷中 奥贝尔 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥贝尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1032"
+      ]
+    },
+    {
+      "case_id": "BC1031",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "羞耻",
+      "context": "第10卷中 巴尔达 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴尔达 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1033"
+      ]
+    },
+    {
+      "case_id": "BC1032",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "嫉妒",
+      "context": "第10卷中 雪拉 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雪拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1034"
+      ]
+    },
+    {
+      "case_id": "BC1033",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "说谎",
+      "context": "第10卷中 奥贝尔 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥贝尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1035"
+      ]
+    },
+    {
+      "case_id": "BC1034",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "幽默",
+      "context": "第10卷中 巴尔达 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴尔达 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1036"
+      ]
+    },
+    {
+      "case_id": "BC1035",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "愤怒",
+      "context": "第10卷中 雪拉 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雪拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1037"
+      ]
+    },
+    {
+      "case_id": "BC1036",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "恐惧",
+      "context": "第10卷中 奥贝尔 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥贝尔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1038"
+      ]
+    },
+    {
+      "case_id": "BC1037",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "羞耻",
+      "context": "第10卷中 巴尔达 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴尔达 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1039"
+      ]
+    },
+    {
+      "case_id": "BC1038",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "嫉妒",
+      "context": "第10卷中 雪拉 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雪拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1040"
+      ]
+    },
+    {
+      "case_id": "BC1039",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "幽默",
+      "context": "第10卷中 E0115 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1045"
+      ]
+    },
+    {
+      "case_id": "BC1040",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "戏弄",
+      "context": "第10卷中 E0114 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1046"
+      ]
+    },
+    {
+      "case_id": "BC1041",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "说谎",
+      "context": "第10卷中 E0117 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1047"
+      ]
+    },
+    {
+      "case_id": "BC1042",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "秘密",
+      "context": "第10卷中 E0115 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1048"
+      ]
+    },
+    {
+      "case_id": "BC1043",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "吸引",
+      "context": "第10卷中 E0114 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1049"
+      ]
+    },
+    {
+      "case_id": "BC1044",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "羞耻",
+      "context": "第10卷中 E0117 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1045"
+      ]
+    },
+    {
+      "case_id": "BC1045",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "幽默",
+      "context": "第10卷中 E0115 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1046"
+      ]
+    },
+    {
+      "case_id": "BC1046",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "戏弄",
+      "context": "第10卷中 E0114 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1047"
+      ]
+    },
+    {
+      "case_id": "BC1047",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "说谎",
+      "context": "第10卷中 E0117 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1048"
+      ]
+    },
+    {
+      "case_id": "BC1048",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "phase_name": "第10卷阶段2",
+      "volume_no": 10,
+      "situation_type": "秘密",
+      "context": "第10卷中 E0115 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1049"
+      ]
+    },
+    {
+      "case_id": "BC1049",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "phase_name": "第10卷阶段1",
+      "volume_no": 10,
+      "situation_type": "吸引",
+      "context": "第10卷中 E0114 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1045"
+      ]
+    },
+    {
+      "case_id": "BC1050",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "phase_name": "第10卷阶段3",
+      "volume_no": 10,
+      "situation_type": "羞耻",
+      "context": "第10卷中 E0117 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1046"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1613,6 +2602,538 @@
       "evidence_refs": [
         "EV1011"
       ]
+    },
+    {
+      "quirk_id": "QK1007",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历与希露菲结婚",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 与希露菲结婚。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与希露菲结婚"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与希露菲结婚",
+      "private_expression": "私下也保持与希露菲结婚",
+      "behavior_patterns": [
+        "因与希露菲结婚而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1031"
+      ]
+    },
+    {
+      "quirk_id": "QK1008",
+      "character_id": "E0061",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "菲兹经历恢复女性身分，不再女",
+      "description": "基于原文事实：菲兹 的 经历 为 恢复女性身分，不再女扮男装。爱丽儿的护卫，真实身分为女扮男装的希露菲叶特。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及恢复女性身分，不再女扮男装"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出恢复女性身分，不再女扮男装",
+      "private_expression": "私下也保持恢复女性身分，不再女扮男装",
+      "behavior_patterns": [
+        "因恢复女性身分，不再女扮男装而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1032"
+      ]
+    },
+    {
+      "quirk_id": "QK1009",
+      "character_id": "E0104",
+      "phase_id": "phase-10-1",
+      "category": "身份",
+      "name": "艾莉娜丽洁·杜拉冈罗德身份希露菲的祖母",
+      "description": "基于原文事实：艾莉娜丽洁·杜拉冈罗德 的 身份 为 希露菲的祖母。长耳族的冒险者，希露菲的祖母。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及希露菲的祖母"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出希露菲的祖母",
+      "private_expression": "私下也保持希露菲的祖母",
+      "behavior_patterns": [
+        "因希露菲的祖母而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1033"
+      ]
+    },
+    {
+      "quirk_id": "QK1010",
+      "character_id": "E0003",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "塞妮丝·格雷拉特经历身在贝卡利特大陆的迷",
+      "description": "基于原文事实：塞妮丝·格雷拉特 的 经历 为 身在贝卡利特大陆的迷宫都市拉庞。鲁迪乌斯的母亲，被确认身在贝卡利特大陆。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及身在贝卡利特大陆的迷宫都市拉庞"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出身在贝卡利特大陆的迷宫都市拉庞",
+      "private_expression": "私下也保持身在贝卡利特大陆的迷宫都市拉庞",
+      "behavior_patterns": [
+        "因身在贝卡利特大陆的迷宫都市拉庞而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1034"
+      ]
+    },
+    {
+      "quirk_id": "QK1011",
+      "character_id": "E0007",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "诺伦经历与爱夏一同被送到鲁迪",
+      "description": "基于原文事实：诺伦 的 经历 为 与爱夏一同被送到鲁迪乌斯身边。保罗与塞妮丝的女儿，鲁迪乌斯的妹妹。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与爱夏一同被送到鲁迪乌斯身边"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与爱夏一同被送到鲁迪乌斯身边",
+      "private_expression": "私下也保持与爱夏一同被送到鲁迪乌斯身边",
+      "behavior_patterns": [
+        "因与爱夏一同被送到鲁迪乌斯身边而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1035"
+      ]
+    },
+    {
+      "quirk_id": "QK1012",
+      "character_id": "E0008",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "爱夏经历与诺伦一同被送到鲁迪",
+      "description": "基于原文事实：爱夏 的 经历 为 与诺伦一同被送到鲁迪乌斯身边。保罗与莉莉雅的女儿，鲁迪乌斯的妹妹，天才少女。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与诺伦一同被送到鲁迪乌斯身边"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与诺伦一同被送到鲁迪乌斯身边",
+      "private_expression": "私下也保持与诺伦一同被送到鲁迪乌斯身边",
+      "behavior_patterns": [
+        "因与诺伦一同被送到鲁迪乌斯身边而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1036"
+      ]
+    },
+    {
+      "quirk_id": "QK1013",
+      "character_id": "E0031",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "瑞杰路德·斯佩路迪亚经历自愿担任诺伦与爱夏的",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 经历 为 自愿担任诺伦与爱夏的护卫。斯佩路德族战士，护送诺伦与爱夏前往鲁迪乌斯处。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及自愿担任诺伦与爱夏的护卫"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出自愿担任诺伦与爱夏的护卫",
+      "private_expression": "私下也保持自愿担任诺伦与爱夏的护卫",
+      "behavior_patterns": [
+        "因自愿担任诺伦与爱夏的护卫而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1037"
+      ]
+    },
+    {
+      "quirk_id": "QK1014",
+      "character_id": "E0108",
+      "phase_id": "phase-10-1",
+      "category": "经历",
+      "name": "七星经历转移实验失败后情绪失",
+      "description": "基于原文事实：七星 的 经历 为 转移实验失败后情绪失控。来自鲁迪乌斯前世的穿越者，进行转移魔法阵研究。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移实验失败后情绪失控"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移实验失败后情绪失控",
+      "private_expression": "私下也保持转移实验失败后情绪失控",
+      "behavior_patterns": [
+        "因转移实验失败后情绪失控而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1038"
+      ]
+    },
+    {
+      "quirk_id": "QK1015",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "category": "口头禅",
+      "name": "V10极详细怪癖1",
+      "description": "第10卷中 E0115 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1045"
+      ]
+    },
+    {
+      "quirk_id": "QK1016",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "category": "小动作",
+      "name": "V10极详细怪癖2",
+      "description": "第10卷中 E0114 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1046"
+      ]
+    },
+    {
+      "quirk_id": "QK1017",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "category": "收藏癖",
+      "name": "V10极详细怪癖3",
+      "description": "第10卷中 E0117 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1047"
+      ]
+    },
+    {
+      "quirk_id": "QK1018",
+      "character_id": "E0115",
+      "phase_id": "phase-10-2",
+      "category": "羞耻表现",
+      "name": "V10极详细怪癖4",
+      "description": "第10卷中 E0115 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1048"
+      ]
+    },
+    {
+      "quirk_id": "QK1019",
+      "character_id": "E0114",
+      "phase_id": "phase-10-1",
+      "category": "紧张习惯",
+      "name": "V10极详细怪癖5",
+      "description": "第10卷中 E0114 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1049"
+      ]
+    },
+    {
+      "quirk_id": "QK1020",
+      "character_id": "E0117",
+      "phase_id": "phase-10-3",
+      "category": "私下低俗",
+      "name": "V10极详细怪癖6",
+      "description": "第10卷中 E0117 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1045"
+      ]
     }
   ],
   "character_preferences": [
@@ -1716,6 +3237,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1016"
+      ]
+    },
+    {
+      "preference_id": "PF1007",
+      "character_id": "E0001",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "与希露菲结婚",
+      "description": "鲁迪乌斯·格雷拉特 对 与希露菲结婚 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1034"
+      ]
+    },
+    {
+      "preference_id": "PF1008",
+      "character_id": "E0061",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "恢复女性身分，不再女扮男装",
+      "description": "菲兹 对 恢复女性身分，不再女扮男装 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1035"
+      ]
+    },
+    {
+      "preference_id": "PF1009",
+      "character_id": "E0104",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "希露菲的祖母",
+      "description": "艾莉娜丽洁·杜拉冈罗德 对 希露菲的祖母 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1036"
+      ]
+    },
+    {
+      "preference_id": "PF1010",
+      "character_id": "E0003",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "身在贝卡利特大陆的迷宫都市拉庞",
+      "description": "塞妮丝·格雷拉特 对 身在贝卡利特大陆的迷宫都市拉庞 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1037"
+      ]
+    },
+    {
+      "preference_id": "PF1011",
+      "character_id": "E0007",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "与爱夏一同被送到鲁迪乌斯身边",
+      "description": "诺伦 对 与爱夏一同被送到鲁迪乌斯身边 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1038"
+      ]
+    },
+    {
+      "preference_id": "PF1012",
+      "character_id": "E0008",
+      "phase_id": "phase-10-1",
+      "preference_type": "LIKE",
+      "target": "与诺伦一同被送到鲁迪乌斯身边",
+      "description": "爱夏 对 与诺伦一同被送到鲁迪乌斯身边 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1039"
       ]
     }
   ],

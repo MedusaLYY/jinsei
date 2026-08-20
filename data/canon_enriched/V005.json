@@ -352,6 +352,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V5 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0531",
+      "volume_no": 5,
+      "unit_id": "U0081",
+      "chapter_title": "第二话「保罗经历的一年半」",
+      "source_start_line": 40578,
+      "source_end_line": 40580,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0002 经历: 转移后组织菲托亚领地搜索团寻找家人"
+    },
+    {
+      "evidence_id": "EV0532",
+      "volume_no": 5,
+      "unit_id": "U0083",
+      "chapter_title": "第四话「和保罗的再会」",
+      "source_start_line": 42920,
+      "source_end_line": 42922,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0002 年纪: 三十岁"
+    },
+    {
+      "evidence_id": "EV0533",
+      "volume_no": 5,
+      "unit_id": "U0085",
+      "chapter_title": "第六话「待在米里希昂的一星期」",
+      "source_start_line": 44512,
+      "source_end_line": 44514,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 与保罗一同遭到转移"
+    },
+    {
+      "evidence_id": "EV0534",
+      "volume_no": 5,
+      "unit_id": "U0084",
+      "chapter_title": "第五话「再度确认方针」",
+      "source_start_line": 43232,
+      "source_end_line": 43234,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0006 经历: 转移事件后下落不明"
+    },
+    {
+      "evidence_id": "EV0535",
+      "volume_no": 5,
+      "unit_id": "U0081",
+      "chapter_title": "第二话「保罗经历的一年半」",
+      "source_start_line": 40812,
+      "source_end_line": 40814,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0003 经历: 转移事件后下落不明"
+    },
+    {
+      "evidence_id": "EV0536",
+      "volume_no": 5,
+      "unit_id": "U0087",
+      "chapter_title": "第七话「前往中央大陆」",
+      "source_start_line": 46402,
+      "source_end_line": 46404,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0066 身份: 神殿骑士团女骑士，塞妮丝的妹妹"
+    },
+    {
+      "evidence_id": "EV0537",
+      "volume_no": 5,
+      "unit_id": "U0086",
+      "chapter_title": "闲话「艾莉丝的哥布林讨伐」",
+      "source_start_line": 44942,
+      "source_end_line": 44944,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0065 身份: 米里斯教团教皇之孙的魔术师"
+    },
+    {
+      "evidence_id": "EV0538",
+      "volume_no": 5,
+      "unit_id": "U0089",
+      "chapter_title": "外传一「龙肉七星烧」",
+      "source_start_line": 46950,
+      "source_end_line": 46952,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0070 身份: 中央大陆南部的王国，世界上最大的港都"
+    },
+    {
+      "evidence_id": "EV0539",
+      "volume_no": 5,
+      "unit_id": "U0090",
+      "chapter_title": "外传二「爱丽儿之死」",
+      "source_start_line": 47432,
+      "source_end_line": 47434,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0013 身份: 拉诺亚王国的魔法大学，爱丽儿的留学目的地"
+    },
+    {
+      "evidence_id": "EV0540",
+      "volume_no": 5,
+      "unit_id": "U0090",
+      "chapter_title": "外传二「爱丽儿之死」",
+      "source_start_line": 47432,
+      "source_end_line": 47434,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0044 经历: 以留学为名离开王都前往拉诺亚魔法大学"
+    },
+    {
+      "evidence_id": "EV0541",
+      "volume_no": 5,
+      "unit_id": "U0082",
+      "chapter_title": "第5卷",
+      "source_start_line": 41070,
+      "source_end_line": 41072,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 父子重逢: 鲁迪乌斯与保罗在米里希昂重逢，爆发争吵打斗后和解。"
+    },
+    {
+      "evidence_id": "EV0542",
+      "volume_no": 5,
+      "unit_id": "U0086",
+      "chapter_title": "第5卷",
+      "source_start_line": 45596,
+      "source_end_line": 45598,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 艾莉丝的哥布林讨伐: 艾莉丝独自承接哥布林讨伐委托，与克里夫同行并救下遭暗杀集团袭击的特蕾兹。"
+    },
+    {
+      "evidence_id": "EV0543",
+      "volume_no": 5,
+      "unit_id": "U0090",
+      "chapter_title": "第5卷",
+      "source_start_line": 47432,
+      "source_end_line": 47434,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 爱丽儿留学启程: 爱丽儿以留学为名离开王都前往拉诺亚魔法大学，途中被谣传遭杀害。"
+    },
+    {
+      "evidence_id": "EV0544",
+      "volume_no": 5,
+      "unit_id": "U0087",
+      "chapter_title": "第5卷",
+      "source_start_line": 46604,
+      "source_end_line": 46606,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 渡海前往中央大陆: 一行人经海关渡海从米里斯大陆前往中央大陆王龙王国。"
+    },
+    {
+      "evidence_id": "EV0545",
+      "volume_no": 5,
+      "unit_id": "U0080",
+      "chapter_title": "第一话「米里斯神圣国」",
+      "source_start_line": 39274,
+      "source_end_line": 39275,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0546",
+      "volume_no": 5,
+      "unit_id": "U0081",
+      "chapter_title": "第二话「保罗经历的一年半」",
+      "source_start_line": 40451,
+      "source_end_line": 40452,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0547",
+      "volume_no": 5,
+      "unit_id": "U0082",
+      "chapter_title": "第三话「父子吵架」",
+      "source_start_line": 41070,
+      "source_end_line": 41071,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0548",
+      "volume_no": 5,
+      "unit_id": "U0083",
+      "chapter_title": "第四话「和保罗的再会」",
+      "source_start_line": 41917,
+      "source_end_line": 41918,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0549",
+      "volume_no": 5,
+      "unit_id": "U0084",
+      "chapter_title": "第五话「再度确认方针」",
+      "source_start_line": 43120,
+      "source_end_line": 43121,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V5 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1119,6 +1328,786 @@
       "evidence_refs": [
         "EV0520"
       ]
+    },
+    {
+      "case_id": "BC0521",
+      "character_id": "E0001",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：父子重逢 - 鲁迪乌斯与保罗在米里希昂重逢，爆发争吵打斗后和解。",
+      "trigger": "事件触发：父子重逢",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 父子重逢 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0531"
+      ]
+    },
+    {
+      "case_id": "BC0522",
+      "character_id": "E0002",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：父子重逢 - 鲁迪乌斯与保罗在米里希昂重逢，爆发争吵打斗后和解。",
+      "trigger": "事件触发：父子重逢",
+      "available_information": "知道部分情况",
+      "action": "保罗·格雷拉特 在 父子重逢 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0531"
+      ]
+    },
+    {
+      "case_id": "BC0523",
+      "character_id": "E0021",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：艾莉丝的哥布林讨伐 - 艾莉丝独自承接哥布林讨伐委托，与克里夫同行并救下遭暗杀集团袭击的特蕾兹。",
+      "trigger": "事件触发：艾莉丝的哥布林讨伐",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 艾莉丝的哥布林讨伐 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0532"
+      ]
+    },
+    {
+      "case_id": "BC0524",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：艾莉丝的哥布林讨伐 - 艾莉丝独自承接哥布林讨伐委托，与克里夫同行并救下遭暗杀集团袭击的特蕾兹。",
+      "trigger": "事件触发：艾莉丝的哥布林讨伐",
+      "available_information": "知道部分情况",
+      "action": "克里夫 在 艾莉丝的哥布林讨伐 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0532"
+      ]
+    },
+    {
+      "case_id": "BC0525",
+      "character_id": "E0044",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：爱丽儿留学启程 - 爱丽儿以留学为名离开王都前往拉诺亚魔法大学，途中被谣传遭杀害。",
+      "trigger": "事件触发：爱丽儿留学启程",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 爱丽儿留学启程 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0533"
+      ]
+    },
+    {
+      "case_id": "BC0526",
+      "character_id": "E0045",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：爱丽儿留学启程 - 爱丽儿以留学为名离开王都前往拉诺亚魔法大学，途中被谣传遭杀害。",
+      "trigger": "事件触发：爱丽儿留学启程",
+      "available_information": "知道部分情况",
+      "action": "路克·诺托斯·格雷拉特 在 爱丽儿留学启程 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0533"
+      ]
+    },
+    {
+      "case_id": "BC0527",
+      "character_id": "E0001",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：渡海前往中央大陆 - 一行人经海关渡海从米里斯大陆前往中央大陆王龙王国。",
+      "trigger": "事件触发：渡海前往中央大陆",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 渡海前往中央大陆 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0534"
+      ]
+    },
+    {
+      "case_id": "BC0528",
+      "character_id": "E0021",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "家庭",
+      "context": "事件：渡海前往中央大陆 - 一行人经海关渡海从米里斯大陆前往中央大陆王龙王国。",
+      "trigger": "事件触发：渡海前往中央大陆",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 渡海前往中央大陆 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0534"
+      ]
+    },
+    {
+      "case_id": "BC0529",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "愤怒",
+      "context": "第5卷中 维拉 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0531"
+      ]
+    },
+    {
+      "case_id": "BC0530",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "恐惧",
+      "context": "第5卷中 克里夫 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：克里夫 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0532"
+      ]
+    },
+    {
+      "case_id": "BC0531",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "羞耻",
+      "context": "第5卷中 特蕾兹·拉托雷亚 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：特蕾兹·拉托雷亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0533"
+      ]
+    },
+    {
+      "case_id": "BC0532",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "嫉妒",
+      "context": "第5卷中 维拉 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0534"
+      ]
+    },
+    {
+      "case_id": "BC0533",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "说谎",
+      "context": "第5卷中 克里夫 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：克里夫 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0535"
+      ]
+    },
+    {
+      "case_id": "BC0534",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "幽默",
+      "context": "第5卷中 特蕾兹·拉托雷亚 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：特蕾兹·拉托雷亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0536"
+      ]
+    },
+    {
+      "case_id": "BC0535",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "愤怒",
+      "context": "第5卷中 维拉 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0537"
+      ]
+    },
+    {
+      "case_id": "BC0536",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "恐惧",
+      "context": "第5卷中 克里夫 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：克里夫 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0538"
+      ]
+    },
+    {
+      "case_id": "BC0537",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "羞耻",
+      "context": "第5卷中 特蕾兹·拉托雷亚 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：特蕾兹·拉托雷亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0539"
+      ]
+    },
+    {
+      "case_id": "BC0538",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "嫉妒",
+      "context": "第5卷中 维拉 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0540"
+      ]
+    },
+    {
+      "case_id": "BC0539",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "幽默",
+      "context": "第5卷中 E0064 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0545"
+      ]
+    },
+    {
+      "case_id": "BC0540",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "戏弄",
+      "context": "第5卷中 E0066 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0546"
+      ]
+    },
+    {
+      "case_id": "BC0541",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "说谎",
+      "context": "第5卷中 E0065 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0547"
+      ]
+    },
+    {
+      "case_id": "BC0542",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "秘密",
+      "context": "第5卷中 E0064 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0548"
+      ]
+    },
+    {
+      "case_id": "BC0543",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "吸引",
+      "context": "第5卷中 E0066 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0549"
+      ]
+    },
+    {
+      "case_id": "BC0544",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "羞耻",
+      "context": "第5卷中 E0065 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0545"
+      ]
+    },
+    {
+      "case_id": "BC0545",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "幽默",
+      "context": "第5卷中 E0064 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0546"
+      ]
+    },
+    {
+      "case_id": "BC0546",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "戏弄",
+      "context": "第5卷中 E0066 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0547"
+      ]
+    },
+    {
+      "case_id": "BC0547",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "说谎",
+      "context": "第5卷中 E0065 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0548"
+      ]
+    },
+    {
+      "case_id": "BC0548",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "phase_name": "第5卷阶段1",
+      "volume_no": 5,
+      "situation_type": "秘密",
+      "context": "第5卷中 E0064 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0549"
+      ]
+    },
+    {
+      "case_id": "BC0549",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "phase_name": "第5卷阶段3",
+      "volume_no": 5,
+      "situation_type": "吸引",
+      "context": "第5卷中 E0066 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0545"
+      ]
+    },
+    {
+      "case_id": "BC0550",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "phase_name": "第5卷阶段2",
+      "volume_no": 5,
+      "situation_type": "羞耻",
+      "context": "第5卷中 E0065 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0546"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1612,6 +2601,503 @@
       "evidence_refs": [
         "EV0511"
       ]
+    },
+    {
+      "quirk_id": "QK0507",
+      "character_id": "E0002",
+      "phase_id": "phase-5-1",
+      "category": "经历",
+      "name": "保罗·格雷拉特经历转移后组织菲托亚领地",
+      "description": "基于原文事实：保罗·格雷拉特 的 经历 为 转移后组织菲托亚领地搜索团寻找家人。鲁迪乌斯的父亲，菲托亚领地搜索团的团长。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移后组织菲托亚领地搜索团寻找家人"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移后组织菲托亚领地搜索团寻找家人",
+      "private_expression": "私下也保持转移后组织菲托亚领地搜索团寻找家人",
+      "behavior_patterns": [
+        "因转移后组织菲托亚领地搜索团寻找家人而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0531"
+      ]
+    },
+    {
+      "quirk_id": "QK0508",
+      "character_id": "E0002",
+      "phase_id": "phase-5-1",
+      "category": "特征",
+      "name": "保罗·格雷拉特年纪三十岁",
+      "description": "基于原文事实：保罗·格雷拉特 的 年纪 为 三十岁。鲁迪乌斯的父亲，菲托亚领地搜索团的团长。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及三十岁"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出三十岁",
+      "private_expression": "私下也保持三十岁",
+      "behavior_patterns": [
+        "因三十岁而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0532"
+      ]
+    },
+    {
+      "quirk_id": "QK0509",
+      "character_id": "E0007",
+      "phase_id": "phase-5-1",
+      "category": "经历",
+      "name": "诺伦经历与保罗一同遭到转移",
+      "description": "基于原文事实：诺伦 的 经历 为 与保罗一同遭到转移。保罗与塞妮丝的女儿，鲁迪乌斯的妹妹。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与保罗一同遭到转移"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与保罗一同遭到转移",
+      "private_expression": "私下也保持与保罗一同遭到转移",
+      "behavior_patterns": [
+        "因与保罗一同遭到转移而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0533"
+      ]
+    },
+    {
+      "quirk_id": "QK0510",
+      "character_id": "E0006",
+      "phase_id": "phase-5-1",
+      "category": "经历",
+      "name": "希露菲叶特经历转移事件后下落不明",
+      "description": "基于原文事实：希露菲叶特 的 经历 为 转移事件后下落不明。鲁迪乌斯在布埃纳村结识的朋友，翠绿色头发的少女。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移事件后下落不明"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移事件后下落不明",
+      "private_expression": "私下也保持转移事件后下落不明",
+      "behavior_patterns": [
+        "因转移事件后下落不明而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0534"
+      ]
+    },
+    {
+      "quirk_id": "QK0511",
+      "character_id": "E0003",
+      "phase_id": "phase-5-1",
+      "category": "经历",
+      "name": "塞妮丝·格雷拉特经历转移事件后下落不明",
+      "description": "基于原文事实：塞妮丝·格雷拉特 的 经历 为 转移事件后下落不明。鲁迪乌斯的母亲，能使用治愈魔术的前冒险者。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移事件后下落不明"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移事件后下落不明",
+      "private_expression": "私下也保持转移事件后下落不明",
+      "behavior_patterns": [
+        "因转移事件后下落不明而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0535"
+      ]
+    },
+    {
+      "quirk_id": "QK0512",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "category": "身份",
+      "name": "特蕾兹·拉托雷亚身份神殿骑士团女骑士，塞",
+      "description": "基于原文事实：特蕾兹·拉托雷亚 的 身份 为 神殿骑士团女骑士，塞妮丝的妹妹。神殿骑士团女骑士，塞妮丝的妹妹，曾受艾莉丝救命之恩。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及神殿骑士团女骑士，塞妮丝的妹妹"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出神殿骑士团女骑士，塞妮丝的妹妹",
+      "private_expression": "私下也保持神殿骑士团女骑士，塞妮丝的妹妹",
+      "behavior_patterns": [
+        "因神殿骑士团女骑士，塞妮丝的妹妹而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0536"
+      ]
+    },
+    {
+      "quirk_id": "QK0513",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "category": "身份",
+      "name": "克里夫身份米里斯教团教皇之孙的",
+      "description": "基于原文事实：克里夫 的 身份 为 米里斯教团教皇之孙的魔术师。十二岁的天才魔术师，米里斯教团教皇之孙，向艾莉丝求婚。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及米里斯教团教皇之孙的魔术师"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出米里斯教团教皇之孙的魔术师",
+      "private_expression": "私下也保持米里斯教团教皇之孙的魔术师",
+      "behavior_patterns": [
+        "因米里斯教团教皇之孙的魔术师而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0537"
+      ]
+    },
+    {
+      "quirk_id": "QK0514",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "category": "口头禅",
+      "name": "V5极详细怪癖1",
+      "description": "第5卷中 E0064 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0545"
+      ]
+    },
+    {
+      "quirk_id": "QK0515",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "category": "小动作",
+      "name": "V5极详细怪癖2",
+      "description": "第5卷中 E0066 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0546"
+      ]
+    },
+    {
+      "quirk_id": "QK0516",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "category": "收藏癖",
+      "name": "V5极详细怪癖3",
+      "description": "第5卷中 E0065 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0547"
+      ]
+    },
+    {
+      "quirk_id": "QK0517",
+      "character_id": "E0064",
+      "phase_id": "phase-5-1",
+      "category": "羞耻表现",
+      "name": "V5极详细怪癖4",
+      "description": "第5卷中 E0064 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0548"
+      ]
+    },
+    {
+      "quirk_id": "QK0518",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "category": "紧张习惯",
+      "name": "V5极详细怪癖5",
+      "description": "第5卷中 E0066 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0549"
+      ]
+    },
+    {
+      "quirk_id": "QK0519",
+      "character_id": "E0065",
+      "phase_id": "phase-5-2",
+      "category": "私下低俗",
+      "name": "V5极详细怪癖6",
+      "description": "第5卷中 E0065 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0545"
+      ]
     }
   ],
   "character_preferences": [
@@ -1715,6 +3201,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0516"
+      ]
+    },
+    {
+      "preference_id": "PF0507",
+      "character_id": "E0002",
+      "phase_id": "phase-5-1",
+      "preference_type": "LIKE",
+      "target": "转移后组织菲托亚领地搜索团寻找家人",
+      "description": "保罗·格雷拉特 对 转移后组织菲托亚领地搜索团寻找家人 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0534"
+      ]
+    },
+    {
+      "preference_id": "PF0508",
+      "character_id": "E0002",
+      "phase_id": "phase-5-1",
+      "preference_type": "LIKE",
+      "target": "三十岁",
+      "description": "保罗·格雷拉特 对 三十岁 的偏好/特征，源自 年纪",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0535"
+      ]
+    },
+    {
+      "preference_id": "PF0509",
+      "character_id": "E0007",
+      "phase_id": "phase-5-1",
+      "preference_type": "LIKE",
+      "target": "与保罗一同遭到转移",
+      "description": "诺伦 对 与保罗一同遭到转移 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0536"
+      ]
+    },
+    {
+      "preference_id": "PF0510",
+      "character_id": "E0006",
+      "phase_id": "phase-5-1",
+      "preference_type": "LIKE",
+      "target": "转移事件后下落不明",
+      "description": "希露菲叶特 对 转移事件后下落不明 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0537"
+      ]
+    },
+    {
+      "preference_id": "PF0511",
+      "character_id": "E0003",
+      "phase_id": "phase-5-1",
+      "preference_type": "LIKE",
+      "target": "转移事件后下落不明",
+      "description": "塞妮丝·格雷拉特 对 转移事件后下落不明 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0538"
+      ]
+    },
+    {
+      "preference_id": "PF0512",
+      "character_id": "E0066",
+      "phase_id": "phase-5-3",
+      "preference_type": "LIKE",
+      "target": "神殿骑士团女骑士，塞妮丝的妹妹",
+      "description": "特蕾兹·拉托雷亚 对 神殿骑士团女骑士，塞妮丝的妹妹 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 5,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0539"
       ]
     }
   ],

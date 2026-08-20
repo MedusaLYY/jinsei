@@ -354,6 +354,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V6 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0631",
+      "volume_no": 6,
+      "unit_id": "U0101",
+      "chapter_title": "第四话「神不存在」",
+      "source_start_line": 50928,
+      "source_end_line": 50930,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0008 经历: 转移后与莉莉雅一同被软禁在西隆王宫"
+    },
+    {
+      "evidence_id": "EV0632",
+      "volume_no": 6,
+      "unit_id": "U0103",
+      "chapter_title": "第六话「迅速解决」",
+      "source_start_line": 52936,
+      "source_end_line": 52938,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0004 经历: 被鲁迪乌斯等人救出西隆王国"
+    },
+    {
+      "evidence_id": "EV0633",
+      "volume_no": 6,
+      "unit_id": "U0108",
+      "chapter_title": "第十一话「旅程结束」",
+      "source_start_line": 55164,
+      "source_end_line": 55166,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0079 身份: 龙神，世界最强的存在"
+    },
+    {
+      "evidence_id": "EV0634",
+      "volume_no": 6,
+      "unit_id": "U0106",
+      "chapter_title": "第九话「转折点二」",
+      "source_start_line": 54320,
+      "source_end_line": 54322,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0079 经历: 三拳击败瑞杰路德，一击打飞艾莉丝"
+    },
+    {
+      "evidence_id": "EV0635",
+      "volume_no": 6,
+      "unit_id": "U0107",
+      "chapter_title": "第十话「胸口被掏空了一个洞」",
+      "source_start_line": 54658,
+      "source_end_line": 54660,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0079 能力: 身负被万物畏惧的诅咒"
+    },
+    {
+      "evidence_id": "EV0636",
+      "volume_no": 6,
+      "unit_id": "U0109",
+      "chapter_title": "第十二话「灾害的现实」",
+      "source_start_line": 55710,
+      "source_end_line": 55712,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0022 经历: 转移后平安存活，在菲托亚领地难民营与艾莉丝重逢"
+    },
+    {
+      "evidence_id": "EV0637",
+      "volume_no": 6,
+      "unit_id": "U0109",
+      "chapter_title": "第十二话「灾害的现实」",
+      "source_start_line": 55828,
+      "source_end_line": 55830,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0023 经历: 为转移事件承担责任遭到处决"
+    },
+    {
+      "evidence_id": "EV0638",
+      "volume_no": 6,
+      "unit_id": "U0109",
+      "chapter_title": "第十二话「灾害的现实」",
+      "source_start_line": 55828,
+      "source_end_line": 55830,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0024 经历: 与希尔达在纷争地带过世"
+    },
+    {
+      "evidence_id": "EV0639",
+      "volume_no": 6,
+      "unit_id": "U0110",
+      "chapter_title": "第十三话「大小姐的决心」",
+      "source_start_line": 57156,
+      "source_end_line": 57158,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 经历: 十五岁生日后随基列奴前往剑之圣地修行"
+    },
+    {
+      "evidence_id": "EV0640",
+      "volume_no": 6,
+      "unit_id": "U0107",
+      "chapter_title": "第十话「胸口被掏空了一个洞」",
+      "source_start_line": 54658,
+      "source_end_line": 54660,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 在与奥尔斯帝德的对决中身受致命伤却存活下来"
+    },
+    {
+      "evidence_id": "EV0641",
+      "volume_no": 6,
+      "unit_id": "U0100",
+      "chapter_title": "第6卷",
+      "source_start_line": 50610,
+      "source_end_line": 50612,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 爱夏救出: 鲁迪乌斯在西隆王国救出被士兵追捕的爱夏。"
+    },
+    {
+      "evidence_id": "EV0642",
+      "volume_no": 6,
+      "unit_id": "U0106",
+      "chapter_title": "第6卷",
+      "source_start_line": 53974,
+      "source_end_line": 53976,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 转折点二: 龙神奥尔斯帝德袭击一行人，击败瑞杰路德与艾莉丝，鲁迪乌斯身受致命伤却存活。"
+    },
+    {
+      "evidence_id": "EV0643",
+      "volume_no": 6,
+      "unit_id": "U0108",
+      "chapter_title": "第6卷",
+      "source_start_line": 55524,
+      "source_end_line": 55526,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 瑞杰路德离别: 瑞杰路德在菲托亚领地难民营前与鲁迪乌斯、艾莉丝道别。"
+    },
+    {
+      "evidence_id": "EV0644",
+      "volume_no": 6,
+      "unit_id": "U0110",
+      "chapter_title": "第6卷",
+      "source_start_line": 57250,
+      "source_end_line": 57252,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 艾莉丝前往剑之圣地: 艾莉丝在十五岁生日后随基列奴离开，前往剑之圣地修行。"
+    },
+    {
+      "evidence_id": "EV0645",
+      "volume_no": 6,
+      "unit_id": "U0098",
+      "chapter_title": "第一话「路线选择」",
+      "source_start_line": 49138,
+      "source_end_line": 49139,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V6 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0646",
+      "volume_no": 6,
+      "unit_id": "U0099",
+      "chapter_title": "第二话「米」",
+      "source_start_line": 49663,
+      "source_end_line": 49664,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V6 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0647",
+      "volume_no": 6,
+      "unit_id": "U0100",
+      "chapter_title": "第三话「西隆王国」",
+      "source_start_line": 50134,
+      "source_end_line": 50135,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V6 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0648",
+      "volume_no": 6,
+      "unit_id": "U0101",
+      "chapter_title": "第四话「神不存在」",
+      "source_start_line": 50739,
+      "source_end_line": 50740,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V6 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0649",
+      "volume_no": 6,
+      "unit_id": "U0102",
+      "chapter_title": "第五话「第三王子」",
+      "source_start_line": 51850,
+      "source_end_line": 51851,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V6 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1121,6 +1330,786 @@
       "evidence_refs": [
         "EV0620"
       ]
+    },
+    {
+      "case_id": "BC0621",
+      "character_id": "E0001",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：爱夏救出 - 鲁迪乌斯在西隆王国救出被士兵追捕的爱夏。",
+      "trigger": "事件触发：爱夏救出",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 爱夏救出 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0631"
+      ]
+    },
+    {
+      "case_id": "BC0622",
+      "character_id": "E0008",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：爱夏救出 - 鲁迪乌斯在西隆王国救出被士兵追捕的爱夏。",
+      "trigger": "事件触发：爱夏救出",
+      "available_information": "知道部分情况",
+      "action": "爱夏 在 爱夏救出 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0631"
+      ]
+    },
+    {
+      "case_id": "BC0623",
+      "character_id": "E0001",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：转折点二 - 龙神奥尔斯帝德袭击一行人，击败瑞杰路德与艾莉丝，鲁迪乌斯身受致命伤却存活。",
+      "trigger": "事件触发：转折点二",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 转折点二 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0632"
+      ]
+    },
+    {
+      "case_id": "BC0624",
+      "character_id": "E0021",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：转折点二 - 龙神奥尔斯帝德袭击一行人，击败瑞杰路德与艾莉丝，鲁迪乌斯身受致命伤却存活。",
+      "trigger": "事件触发：转折点二",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 转折点二 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0632"
+      ]
+    },
+    {
+      "case_id": "BC0625",
+      "character_id": "E0031",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：瑞杰路德离别 - 瑞杰路德在菲托亚领地难民营前与鲁迪乌斯、艾莉丝道别。",
+      "trigger": "事件触发：瑞杰路德离别",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 瑞杰路德离别 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0633"
+      ]
+    },
+    {
+      "case_id": "BC0626",
+      "character_id": "E0001",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：瑞杰路德离别 - 瑞杰路德在菲托亚领地难民营前与鲁迪乌斯、艾莉丝道别。",
+      "trigger": "事件触发：瑞杰路德离别",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 瑞杰路德离别 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0633"
+      ]
+    },
+    {
+      "case_id": "BC0627",
+      "character_id": "E0021",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：艾莉丝前往剑之圣地 - 艾莉丝在十五岁生日后随基列奴离开，前往剑之圣地修行。",
+      "trigger": "事件触发：艾莉丝前往剑之圣地",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 艾莉丝前往剑之圣地 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0634"
+      ]
+    },
+    {
+      "case_id": "BC0628",
+      "character_id": "E0022",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "家庭",
+      "context": "事件：艾莉丝前往剑之圣地 - 艾莉丝在十五岁生日后随基列奴离开，前往剑之圣地修行。",
+      "trigger": "事件触发：艾莉丝前往剑之圣地",
+      "available_information": "知道部分情况",
+      "action": "基列奴·泰德鲁帝亚 在 艾莉丝前往剑之圣地 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0634"
+      ]
+    },
+    {
+      "case_id": "BC0629",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "愤怒",
+      "context": "第6卷中 奥尔斯帝德 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥尔斯帝德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0631"
+      ]
+    },
+    {
+      "case_id": "BC0630",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "恐惧",
+      "context": "第6卷中 帕库斯 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：帕库斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0632"
+      ]
+    },
+    {
+      "case_id": "BC0631",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "羞耻",
+      "context": "第6卷中 札诺巴 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：札诺巴 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0633"
+      ]
+    },
+    {
+      "case_id": "BC0632",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "嫉妒",
+      "context": "第6卷中 奥尔斯帝德 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥尔斯帝德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0634"
+      ]
+    },
+    {
+      "case_id": "BC0633",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "说谎",
+      "context": "第6卷中 帕库斯 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：帕库斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0635"
+      ]
+    },
+    {
+      "case_id": "BC0634",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "幽默",
+      "context": "第6卷中 札诺巴 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：札诺巴 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0636"
+      ]
+    },
+    {
+      "case_id": "BC0635",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "愤怒",
+      "context": "第6卷中 奥尔斯帝德 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥尔斯帝德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0637"
+      ]
+    },
+    {
+      "case_id": "BC0636",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "恐惧",
+      "context": "第6卷中 帕库斯 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：帕库斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0638"
+      ]
+    },
+    {
+      "case_id": "BC0637",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "羞耻",
+      "context": "第6卷中 札诺巴 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：札诺巴 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0639"
+      ]
+    },
+    {
+      "case_id": "BC0638",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "嫉妒",
+      "context": "第6卷中 奥尔斯帝德 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：奥尔斯帝德 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0640"
+      ]
+    },
+    {
+      "case_id": "BC0639",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "幽默",
+      "context": "第6卷中 E0079 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0645"
+      ]
+    },
+    {
+      "case_id": "BC0640",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "戏弄",
+      "context": "第6卷中 E0080 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0646"
+      ]
+    },
+    {
+      "case_id": "BC0641",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "说谎",
+      "context": "第6卷中 E0081 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0647"
+      ]
+    },
+    {
+      "case_id": "BC0642",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "秘密",
+      "context": "第6卷中 E0079 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0648"
+      ]
+    },
+    {
+      "case_id": "BC0643",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "吸引",
+      "context": "第6卷中 E0080 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0649"
+      ]
+    },
+    {
+      "case_id": "BC0644",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "羞耻",
+      "context": "第6卷中 E0081 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0645"
+      ]
+    },
+    {
+      "case_id": "BC0645",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "幽默",
+      "context": "第6卷中 E0079 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0646"
+      ]
+    },
+    {
+      "case_id": "BC0646",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "戏弄",
+      "context": "第6卷中 E0080 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0647"
+      ]
+    },
+    {
+      "case_id": "BC0647",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "说谎",
+      "context": "第6卷中 E0081 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0648"
+      ]
+    },
+    {
+      "case_id": "BC0648",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "phase_name": "第6卷阶段1",
+      "volume_no": 6,
+      "situation_type": "秘密",
+      "context": "第6卷中 E0079 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0649"
+      ]
+    },
+    {
+      "case_id": "BC0649",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "phase_name": "第6卷阶段2",
+      "volume_no": 6,
+      "situation_type": "吸引",
+      "context": "第6卷中 E0080 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0645"
+      ]
+    },
+    {
+      "case_id": "BC0650",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "phase_name": "第6卷阶段3",
+      "volume_no": 6,
+      "situation_type": "羞耻",
+      "context": "第6卷中 E0081 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0646"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1614,6 +2603,538 @@
       "evidence_refs": [
         "EV0611"
       ]
+    },
+    {
+      "quirk_id": "QK0607",
+      "character_id": "E0008",
+      "phase_id": "phase-6-1",
+      "category": "经历",
+      "name": "爱夏经历转移后与莉莉雅一同被",
+      "description": "基于原文事实：爱夏 的 经历 为 转移后与莉莉雅一同被软禁在西隆王宫。保罗与莉莉雅的女儿，鲁迪乌斯的妹妹。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移后与莉莉雅一同被软禁在西隆王宫"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移后与莉莉雅一同被软禁在西隆王宫",
+      "private_expression": "私下也保持转移后与莉莉雅一同被软禁在西隆王宫",
+      "behavior_patterns": [
+        "因转移后与莉莉雅一同被软禁在西隆王宫而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0631"
+      ]
+    },
+    {
+      "quirk_id": "QK0608",
+      "character_id": "E0004",
+      "phase_id": "phase-6-1",
+      "category": "经历",
+      "name": "莉莉雅经历被鲁迪乌斯等人救出西",
+      "description": "基于原文事实：莉莉雅 的 经历 为 被鲁迪乌斯等人救出西隆王国。格雷拉特家的女仆，原阿斯拉王国后宫禁卫侍女。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被鲁迪乌斯等人救出西隆王国"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被鲁迪乌斯等人救出西隆王国",
+      "private_expression": "私下也保持被鲁迪乌斯等人救出西隆王国",
+      "behavior_patterns": [
+        "因被鲁迪乌斯等人救出西隆王国而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0632"
+      ]
+    },
+    {
+      "quirk_id": "QK0609",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "category": "身份",
+      "name": "奥尔斯帝德身份龙神，世界最强的存在",
+      "description": "基于原文事实：奥尔斯帝德 的 身份 为 龙神，世界最强的存在。世界最强的龙神，身负被万物畏惧的诅咒。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及龙神，世界最强的存在"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出龙神，世界最强的存在",
+      "private_expression": "私下也保持龙神，世界最强的存在",
+      "behavior_patterns": [
+        "因龙神，世界最强的存在而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0633"
+      ]
+    },
+    {
+      "quirk_id": "QK0610",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "category": "经历",
+      "name": "奥尔斯帝德经历三拳击败瑞杰路德，一",
+      "description": "基于原文事实：奥尔斯帝德 的 经历 为 三拳击败瑞杰路德，一击打飞艾莉丝。世界最强的龙神，身负被万物畏惧的诅咒。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及三拳击败瑞杰路德，一击打飞艾莉丝"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出三拳击败瑞杰路德，一击打飞艾莉丝",
+      "private_expression": "私下也保持三拳击败瑞杰路德，一击打飞艾莉丝",
+      "behavior_patterns": [
+        "因三拳击败瑞杰路德，一击打飞艾莉丝而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0634"
+      ]
+    },
+    {
+      "quirk_id": "QK0611",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "category": "特征",
+      "name": "奥尔斯帝德能力身负被万物畏惧的诅咒",
+      "description": "基于原文事实：奥尔斯帝德 的 能力 为 身负被万物畏惧的诅咒。世界最强的龙神，身负被万物畏惧的诅咒。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及身负被万物畏惧的诅咒"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出身负被万物畏惧的诅咒",
+      "private_expression": "私下也保持身负被万物畏惧的诅咒",
+      "behavior_patterns": [
+        "因身负被万物畏惧的诅咒而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0635"
+      ]
+    },
+    {
+      "quirk_id": "QK0612",
+      "character_id": "E0022",
+      "phase_id": "phase-6-1",
+      "category": "经历",
+      "name": "基列奴·泰德鲁帝亚经历转移后平安存活，在菲",
+      "description": "基于原文事实：基列奴·泰德鲁帝亚 的 经历 为 转移后平安存活，在菲托亚领地难民营与艾莉丝重逢。剑王级女剑士，泰德鲁帝亚族兽族。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及转移后平安存活，在菲托亚领地难民营与艾莉丝重逢"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移后平安存活，在菲托亚领地难民营与艾莉丝重逢",
+      "private_expression": "私下也保持转移后平安存活，在菲托亚领地难民营与艾莉丝重逢",
+      "behavior_patterns": [
+        "因转移后平安存活，在菲托亚领地难民营与艾莉丝重逢而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0636"
+      ]
+    },
+    {
+      "quirk_id": "QK0613",
+      "character_id": "E0023",
+      "phase_id": "phase-6-1",
+      "category": "经历",
+      "name": "绍罗斯·伯雷亚斯·格雷拉特经历为转移事件承担责任遭",
+      "description": "基于原文事实：绍罗斯·伯雷亚斯·格雷拉特 的 经历 为 为转移事件承担责任遭到处决。菲托亚领主，保罗的叔父，艾莉丝的祖父。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及为转移事件承担责任遭到处决"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出为转移事件承担责任遭到处决",
+      "private_expression": "私下也保持为转移事件承担责任遭到处决",
+      "behavior_patterns": [
+        "因为转移事件承担责任遭到处决而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0637"
+      ]
+    },
+    {
+      "quirk_id": "QK0614",
+      "character_id": "E0024",
+      "phase_id": "phase-6-1",
+      "category": "经历",
+      "name": "菲利普·伯雷亚斯·格雷拉特经历与希尔达在纷争地带过",
+      "description": "基于原文事实：菲利普·伯雷亚斯·格雷拉特 的 经历 为 与希尔达在纷争地带过世。绍罗斯之子，罗亚市长，艾莉丝的父亲。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与希尔达在纷争地带过世"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与希尔达在纷争地带过世",
+      "private_expression": "私下也保持与希尔达在纷争地带过世",
+      "behavior_patterns": [
+        "因与希尔达在纷争地带过世而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0638"
+      ]
+    },
+    {
+      "quirk_id": "QK0615",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "category": "口头禅",
+      "name": "V6极详细怪癖1",
+      "description": "第6卷中 E0079 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0645"
+      ]
+    },
+    {
+      "quirk_id": "QK0616",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "category": "小动作",
+      "name": "V6极详细怪癖2",
+      "description": "第6卷中 E0080 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0646"
+      ]
+    },
+    {
+      "quirk_id": "QK0617",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "category": "收藏癖",
+      "name": "V6极详细怪癖3",
+      "description": "第6卷中 E0081 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0647"
+      ]
+    },
+    {
+      "quirk_id": "QK0618",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "category": "羞耻表现",
+      "name": "V6极详细怪癖4",
+      "description": "第6卷中 E0079 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0648"
+      ]
+    },
+    {
+      "quirk_id": "QK0619",
+      "character_id": "E0080",
+      "phase_id": "phase-6-2",
+      "category": "紧张习惯",
+      "name": "V6极详细怪癖5",
+      "description": "第6卷中 E0080 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0649"
+      ]
+    },
+    {
+      "quirk_id": "QK0620",
+      "character_id": "E0081",
+      "phase_id": "phase-6-3",
+      "category": "私下低俗",
+      "name": "V6极详细怪癖6",
+      "description": "第6卷中 E0081 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0645"
+      ]
     }
   ],
   "character_preferences": [
@@ -1717,6 +3238,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0616"
+      ]
+    },
+    {
+      "preference_id": "PF0607",
+      "character_id": "E0008",
+      "phase_id": "phase-6-1",
+      "preference_type": "LIKE",
+      "target": "转移后与莉莉雅一同被软禁在西隆王宫",
+      "description": "爱夏 对 转移后与莉莉雅一同被软禁在西隆王宫 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0634"
+      ]
+    },
+    {
+      "preference_id": "PF0608",
+      "character_id": "E0004",
+      "phase_id": "phase-6-1",
+      "preference_type": "LIKE",
+      "target": "被鲁迪乌斯等人救出西隆王国",
+      "description": "莉莉雅 对 被鲁迪乌斯等人救出西隆王国 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0635"
+      ]
+    },
+    {
+      "preference_id": "PF0609",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "preference_type": "LIKE",
+      "target": "龙神，世界最强的存在",
+      "description": "奥尔斯帝德 对 龙神，世界最强的存在 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0636"
+      ]
+    },
+    {
+      "preference_id": "PF0610",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "preference_type": "LIKE",
+      "target": "三拳击败瑞杰路德，一击打飞艾莉丝",
+      "description": "奥尔斯帝德 对 三拳击败瑞杰路德，一击打飞艾莉丝 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0637"
+      ]
+    },
+    {
+      "preference_id": "PF0611",
+      "character_id": "E0079",
+      "phase_id": "phase-6-1",
+      "preference_type": "LIKE",
+      "target": "身负被万物畏惧的诅咒",
+      "description": "奥尔斯帝德 对 身负被万物畏惧的诅咒 的偏好/特征，源自 能力",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0638"
+      ]
+    },
+    {
+      "preference_id": "PF0612",
+      "character_id": "E0022",
+      "phase_id": "phase-6-1",
+      "preference_type": "LIKE",
+      "target": "转移后平安存活，在菲托亚领地难民营与艾莉",
+      "description": "基列奴·泰德鲁帝亚 对 转移后平安存活，在菲托亚领地难民营与艾莉丝重逢 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0639"
       ]
     }
   ],

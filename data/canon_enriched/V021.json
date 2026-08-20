@@ -348,6 +348,138 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V21 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV2131",
+      "volume_no": 21,
+      "unit_id": "U0369",
+      "chapter_title": "第六话「为了家族，为了女儿」",
+      "source_start_line": 191450,
+      "source_end_line": 191452,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0003 经历: 由鲁迪乌斯与爱夏带回米里斯拉托雷亚家"
+    },
+    {
+      "evidence_id": "EV2132",
+      "volume_no": 21,
+      "unit_id": "U0371",
+      "chapter_title": "第八话「被叛徒逃走了」",
+      "source_start_line": 192792,
+      "source_end_line": 192794,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0057 经历: 被揭示为人神的使徒并叛逃"
+    },
+    {
+      "evidence_id": "EV2133",
+      "volume_no": 21,
+      "unit_id": "U0370",
+      "chapter_title": "第七话「为了报恩」",
+      "source_start_line": 192336,
+      "source_end_line": 192338,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0153 经历: 加入奥尔斯帝德麾下"
+    },
+    {
+      "evidence_id": "EV2134",
+      "volume_no": 21,
+      "unit_id": "U0369",
+      "chapter_title": "第六话「为了家族，为了女儿」",
+      "source_start_line": 191160,
+      "source_end_line": 191162,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0152 身份: 塞妮丝的母亲，拉托雷亚家当家夫人"
+    },
+    {
+      "evidence_id": "EV2135",
+      "volume_no": 21,
+      "unit_id": "U0366",
+      "chapter_title": "第21卷",
+      "source_start_line": 188594,
+      "source_end_line": 188596,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 米里斯教团冲突: 鲁迪乌斯为救塞妮丝与米里斯教团对立，被审判后挟持神子脱身。"
+    },
+    {
+      "evidence_id": "EV2136",
+      "volume_no": 21,
+      "unit_id": "U0370",
+      "chapter_title": "第21卷",
+      "source_start_line": 192336,
+      "source_end_line": 192338,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 神子入伙: 神子加入奥尔斯帝德麾下。"
+    },
+    {
+      "evidence_id": "EV2137",
+      "volume_no": 21,
+      "unit_id": "U0371",
+      "chapter_title": "第21卷",
+      "source_start_line": 192792,
+      "source_end_line": 192794,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 基斯叛逃: 基斯被揭示为人神使徒后叛逃。"
+    },
+    {
+      "evidence_id": "EV2138",
+      "volume_no": 21,
+      "unit_id": "U0364",
+      "chapter_title": "第一话「装蒜」",
+      "source_start_line": 186868,
+      "source_end_line": 186869,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V21 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2139",
+      "volume_no": 21,
+      "unit_id": "U0365",
+      "chapter_title": "第二话「将死棋局」",
+      "source_start_line": 187771,
+      "source_end_line": 187772,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V21 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2140",
+      "volume_no": 21,
+      "unit_id": "U0366",
+      "chapter_title": "第三话「歪打正著」",
+      "source_start_line": 188594,
+      "source_end_line": 188595,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V21 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2141",
+      "volume_no": 21,
+      "unit_id": "U0367",
+      "chapter_title": "第四话「强硬交涉」",
+      "source_start_line": 189507,
+      "source_end_line": 189508,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V21 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV2142",
+      "volume_no": 21,
+      "unit_id": "U0368",
+      "chapter_title": "第五话「有什么好犹豫吗」",
+      "source_start_line": 190282,
+      "source_end_line": 190283,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V21 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1115,6 +1247,734 @@
       "evidence_refs": [
         "EV2120"
       ]
+    },
+    {
+      "case_id": "BC2121",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "家庭",
+      "context": "事件：米里斯教团冲突 - 鲁迪乌斯为救塞妮丝与米里斯教团对立，被审判后挟持神子脱身。",
+      "trigger": "事件触发：米里斯教团冲突",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 米里斯教团冲突 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2131"
+      ]
+    },
+    {
+      "case_id": "BC2122",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "家庭",
+      "context": "事件：米里斯教团冲突 - 鲁迪乌斯为救塞妮丝与米里斯教团对立，被审判后挟持神子脱身。",
+      "trigger": "事件触发：米里斯教团冲突",
+      "available_information": "知道部分情况",
+      "action": "神子 在 米里斯教团冲突 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2131"
+      ]
+    },
+    {
+      "case_id": "BC2123",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "家庭",
+      "context": "事件：神子入伙 - 神子加入奥尔斯帝德麾下。",
+      "trigger": "事件触发：神子入伙",
+      "available_information": "知道部分情况",
+      "action": "神子 在 神子入伙 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2132"
+      ]
+    },
+    {
+      "case_id": "BC2124",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "家庭",
+      "context": "事件：神子入伙 - 神子加入奥尔斯帝德麾下。",
+      "trigger": "事件触发：神子入伙",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 神子入伙 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2132"
+      ]
+    },
+    {
+      "case_id": "BC2125",
+      "character_id": "E0057",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "家庭",
+      "context": "事件：基斯叛逃 - 基斯被揭示为人神使徒后叛逃。",
+      "trigger": "事件触发：基斯叛逃",
+      "available_information": "知道部分情况",
+      "action": "基斯 在 基斯叛逃 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2133"
+      ]
+    },
+    {
+      "case_id": "BC2126",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "家庭",
+      "context": "事件：基斯叛逃 - 基斯被揭示为人神使徒后叛逃。",
+      "trigger": "事件触发：基斯叛逃",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 基斯叛逃 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV2133"
+      ]
+    },
+    {
+      "case_id": "BC2127",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "愤怒",
+      "context": "第21卷中 鲁迪乌斯·格雷拉特 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2131"
+      ]
+    },
+    {
+      "case_id": "BC2128",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "恐惧",
+      "context": "第21卷中 克蕾雅·拉托雷亚 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：克蕾雅·拉托雷亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2132"
+      ]
+    },
+    {
+      "case_id": "BC2129",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "羞耻",
+      "context": "第21卷中 神子 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：神子 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2133"
+      ]
+    },
+    {
+      "case_id": "BC2130",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "嫉妒",
+      "context": "第21卷中 鲁迪乌斯·格雷拉特 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2134"
+      ]
+    },
+    {
+      "case_id": "BC2131",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "说谎",
+      "context": "第21卷中 克蕾雅·拉托雷亚 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：克蕾雅·拉托雷亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2135"
+      ]
+    },
+    {
+      "case_id": "BC2132",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "幽默",
+      "context": "第21卷中 神子 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：神子 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2136"
+      ]
+    },
+    {
+      "case_id": "BC2133",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "愤怒",
+      "context": "第21卷中 鲁迪乌斯·格雷拉特 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2137"
+      ]
+    },
+    {
+      "case_id": "BC2134",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "恐惧",
+      "context": "第21卷中 克蕾雅·拉托雷亚 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：克蕾雅·拉托雷亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2131"
+      ]
+    },
+    {
+      "case_id": "BC2135",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "羞耻",
+      "context": "第21卷中 神子 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：神子 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2132"
+      ]
+    },
+    {
+      "case_id": "BC2136",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "嫉妒",
+      "context": "第21卷中 鲁迪乌斯·格雷拉特 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV2133"
+      ]
+    },
+    {
+      "case_id": "BC2137",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "幽默",
+      "context": "第21卷中 E0001 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2138"
+      ]
+    },
+    {
+      "case_id": "BC2138",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "戏弄",
+      "context": "第21卷中 E0153 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2139"
+      ]
+    },
+    {
+      "case_id": "BC2139",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "说谎",
+      "context": "第21卷中 E0152 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2140"
+      ]
+    },
+    {
+      "case_id": "BC2140",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "秘密",
+      "context": "第21卷中 E0001 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2141"
+      ]
+    },
+    {
+      "case_id": "BC2141",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "吸引",
+      "context": "第21卷中 E0153 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2142"
+      ]
+    },
+    {
+      "case_id": "BC2142",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "羞耻",
+      "context": "第21卷中 E0152 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2138"
+      ]
+    },
+    {
+      "case_id": "BC2143",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "幽默",
+      "context": "第21卷中 E0001 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2139"
+      ]
+    },
+    {
+      "case_id": "BC2144",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "戏弄",
+      "context": "第21卷中 E0153 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2140"
+      ]
+    },
+    {
+      "case_id": "BC2145",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "说谎",
+      "context": "第21卷中 E0152 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2141"
+      ]
+    },
+    {
+      "case_id": "BC2146",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "phase_name": "第21卷阶段3",
+      "volume_no": 21,
+      "situation_type": "秘密",
+      "context": "第21卷中 E0001 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2142"
+      ]
+    },
+    {
+      "case_id": "BC2147",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "phase_name": "第21卷阶段2",
+      "volume_no": 21,
+      "situation_type": "吸引",
+      "context": "第21卷中 E0153 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2138"
+      ]
+    },
+    {
+      "case_id": "BC2148",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "phase_name": "第21卷阶段1",
+      "volume_no": 21,
+      "situation_type": "羞耻",
+      "context": "第21卷中 E0152 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV2139"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1608,6 +2468,398 @@
       "evidence_refs": [
         "EV2111"
       ]
+    },
+    {
+      "quirk_id": "QK2107",
+      "character_id": "E0003",
+      "phase_id": "phase-21-1",
+      "category": "经历",
+      "name": "塞妮丝·格雷拉特经历由鲁迪乌斯与爱夏带回",
+      "description": "基于原文事实：塞妮丝·格雷拉特 的 经历 为 由鲁迪乌斯与爱夏带回米里斯拉托雷亚家。鲁迪乌斯的母亲，失忆后由拉托雷亚家带回米里斯。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及由鲁迪乌斯与爱夏带回米里斯拉托雷亚家"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出由鲁迪乌斯与爱夏带回米里斯拉托雷亚家",
+      "private_expression": "私下也保持由鲁迪乌斯与爱夏带回米里斯拉托雷亚家",
+      "behavior_patterns": [
+        "因由鲁迪乌斯与爱夏带回米里斯拉托雷亚家而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2131"
+      ]
+    },
+    {
+      "quirk_id": "QK2108",
+      "character_id": "E0057",
+      "phase_id": "phase-21-1",
+      "category": "经历",
+      "name": "基斯经历被揭示为人神的使徒并",
+      "description": "基于原文事实：基斯 的 经历 为 被揭示为人神的使徒并叛逃。冒险者，被揭示为人神的使徒后叛逃。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被揭示为人神的使徒并叛逃"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被揭示为人神的使徒并叛逃",
+      "private_expression": "私下也保持被揭示为人神的使徒并叛逃",
+      "behavior_patterns": [
+        "因被揭示为人神的使徒并叛逃而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2132"
+      ]
+    },
+    {
+      "quirk_id": "QK2109",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "category": "经历",
+      "name": "神子经历加入奥尔斯帝德麾下",
+      "description": "基于原文事实：神子 的 经历 为 加入奥尔斯帝德麾下。米里斯教团的神子，拥有超凡能力的少女，后加入奥尔斯帝德麾下。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及加入奥尔斯帝德麾下"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出加入奥尔斯帝德麾下",
+      "private_expression": "私下也保持加入奥尔斯帝德麾下",
+      "behavior_patterns": [
+        "因加入奥尔斯帝德麾下而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2133"
+      ]
+    },
+    {
+      "quirk_id": "QK2110",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "category": "身份",
+      "name": "克蕾雅·拉托雷亚身份塞妮丝的母亲，拉托雷",
+      "description": "基于原文事实：克蕾雅·拉托雷亚 的 身份 为 塞妮丝的母亲，拉托雷亚家当家夫人。塞妮丝的母亲，拉托雷亚家的当家夫人。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及塞妮丝的母亲，拉托雷亚家当家夫人"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出塞妮丝的母亲，拉托雷亚家当家夫人",
+      "private_expression": "私下也保持塞妮丝的母亲，拉托雷亚家当家夫人",
+      "behavior_patterns": [
+        "因塞妮丝的母亲，拉托雷亚家当家夫人而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2134"
+      ]
+    },
+    {
+      "quirk_id": "QK2111",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "category": "口头禅",
+      "name": "V21极详细怪癖1",
+      "description": "第21卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2138"
+      ]
+    },
+    {
+      "quirk_id": "QK2112",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "category": "小动作",
+      "name": "V21极详细怪癖2",
+      "description": "第21卷中 E0153 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2139"
+      ]
+    },
+    {
+      "quirk_id": "QK2113",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "category": "收藏癖",
+      "name": "V21极详细怪癖3",
+      "description": "第21卷中 E0152 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2140"
+      ]
+    },
+    {
+      "quirk_id": "QK2114",
+      "character_id": "E0001",
+      "phase_id": "phase-21-3",
+      "category": "羞耻表现",
+      "name": "V21极详细怪癖4",
+      "description": "第21卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2141"
+      ]
+    },
+    {
+      "quirk_id": "QK2115",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "category": "紧张习惯",
+      "name": "V21极详细怪癖5",
+      "description": "第21卷中 E0153 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2142"
+      ]
+    },
+    {
+      "quirk_id": "QK2116",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "category": "私下低俗",
+      "name": "V21极详细怪癖6",
+      "description": "第21卷中 E0152 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2138"
+      ]
     }
   ],
   "character_preferences": [
@@ -1711,6 +2963,74 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV2116"
+      ]
+    },
+    {
+      "preference_id": "PF2107",
+      "character_id": "E0003",
+      "phase_id": "phase-21-1",
+      "preference_type": "LIKE",
+      "target": "由鲁迪乌斯与爱夏带回米里斯拉托雷亚家",
+      "description": "塞妮丝·格雷拉特 对 由鲁迪乌斯与爱夏带回米里斯拉托雷亚家 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2134"
+      ]
+    },
+    {
+      "preference_id": "PF2108",
+      "character_id": "E0057",
+      "phase_id": "phase-21-1",
+      "preference_type": "LIKE",
+      "target": "被揭示为人神的使徒并叛逃",
+      "description": "基斯 对 被揭示为人神的使徒并叛逃 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2135"
+      ]
+    },
+    {
+      "preference_id": "PF2109",
+      "character_id": "E0153",
+      "phase_id": "phase-21-2",
+      "preference_type": "LIKE",
+      "target": "加入奥尔斯帝德麾下",
+      "description": "神子 对 加入奥尔斯帝德麾下 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2136"
+      ]
+    },
+    {
+      "preference_id": "PF2110",
+      "character_id": "E0152",
+      "phase_id": "phase-21-1",
+      "preference_type": "LIKE",
+      "target": "塞妮丝的母亲，拉托雷亚家当家夫人",
+      "description": "克蕾雅·拉托雷亚 对 塞妮丝的母亲，拉托雷亚家当家夫人 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV2137"
       ]
     }
   ],

@@ -350,6 +350,204 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V7 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0731",
+      "volume_no": 7,
+      "unit_id": "U0119",
+      "chapter_title": "第一话「失意的魔术师」",
+      "source_start_line": 59474,
+      "source_end_line": 59476,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 艾莉丝离开后独自以冒险者身分活动"
+    },
+    {
+      "evidence_id": "EV0732",
+      "volume_no": 7,
+      "unit_id": "U0121",
+      "chapter_title": "第三话「泥沼的鲁迪乌斯」",
+      "source_start_line": 60878,
+      "source_end_line": 60880,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 称号: 泥沼的鲁迪乌斯"
+    },
+    {
+      "evidence_id": "EV0733",
+      "volume_no": 7,
+      "unit_id": "U0120",
+      "chapter_title": "第二话「拉斯塔熊」",
+      "source_start_line": 60140,
+      "source_end_line": 60142,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0090 身份: Counter Arrow的A级弓手天才"
+    },
+    {
+      "evidence_id": "EV0734",
+      "volume_no": 7,
+      "unit_id": "U0121",
+      "chapter_title": "第三话「泥沼的鲁迪乌斯」",
+      "source_start_line": 62112,
+      "source_end_line": 62114,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0093 身份: S级冒险者队伍Stepped Leader的队长"
+    },
+    {
+      "evidence_id": "EV0735",
+      "volume_no": 7,
+      "unit_id": "U0126",
+      "chapter_title": "外传「拉诺亚魔法大学的支配者」",
+      "source_start_line": 66710,
+      "source_end_line": 66712,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0044 经历: 进入拉诺亚魔法大学就读，二年级当上学生会长"
+    },
+    {
+      "evidence_id": "EV0736",
+      "volume_no": 7,
+      "unit_id": "U0126",
+      "chapter_title": "外传「拉诺亚魔法大学的支配者」",
+      "source_start_line": 67066,
+      "source_end_line": 67068,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 经历: 作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜"
+    },
+    {
+      "evidence_id": "EV0737",
+      "volume_no": 7,
+      "unit_id": "U0126",
+      "chapter_title": "外传「拉诺亚魔法大学的支配者」",
+      "source_start_line": 66600,
+      "source_end_line": 66602,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0095 身份: 魔法都市，拉诺亚魔法大学所在地"
+    },
+    {
+      "evidence_id": "EV0738",
+      "volume_no": 7,
+      "unit_id": "U0125",
+      "chapter_title": "终章",
+      "source_start_line": 66566,
+      "source_end_line": 66568,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 得知母亲塞妮丝已被找到的消息"
+    },
+    {
+      "evidence_id": "EV0739",
+      "volume_no": 7,
+      "unit_id": "U0126",
+      "chapter_title": "外传「拉诺亚魔法大学的支配者」",
+      "source_start_line": 67312,
+      "source_end_line": 67314,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 经历: 认识鲁迪乌斯·格雷拉特"
+    },
+    {
+      "evidence_id": "EV0740",
+      "volume_no": 7,
+      "unit_id": "U0121",
+      "chapter_title": "第7卷",
+      "source_start_line": 60878,
+      "source_end_line": 60880,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 罗森堡冒险者活动: 鲁迪乌斯以泥沼的鲁迪乌斯之名在罗森堡展开冒险者活动并打响名声。"
+    },
+    {
+      "evidence_id": "EV0741",
+      "volume_no": 7,
+      "unit_id": "U0122",
+      "chapter_title": "第7卷",
+      "source_start_line": 63440,
+      "source_end_line": 63442,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 雪地水牛袭击: 鲁迪乌斯与莎拉在深夜森林遭雪地水牛群袭击，密米尔丧生。"
+    },
+    {
+      "evidence_id": "EV0742",
+      "volume_no": 7,
+      "unit_id": "U0124",
+      "chapter_title": "第7卷",
+      "source_start_line": 65986,
+      "source_end_line": 65988,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 莎拉与鲁迪乌斯决裂: 莎拉对鲁迪乌斯示好，因鲁迪乌斯无法回应而决裂，鲁迪乌斯离开罗森堡。"
+    },
+    {
+      "evidence_id": "EV0743",
+      "volume_no": 7,
+      "unit_id": "U0126",
+      "chapter_title": "第7卷",
+      "source_start_line": 67066,
+      "source_end_line": 67068,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 菲兹压制不良学生: 菲兹单枪匹马击败莉妮亚与普露塞娜，确立爱丽儿在魔法大学的地位。"
+    },
+    {
+      "evidence_id": "EV0744",
+      "volume_no": 7,
+      "unit_id": "U0118",
+      "chapter_title": "序章",
+      "source_start_line": 59144,
+      "source_end_line": 59145,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V7 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0745",
+      "volume_no": 7,
+      "unit_id": "U0119",
+      "chapter_title": "第一话「失意的魔术师」",
+      "source_start_line": 59371,
+      "source_end_line": 59372,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V7 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0746",
+      "volume_no": 7,
+      "unit_id": "U0120",
+      "chapter_title": "第二话「拉斯塔熊」",
+      "source_start_line": 59930,
+      "source_end_line": 59931,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V7 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0747",
+      "volume_no": 7,
+      "unit_id": "U0121",
+      "chapter_title": "第三话「泥沼的鲁迪乌斯」",
+      "source_start_line": 60879,
+      "source_end_line": 60880,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V7 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0748",
+      "volume_no": 7,
+      "unit_id": "U0122",
+      "chapter_title": "第四话「深夜里的森林」",
+      "source_start_line": 62740,
+      "source_end_line": 62741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V7 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1117,6 +1315,786 @@
       "evidence_refs": [
         "EV0720"
       ]
+    },
+    {
+      "case_id": "BC0721",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：罗森堡冒险者活动 - 鲁迪乌斯以泥沼的鲁迪乌斯之名在罗森堡展开冒险者活动并打响名声。",
+      "trigger": "事件触发：罗森堡冒险者活动",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 罗森堡冒险者活动 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0731"
+      ]
+    },
+    {
+      "case_id": "BC0722",
+      "character_id": "E0088",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：罗森堡冒险者活动 - 鲁迪乌斯以泥沼的鲁迪乌斯之名在罗森堡展开冒险者活动并打响名声。",
+      "trigger": "事件触发：罗森堡冒险者活动",
+      "available_information": "知道部分情况",
+      "action": "Counter Arrow 在 罗森堡冒险者活动 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0731"
+      ]
+    },
+    {
+      "case_id": "BC0723",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：雪地水牛袭击 - 鲁迪乌斯与莎拉在深夜森林遭雪地水牛群袭击，密米尔丧生。",
+      "trigger": "事件触发：雪地水牛袭击",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 雪地水牛袭击 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0732"
+      ]
+    },
+    {
+      "case_id": "BC0724",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：雪地水牛袭击 - 鲁迪乌斯与莎拉在深夜森林遭雪地水牛群袭击，密米尔丧生。",
+      "trigger": "事件触发：雪地水牛袭击",
+      "available_information": "知道部分情况",
+      "action": "莎拉 在 雪地水牛袭击 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0732"
+      ]
+    },
+    {
+      "case_id": "BC0725",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：莎拉与鲁迪乌斯决裂 - 莎拉对鲁迪乌斯示好，因鲁迪乌斯无法回应而决裂，鲁迪乌斯离开罗森堡。",
+      "trigger": "事件触发：莎拉与鲁迪乌斯决裂",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 莎拉与鲁迪乌斯决裂 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0733"
+      ]
+    },
+    {
+      "case_id": "BC0726",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：莎拉与鲁迪乌斯决裂 - 莎拉对鲁迪乌斯示好，因鲁迪乌斯无法回应而决裂，鲁迪乌斯离开罗森堡。",
+      "trigger": "事件触发：莎拉与鲁迪乌斯决裂",
+      "available_information": "知道部分情况",
+      "action": "莎拉 在 莎拉与鲁迪乌斯决裂 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0733"
+      ]
+    },
+    {
+      "case_id": "BC0727",
+      "character_id": "E0061",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：菲兹压制不良学生 - 菲兹单枪匹马击败莉妮亚与普露塞娜，确立爱丽儿在魔法大学的地位。",
+      "trigger": "事件触发：菲兹压制不良学生",
+      "available_information": "知道部分情况",
+      "action": "菲兹 在 菲兹压制不良学生 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0734"
+      ]
+    },
+    {
+      "case_id": "BC0728",
+      "character_id": "E0044",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "家庭",
+      "context": "事件：菲兹压制不良学生 - 菲兹单枪匹马击败莉妮亚与普露塞娜，确立爱丽儿在魔法大学的地位。",
+      "trigger": "事件触发：菲兹压制不良学生",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 菲兹压制不良学生 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0734"
+      ]
+    },
+    {
+      "case_id": "BC0729",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "愤怒",
+      "context": "第7卷中 莎拉 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莎拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0731"
+      ]
+    },
+    {
+      "case_id": "BC0730",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "恐惧",
+      "context": "第7卷中 提摩西 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：提摩西 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0732"
+      ]
+    },
+    {
+      "case_id": "BC0731",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "羞耻",
+      "context": "第7卷中 苏珊娜 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：苏珊娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0733"
+      ]
+    },
+    {
+      "case_id": "BC0732",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "嫉妒",
+      "context": "第7卷中 莎拉 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莎拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0734"
+      ]
+    },
+    {
+      "case_id": "BC0733",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "说谎",
+      "context": "第7卷中 提摩西 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：提摩西 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0735"
+      ]
+    },
+    {
+      "case_id": "BC0734",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "幽默",
+      "context": "第7卷中 苏珊娜 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：苏珊娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0736"
+      ]
+    },
+    {
+      "case_id": "BC0735",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "愤怒",
+      "context": "第7卷中 莎拉 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莎拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0737"
+      ]
+    },
+    {
+      "case_id": "BC0736",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "恐惧",
+      "context": "第7卷中 提摩西 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：提摩西 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0738"
+      ]
+    },
+    {
+      "case_id": "BC0737",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "羞耻",
+      "context": "第7卷中 苏珊娜 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：苏珊娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0739"
+      ]
+    },
+    {
+      "case_id": "BC0738",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "嫉妒",
+      "context": "第7卷中 莎拉 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莎拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0740"
+      ]
+    },
+    {
+      "case_id": "BC0739",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "幽默",
+      "context": "第7卷中 E0090 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0744"
+      ]
+    },
+    {
+      "case_id": "BC0740",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "戏弄",
+      "context": "第7卷中 E0089 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0745"
+      ]
+    },
+    {
+      "case_id": "BC0741",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "说谎",
+      "context": "第7卷中 E0091 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0746"
+      ]
+    },
+    {
+      "case_id": "BC0742",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "秘密",
+      "context": "第7卷中 E0090 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0747"
+      ]
+    },
+    {
+      "case_id": "BC0743",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "吸引",
+      "context": "第7卷中 E0089 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0748"
+      ]
+    },
+    {
+      "case_id": "BC0744",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "羞耻",
+      "context": "第7卷中 E0091 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0744"
+      ]
+    },
+    {
+      "case_id": "BC0745",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "幽默",
+      "context": "第7卷中 E0090 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0745"
+      ]
+    },
+    {
+      "case_id": "BC0746",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "戏弄",
+      "context": "第7卷中 E0089 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0746"
+      ]
+    },
+    {
+      "case_id": "BC0747",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "说谎",
+      "context": "第7卷中 E0091 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0747"
+      ]
+    },
+    {
+      "case_id": "BC0748",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "phase_name": "第7卷阶段2",
+      "volume_no": 7,
+      "situation_type": "秘密",
+      "context": "第7卷中 E0090 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0748"
+      ]
+    },
+    {
+      "case_id": "BC0749",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "phase_name": "第7卷阶段1",
+      "volume_no": 7,
+      "situation_type": "吸引",
+      "context": "第7卷中 E0089 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0744"
+      ]
+    },
+    {
+      "case_id": "BC0750",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "phase_name": "第7卷阶段3",
+      "volume_no": 7,
+      "situation_type": "羞耻",
+      "context": "第7卷中 E0091 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0745"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1610,6 +2588,503 @@
       "evidence_refs": [
         "EV0711"
       ]
+    },
+    {
+      "quirk_id": "QK0707",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历艾莉丝离开后独自以冒",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 艾莉丝离开后独自以冒险者身分活动。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及艾莉丝离开后独自以冒险者身分活动"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出艾莉丝离开后独自以冒险者身分活动",
+      "private_expression": "私下也保持艾莉丝离开后独自以冒险者身分活动",
+      "behavior_patterns": [
+        "因艾莉丝离开后独自以冒险者身分活动而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0731"
+      ]
+    },
+    {
+      "quirk_id": "QK0708",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "category": "特征",
+      "name": "鲁迪乌斯·格雷拉特称号泥沼的鲁迪乌斯",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 称号 为 泥沼的鲁迪乌斯。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及泥沼的鲁迪乌斯"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出泥沼的鲁迪乌斯",
+      "private_expression": "私下也保持泥沼的鲁迪乌斯",
+      "behavior_patterns": [
+        "因泥沼的鲁迪乌斯而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0732"
+      ]
+    },
+    {
+      "quirk_id": "QK0709",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "category": "身份",
+      "name": "莎拉身份Counter Ar",
+      "description": "基于原文事实：莎拉 的 身份 为 Counter Arrow的A级弓手天才。Counter Arrow的A级弓手天才少女，曾对鲁迪乌斯抱有好感。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及Counter Arrow的A级弓手天才"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出Counter Arrow的A级弓手天才",
+      "private_expression": "私下也保持Counter Arrow的A级弓手天才",
+      "behavior_patterns": [
+        "因Counter Arrow的A级弓手天才而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0733"
+      ]
+    },
+    {
+      "quirk_id": "QK0710",
+      "character_id": "E0093",
+      "phase_id": "phase-7-1",
+      "category": "身份",
+      "name": "佐尔达特身份S级冒险者队伍Ste",
+      "description": "基于原文事实：佐尔达特 的 身份 为 S级冒险者队伍Stepped Leader的队长。S级冒险者队伍Stepped Leader的队长。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及S级冒险者队伍Stepped Leader的队长"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出S级冒险者队伍Stepped Leader的队长",
+      "private_expression": "私下也保持S级冒险者队伍Stepped Leader的队长",
+      "behavior_patterns": [
+        "因S级冒险者队伍Stepped Leader的队长而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0734"
+      ]
+    },
+    {
+      "quirk_id": "QK0711",
+      "character_id": "E0044",
+      "phase_id": "phase-7-1",
+      "category": "经历",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉经历进入拉诺亚魔法大学就",
+      "description": "基于原文事实：爱丽儿·阿涅摩伊·阿斯拉 的 经历 为 进入拉诺亚魔法大学就读，二年级当上学生会长。阿斯拉王国第二公主，拉诺亚魔法大学学生会长。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及进入拉诺亚魔法大学就读，二年级当上学生会长"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出进入拉诺亚魔法大学就读，二年级当上学生会长",
+      "private_expression": "私下也保持进入拉诺亚魔法大学就读，二年级当上学生会长",
+      "behavior_patterns": [
+        "因进入拉诺亚魔法大学就读，二年级当上学生会长而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0735"
+      ]
+    },
+    {
+      "quirk_id": "QK0712",
+      "character_id": "E0061",
+      "phase_id": "phase-7-1",
+      "category": "经历",
+      "name": "菲兹经历作为爱丽儿的随从在魔",
+      "description": "基于原文事实：菲兹 的 经历 为 作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜。转移事件当天出现在阿斯拉王宫的守护术师，爱丽儿的随从。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜",
+      "private_expression": "私下也保持作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜",
+      "behavior_patterns": [
+        "因作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0736"
+      ]
+    },
+    {
+      "quirk_id": "QK0713",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历得知母亲塞妮丝已被找",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 得知母亲塞妮丝已被找到的消息。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及得知母亲塞妮丝已被找到的消息"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出得知母亲塞妮丝已被找到的消息",
+      "private_expression": "私下也保持得知母亲塞妮丝已被找到的消息",
+      "behavior_patterns": [
+        "因得知母亲塞妮丝已被找到的消息而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0737"
+      ]
+    },
+    {
+      "quirk_id": "QK0714",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "category": "口头禅",
+      "name": "V7极详细怪癖1",
+      "description": "第7卷中 E0090 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0744"
+      ]
+    },
+    {
+      "quirk_id": "QK0715",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "category": "小动作",
+      "name": "V7极详细怪癖2",
+      "description": "第7卷中 E0089 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0745"
+      ]
+    },
+    {
+      "quirk_id": "QK0716",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "category": "收藏癖",
+      "name": "V7极详细怪癖3",
+      "description": "第7卷中 E0091 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0746"
+      ]
+    },
+    {
+      "quirk_id": "QK0717",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "category": "羞耻表现",
+      "name": "V7极详细怪癖4",
+      "description": "第7卷中 E0090 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0747"
+      ]
+    },
+    {
+      "quirk_id": "QK0718",
+      "character_id": "E0089",
+      "phase_id": "phase-7-1",
+      "category": "紧张习惯",
+      "name": "V7极详细怪癖5",
+      "description": "第7卷中 E0089 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0748"
+      ]
+    },
+    {
+      "quirk_id": "QK0719",
+      "character_id": "E0091",
+      "phase_id": "phase-7-3",
+      "category": "私下低俗",
+      "name": "V7极详细怪癖6",
+      "description": "第7卷中 E0091 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0744"
+      ]
     }
   ],
   "character_preferences": [
@@ -1713,6 +3188,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0716"
+      ]
+    },
+    {
+      "preference_id": "PF0707",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "preference_type": "LIKE",
+      "target": "艾莉丝离开后独自以冒险者身分活动",
+      "description": "鲁迪乌斯·格雷拉特 对 艾莉丝离开后独自以冒险者身分活动 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0734"
+      ]
+    },
+    {
+      "preference_id": "PF0708",
+      "character_id": "E0001",
+      "phase_id": "phase-7-1",
+      "preference_type": "LIKE",
+      "target": "泥沼的鲁迪乌斯",
+      "description": "鲁迪乌斯·格雷拉特 对 泥沼的鲁迪乌斯 的偏好/特征，源自 称号",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0735"
+      ]
+    },
+    {
+      "preference_id": "PF0709",
+      "character_id": "E0090",
+      "phase_id": "phase-7-2",
+      "preference_type": "LIKE",
+      "target": "Counter Arrow的A级弓手天才",
+      "description": "莎拉 对 Counter Arrow的A级弓手天才 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0736"
+      ]
+    },
+    {
+      "preference_id": "PF0710",
+      "character_id": "E0093",
+      "phase_id": "phase-7-1",
+      "preference_type": "LIKE",
+      "target": "S级冒险者队伍Stepped Leade",
+      "description": "佐尔达特 对 S级冒险者队伍Stepped Leader的队长 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0737"
+      ]
+    },
+    {
+      "preference_id": "PF0711",
+      "character_id": "E0044",
+      "phase_id": "phase-7-1",
+      "preference_type": "LIKE",
+      "target": "进入拉诺亚魔法大学就读，二年级当上学生会",
+      "description": "爱丽儿·阿涅摩伊·阿斯拉 对 进入拉诺亚魔法大学就读，二年级当上学生会长 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0738"
+      ]
+    },
+    {
+      "preference_id": "PF0712",
+      "character_id": "E0061",
+      "phase_id": "phase-7-1",
+      "preference_type": "LIKE",
+      "target": "作为爱丽儿的随从在魔法大学就读，单挑击败",
+      "description": "菲兹 对 作为爱丽儿的随从在魔法大学就读，单挑击败莉妮亚与普露塞娜 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 7,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0739"
       ]
     }
   ],

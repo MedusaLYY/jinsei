@@ -352,6 +352,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V2 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0231",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 10216,
+      "source_end_line": 10218,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 身份: 菲托亚领主的孙女"
+    },
+    {
+      "evidence_id": "EV0232",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 10216,
+      "source_end_line": 10218,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 性格: 凶暴任性"
+    },
+    {
+      "evidence_id": "EV0233",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 10548,
+      "source_end_line": 10550,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 擅长: 剑神流初级"
+    },
+    {
+      "evidence_id": "EV0234",
+      "volume_no": 2,
+      "unit_id": "U0028",
+      "chapter_title": "第五话「大小姐十岁」",
+      "source_start_line": 13514,
+      "source_end_line": 13516,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 擅长: 剑神流中级"
+    },
+    {
+      "evidence_id": "EV0235",
+      "volume_no": 2,
+      "unit_id": "U0030",
+      "chapter_title": "第七话「诺言」",
+      "source_start_line": 15498,
+      "source_end_line": 15500,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 擅长: 剑神流上级"
+    },
+    {
+      "evidence_id": "EV0236",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 11480,
+      "source_end_line": 11482,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 经历: 被鲁迪乌斯救出绑架事件"
+    },
+    {
+      "evidence_id": "EV0237",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 9822,
+      "source_end_line": 9824,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0022 身份: 剑王级剑士"
+    },
+    {
+      "evidence_id": "EV0238",
+      "volume_no": 2,
+      "unit_id": "U0029",
+      "chapter_title": "第六话「学习语言」",
+      "source_start_line": 14956,
+      "source_end_line": 14958,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0022 身份: 剑神流第四强"
+    },
+    {
+      "evidence_id": "EV0239",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 11480,
+      "source_end_line": 11482,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0022 身份: 泰德鲁帝亚族兽族"
+    },
+    {
+      "evidence_id": "EV0240",
+      "volume_no": 2,
+      "unit_id": "U0026",
+      "chapter_title": "第三话「凶暴性质尚未衰退」",
+      "source_start_line": 12188,
+      "source_end_line": 12190,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0022 经历: 前黑狼之牙队员"
+    },
+    {
+      "evidence_id": "EV0241",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第2卷",
+      "source_start_line": 11078,
+      "source_end_line": 11080,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 绑架事件: 鲁迪乌斯与艾莉丝遭无赖绑架，鲁迪乌斯带艾莉丝逃脱，基列奴击杀绑匪。"
+    },
+    {
+      "evidence_id": "EV0242",
+      "volume_no": 2,
+      "unit_id": "U0028",
+      "chapter_title": "第2卷",
+      "source_start_line": 14024,
+      "source_end_line": 14026,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 艾莉丝十岁生日宴: 艾莉丝十岁生日举办大型宴会，鲁迪乌斯担任其最初的舞伴。"
+    },
+    {
+      "evidence_id": "EV0243",
+      "volume_no": 2,
+      "unit_id": "U0030",
+      "chapter_title": "第2卷",
+      "source_start_line": 16030,
+      "source_end_line": 16032,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 鲁迪乌斯十岁庆生会: 艾莉丝主办鲁迪乌斯的十岁庆生会，赠送魔杖傲慢水龙王。"
+    },
+    {
+      "evidence_id": "EV0244",
+      "volume_no": 2,
+      "unit_id": "U0031",
+      "chapter_title": "第2卷",
+      "source_start_line": 17520,
+      "source_end_line": 17522,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 转移事件: 天空异变引发大规模魔力灾害，菲托亚领地消失，居民被传送到世界各地。"
+    },
+    {
+      "evidence_id": "EV0245",
+      "volume_no": 2,
+      "unit_id": "U0022",
+      "chapter_title": "序章",
+      "source_start_line": 9740,
+      "source_end_line": 9741,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0246",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 9821,
+      "source_end_line": 9822,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0247",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 10666,
+      "source_end_line": 10667,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0248",
+      "volume_no": 2,
+      "unit_id": "U0025",
+      "chapter_title": "闲话「后日谈与伯雷亚斯式问候」",
+      "source_start_line": 11699,
+      "source_end_line": 11700,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0249",
+      "volume_no": 2,
+      "unit_id": "U0026",
+      "chapter_title": "第三话「凶暴性质尚未衰退」",
+      "source_start_line": 12062,
+      "source_end_line": 12063,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V2 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1119,6 +1328,786 @@
       "evidence_refs": [
         "EV0220"
       ]
+    },
+    {
+      "case_id": "BC0221",
+      "character_id": "E0001",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "战斗",
+      "context": "事件：绑架事件 - 鲁迪乌斯与艾莉丝遭无赖绑架，鲁迪乌斯带艾莉丝逃脱，基列奴击杀绑匪。",
+      "trigger": "事件触发：绑架事件",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 绑架事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0231"
+      ]
+    },
+    {
+      "case_id": "BC0222",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "战斗",
+      "context": "事件：绑架事件 - 鲁迪乌斯与艾莉丝遭无赖绑架，鲁迪乌斯带艾莉丝逃脱，基列奴击杀绑匪。",
+      "trigger": "事件触发：绑架事件",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 绑架事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV0231"
+      ]
+    },
+    {
+      "case_id": "BC0223",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "公开场合",
+      "context": "事件：艾莉丝十岁生日宴 - 艾莉丝十岁生日举办大型宴会，鲁迪乌斯担任其最初的舞伴。",
+      "trigger": "事件触发：艾莉丝十岁生日宴",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 艾莉丝十岁生日宴 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0232"
+      ]
+    },
+    {
+      "case_id": "BC0224",
+      "character_id": "E0001",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "公开场合",
+      "context": "事件：艾莉丝十岁生日宴 - 艾莉丝十岁生日举办大型宴会，鲁迪乌斯担任其最初的舞伴。",
+      "trigger": "事件触发：艾莉丝十岁生日宴",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 艾莉丝十岁生日宴 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "PUBLIC_SCENE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0232"
+      ]
+    },
+    {
+      "case_id": "BC0225",
+      "character_id": "E0001",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "家庭",
+      "context": "事件：鲁迪乌斯十岁庆生会 - 艾莉丝主办鲁迪乌斯的十岁庆生会，赠送魔杖傲慢水龙王。",
+      "trigger": "事件触发：鲁迪乌斯十岁庆生会",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 鲁迪乌斯十岁庆生会 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0233"
+      ]
+    },
+    {
+      "case_id": "BC0226",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "家庭",
+      "context": "事件：鲁迪乌斯十岁庆生会 - 艾莉丝主办鲁迪乌斯的十岁庆生会，赠送魔杖傲慢水龙王。",
+      "trigger": "事件触发：鲁迪乌斯十岁庆生会",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 鲁迪乌斯十岁庆生会 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0233"
+      ]
+    },
+    {
+      "case_id": "BC0227",
+      "character_id": "E0001",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "危险",
+      "context": "事件：转移事件 - 天空异变引发大规模魔力灾害，菲托亚领地消失，居民被传送到世界各地。",
+      "trigger": "事件触发：转移事件",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 转移事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0234"
+      ]
+    },
+    {
+      "case_id": "BC0228",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "危险",
+      "context": "事件：转移事件 - 天空异变引发大规模魔力灾害，菲托亚领地消失，居民被传送到世界各地。",
+      "trigger": "事件触发：转移事件",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 转移事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0234"
+      ]
+    },
+    {
+      "case_id": "BC0229",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷中 基列奴·泰德鲁帝亚 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：基列奴·泰德鲁帝亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0231"
+      ]
+    },
+    {
+      "case_id": "BC0230",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷中 绍罗斯·伯雷亚斯·格雷拉特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：绍罗斯·伯雷亚斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0232"
+      ]
+    },
+    {
+      "case_id": "BC0231",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷中 艾莉丝·伯雷亚斯·格雷拉特 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉丝·伯雷亚斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0233"
+      ]
+    },
+    {
+      "case_id": "BC0232",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "嫉妒",
+      "context": "第2卷中 基列奴·泰德鲁帝亚 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：基列奴·泰德鲁帝亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0234"
+      ]
+    },
+    {
+      "case_id": "BC0233",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷中 绍罗斯·伯雷亚斯·格雷拉特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：绍罗斯·伯雷亚斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0235"
+      ]
+    },
+    {
+      "case_id": "BC0234",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷中 艾莉丝·伯雷亚斯·格雷拉特 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉丝·伯雷亚斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0236"
+      ]
+    },
+    {
+      "case_id": "BC0235",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "愤怒",
+      "context": "第2卷中 基列奴·泰德鲁帝亚 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：基列奴·泰德鲁帝亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0237"
+      ]
+    },
+    {
+      "case_id": "BC0236",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "恐惧",
+      "context": "第2卷中 绍罗斯·伯雷亚斯·格雷拉特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：绍罗斯·伯雷亚斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0238"
+      ]
+    },
+    {
+      "case_id": "BC0237",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷中 艾莉丝·伯雷亚斯·格雷拉特 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：艾莉丝·伯雷亚斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0239"
+      ]
+    },
+    {
+      "case_id": "BC0238",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "嫉妒",
+      "context": "第2卷中 基列奴·泰德鲁帝亚 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：基列奴·泰德鲁帝亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0240"
+      ]
+    },
+    {
+      "case_id": "BC0239",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷中 E0022 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0245"
+      ]
+    },
+    {
+      "case_id": "BC0240",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷中 E0021 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0246"
+      ]
+    },
+    {
+      "case_id": "BC0241",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷中 E0023 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0247"
+      ]
+    },
+    {
+      "case_id": "BC0242",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "秘密",
+      "context": "第2卷中 E0022 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0248"
+      ]
+    },
+    {
+      "case_id": "BC0243",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "吸引",
+      "context": "第2卷中 E0021 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0249"
+      ]
+    },
+    {
+      "case_id": "BC0244",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷中 E0023 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0245"
+      ]
+    },
+    {
+      "case_id": "BC0245",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "幽默",
+      "context": "第2卷中 E0022 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0246"
+      ]
+    },
+    {
+      "case_id": "BC0246",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "戏弄",
+      "context": "第2卷中 E0021 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0247"
+      ]
+    },
+    {
+      "case_id": "BC0247",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "说谎",
+      "context": "第2卷中 E0023 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0248"
+      ]
+    },
+    {
+      "case_id": "BC0248",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "phase_name": "第2卷阶段2",
+      "volume_no": 2,
+      "situation_type": "秘密",
+      "context": "第2卷中 E0022 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0249"
+      ]
+    },
+    {
+      "case_id": "BC0249",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "phase_name": "第2卷阶段1",
+      "volume_no": 2,
+      "situation_type": "吸引",
+      "context": "第2卷中 E0021 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0245"
+      ]
+    },
+    {
+      "case_id": "BC0250",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "phase_name": "第2卷阶段3",
+      "volume_no": 2,
+      "situation_type": "羞耻",
+      "context": "第2卷中 E0023 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0246"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1612,6 +2601,538 @@
       "evidence_refs": [
         "EV0211"
       ]
+    },
+    {
+      "quirk_id": "QK0207",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "身份",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特身份菲托亚领主的孙女",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 身份 为 菲托亚领主的孙女。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及菲托亚领主的孙女"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出菲托亚领主的孙女",
+      "private_expression": "私下也保持菲托亚领主的孙女",
+      "behavior_patterns": [
+        "因菲托亚领主的孙女而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0231"
+      ]
+    },
+    {
+      "quirk_id": "QK0208",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "性格",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特性格凶暴任性",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 性格 为 凶暴任性。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "HIGH",
+      "frequency": "持续",
+      "triggers": [
+        "提及凶暴任性"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出凶暴任性",
+      "private_expression": "私下也保持凶暴任性",
+      "behavior_patterns": [
+        "因凶暴任性而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": "认同感",
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0232"
+      ]
+    },
+    {
+      "quirk_id": "QK0209",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "技能",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特擅长剑神流初级",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 擅长 为 剑神流初级。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及剑神流初级"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出剑神流初级",
+      "private_expression": "私下也保持剑神流初级",
+      "behavior_patterns": [
+        "因剑神流初级而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": "自豪",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0233"
+      ]
+    },
+    {
+      "quirk_id": "QK0210",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "技能",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特擅长剑神流中级",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 擅长 为 剑神流中级。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及剑神流中级"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出剑神流中级",
+      "private_expression": "私下也保持剑神流中级",
+      "behavior_patterns": [
+        "因剑神流中级而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": "自豪",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0234"
+      ]
+    },
+    {
+      "quirk_id": "QK0211",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "技能",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特擅长剑神流上级",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 擅长 为 剑神流上级。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及剑神流上级"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出剑神流上级",
+      "private_expression": "私下也保持剑神流上级",
+      "behavior_patterns": [
+        "因剑神流上级而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": "自豪",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0235"
+      ]
+    },
+    {
+      "quirk_id": "QK0212",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "经历",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特经历被鲁迪乌斯救出绑架事",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 经历 为 被鲁迪乌斯救出绑架事件。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被鲁迪乌斯救出绑架事件"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被鲁迪乌斯救出绑架事件",
+      "private_expression": "私下也保持被鲁迪乌斯救出绑架事件",
+      "behavior_patterns": [
+        "因被鲁迪乌斯救出绑架事件而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0236"
+      ]
+    },
+    {
+      "quirk_id": "QK0213",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "身份",
+      "name": "基列奴·泰德鲁帝亚身份剑王级剑士",
+      "description": "基于原文事实：基列奴·泰德鲁帝亚 的 身份 为 剑王级剑士。剑王级女剑士，泰德鲁帝亚族兽族，鲁迪乌斯的第二位师父。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及剑王级剑士"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出剑王级剑士",
+      "private_expression": "私下也保持剑王级剑士",
+      "behavior_patterns": [
+        "因剑王级剑士而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0237"
+      ]
+    },
+    {
+      "quirk_id": "QK0214",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "身份",
+      "name": "基列奴·泰德鲁帝亚身份剑神流第四强",
+      "description": "基于原文事实：基列奴·泰德鲁帝亚 的 身份 为 剑神流第四强。剑王级女剑士，泰德鲁帝亚族兽族，鲁迪乌斯的第二位师父。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及剑神流第四强"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出剑神流第四强",
+      "private_expression": "私下也保持剑神流第四强",
+      "behavior_patterns": [
+        "因剑神流第四强而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0238"
+      ]
+    },
+    {
+      "quirk_id": "QK0215",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "口头禅",
+      "name": "V2极详细怪癖1",
+      "description": "第2卷中 E0022 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0245"
+      ]
+    },
+    {
+      "quirk_id": "QK0216",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "小动作",
+      "name": "V2极详细怪癖2",
+      "description": "第2卷中 E0021 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0246"
+      ]
+    },
+    {
+      "quirk_id": "QK0217",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "收藏癖",
+      "name": "V2极详细怪癖3",
+      "description": "第2卷中 E0023 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0247"
+      ]
+    },
+    {
+      "quirk_id": "QK0218",
+      "character_id": "E0022",
+      "phase_id": "phase-2-2",
+      "category": "羞耻表现",
+      "name": "V2极详细怪癖4",
+      "description": "第2卷中 E0022 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0248"
+      ]
+    },
+    {
+      "quirk_id": "QK0219",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "category": "紧张习惯",
+      "name": "V2极详细怪癖5",
+      "description": "第2卷中 E0021 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0249"
+      ]
+    },
+    {
+      "quirk_id": "QK0220",
+      "character_id": "E0023",
+      "phase_id": "phase-2-3",
+      "category": "私下低俗",
+      "name": "V2极详细怪癖6",
+      "description": "第2卷中 E0023 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0245"
+      ]
     }
   ],
   "character_preferences": [
@@ -1715,6 +3236,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0216"
+      ]
+    },
+    {
+      "preference_id": "PF0207",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "菲托亚领主的孙女",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 菲托亚领主的孙女 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0234"
+      ]
+    },
+    {
+      "preference_id": "PF0208",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "凶暴任性",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 凶暴任性 的偏好/特征，源自 性格",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0235"
+      ]
+    },
+    {
+      "preference_id": "PF0209",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "剑神流初级",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 剑神流初级 的偏好/特征，源自 擅长",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0236"
+      ]
+    },
+    {
+      "preference_id": "PF0210",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "剑神流中级",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 剑神流中级 的偏好/特征，源自 擅长",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0237"
+      ]
+    },
+    {
+      "preference_id": "PF0211",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "剑神流上级",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 剑神流上级 的偏好/特征，源自 擅长",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0238"
+      ]
+    },
+    {
+      "preference_id": "PF0212",
+      "character_id": "E0021",
+      "phase_id": "phase-2-1",
+      "preference_type": "LIKE",
+      "target": "被鲁迪乌斯救出绑架事件",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 被鲁迪乌斯救出绑架事件 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0239"
       ]
     }
   ],

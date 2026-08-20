@@ -351,6 +351,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V4 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0431",
+      "volume_no": 4,
+      "unit_id": "U0063",
+      "chapter_title": "第一话「温恩港」",
+      "source_start_line": 29936,
+      "source_end_line": 29938,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 年纪: 十一岁"
+    },
+    {
+      "evidence_id": "EV0432",
+      "volume_no": 4,
+      "unit_id": "U0064",
+      "chapter_title": "第二话「阴错阳差·上篇」",
+      "source_start_line": 30972,
+      "source_end_line": 30974,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 擅长: 预知眼魔眼"
+    },
+    {
+      "evidence_id": "EV0433",
+      "volume_no": 4,
+      "unit_id": "U0064",
+      "chapter_title": "第二话「阴错阳差·上篇」",
+      "source_start_line": 30864,
+      "source_end_line": 30866,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0043 身份: 魔界大帝，复活的不死身魔帝"
+    },
+    {
+      "evidence_id": "EV0434",
+      "volume_no": 4,
+      "unit_id": "U0065",
+      "chapter_title": "第三话「阴错阳差·下篇」",
+      "source_start_line": 31180,
+      "source_end_line": 31182,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0043 能力: 能把他人的眼睛变成魔眼"
+    },
+    {
+      "evidence_id": "EV0435",
+      "volume_no": 4,
+      "unit_id": "U0065",
+      "chapter_title": "第三话「阴错阳差·下篇」",
+      "source_start_line": 31396,
+      "source_end_line": 31398,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 首次在近身战中不靠魔术打赢艾莉丝"
+    },
+    {
+      "evidence_id": "EV0436",
+      "volume_no": 4,
+      "unit_id": "U0065",
+      "chapter_title": "第三话「阴错阳差·下篇」",
+      "source_start_line": 31642,
+      "source_end_line": 31644,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 经历: 在瑞杰路德特训下曾赢得一场胜利"
+    },
+    {
+      "evidence_id": "EV0437",
+      "volume_no": 4,
+      "unit_id": "U0073",
+      "chapter_title": "第十话「圣剑大道」",
+      "source_start_line": 37216,
+      "source_end_line": 37218,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0057 经历: 曾受瑞杰路德救命之恩而随行"
+    },
+    {
+      "evidence_id": "EV0438",
+      "volume_no": 4,
+      "unit_id": "U0074",
+      "chapter_title": "外传「守护术师菲兹」",
+      "source_start_line": 38326,
+      "source_end_line": 38328,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 身份: 转移事件当天出现在阿斯拉王宫的守护术师"
+    },
+    {
+      "evidence_id": "EV0439",
+      "volume_no": 4,
+      "unit_id": "U0074",
+      "chapter_title": "外传「守护术师菲兹」",
+      "source_start_line": 38326,
+      "source_end_line": 38328,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 经历: 出身菲托亚领地，转移事件后一家离散"
+    },
+    {
+      "evidence_id": "EV0440",
+      "volume_no": 4,
+      "unit_id": "U0073",
+      "chapter_title": "第十话「圣剑大道」",
+      "source_start_line": 37568,
+      "source_end_line": 37570,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0042 经历: 遭到封印而未死亡"
+    },
+    {
+      "evidence_id": "EV0441",
+      "volume_no": 4,
+      "unit_id": "U0064",
+      "chapter_title": "第4卷",
+      "source_start_line": 30972,
+      "source_end_line": 30974,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 魔眼获得: 鲁迪乌斯依人神建议在温恩港小巷与魔界大帝奇希莉卡相遇，获赠预知眼魔眼。"
+    },
+    {
+      "evidence_id": "EV0442",
+      "volume_no": 4,
+      "unit_id": "U0067",
+      "chapter_title": "第4卷",
+      "source_start_line": 33156,
+      "source_end_line": 33158,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 渡海抵达米里斯大陆: 三人利用走私组织乘船从魔大陆渡海，抵达米里斯大陆北端的赞特港。"
+    },
+    {
+      "evidence_id": "EV0443",
+      "volume_no": 4,
+      "unit_id": "U0069",
+      "chapter_title": "第4卷",
+      "source_start_line": 33762,
+      "source_end_line": 33764,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 解救兽族孩童: 瑞杰路德歼灭走私组织的奴隶贩子，救出被绑架的德路迪亚族孩子们。"
+    },
+    {
+      "evidence_id": "EV0444",
+      "volume_no": 4,
+      "unit_id": "U0072",
+      "chapter_title": "第4卷",
+      "source_start_line": 36508,
+      "source_end_line": 36510,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 德路迪亚村防卫: 鲁迪乌斯与瑞杰路德协助德路迪亚村猎杀入侵的魔物。"
+    },
+    {
+      "evidence_id": "EV0445",
+      "volume_no": 4,
+      "unit_id": "U0063",
+      "chapter_title": "第一话「温恩港」",
+      "source_start_line": 29934,
+      "source_end_line": 29935,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V4 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0446",
+      "volume_no": 4,
+      "unit_id": "U0064",
+      "chapter_title": "第二话「阴错阳差·上篇」",
+      "source_start_line": 30655,
+      "source_end_line": 30656,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V4 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0447",
+      "volume_no": 4,
+      "unit_id": "U0065",
+      "chapter_title": "第三话「阴错阳差·下篇」",
+      "source_start_line": 31180,
+      "source_end_line": 31181,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V4 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0448",
+      "volume_no": 4,
+      "unit_id": "U0066",
+      "chapter_title": "闲话「阴错阳差·外传」",
+      "source_start_line": 32061,
+      "source_end_line": 32062,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V4 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0449",
+      "volume_no": 4,
+      "unit_id": "U0067",
+      "chapter_title": "第四话「船上的贤者」",
+      "source_start_line": 32722,
+      "source_end_line": 32723,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V4 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1118,6 +1327,786 @@
       "evidence_refs": [
         "EV0420"
       ]
+    },
+    {
+      "case_id": "BC0421",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：魔眼获得 - 鲁迪乌斯依人神建议在温恩港小巷与魔界大帝奇希莉卡相遇，获赠预知眼魔眼。",
+      "trigger": "事件触发：魔眼获得",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 魔眼获得 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0431"
+      ]
+    },
+    {
+      "case_id": "BC0422",
+      "character_id": "E0043",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：魔眼获得 - 鲁迪乌斯依人神建议在温恩港小巷与魔界大帝奇希莉卡相遇，获赠预知眼魔眼。",
+      "trigger": "事件触发：魔眼获得",
+      "available_information": "知道部分情况",
+      "action": "魔界大帝奇希莉卡·奇希里斯 在 魔眼获得 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0431"
+      ]
+    },
+    {
+      "case_id": "BC0423",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：渡海抵达米里斯大陆 - 三人利用走私组织乘船从魔大陆渡海，抵达米里斯大陆北端的赞特港。",
+      "trigger": "事件触发：渡海抵达米里斯大陆",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 渡海抵达米里斯大陆 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0432"
+      ]
+    },
+    {
+      "case_id": "BC0424",
+      "character_id": "E0021",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：渡海抵达米里斯大陆 - 三人利用走私组织乘船从魔大陆渡海，抵达米里斯大陆北端的赞特港。",
+      "trigger": "事件触发：渡海抵达米里斯大陆",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 渡海抵达米里斯大陆 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0432"
+      ]
+    },
+    {
+      "case_id": "BC0425",
+      "character_id": "E0031",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：解救兽族孩童 - 瑞杰路德歼灭走私组织的奴隶贩子，救出被绑架的德路迪亚族孩子们。",
+      "trigger": "事件触发：解救兽族孩童",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 解救兽族孩童 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0433"
+      ]
+    },
+    {
+      "case_id": "BC0426",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：解救兽族孩童 - 瑞杰路德歼灭走私组织的奴隶贩子，救出被绑架的德路迪亚族孩子们。",
+      "trigger": "事件触发：解救兽族孩童",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 解救兽族孩童 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0433"
+      ]
+    },
+    {
+      "case_id": "BC0427",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：德路迪亚村防卫 - 鲁迪乌斯与瑞杰路德协助德路迪亚村猎杀入侵的魔物。",
+      "trigger": "事件触发：德路迪亚村防卫",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 德路迪亚村防卫 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0434"
+      ]
+    },
+    {
+      "case_id": "BC0428",
+      "character_id": "E0031",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "家庭",
+      "context": "事件：德路迪亚村防卫 - 鲁迪乌斯与瑞杰路德协助德路迪亚村猎杀入侵的魔物。",
+      "trigger": "事件触发：德路迪亚村防卫",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 德路迪亚村防卫 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0434"
+      ]
+    },
+    {
+      "case_id": "BC0429",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "愤怒",
+      "context": "第4卷中 贾尔斯 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贾尔斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0431"
+      ]
+    },
+    {
+      "case_id": "BC0430",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "恐惧",
+      "context": "第4卷中 裘耶斯 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：裘耶斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0432"
+      ]
+    },
+    {
+      "case_id": "BC0431",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "羞耻",
+      "context": "第4卷中 裘斯塔夫·泰德路迪亚 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：裘斯塔夫·泰德路迪亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0433"
+      ]
+    },
+    {
+      "case_id": "BC0432",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "嫉妒",
+      "context": "第4卷中 贾尔斯 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贾尔斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0434"
+      ]
+    },
+    {
+      "case_id": "BC0433",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "说谎",
+      "context": "第4卷中 裘耶斯 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：裘耶斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0435"
+      ]
+    },
+    {
+      "case_id": "BC0434",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "幽默",
+      "context": "第4卷中 裘斯塔夫·泰德路迪亚 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：裘斯塔夫·泰德路迪亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0436"
+      ]
+    },
+    {
+      "case_id": "BC0435",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "愤怒",
+      "context": "第4卷中 贾尔斯 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贾尔斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0437"
+      ]
+    },
+    {
+      "case_id": "BC0436",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "恐惧",
+      "context": "第4卷中 裘耶斯 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：裘耶斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0438"
+      ]
+    },
+    {
+      "case_id": "BC0437",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "羞耻",
+      "context": "第4卷中 裘斯塔夫·泰德路迪亚 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：裘斯塔夫·泰德路迪亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0439"
+      ]
+    },
+    {
+      "case_id": "BC0438",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "嫉妒",
+      "context": "第4卷中 贾尔斯 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贾尔斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0440"
+      ]
+    },
+    {
+      "case_id": "BC0439",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "幽默",
+      "context": "第4卷中 E0052 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0445"
+      ]
+    },
+    {
+      "case_id": "BC0440",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "戏弄",
+      "context": "第4卷中 E0054 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0446"
+      ]
+    },
+    {
+      "case_id": "BC0441",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "说谎",
+      "context": "第4卷中 E0053 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0447"
+      ]
+    },
+    {
+      "case_id": "BC0442",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "秘密",
+      "context": "第4卷中 E0052 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0448"
+      ]
+    },
+    {
+      "case_id": "BC0443",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "吸引",
+      "context": "第4卷中 E0054 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0449"
+      ]
+    },
+    {
+      "case_id": "BC0444",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "羞耻",
+      "context": "第4卷中 E0053 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0445"
+      ]
+    },
+    {
+      "case_id": "BC0445",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "幽默",
+      "context": "第4卷中 E0052 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0446"
+      ]
+    },
+    {
+      "case_id": "BC0446",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "戏弄",
+      "context": "第4卷中 E0054 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0447"
+      ]
+    },
+    {
+      "case_id": "BC0447",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "说谎",
+      "context": "第4卷中 E0053 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0448"
+      ]
+    },
+    {
+      "case_id": "BC0448",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "phase_name": "第4卷阶段1",
+      "volume_no": 4,
+      "situation_type": "秘密",
+      "context": "第4卷中 E0052 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0449"
+      ]
+    },
+    {
+      "case_id": "BC0449",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "phase_name": "第4卷阶段3",
+      "volume_no": 4,
+      "situation_type": "吸引",
+      "context": "第4卷中 E0054 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0445"
+      ]
+    },
+    {
+      "case_id": "BC0450",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "phase_name": "第4卷阶段2",
+      "volume_no": 4,
+      "situation_type": "羞耻",
+      "context": "第4卷中 E0053 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0446"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1611,6 +2600,538 @@
       "evidence_refs": [
         "EV0411"
       ]
+    },
+    {
+      "quirk_id": "QK0407",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "category": "特征",
+      "name": "鲁迪乌斯·格雷拉特年纪十一岁",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 年纪 为 十一岁。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及十一岁"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出十一岁",
+      "private_expression": "私下也保持十一岁",
+      "behavior_patterns": [
+        "因十一岁而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0431"
+      ]
+    },
+    {
+      "quirk_id": "QK0408",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "category": "技能",
+      "name": "鲁迪乌斯·格雷拉特擅长预知眼魔眼",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 擅长 为 预知眼魔眼。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及预知眼魔眼"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出预知眼魔眼",
+      "private_expression": "私下也保持预知眼魔眼",
+      "behavior_patterns": [
+        "因预知眼魔眼而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": "自豪",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0432"
+      ]
+    },
+    {
+      "quirk_id": "QK0409",
+      "character_id": "E0043",
+      "phase_id": "phase-4-1",
+      "category": "身份",
+      "name": "魔界大帝奇希莉卡·奇希里斯身份魔界大帝，复活的不死",
+      "description": "基于原文事实：魔界大帝奇希莉卡·奇希里斯 的 身份 为 魔界大帝，复活的不死身魔帝。魔大陆东北区域的魔界大帝，能赐予他人魔眼。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及魔界大帝，复活的不死身魔帝"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出魔界大帝，复活的不死身魔帝",
+      "private_expression": "私下也保持魔界大帝，复活的不死身魔帝",
+      "behavior_patterns": [
+        "因魔界大帝，复活的不死身魔帝而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0433"
+      ]
+    },
+    {
+      "quirk_id": "QK0410",
+      "character_id": "E0043",
+      "phase_id": "phase-4-1",
+      "category": "特征",
+      "name": "魔界大帝奇希莉卡·奇希里斯能力能把他人的眼睛变成魔",
+      "description": "基于原文事实：魔界大帝奇希莉卡·奇希里斯 的 能力 为 能把他人的眼睛变成魔眼。魔大陆东北区域的魔界大帝，能赐予他人魔眼。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及能把他人的眼睛变成魔眼"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出能把他人的眼睛变成魔眼",
+      "private_expression": "私下也保持能把他人的眼睛变成魔眼",
+      "behavior_patterns": [
+        "因能把他人的眼睛变成魔眼而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0434"
+      ]
+    },
+    {
+      "quirk_id": "QK0411",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历首次在近身战中不靠魔",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 首次在近身战中不靠魔术打赢艾莉丝。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及首次在近身战中不靠魔术打赢艾莉丝"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出首次在近身战中不靠魔术打赢艾莉丝",
+      "private_expression": "私下也保持首次在近身战中不靠魔术打赢艾莉丝",
+      "behavior_patterns": [
+        "因首次在近身战中不靠魔术打赢艾莉丝而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0435"
+      ]
+    },
+    {
+      "quirk_id": "QK0412",
+      "character_id": "E0021",
+      "phase_id": "phase-4-1",
+      "category": "经历",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特经历在瑞杰路德特训下曾赢",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 经历 为 在瑞杰路德特训下曾赢得一场胜利。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在瑞杰路德特训下曾赢得一场胜利"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在瑞杰路德特训下曾赢得一场胜利",
+      "private_expression": "私下也保持在瑞杰路德特训下曾赢得一场胜利",
+      "behavior_patterns": [
+        "因在瑞杰路德特训下曾赢得一场胜利而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0436"
+      ]
+    },
+    {
+      "quirk_id": "QK0413",
+      "character_id": "E0057",
+      "phase_id": "phase-4-1",
+      "category": "经历",
+      "name": "基斯经历曾受瑞杰路德救命之恩",
+      "description": "基于原文事实：基斯 的 经历 为 曾受瑞杰路德救命之恩而随行。喜欢赌博的轻佻新人冒险者，曾受瑞杰路德救命之恩而随行。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及曾受瑞杰路德救命之恩而随行"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出曾受瑞杰路德救命之恩而随行",
+      "private_expression": "私下也保持曾受瑞杰路德救命之恩而随行",
+      "behavior_patterns": [
+        "因曾受瑞杰路德救命之恩而随行而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0437"
+      ]
+    },
+    {
+      "quirk_id": "QK0414",
+      "character_id": "E0061",
+      "phase_id": "phase-4-1",
+      "category": "身份",
+      "name": "菲兹身份转移事件当天出现在阿",
+      "description": "基于原文事实：菲兹 的 身份 为 转移事件当天出现在阿斯拉王宫的守护术师。转移事件当天出现在阿斯拉王宫的守护术师，出身菲托亚领地。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及转移事件当天出现在阿斯拉王宫的守护术师"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出转移事件当天出现在阿斯拉王宫的守护术师",
+      "private_expression": "私下也保持转移事件当天出现在阿斯拉王宫的守护术师",
+      "behavior_patterns": [
+        "因转移事件当天出现在阿斯拉王宫的守护术师而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0438"
+      ]
+    },
+    {
+      "quirk_id": "QK0415",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "category": "口头禅",
+      "name": "V4极详细怪癖1",
+      "description": "第4卷中 E0052 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0445"
+      ]
+    },
+    {
+      "quirk_id": "QK0416",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "category": "小动作",
+      "name": "V4极详细怪癖2",
+      "description": "第4卷中 E0054 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0446"
+      ]
+    },
+    {
+      "quirk_id": "QK0417",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "category": "收藏癖",
+      "name": "V4极详细怪癖3",
+      "description": "第4卷中 E0053 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0447"
+      ]
+    },
+    {
+      "quirk_id": "QK0418",
+      "character_id": "E0052",
+      "phase_id": "phase-4-1",
+      "category": "羞耻表现",
+      "name": "V4极详细怪癖4",
+      "description": "第4卷中 E0052 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0448"
+      ]
+    },
+    {
+      "quirk_id": "QK0419",
+      "character_id": "E0054",
+      "phase_id": "phase-4-3",
+      "category": "紧张习惯",
+      "name": "V4极详细怪癖5",
+      "description": "第4卷中 E0054 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0449"
+      ]
+    },
+    {
+      "quirk_id": "QK0420",
+      "character_id": "E0053",
+      "phase_id": "phase-4-2",
+      "category": "私下低俗",
+      "name": "V4极详细怪癖6",
+      "description": "第4卷中 E0053 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0445"
+      ]
     }
   ],
   "character_preferences": [
@@ -1714,6 +3235,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0416"
+      ]
+    },
+    {
+      "preference_id": "PF0407",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "preference_type": "LIKE",
+      "target": "十一岁",
+      "description": "鲁迪乌斯·格雷拉特 对 十一岁 的偏好/特征，源自 年纪",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0434"
+      ]
+    },
+    {
+      "preference_id": "PF0408",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "preference_type": "LIKE",
+      "target": "预知眼魔眼",
+      "description": "鲁迪乌斯·格雷拉特 对 预知眼魔眼 的偏好/特征，源自 擅长",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0435"
+      ]
+    },
+    {
+      "preference_id": "PF0409",
+      "character_id": "E0043",
+      "phase_id": "phase-4-1",
+      "preference_type": "LIKE",
+      "target": "魔界大帝，复活的不死身魔帝",
+      "description": "魔界大帝奇希莉卡·奇希里斯 对 魔界大帝，复活的不死身魔帝 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0436"
+      ]
+    },
+    {
+      "preference_id": "PF0410",
+      "character_id": "E0043",
+      "phase_id": "phase-4-1",
+      "preference_type": "LIKE",
+      "target": "能把他人的眼睛变成魔眼",
+      "description": "魔界大帝奇希莉卡·奇希里斯 对 能把他人的眼睛变成魔眼 的偏好/特征，源自 能力",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0437"
+      ]
+    },
+    {
+      "preference_id": "PF0411",
+      "character_id": "E0001",
+      "phase_id": "phase-4-1",
+      "preference_type": "LIKE",
+      "target": "首次在近身战中不靠魔术打赢艾莉丝",
+      "description": "鲁迪乌斯·格雷拉特 对 首次在近身战中不靠魔术打赢艾莉丝 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0438"
+      ]
+    },
+    {
+      "preference_id": "PF0412",
+      "character_id": "E0021",
+      "phase_id": "phase-4-1",
+      "preference_type": "LIKE",
+      "target": "在瑞杰路德特训下曾赢得一场胜利",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 在瑞杰路德特训下曾赢得一场胜利 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 4,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0439"
       ]
     }
   ],

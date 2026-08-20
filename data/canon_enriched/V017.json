@@ -352,6 +352,171 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V17 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1731",
+      "volume_no": 17,
+      "unit_id": "U0307",
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "source_start_line": 156454,
+      "source_end_line": 156456,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位"
+    },
+    {
+      "evidence_id": "EV1732",
+      "volume_no": 17,
+      "unit_id": "U0307",
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "source_start_line": 157246,
+      "source_end_line": 157248,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0086 经历: 被基列奴处决，被认定为害死绍罗斯的凶手"
+    },
+    {
+      "evidence_id": "EV1733",
+      "volume_no": 17,
+      "unit_id": "U0306",
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "source_start_line": 156398,
+      "source_end_line": 156400,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0044 经历: 击败格拉维尔派，确立为下任阿斯拉女王"
+    },
+    {
+      "evidence_id": "EV1734",
+      "volume_no": 17,
+      "unit_id": "U0308",
+      "chapter_title": "第十一话「路克失控」",
+      "source_start_line": 157914,
+      "source_end_line": 157916,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0045 经历: 受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅"
+    },
+    {
+      "evidence_id": "EV1735",
+      "volume_no": 17,
+      "unit_id": "U0310",
+      "chapter_title": "第十三话「诀别的训练和希露菲的变化」",
+      "source_start_line": 158628,
+      "source_end_line": 158630,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0022 经历: 完成与艾莉丝的最后训练后担任爱丽儿的终身护卫"
+    },
+    {
+      "evidence_id": "EV1736",
+      "volume_no": 17,
+      "unit_id": "U0310",
+      "chapter_title": "第十三话「诀别的训练和希露菲的变化」",
+      "source_start_line": 158968,
+      "source_end_line": 158970,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0006 经历: 辞去爱丽儿的护卫一职，决定在家养育孩子"
+    },
+    {
+      "evidence_id": "EV1737",
+      "volume_no": 17,
+      "unit_id": "U0306",
+      "chapter_title": "第17卷",
+      "source_start_line": 155874,
+      "source_end_line": 155876,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 大流士垮台: 朵莉丝公开指证大流士的恶行，帕普尔荷斯家倒戈，大流士垮台。"
+    },
+    {
+      "evidence_id": "EV1738",
+      "volume_no": 17,
+      "unit_id": "U0307",
+      "chapter_title": "第17卷",
+      "source_start_line": 157246,
+      "source_end_line": 157248,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 王宫决战: 鲁迪乌斯、艾莉丝与基列奴在宴会会场击败奥贝尔、列妲与双胞胎，基列奴处决大流士。"
+    },
+    {
+      "evidence_id": "EV1739",
+      "volume_no": 17,
+      "unit_id": "U0306",
+      "chapter_title": "第17卷",
+      "source_start_line": 156278,
+      "source_end_line": 156280,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 佩尔基乌斯宣布支持: 佩尔基乌斯在宴会现身，宣布爱丽儿为下任国王。"
+    },
+    {
+      "evidence_id": "EV1740",
+      "volume_no": 17,
+      "unit_id": "U0308",
+      "chapter_title": "第17卷",
+      "source_start_line": 157914,
+      "source_end_line": 157916,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 路克失控与原谅: 路克受人神怂恿挟持爱丽儿，希露菲拒绝背叛鲁迪乌斯，爱丽儿原谅路克。"
+    },
+    {
+      "evidence_id": "EV1741",
+      "volume_no": 17,
+      "unit_id": "U0298",
+      "chapter_title": "第一话「前往阿斯拉王国」",
+      "source_start_line": 151062,
+      "source_end_line": 151063,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1742",
+      "volume_no": 17,
+      "unit_id": "U0299",
+      "chapter_title": "第二话「赤龙上颚」",
+      "source_start_line": 151541,
+      "source_end_line": 151542,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1743",
+      "volume_no": 17,
+      "unit_id": "U0300",
+      "chapter_title": "第三话「推敲」",
+      "source_start_line": 152176,
+      "source_end_line": 152177,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1744",
+      "volume_no": 17,
+      "unit_id": "U0301",
+      "chapter_title": "第四话「爱丽儿的选择」",
+      "source_start_line": 152753,
+      "source_end_line": 152754,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1745",
+      "volume_no": 17,
+      "unit_id": "U0302",
+      "chapter_title": "第五话「朵莉丝堤娜」",
+      "source_start_line": 153342,
+      "source_end_line": 153343,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V17 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1119,6 +1284,786 @@
       "evidence_refs": [
         "EV1720"
       ]
+    },
+    {
+      "case_id": "BC1721",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：大流士垮台 - 朵莉丝公开指证大流士的恶行，帕普尔荷斯家倒戈，大流士垮台。",
+      "trigger": "事件触发：大流士垮台",
+      "available_information": "知道部分情况",
+      "action": "朵莉丝堤娜·帕普尔荷斯 在 大流士垮台 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1731"
+      ]
+    },
+    {
+      "case_id": "BC1722",
+      "character_id": "E0086",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：大流士垮台 - 朵莉丝公开指证大流士的恶行，帕普尔荷斯家倒戈，大流士垮台。",
+      "trigger": "事件触发：大流士垮台",
+      "available_information": "知道部分情况",
+      "action": "大流士·席尔巴·贾尼乌斯 在 大流士垮台 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1731"
+      ]
+    },
+    {
+      "case_id": "BC1723",
+      "character_id": "E0001",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：王宫决战 - 鲁迪乌斯、艾莉丝与基列奴在宴会会场击败奥贝尔、列妲与双胞胎，基列奴处决大流士。",
+      "trigger": "事件触发：王宫决战",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 王宫决战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1732"
+      ]
+    },
+    {
+      "case_id": "BC1724",
+      "character_id": "E0021",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：王宫决战 - 鲁迪乌斯、艾莉丝与基列奴在宴会会场击败奥贝尔、列妲与双胞胎，基列奴处决大流士。",
+      "trigger": "事件触发：王宫决战",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·格雷拉特 在 王宫决战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1732"
+      ]
+    },
+    {
+      "case_id": "BC1725",
+      "character_id": "E0029",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：佩尔基乌斯宣布支持 - 佩尔基乌斯在宴会现身，宣布爱丽儿为下任国王。",
+      "trigger": "事件触发：佩尔基乌斯宣布支持",
+      "available_information": "知道部分情况",
+      "action": "佩尔基乌斯 在 佩尔基乌斯宣布支持 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1733"
+      ]
+    },
+    {
+      "case_id": "BC1726",
+      "character_id": "E0044",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：佩尔基乌斯宣布支持 - 佩尔基乌斯在宴会现身，宣布爱丽儿为下任国王。",
+      "trigger": "事件触发：佩尔基乌斯宣布支持",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 佩尔基乌斯宣布支持 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1733"
+      ]
+    },
+    {
+      "case_id": "BC1727",
+      "character_id": "E0045",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：路克失控与原谅 - 路克受人神怂恿挟持爱丽儿，希露菲拒绝背叛鲁迪乌斯，爱丽儿原谅路克。",
+      "trigger": "事件触发：路克失控与原谅",
+      "available_information": "知道部分情况",
+      "action": "路克·诺托斯·格雷拉特 在 路克失控与原谅 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1734"
+      ]
+    },
+    {
+      "case_id": "BC1728",
+      "character_id": "E0044",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "家庭",
+      "context": "事件：路克失控与原谅 - 路克受人神怂恿挟持爱丽儿，希露菲拒绝背叛鲁迪乌斯，爱丽儿原谅路克。",
+      "trigger": "事件触发：路克失控与原谅",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 路克失控与原谅 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1734"
+      ]
+    },
+    {
+      "case_id": "BC1729",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "愤怒",
+      "context": "第17卷中 朵莉丝堤娜·帕普尔荷斯 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：朵莉丝堤娜·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1731"
+      ]
+    },
+    {
+      "case_id": "BC1730",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "恐惧",
+      "context": "第17卷中 弗列塔斯·帕普尔荷斯 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：弗列塔斯·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1732"
+      ]
+    },
+    {
+      "case_id": "BC1731",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "羞耻",
+      "context": "第17卷中 维·塔 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维·塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1733"
+      ]
+    },
+    {
+      "case_id": "BC1732",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "嫉妒",
+      "context": "第17卷中 朵莉丝堤娜·帕普尔荷斯 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：朵莉丝堤娜·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1734"
+      ]
+    },
+    {
+      "case_id": "BC1733",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "说谎",
+      "context": "第17卷中 弗列塔斯·帕普尔荷斯 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：弗列塔斯·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1735"
+      ]
+    },
+    {
+      "case_id": "BC1734",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "幽默",
+      "context": "第17卷中 维·塔 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维·塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1736"
+      ]
+    },
+    {
+      "case_id": "BC1735",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "愤怒",
+      "context": "第17卷中 朵莉丝堤娜·帕普尔荷斯 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：朵莉丝堤娜·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1737"
+      ]
+    },
+    {
+      "case_id": "BC1736",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "恐惧",
+      "context": "第17卷中 弗列塔斯·帕普尔荷斯 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：弗列塔斯·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1738"
+      ]
+    },
+    {
+      "case_id": "BC1737",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "羞耻",
+      "context": "第17卷中 维·塔 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：维·塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1739"
+      ]
+    },
+    {
+      "case_id": "BC1738",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "嫉妒",
+      "context": "第17卷中 朵莉丝堤娜·帕普尔荷斯 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：朵莉丝堤娜·帕普尔荷斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1740"
+      ]
+    },
+    {
+      "case_id": "BC1739",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "幽默",
+      "context": "第17卷中 E0145 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1741"
+      ]
+    },
+    {
+      "case_id": "BC1740",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "戏弄",
+      "context": "第17卷中 E0146 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1742"
+      ]
+    },
+    {
+      "case_id": "BC1741",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "说谎",
+      "context": "第17卷中 E0144 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1743"
+      ]
+    },
+    {
+      "case_id": "BC1742",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "秘密",
+      "context": "第17卷中 E0145 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1744"
+      ]
+    },
+    {
+      "case_id": "BC1743",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "吸引",
+      "context": "第17卷中 E0146 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1745"
+      ]
+    },
+    {
+      "case_id": "BC1744",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "羞耻",
+      "context": "第17卷中 E0144 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1741"
+      ]
+    },
+    {
+      "case_id": "BC1745",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "幽默",
+      "context": "第17卷中 E0145 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1742"
+      ]
+    },
+    {
+      "case_id": "BC1746",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "戏弄",
+      "context": "第17卷中 E0146 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1743"
+      ]
+    },
+    {
+      "case_id": "BC1747",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "说谎",
+      "context": "第17卷中 E0144 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1744"
+      ]
+    },
+    {
+      "case_id": "BC1748",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "phase_name": "第17卷阶段2",
+      "volume_no": 17,
+      "situation_type": "秘密",
+      "context": "第17卷中 E0145 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1745"
+      ]
+    },
+    {
+      "case_id": "BC1749",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "phase_name": "第17卷阶段3",
+      "volume_no": 17,
+      "situation_type": "吸引",
+      "context": "第17卷中 E0146 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1741"
+      ]
+    },
+    {
+      "case_id": "BC1750",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "phase_name": "第17卷阶段1",
+      "volume_no": 17,
+      "situation_type": "羞耻",
+      "context": "第17卷中 E0144 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1742"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1612,6 +2557,468 @@
       "evidence_refs": [
         "EV1711"
       ]
+    },
+    {
+      "quirk_id": "QK1707",
+      "character_id": "E0001",
+      "phase_id": "phase-17-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历在王位争夺战中击败奥",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位。携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位",
+      "private_expression": "私下也保持在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位",
+      "behavior_patterns": [
+        "因在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1731"
+      ]
+    },
+    {
+      "quirk_id": "QK1708",
+      "character_id": "E0086",
+      "phase_id": "phase-17-1",
+      "category": "经历",
+      "name": "大流士·席尔巴·贾尼乌斯经历被基列奴处决，被认定",
+      "description": "基于原文事实：大流士·席尔巴·贾尼乌斯 的 经历 为 被基列奴处决，被认定为害死绍罗斯的凶手。阿斯拉王国的上级大臣，格拉维尔派首脑，害死绍罗斯的元凶，被基列奴处决。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被基列奴处决，被认定为害死绍罗斯的凶手"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被基列奴处决，被认定为害死绍罗斯的凶手",
+      "private_expression": "私下也保持被基列奴处决，被认定为害死绍罗斯的凶手",
+      "behavior_patterns": [
+        "因被基列奴处决，被认定为害死绍罗斯的凶手而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1732"
+      ]
+    },
+    {
+      "quirk_id": "QK1709",
+      "character_id": "E0044",
+      "phase_id": "phase-17-1",
+      "category": "经历",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉经历击败格拉维尔派，确立",
+      "description": "基于原文事实：爱丽儿·阿涅摩伊·阿斯拉 的 经历 为 击败格拉维尔派，确立为下任阿斯拉女王。阿斯拉王国第二公主，击败格拉维尔派后确立为下任女王。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及击败格拉维尔派，确立为下任阿斯拉女王"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出击败格拉维尔派，确立为下任阿斯拉女王",
+      "private_expression": "私下也保持击败格拉维尔派，确立为下任阿斯拉女王",
+      "behavior_patterns": [
+        "因击败格拉维尔派，确立为下任阿斯拉女王而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1733"
+      ]
+    },
+    {
+      "quirk_id": "QK1710",
+      "character_id": "E0045",
+      "phase_id": "phase-17-1",
+      "category": "经历",
+      "name": "路克·诺托斯·格雷拉特经历受人神怂恿一度失控挟",
+      "description": "基于原文事实：路克·诺托斯·格雷拉特 的 经历 为 受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅。爱丽儿的护卫骑士，受人神怂恿一度失控，后成为诺托斯家当家。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅",
+      "private_expression": "私下也保持受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅",
+      "behavior_patterns": [
+        "因受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1734"
+      ]
+    },
+    {
+      "quirk_id": "QK1711",
+      "character_id": "E0022",
+      "phase_id": "phase-17-1",
+      "category": "经历",
+      "name": "基列奴·泰德鲁帝亚经历完成与艾莉丝的最后训",
+      "description": "基于原文事实：基列奴·泰德鲁帝亚 的 经历 为 完成与艾莉丝的最后训练后担任爱丽儿的终身护卫。剑王级女剑士，处决大流士为绍罗斯报仇，担任爱丽儿的终身护卫。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及完成与艾莉丝的最后训练后担任爱丽儿的终身护卫"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出完成与艾莉丝的最后训练后担任爱丽儿的终身护卫",
+      "private_expression": "私下也保持完成与艾莉丝的最后训练后担任爱丽儿的终身护卫",
+      "behavior_patterns": [
+        "因完成与艾莉丝的最后训练后担任爱丽儿的终身护卫而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1735"
+      ]
+    },
+    {
+      "quirk_id": "QK1712",
+      "character_id": "E0006",
+      "phase_id": "phase-17-1",
+      "category": "经历",
+      "name": "希露菲叶特经历辞去爱丽儿的护卫一职",
+      "description": "基于原文事实：希露菲叶特 的 经历 为 辞去爱丽儿的护卫一职，决定在家养育孩子。鲁迪乌斯的青梅竹马与第一名妻子，辞去爱丽儿的护卫后归家育儿。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及辞去爱丽儿的护卫一职，决定在家养育孩子"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出辞去爱丽儿的护卫一职，决定在家养育孩子",
+      "private_expression": "私下也保持辞去爱丽儿的护卫一职，决定在家养育孩子",
+      "behavior_patterns": [
+        "因辞去爱丽儿的护卫一职，决定在家养育孩子而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1736"
+      ]
+    },
+    {
+      "quirk_id": "QK1713",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "category": "口头禅",
+      "name": "V17极详细怪癖1",
+      "description": "第17卷中 E0145 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1741"
+      ]
+    },
+    {
+      "quirk_id": "QK1714",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "category": "小动作",
+      "name": "V17极详细怪癖2",
+      "description": "第17卷中 E0146 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1742"
+      ]
+    },
+    {
+      "quirk_id": "QK1715",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "category": "收藏癖",
+      "name": "V17极详细怪癖3",
+      "description": "第17卷中 E0144 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1743"
+      ]
+    },
+    {
+      "quirk_id": "QK1716",
+      "character_id": "E0145",
+      "phase_id": "phase-17-2",
+      "category": "羞耻表现",
+      "name": "V17极详细怪癖4",
+      "description": "第17卷中 E0145 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1744"
+      ]
+    },
+    {
+      "quirk_id": "QK1717",
+      "character_id": "E0146",
+      "phase_id": "phase-17-3",
+      "category": "紧张习惯",
+      "name": "V17极详细怪癖5",
+      "description": "第17卷中 E0146 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1745"
+      ]
+    },
+    {
+      "quirk_id": "QK1718",
+      "character_id": "E0144",
+      "phase_id": "phase-17-1",
+      "category": "私下低俗",
+      "name": "V17极详细怪癖6",
+      "description": "第17卷中 E0144 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1741"
+      ]
     }
   ],
   "character_preferences": [
@@ -1715,6 +3122,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1716"
+      ]
+    },
+    {
+      "preference_id": "PF1707",
+      "character_id": "E0001",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "在王位争夺战中击败奥贝尔与列妲，协助爱丽",
+      "description": "鲁迪乌斯·格雷拉特 对 在王位争夺战中击败奥贝尔与列妲，协助爱丽儿取得王位 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1734"
+      ]
+    },
+    {
+      "preference_id": "PF1708",
+      "character_id": "E0086",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "被基列奴处决，被认定为害死绍罗斯的凶手",
+      "description": "大流士·席尔巴·贾尼乌斯 对 被基列奴处决，被认定为害死绍罗斯的凶手 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1735"
+      ]
+    },
+    {
+      "preference_id": "PF1709",
+      "character_id": "E0044",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "击败格拉维尔派，确立为下任阿斯拉女王",
+      "description": "爱丽儿·阿涅摩伊·阿斯拉 对 击败格拉维尔派，确立为下任阿斯拉女王 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1736"
+      ]
+    },
+    {
+      "preference_id": "PF1710",
+      "character_id": "E0045",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "受人神怂恿一度失控挟持爱丽儿，被爱丽儿原",
+      "description": "路克·诺托斯·格雷拉特 对 受人神怂恿一度失控挟持爱丽儿，被爱丽儿原谅 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1737"
+      ]
+    },
+    {
+      "preference_id": "PF1711",
+      "character_id": "E0022",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "完成与艾莉丝的最后训练后担任爱丽儿的终身",
+      "description": "基列奴·泰德鲁帝亚 对 完成与艾莉丝的最后训练后担任爱丽儿的终身护卫 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1738"
+      ]
+    },
+    {
+      "preference_id": "PF1712",
+      "character_id": "E0006",
+      "phase_id": "phase-17-1",
+      "preference_type": "LIKE",
+      "target": "辞去爱丽儿的护卫一职，决定在家养育孩子",
+      "description": "希露菲叶特 对 辞去爱丽儿的护卫一职，决定在家养育孩子 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1739"
       ]
     }
   ],

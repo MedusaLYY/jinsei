@@ -356,6 +356,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V9 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0931",
+      "volume_no": 9,
+      "unit_id": "U0164",
+      "chapter_title": "第十话「森林之雨 后篇」",
+      "source_start_line": 84180,
+      "source_end_line": 84182,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 身份: 真实身分为希露菲叶特，女扮男装"
+    },
+    {
+      "evidence_id": "EV0932",
+      "volume_no": 9,
+      "unit_id": "U0165",
+      "chapter_title": "第十一话「推最后一把」",
+      "source_start_line": 84660,
+      "source_end_line": 84662,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0061 经历: 与鲁迪乌斯重逢并成为恋人"
+    },
+    {
+      "evidence_id": "EV0933",
+      "volume_no": 9,
+      "unit_id": "U0159",
+      "chapter_title": "第六话「白色面具 后篇」",
+      "source_start_line": 80626,
+      "source_end_line": 80628,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0108 身份: 来自鲁迪乌斯前世的穿越者"
+    },
+    {
+      "evidence_id": "EV0934",
+      "volume_no": 9,
+      "unit_id": "U0159",
+      "chapter_title": "第六话「白色面具 后篇」",
+      "source_start_line": 80626,
+      "source_end_line": 80628,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0108 经历: 与奥尔斯帝德同行寻找返回原本世界的方法"
+    },
+    {
+      "evidence_id": "EV0935",
+      "volume_no": 9,
+      "unit_id": "U0158",
+      "chapter_title": "第五话「白色面具 前篇」",
+      "source_start_line": 80204,
+      "source_end_line": 80206,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0107 身份: 魔法大学中专研召唤魔术的特别生"
+    },
+    {
+      "evidence_id": "EV0936",
+      "volume_no": 9,
+      "unit_id": "U0167",
+      "chapter_title": "外传「燃烧吧，狂犬」",
+      "source_start_line": 86328,
+      "source_end_line": 86330,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 经历: 在剑之圣地修行两年并获得剑圣称号"
+    },
+    {
+      "evidence_id": "EV0937",
+      "volume_no": 9,
+      "unit_id": "U0157",
+      "chapter_title": "第四话「洗衣板未婚妻 后篇」",
+      "source_start_line": 79060,
+      "source_end_line": 79062,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0113 身份: 不死身的魔王，奇希莉卡的未婚夫"
+    },
+    {
+      "evidence_id": "EV0938",
+      "volume_no": 9,
+      "unit_id": "U0157",
+      "chapter_title": "第四话「洗衣板未婚妻 后篇」",
+      "source_start_line": 79500,
+      "source_end_line": 79502,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0113 经历: 与鲁迪乌斯决斗后承认其为勇者"
+    },
+    {
+      "evidence_id": "EV0939",
+      "volume_no": 9,
+      "unit_id": "U0157",
+      "chapter_title": "第四话「洗衣板未婚妻 后篇」",
+      "source_start_line": 79254,
+      "source_end_line": 79256,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 被巴迪冈迪指出拥有世界最高水准的魔力总量"
+    },
+    {
+      "evidence_id": "EV0940",
+      "volume_no": 9,
+      "unit_id": "U0167",
+      "chapter_title": "外传「燃烧吧，狂犬」",
+      "source_start_line": 86728,
+      "source_end_line": 86732,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0111 经历: 成为艾莉丝在剑之圣地的对手"
+    },
+    {
+      "evidence_id": "EV0941",
+      "volume_no": 9,
+      "unit_id": "U0157",
+      "chapter_title": "第9卷",
+      "source_start_line": 79500,
+      "source_end_line": 79502,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 魔王巴迪冈迪决斗: 魔王巴迪冈迪为确认奇希莉卡赞不绝口的对象而向鲁迪乌斯发起决斗，鲁迪乌斯获胜。"
+    },
+    {
+      "evidence_id": "EV0942",
+      "volume_no": 9,
+      "unit_id": "U0164",
+      "chapter_title": "第9卷",
+      "source_start_line": 83942,
+      "source_end_line": 83944,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 森林之雨作战: 爱丽儿策划的作战：希露菲以菲兹身分与鲁迪乌斯进入冰雹森林摘取冰冻薰衣草，借大雨共"
+    },
+    {
+      "evidence_id": "EV0943",
+      "volume_no": 9,
+      "unit_id": "U0164",
+      "chapter_title": "第9卷",
+      "source_start_line": 84180,
+      "source_end_line": 84182,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 菲兹真实身分揭示: 希露菲在冰雹森林的洞窟中向鲁迪乌斯表明真实身分，两人互通心意。"
+    },
+    {
+      "evidence_id": "EV0944",
+      "volume_no": 9,
+      "unit_id": "U0167",
+      "chapter_title": "第9卷",
+      "source_start_line": 86328,
+      "source_end_line": 86330,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 剑圣认定: 艾莉丝在剑之圣地获得剑神加尔·法利昂认可成为剑圣，并成为其直属弟子。"
+    },
+    {
+      "evidence_id": "EV0945",
+      "volume_no": 9,
+      "unit_id": "U0153",
+      "chapter_title": "第一话「天才少年的秘密 前篇」",
+      "source_start_line": 77260,
+      "source_end_line": 77261,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V9 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0946",
+      "volume_no": 9,
+      "unit_id": "U0154",
+      "chapter_title": "第二话「天才少年的秘密 后篇」",
+      "source_start_line": 77851,
+      "source_end_line": 77852,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V9 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0947",
+      "volume_no": 9,
+      "unit_id": "U0155",
+      "chapter_title": "闲话「希露菲叶特3」",
+      "source_start_line": 78504,
+      "source_end_line": 78505,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V9 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0948",
+      "volume_no": 9,
+      "unit_id": "U0156",
+      "chapter_title": "第三话「洗衣板未婚妻 前篇」",
+      "source_start_line": 78575,
+      "source_end_line": 78576,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V9 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0949",
+      "volume_no": 9,
+      "unit_id": "U0157",
+      "chapter_title": "第四话「洗衣板未婚妻 后篇」",
+      "source_start_line": 79062,
+      "source_end_line": 79063,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V9 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1123,6 +1332,786 @@
       "evidence_refs": [
         "EV0920"
       ]
+    },
+    {
+      "case_id": "BC0921",
+      "character_id": "E0001",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：魔王巴迪冈迪决斗 - 魔王巴迪冈迪为确认奇希莉卡赞不绝口的对象而向鲁迪乌斯发起决斗，鲁迪乌斯获胜。",
+      "trigger": "事件触发：魔王巴迪冈迪决斗",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 魔王巴迪冈迪决斗 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0931"
+      ]
+    },
+    {
+      "case_id": "BC0922",
+      "character_id": "E0113",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：魔王巴迪冈迪决斗 - 魔王巴迪冈迪为确认奇希莉卡赞不绝口的对象而向鲁迪乌斯发起决斗，鲁迪乌斯获胜。",
+      "trigger": "事件触发：魔王巴迪冈迪决斗",
+      "available_information": "知道部分情况",
+      "action": "巴迪冈迪 在 魔王巴迪冈迪决斗 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0931"
+      ]
+    },
+    {
+      "case_id": "BC0923",
+      "character_id": "E0001",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：森林之雨作战 - 爱丽儿策划的作战：希露菲以菲兹身分与鲁迪乌斯进入冰雹森林摘取冰冻薰衣草，借大雨共处洞窟。",
+      "trigger": "事件触发：森林之雨作战",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 森林之雨作战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0932"
+      ]
+    },
+    {
+      "case_id": "BC0924",
+      "character_id": "E0061",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：森林之雨作战 - 爱丽儿策划的作战：希露菲以菲兹身分与鲁迪乌斯进入冰雹森林摘取冰冻薰衣草，借大雨共处洞窟。",
+      "trigger": "事件触发：森林之雨作战",
+      "available_information": "知道部分情况",
+      "action": "菲兹 在 森林之雨作战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0932"
+      ]
+    },
+    {
+      "case_id": "BC0925",
+      "character_id": "E0001",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：菲兹真实身分揭示 - 希露菲在冰雹森林的洞窟中向鲁迪乌斯表明真实身分，两人互通心意。",
+      "trigger": "事件触发：菲兹真实身分揭示",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 菲兹真实身分揭示 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0933"
+      ]
+    },
+    {
+      "case_id": "BC0926",
+      "character_id": "E0061",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：菲兹真实身分揭示 - 希露菲在冰雹森林的洞窟中向鲁迪乌斯表明真实身分，两人互通心意。",
+      "trigger": "事件触发：菲兹真实身分揭示",
+      "available_information": "知道部分情况",
+      "action": "菲兹 在 菲兹真实身分揭示 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0933"
+      ]
+    },
+    {
+      "case_id": "BC0927",
+      "character_id": "E0021",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：剑圣认定 - 艾莉丝在剑之圣地获得剑神加尔·法利昂认可成为剑圣，并成为其直属弟子。",
+      "trigger": "事件触发：剑圣认定",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 剑圣认定 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0934"
+      ]
+    },
+    {
+      "case_id": "BC0928",
+      "character_id": "E0022",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "家庭",
+      "context": "事件：剑圣认定 - 艾莉丝在剑之圣地获得剑神加尔·法利昂认可成为剑圣，并成为其直属弟子。",
+      "trigger": "事件触发：剑圣认定",
+      "available_information": "知道部分情况",
+      "action": "基列奴·泰德鲁帝亚 在 剑圣认定 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0934"
+      ]
+    },
+    {
+      "case_id": "BC0929",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "愤怒",
+      "context": "第9卷中 妮娜 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：妮娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0931"
+      ]
+    },
+    {
+      "case_id": "BC0930",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "恐惧",
+      "context": "第9卷中 七星 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：七星 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0932"
+      ]
+    },
+    {
+      "case_id": "BC0931",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "羞耻",
+      "context": "第9卷中 加尔·法利昂 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：加尔·法利昂 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0933"
+      ]
+    },
+    {
+      "case_id": "BC0932",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "嫉妒",
+      "context": "第9卷中 妮娜 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：妮娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0934"
+      ]
+    },
+    {
+      "case_id": "BC0933",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "说谎",
+      "context": "第9卷中 七星 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：七星 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0935"
+      ]
+    },
+    {
+      "case_id": "BC0934",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "幽默",
+      "context": "第9卷中 加尔·法利昂 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：加尔·法利昂 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0936"
+      ]
+    },
+    {
+      "case_id": "BC0935",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "愤怒",
+      "context": "第9卷中 妮娜 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：妮娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0937"
+      ]
+    },
+    {
+      "case_id": "BC0936",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "恐惧",
+      "context": "第9卷中 七星 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：七星 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0938"
+      ]
+    },
+    {
+      "case_id": "BC0937",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "羞耻",
+      "context": "第9卷中 加尔·法利昂 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：加尔·法利昂 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0939"
+      ]
+    },
+    {
+      "case_id": "BC0938",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "嫉妒",
+      "context": "第9卷中 妮娜 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：妮娜 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0940"
+      ]
+    },
+    {
+      "case_id": "BC0939",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "幽默",
+      "context": "第9卷中 E0110 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0945"
+      ]
+    },
+    {
+      "case_id": "BC0940",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "戏弄",
+      "context": "第9卷中 E0111 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0946"
+      ]
+    },
+    {
+      "case_id": "BC0941",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "说谎",
+      "context": "第9卷中 E0108 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0947"
+      ]
+    },
+    {
+      "case_id": "BC0942",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "秘密",
+      "context": "第9卷中 E0110 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0948"
+      ]
+    },
+    {
+      "case_id": "BC0943",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "吸引",
+      "context": "第9卷中 E0111 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0949"
+      ]
+    },
+    {
+      "case_id": "BC0944",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "羞耻",
+      "context": "第9卷中 E0108 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0945"
+      ]
+    },
+    {
+      "case_id": "BC0945",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "幽默",
+      "context": "第9卷中 E0110 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0946"
+      ]
+    },
+    {
+      "case_id": "BC0946",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "戏弄",
+      "context": "第9卷中 E0111 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0947"
+      ]
+    },
+    {
+      "case_id": "BC0947",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "说谎",
+      "context": "第9卷中 E0108 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0948"
+      ]
+    },
+    {
+      "case_id": "BC0948",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "phase_name": "第9卷阶段2",
+      "volume_no": 9,
+      "situation_type": "秘密",
+      "context": "第9卷中 E0110 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0949"
+      ]
+    },
+    {
+      "case_id": "BC0949",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "phase_name": "第9卷阶段3",
+      "volume_no": 9,
+      "situation_type": "吸引",
+      "context": "第9卷中 E0111 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0945"
+      ]
+    },
+    {
+      "case_id": "BC0950",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "phase_name": "第9卷阶段1",
+      "volume_no": 9,
+      "situation_type": "羞耻",
+      "context": "第9卷中 E0108 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0946"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1616,6 +2605,538 @@
       "evidence_refs": [
         "EV0911"
       ]
+    },
+    {
+      "quirk_id": "QK0907",
+      "character_id": "E0061",
+      "phase_id": "phase-9-1",
+      "category": "身份",
+      "name": "菲兹身份真实身分为希露菲叶特",
+      "description": "基于原文事实：菲兹 的 身份 为 真实身分为希露菲叶特，女扮男装。爱丽儿的护卫，真实身分为女扮男装的希露菲叶特。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及真实身分为希露菲叶特，女扮男装"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出真实身分为希露菲叶特，女扮男装",
+      "private_expression": "私下也保持真实身分为希露菲叶特，女扮男装",
+      "behavior_patterns": [
+        "因真实身分为希露菲叶特，女扮男装而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0931"
+      ]
+    },
+    {
+      "quirk_id": "QK0908",
+      "character_id": "E0061",
+      "phase_id": "phase-9-1",
+      "category": "经历",
+      "name": "菲兹经历与鲁迪乌斯重逢并成为",
+      "description": "基于原文事实：菲兹 的 经历 为 与鲁迪乌斯重逢并成为恋人。爱丽儿的护卫，真实身分为女扮男装的希露菲叶特。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与鲁迪乌斯重逢并成为恋人"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与鲁迪乌斯重逢并成为恋人",
+      "private_expression": "私下也保持与鲁迪乌斯重逢并成为恋人",
+      "behavior_patterns": [
+        "因与鲁迪乌斯重逢并成为恋人而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0932"
+      ]
+    },
+    {
+      "quirk_id": "QK0909",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "category": "身份",
+      "name": "七星身份来自鲁迪乌斯前世的穿",
+      "description": "基于原文事实：七星 的 身份 为 来自鲁迪乌斯前世的穿越者。来自鲁迪乌斯前世的穿越者，与奥尔斯帝德同行寻找归途。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及来自鲁迪乌斯前世的穿越者"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出来自鲁迪乌斯前世的穿越者",
+      "private_expression": "私下也保持来自鲁迪乌斯前世的穿越者",
+      "behavior_patterns": [
+        "因来自鲁迪乌斯前世的穿越者而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0933"
+      ]
+    },
+    {
+      "quirk_id": "QK0910",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "category": "经历",
+      "name": "七星经历与奥尔斯帝德同行寻找",
+      "description": "基于原文事实：七星 的 经历 为 与奥尔斯帝德同行寻找返回原本世界的方法。来自鲁迪乌斯前世的穿越者，与奥尔斯帝德同行寻找归途。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与奥尔斯帝德同行寻找返回原本世界的方法"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与奥尔斯帝德同行寻找返回原本世界的方法",
+      "private_expression": "私下也保持与奥尔斯帝德同行寻找返回原本世界的方法",
+      "behavior_patterns": [
+        "因与奥尔斯帝德同行寻找返回原本世界的方法而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0934"
+      ]
+    },
+    {
+      "quirk_id": "QK0911",
+      "character_id": "E0107",
+      "phase_id": "phase-9-1",
+      "category": "身份",
+      "name": "塞伦特身份魔法大学中专研召唤魔",
+      "description": "基于原文事实：塞伦特 的 身份 为 魔法大学中专研召唤魔术的特别生。魔法大学的特别生，专门研究召唤魔术。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及魔法大学中专研召唤魔术的特别生"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出魔法大学中专研召唤魔术的特别生",
+      "private_expression": "私下也保持魔法大学中专研召唤魔术的特别生",
+      "behavior_patterns": [
+        "因魔法大学中专研召唤魔术的特别生而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0935"
+      ]
+    },
+    {
+      "quirk_id": "QK0912",
+      "character_id": "E0021",
+      "phase_id": "phase-9-1",
+      "category": "经历",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特经历在剑之圣地修行两年并",
+      "description": "基于原文事实：艾莉丝·伯雷亚斯·格雷拉特 的 经历 为 在剑之圣地修行两年并获得剑圣称号。菲托亚领主的孙女，红发凶暴的贵族大小姐。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在剑之圣地修行两年并获得剑圣称号"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在剑之圣地修行两年并获得剑圣称号",
+      "private_expression": "私下也保持在剑之圣地修行两年并获得剑圣称号",
+      "behavior_patterns": [
+        "因在剑之圣地修行两年并获得剑圣称号而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0936"
+      ]
+    },
+    {
+      "quirk_id": "QK0913",
+      "character_id": "E0113",
+      "phase_id": "phase-9-1",
+      "category": "身份",
+      "name": "巴迪冈迪身份不死身的魔王，奇希莉",
+      "description": "基于原文事实：巴迪冈迪 的 身份 为 不死身的魔王，奇希莉卡的未婚夫。不死身的魔王，奇希莉卡的未婚夫，拉普拉斯战役前就存在的古老魔王。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及不死身的魔王，奇希莉卡的未婚夫"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出不死身的魔王，奇希莉卡的未婚夫",
+      "private_expression": "私下也保持不死身的魔王，奇希莉卡的未婚夫",
+      "behavior_patterns": [
+        "因不死身的魔王，奇希莉卡的未婚夫而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0937"
+      ]
+    },
+    {
+      "quirk_id": "QK0914",
+      "character_id": "E0113",
+      "phase_id": "phase-9-1",
+      "category": "经历",
+      "name": "巴迪冈迪经历与鲁迪乌斯决斗后承认",
+      "description": "基于原文事实：巴迪冈迪 的 经历 为 与鲁迪乌斯决斗后承认其为勇者。不死身的魔王，奇希莉卡的未婚夫，拉普拉斯战役前就存在的古老魔王。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与鲁迪乌斯决斗后承认其为勇者"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与鲁迪乌斯决斗后承认其为勇者",
+      "private_expression": "私下也保持与鲁迪乌斯决斗后承认其为勇者",
+      "behavior_patterns": [
+        "因与鲁迪乌斯决斗后承认其为勇者而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0938"
+      ]
+    },
+    {
+      "quirk_id": "QK0915",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "category": "口头禅",
+      "name": "V9极详细怪癖1",
+      "description": "第9卷中 E0110 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0945"
+      ]
+    },
+    {
+      "quirk_id": "QK0916",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "category": "小动作",
+      "name": "V9极详细怪癖2",
+      "description": "第9卷中 E0111 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0946"
+      ]
+    },
+    {
+      "quirk_id": "QK0917",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "category": "收藏癖",
+      "name": "V9极详细怪癖3",
+      "description": "第9卷中 E0108 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0947"
+      ]
+    },
+    {
+      "quirk_id": "QK0918",
+      "character_id": "E0110",
+      "phase_id": "phase-9-2",
+      "category": "羞耻表现",
+      "name": "V9极详细怪癖4",
+      "description": "第9卷中 E0110 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0948"
+      ]
+    },
+    {
+      "quirk_id": "QK0919",
+      "character_id": "E0111",
+      "phase_id": "phase-9-3",
+      "category": "紧张习惯",
+      "name": "V9极详细怪癖5",
+      "description": "第9卷中 E0111 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0949"
+      ]
+    },
+    {
+      "quirk_id": "QK0920",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "category": "私下低俗",
+      "name": "V9极详细怪癖6",
+      "description": "第9卷中 E0108 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0945"
+      ]
     }
   ],
   "character_preferences": [
@@ -1719,6 +3240,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0916"
+      ]
+    },
+    {
+      "preference_id": "PF0907",
+      "character_id": "E0061",
+      "phase_id": "phase-9-1",
+      "preference_type": "LIKE",
+      "target": "真实身分为希露菲叶特，女扮男装",
+      "description": "菲兹 对 真实身分为希露菲叶特，女扮男装 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0934"
+      ]
+    },
+    {
+      "preference_id": "PF0908",
+      "character_id": "E0061",
+      "phase_id": "phase-9-1",
+      "preference_type": "LIKE",
+      "target": "与鲁迪乌斯重逢并成为恋人",
+      "description": "菲兹 对 与鲁迪乌斯重逢并成为恋人 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0935"
+      ]
+    },
+    {
+      "preference_id": "PF0909",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "preference_type": "LIKE",
+      "target": "来自鲁迪乌斯前世的穿越者",
+      "description": "七星 对 来自鲁迪乌斯前世的穿越者 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0936"
+      ]
+    },
+    {
+      "preference_id": "PF0910",
+      "character_id": "E0108",
+      "phase_id": "phase-9-1",
+      "preference_type": "LIKE",
+      "target": "与奥尔斯帝德同行寻找返回原本世界的方法",
+      "description": "七星 对 与奥尔斯帝德同行寻找返回原本世界的方法 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0937"
+      ]
+    },
+    {
+      "preference_id": "PF0911",
+      "character_id": "E0107",
+      "phase_id": "phase-9-1",
+      "preference_type": "LIKE",
+      "target": "魔法大学中专研召唤魔术的特别生",
+      "description": "塞伦特 对 魔法大学中专研召唤魔术的特别生 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0938"
+      ]
+    },
+    {
+      "preference_id": "PF0912",
+      "character_id": "E0021",
+      "phase_id": "phase-9-1",
+      "preference_type": "LIKE",
+      "target": "在剑之圣地修行两年并获得剑圣称号",
+      "description": "艾莉丝·伯雷亚斯·格雷拉特 对 在剑之圣地修行两年并获得剑圣称号 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0939"
       ]
     }
   ],

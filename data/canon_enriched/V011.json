@@ -355,6 +355,182 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V11 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1131",
+      "volume_no": 11,
+      "unit_id": "U0201",
+      "chapter_title": "第七话「转折点三」",
+      "source_start_line": 100864,
+      "source_end_line": 100866,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0006 经历: 怀上鲁迪乌斯的孩子"
+    },
+    {
+      "evidence_id": "EV1132",
+      "volume_no": 11,
+      "unit_id": "U0201",
+      "chapter_title": "第七话「转折点三」",
+      "source_start_line": 101472,
+      "source_end_line": 101474,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 决定前往贝卡利特大陆救援塞妮丝"
+    },
+    {
+      "evidence_id": "EV1133",
+      "volume_no": 11,
+      "unit_id": "U0202",
+      "chapter_title": "第八话「道别的问候」",
+      "source_start_line": 101976,
+      "source_end_line": 101978,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0108 经历: 提供记载世界各地转移魔法阵遗迹位置的地图"
+    },
+    {
+      "evidence_id": "EV1134",
+      "volume_no": 11,
+      "unit_id": "U0203",
+      "chapter_title": "第九话「前往贝卡利特大陆」",
+      "source_start_line": 102688,
+      "source_end_line": 102690,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆"
+    },
+    {
+      "evidence_id": "EV1135",
+      "volume_no": 11,
+      "unit_id": "U0208",
+      "chapter_title": "第十四话「沙漠的战士们」",
+      "source_start_line": 104976,
+      "source_end_line": 104978,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0121 经历: 在沙漠旅程中遭盗贼毒箭身亡"
+    },
+    {
+      "evidence_id": "EV1136",
+      "volume_no": 11,
+      "unit_id": "U0209",
+      "chapter_title": "外传「诺伦和米里斯教团」",
+      "source_start_line": 105232,
+      "source_end_line": 105234,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 为鲁迪乌斯的平安每日祈祷"
+    },
+    {
+      "evidence_id": "EV1137",
+      "volume_no": 11,
+      "unit_id": "U0201",
+      "chapter_title": "第七话「转折点三」",
+      "source_start_line": 101176,
+      "source_end_line": 101178,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0003 经历: 被困于拉庞难以救出"
+    },
+    {
+      "evidence_id": "EV1138",
+      "volume_no": 11,
+      "unit_id": "U0201",
+      "chapter_title": "第11卷",
+      "source_start_line": 101176,
+      "source_end_line": 101178,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 转折点三: 希露菲怀孕；鲁迪乌斯收到基斯的求援信，得知塞妮丝难以救出。"
+    },
+    {
+      "evidence_id": "EV1139",
+      "volume_no": 11,
+      "unit_id": "U0203",
+      "chapter_title": "第11卷",
+      "source_start_line": 102688,
+      "source_end_line": 102690,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 转移至贝卡利特大陆: 鲁迪乌斯与艾莉娜丽洁利用西南森林的转移魔法阵抵达贝卡利特大陆。"
+    },
+    {
+      "evidence_id": "EV1140",
+      "volume_no": 11,
+      "unit_id": "U0205",
+      "chapter_title": "第11卷",
+      "source_start_line": 103292,
+      "source_end_line": 103294,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 沙漠旅程: 鲁迪乌斯与艾莉娜丽洁穿越贝卡利特大陆沙漠，途中遭遇众多魔物与盗贼。"
+    },
+    {
+      "evidence_id": "EV1141",
+      "volume_no": 11,
+      "unit_id": "U0208",
+      "chapter_title": "第11卷",
+      "source_start_line": 105216,
+      "source_end_line": 105218,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 抵达拉庞: 经过约一个半月的旅程，鲁迪乌斯与艾莉娜丽洁抵达迷宫都市拉庞。"
+    },
+    {
+      "evidence_id": "EV1142",
+      "volume_no": 11,
+      "unit_id": "U0194",
+      "chapter_title": "第一话「姊妹的待遇」",
+      "source_start_line": 97292,
+      "source_end_line": 97293,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V11 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1143",
+      "volume_no": 11,
+      "unit_id": "U0195",
+      "chapter_title": "第二话「女仆和住宿生」",
+      "source_start_line": 97917,
+      "source_end_line": 97918,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V11 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1144",
+      "volume_no": 11,
+      "unit_id": "U0196",
+      "chapter_title": "闲话「人偶研究与主从关系」",
+      "source_start_line": 98456,
+      "source_end_line": 98457,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V11 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1145",
+      "volume_no": 11,
+      "unit_id": "U0197",
+      "chapter_title": "第三话「龙头老大和他的伙伴们」",
+      "source_start_line": 98759,
+      "source_end_line": 98760,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V11 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1146",
+      "volume_no": 11,
+      "unit_id": "U0198",
+      "chapter_title": "第四话「大哥的心情」",
+      "source_start_line": 99396,
+      "source_end_line": 99397,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V11 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1122,6 +1298,786 @@
       "evidence_refs": [
         "EV1120"
       ]
+    },
+    {
+      "case_id": "BC1121",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "家庭",
+      "context": "事件：转折点三 - 希露菲怀孕；鲁迪乌斯收到基斯的求援信，得知塞妮丝难以救出。",
+      "trigger": "事件触发：转折点三",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 转折点三 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1131"
+      ]
+    },
+    {
+      "case_id": "BC1122",
+      "character_id": "E0006",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "家庭",
+      "context": "事件：转折点三 - 希露菲怀孕；鲁迪乌斯收到基斯的求援信，得知塞妮丝难以救出。",
+      "trigger": "事件触发：转折点三",
+      "available_information": "知道部分情况",
+      "action": "希露菲叶特 在 转折点三 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1131"
+      ]
+    },
+    {
+      "case_id": "BC1123",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "危险",
+      "context": "事件：转移至贝卡利特大陆 - 鲁迪乌斯与艾莉娜丽洁利用西南森林的转移魔法阵抵达贝卡利特大陆。",
+      "trigger": "事件触发：转移至贝卡利特大陆",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 转移至贝卡利特大陆 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV1132"
+      ]
+    },
+    {
+      "case_id": "BC1124",
+      "character_id": "E0104",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "危险",
+      "context": "事件：转移至贝卡利特大陆 - 鲁迪乌斯与艾莉娜丽洁利用西南森林的转移魔法阵抵达贝卡利特大陆。",
+      "trigger": "事件触发：转移至贝卡利特大陆",
+      "available_information": "知道部分情况",
+      "action": "艾莉娜丽洁·杜拉冈罗德 在 转移至贝卡利特大陆 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV1132"
+      ]
+    },
+    {
+      "case_id": "BC1125",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "家庭",
+      "context": "事件：沙漠旅程 - 鲁迪乌斯与艾莉娜丽洁穿越贝卡利特大陆沙漠，途中遭遇众多魔物与盗贼。",
+      "trigger": "事件触发：沙漠旅程",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 沙漠旅程 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1133"
+      ]
+    },
+    {
+      "case_id": "BC1126",
+      "character_id": "E0104",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "家庭",
+      "context": "事件：沙漠旅程 - 鲁迪乌斯与艾莉娜丽洁穿越贝卡利特大陆沙漠，途中遭遇众多魔物与盗贼。",
+      "trigger": "事件触发：沙漠旅程",
+      "available_information": "知道部分情况",
+      "action": "艾莉娜丽洁·杜拉冈罗德 在 沙漠旅程 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1133"
+      ]
+    },
+    {
+      "case_id": "BC1127",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "家庭",
+      "context": "事件：抵达拉庞 - 经过约一个半月的旅程，鲁迪乌斯与艾莉娜丽洁抵达迷宫都市拉庞。",
+      "trigger": "事件触发：抵达拉庞",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 抵达拉庞 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1134"
+      ]
+    },
+    {
+      "case_id": "BC1128",
+      "character_id": "E0104",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "家庭",
+      "context": "事件：抵达拉庞 - 经过约一个半月的旅程，鲁迪乌斯与艾莉娜丽洁抵达迷宫都市拉庞。",
+      "trigger": "事件触发：抵达拉庞",
+      "available_information": "知道部分情况",
+      "action": "艾莉娜丽洁·杜拉冈罗德 在 抵达拉庞 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1134"
+      ]
+    },
+    {
+      "case_id": "BC1129",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "愤怒",
+      "context": "第11卷中 巴里巴德姆 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴里巴德姆 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1131"
+      ]
+    },
+    {
+      "case_id": "BC1130",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "恐惧",
+      "context": "第11卷中 加尔邦 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：加尔邦 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1132"
+      ]
+    },
+    {
+      "case_id": "BC1131",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "羞耻",
+      "context": "第11卷中 卡尔梅丽塔 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：卡尔梅丽塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1133"
+      ]
+    },
+    {
+      "case_id": "BC1132",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "嫉妒",
+      "context": "第11卷中 巴里巴德姆 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴里巴德姆 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1134"
+      ]
+    },
+    {
+      "case_id": "BC1133",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "说谎",
+      "context": "第11卷中 加尔邦 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：加尔邦 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1135"
+      ]
+    },
+    {
+      "case_id": "BC1134",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "幽默",
+      "context": "第11卷中 卡尔梅丽塔 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：卡尔梅丽塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1136"
+      ]
+    },
+    {
+      "case_id": "BC1135",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "愤怒",
+      "context": "第11卷中 巴里巴德姆 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴里巴德姆 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1137"
+      ]
+    },
+    {
+      "case_id": "BC1136",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "恐惧",
+      "context": "第11卷中 加尔邦 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：加尔邦 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1138"
+      ]
+    },
+    {
+      "case_id": "BC1137",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "羞耻",
+      "context": "第11卷中 卡尔梅丽塔 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：卡尔梅丽塔 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1139"
+      ]
+    },
+    {
+      "case_id": "BC1138",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "嫉妒",
+      "context": "第11卷中 巴里巴德姆 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：巴里巴德姆 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1140"
+      ]
+    },
+    {
+      "case_id": "BC1139",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "幽默",
+      "context": "第11卷中 E0119 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1142"
+      ]
+    },
+    {
+      "case_id": "BC1140",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "戏弄",
+      "context": "第11卷中 E0118 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1143"
+      ]
+    },
+    {
+      "case_id": "BC1141",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "说谎",
+      "context": "第11卷中 E0120 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1144"
+      ]
+    },
+    {
+      "case_id": "BC1142",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "秘密",
+      "context": "第11卷中 E0119 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1145"
+      ]
+    },
+    {
+      "case_id": "BC1143",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "吸引",
+      "context": "第11卷中 E0118 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1146"
+      ]
+    },
+    {
+      "case_id": "BC1144",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "羞耻",
+      "context": "第11卷中 E0120 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1142"
+      ]
+    },
+    {
+      "case_id": "BC1145",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "幽默",
+      "context": "第11卷中 E0119 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1143"
+      ]
+    },
+    {
+      "case_id": "BC1146",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "戏弄",
+      "context": "第11卷中 E0118 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1144"
+      ]
+    },
+    {
+      "case_id": "BC1147",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "说谎",
+      "context": "第11卷中 E0120 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1145"
+      ]
+    },
+    {
+      "case_id": "BC1148",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "phase_name": "第11卷阶段2",
+      "volume_no": 11,
+      "situation_type": "秘密",
+      "context": "第11卷中 E0119 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1146"
+      ]
+    },
+    {
+      "case_id": "BC1149",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "phase_name": "第11卷阶段1",
+      "volume_no": 11,
+      "situation_type": "吸引",
+      "context": "第11卷中 E0118 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1142"
+      ]
+    },
+    {
+      "case_id": "BC1150",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "phase_name": "第11卷阶段3",
+      "volume_no": 11,
+      "situation_type": "羞耻",
+      "context": "第11卷中 E0120 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1143"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1615,6 +2571,503 @@
       "evidence_refs": [
         "EV1111"
       ]
+    },
+    {
+      "quirk_id": "QK1107",
+      "character_id": "E0006",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "希露菲叶特经历怀上鲁迪乌斯的孩子",
+      "description": "基于原文事实：希露菲叶特 的 经历 为 怀上鲁迪乌斯的孩子。鲁迪乌斯的青梅竹马与妻子。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及怀上鲁迪乌斯的孩子"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出怀上鲁迪乌斯的孩子",
+      "private_expression": "私下也保持怀上鲁迪乌斯的孩子",
+      "behavior_patterns": [
+        "因怀上鲁迪乌斯的孩子而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1131"
+      ]
+    },
+    {
+      "quirk_id": "QK1108",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历决定前往贝卡利特大陆",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 决定前往贝卡利特大陆救援塞妮丝。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及决定前往贝卡利特大陆救援塞妮丝"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出决定前往贝卡利特大陆救援塞妮丝",
+      "private_expression": "私下也保持决定前往贝卡利特大陆救援塞妮丝",
+      "behavior_patterns": [
+        "因决定前往贝卡利特大陆救援塞妮丝而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1132"
+      ]
+    },
+    {
+      "quirk_id": "QK1109",
+      "character_id": "E0108",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "七星经历提供记载世界各地转移",
+      "description": "基于原文事实：七星 的 经历 为 提供记载世界各地转移魔法阵遗迹位置的地图。来自鲁迪乌斯前世的穿越者，掌握转移魔法阵的情报。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及提供记载世界各地转移魔法阵遗迹位置的地图"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出提供记载世界各地转移魔法阵遗迹位置的地图",
+      "private_expression": "私下也保持提供记载世界各地转移魔法阵遗迹位置的地图",
+      "behavior_patterns": [
+        "因提供记载世界各地转移魔法阵遗迹位置的地图而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1133"
+      ]
+    },
+    {
+      "quirk_id": "QK1110",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历与艾莉娜丽洁通过转移",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆。携带前世记忆转生的格雷拉特家长男。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆",
+      "private_expression": "私下也保持与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆",
+      "behavior_patterns": [
+        "因与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1134"
+      ]
+    },
+    {
+      "quirk_id": "QK1111",
+      "character_id": "E0121",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "东特经历在沙漠旅程中遭盗贼毒",
+      "description": "基于原文事实：东特 的 经历 为 在沙漠旅程中遭盗贼毒箭身亡。贝卡利特大陆的沙漠战士，在盗贼袭击中身亡。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在沙漠旅程中遭盗贼毒箭身亡"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在沙漠旅程中遭盗贼毒箭身亡",
+      "private_expression": "私下也保持在沙漠旅程中遭盗贼毒箭身亡",
+      "behavior_patterns": [
+        "因在沙漠旅程中遭盗贼毒箭身亡而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1135"
+      ]
+    },
+    {
+      "quirk_id": "QK1112",
+      "character_id": "E0007",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "诺伦经历为鲁迪乌斯的平安每日",
+      "description": "基于原文事实：诺伦 的 经历 为 为鲁迪乌斯的平安每日祈祷。保罗与塞妮丝的女儿，鲁迪乌斯的妹妹，米里斯教徒。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及为鲁迪乌斯的平安每日祈祷"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出为鲁迪乌斯的平安每日祈祷",
+      "private_expression": "私下也保持为鲁迪乌斯的平安每日祈祷",
+      "behavior_patterns": [
+        "因为鲁迪乌斯的平安每日祈祷而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1136"
+      ]
+    },
+    {
+      "quirk_id": "QK1113",
+      "character_id": "E0003",
+      "phase_id": "phase-11-1",
+      "category": "经历",
+      "name": "塞妮丝·格雷拉特经历被困于拉庞难以救出",
+      "description": "基于原文事实：塞妮丝·格雷拉特 的 经历 为 被困于拉庞难以救出。鲁迪乌斯的母亲，被困于迷宫都市拉庞。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被困于拉庞难以救出"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被困于拉庞难以救出",
+      "private_expression": "私下也保持被困于拉庞难以救出",
+      "behavior_patterns": [
+        "因被困于拉庞难以救出而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1137"
+      ]
+    },
+    {
+      "quirk_id": "QK1114",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "category": "口头禅",
+      "name": "V11极详细怪癖1",
+      "description": "第11卷中 E0119 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1142"
+      ]
+    },
+    {
+      "quirk_id": "QK1115",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "category": "小动作",
+      "name": "V11极详细怪癖2",
+      "description": "第11卷中 E0118 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1143"
+      ]
+    },
+    {
+      "quirk_id": "QK1116",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "category": "收藏癖",
+      "name": "V11极详细怪癖3",
+      "description": "第11卷中 E0120 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1144"
+      ]
+    },
+    {
+      "quirk_id": "QK1117",
+      "character_id": "E0119",
+      "phase_id": "phase-11-2",
+      "category": "羞耻表现",
+      "name": "V11极详细怪癖4",
+      "description": "第11卷中 E0119 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1145"
+      ]
+    },
+    {
+      "quirk_id": "QK1118",
+      "character_id": "E0118",
+      "phase_id": "phase-11-1",
+      "category": "紧张习惯",
+      "name": "V11极详细怪癖5",
+      "description": "第11卷中 E0118 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1146"
+      ]
+    },
+    {
+      "quirk_id": "QK1119",
+      "character_id": "E0120",
+      "phase_id": "phase-11-3",
+      "category": "私下低俗",
+      "name": "V11极详细怪癖6",
+      "description": "第11卷中 E0120 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1142"
+      ]
     }
   ],
   "character_preferences": [
@@ -1718,6 +3171,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1116"
+      ]
+    },
+    {
+      "preference_id": "PF1107",
+      "character_id": "E0006",
+      "phase_id": "phase-11-1",
+      "preference_type": "LIKE",
+      "target": "怀上鲁迪乌斯的孩子",
+      "description": "希露菲叶特 对 怀上鲁迪乌斯的孩子 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1134"
+      ]
+    },
+    {
+      "preference_id": "PF1108",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "preference_type": "LIKE",
+      "target": "决定前往贝卡利特大陆救援塞妮丝",
+      "description": "鲁迪乌斯·格雷拉特 对 决定前往贝卡利特大陆救援塞妮丝 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1135"
+      ]
+    },
+    {
+      "preference_id": "PF1109",
+      "character_id": "E0108",
+      "phase_id": "phase-11-1",
+      "preference_type": "LIKE",
+      "target": "提供记载世界各地转移魔法阵遗迹位置的地图",
+      "description": "七星 对 提供记载世界各地转移魔法阵遗迹位置的地图 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1136"
+      ]
+    },
+    {
+      "preference_id": "PF1110",
+      "character_id": "E0001",
+      "phase_id": "phase-11-1",
+      "preference_type": "LIKE",
+      "target": "与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大",
+      "description": "鲁迪乌斯·格雷拉特 对 与艾莉娜丽洁通过转移魔法阵抵达贝卡利特大陆 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1137"
+      ]
+    },
+    {
+      "preference_id": "PF1111",
+      "character_id": "E0121",
+      "phase_id": "phase-11-1",
+      "preference_type": "LIKE",
+      "target": "在沙漠旅程中遭盗贼毒箭身亡",
+      "description": "东特 对 在沙漠旅程中遭盗贼毒箭身亡 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1138"
+      ]
+    },
+    {
+      "preference_id": "PF1112",
+      "character_id": "E0007",
+      "phase_id": "phase-11-1",
+      "preference_type": "LIKE",
+      "target": "为鲁迪乌斯的平安每日祈祷",
+      "description": "诺伦 对 为鲁迪乌斯的平安每日祈祷 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 11,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1139"
       ]
     }
   ],

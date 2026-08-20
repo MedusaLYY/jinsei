@@ -349,6 +349,160 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V16 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1631",
+      "volume_no": 16,
+      "unit_id": "U0284",
+      "chapter_title": "第二话「守护魔兽」",
+      "source_start_line": 142736,
+      "source_end_line": 142738,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0136 身份: 鲁迪乌斯召唤的守护魔兽"
+    },
+    {
+      "evidence_id": "EV1632",
+      "volume_no": 16,
+      "unit_id": "U0290",
+      "chapter_title": "第八话「甲龙王和第二公主」",
+      "source_start_line": 147434,
+      "source_end_line": 147436,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0029 经历: 同意协助爱丽儿成为阿斯拉女王"
+    },
+    {
+      "evidence_id": "EV1633",
+      "volume_no": 16,
+      "unit_id": "U0290",
+      "chapter_title": "第八话「甲龙王和第二公主」",
+      "source_start_line": 147434,
+      "source_end_line": 147436,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0044 经历: 说服佩尔基乌斯成为自己的后盾"
+    },
+    {
+      "evidence_id": "EV1634",
+      "volume_no": 16,
+      "unit_id": "U0289",
+      "chapter_title": "第七话「图书迷宫」",
+      "source_start_line": 146512,
+      "source_end_line": 146514,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0046 经历: 留下记述爱丽儿与路克的日记"
+    },
+    {
+      "evidence_id": "EV1635",
+      "volume_no": 16,
+      "unit_id": "U0284",
+      "chapter_title": "第二话「守护魔兽」",
+      "source_start_line": 142736,
+      "source_end_line": 142738,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 经历: 召唤守护魔兽雷欧保护家人"
+    },
+    {
+      "evidence_id": "EV1636",
+      "volume_no": 16,
+      "unit_id": "U0284",
+      "chapter_title": "第16卷",
+      "source_start_line": 142736,
+      "source_end_line": 142738,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 召唤守护魔兽: 鲁迪乌斯使用奥尔斯帝德提供的魔法阵召唤出守护魔兽雷欧。"
+    },
+    {
+      "evidence_id": "EV1637",
+      "volume_no": 16,
+      "unit_id": "U0289",
+      "chapter_title": "第16卷",
+      "source_start_line": 145620,
+      "source_end_line": 145622,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 图书迷宫探索: 鲁迪乌斯一行进入图书迷宫调查卡瓦尼斯王并发现迪利克的日记。"
+    },
+    {
+      "evidence_id": "EV1638",
+      "volume_no": 16,
+      "unit_id": "U0290",
+      "chapter_title": "第16卷",
+      "source_start_line": 147434,
+      "source_end_line": 147436,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 佩尔基乌斯协助: 爱丽儿答出卡瓦尼斯王理想王者的答案，佩尔基乌斯宣布支持其登上王位。"
+    },
+    {
+      "evidence_id": "EV1639",
+      "volume_no": 16,
+      "unit_id": "U0290",
+      "chapter_title": "第16卷",
+      "source_start_line": 147832,
+      "source_end_line": 147834,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 前往阿斯拉王国: 爱丽儿一行决定返回阿斯拉王国参加王位争夺战。"
+    },
+    {
+      "evidence_id": "EV1640",
+      "volume_no": 16,
+      "unit_id": "U0283",
+      "chapter_title": "第一话「首次任务」",
+      "source_start_line": 141708,
+      "source_end_line": 141709,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V16 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1641",
+      "volume_no": 16,
+      "unit_id": "U0284",
+      "chapter_title": "第二话「守护魔兽」",
+      "source_start_line": 142527,
+      "source_end_line": 142528,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V16 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1642",
+      "volume_no": 16,
+      "unit_id": "U0285",
+      "chapter_title": "第三话「先下手为强」",
+      "source_start_line": 143002,
+      "source_end_line": 143003,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V16 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1643",
+      "volume_no": 16,
+      "unit_id": "U0286",
+      "chapter_title": "第四话「下定决心」",
+      "source_start_line": 143651,
+      "source_end_line": 143652,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V16 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1644",
+      "volume_no": 16,
+      "unit_id": "U0287",
+      "chapter_title": "第五话「协助体制」",
+      "source_start_line": 144350,
+      "source_end_line": 144351,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V16 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1116,6 +1270,786 @@
       "evidence_refs": [
         "EV1620"
       ]
+    },
+    {
+      "case_id": "BC1621",
+      "character_id": "E0001",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：召唤守护魔兽 - 鲁迪乌斯使用奥尔斯帝德提供的魔法阵召唤出守护魔兽雷欧。",
+      "trigger": "事件触发：召唤守护魔兽",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 召唤守护魔兽 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1631"
+      ]
+    },
+    {
+      "case_id": "BC1622",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：召唤守护魔兽 - 鲁迪乌斯使用奥尔斯帝德提供的魔法阵召唤出守护魔兽雷欧。",
+      "trigger": "事件触发：召唤守护魔兽",
+      "available_information": "知道部分情况",
+      "action": "雷欧 在 召唤守护魔兽 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1631"
+      ]
+    },
+    {
+      "case_id": "BC1623",
+      "character_id": "E0001",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：图书迷宫探索 - 鲁迪乌斯一行进入图书迷宫调查卡瓦尼斯王并发现迪利克的日记。",
+      "trigger": "事件触发：图书迷宫探索",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 图书迷宫探索 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1632"
+      ]
+    },
+    {
+      "case_id": "BC1624",
+      "character_id": "E0044",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：图书迷宫探索 - 鲁迪乌斯一行进入图书迷宫调查卡瓦尼斯王并发现迪利克的日记。",
+      "trigger": "事件触发：图书迷宫探索",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 图书迷宫探索 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1632"
+      ]
+    },
+    {
+      "case_id": "BC1625",
+      "character_id": "E0044",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：佩尔基乌斯协助 - 爱丽儿答出卡瓦尼斯王理想王者的答案，佩尔基乌斯宣布支持其登上王位。",
+      "trigger": "事件触发：佩尔基乌斯协助",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 佩尔基乌斯协助 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1633"
+      ]
+    },
+    {
+      "case_id": "BC1626",
+      "character_id": "E0029",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：佩尔基乌斯协助 - 爱丽儿答出卡瓦尼斯王理想王者的答案，佩尔基乌斯宣布支持其登上王位。",
+      "trigger": "事件触发：佩尔基乌斯协助",
+      "available_information": "知道部分情况",
+      "action": "佩尔基乌斯 在 佩尔基乌斯协助 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1633"
+      ]
+    },
+    {
+      "case_id": "BC1627",
+      "character_id": "E0044",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：前往阿斯拉王国 - 爱丽儿一行决定返回阿斯拉王国参加王位争夺战。",
+      "trigger": "事件触发：前往阿斯拉王国",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 前往阿斯拉王国 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1634"
+      ]
+    },
+    {
+      "case_id": "BC1628",
+      "character_id": "E0001",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "家庭",
+      "context": "事件：前往阿斯拉王国 - 爱丽儿一行决定返回阿斯拉王国参加王位争夺战。",
+      "trigger": "事件触发：前往阿斯拉王国",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 前往阿斯拉王国 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1634"
+      ]
+    },
+    {
+      "case_id": "BC1629",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "愤怒",
+      "context": "第16卷中 雷欧 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雷欧 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1631"
+      ]
+    },
+    {
+      "case_id": "BC1630",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "恐惧",
+      "context": "第16卷中 卡瓦尼斯·司里安·阿斯拉 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：卡瓦尼斯·司里安·阿斯拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1632"
+      ]
+    },
+    {
+      "case_id": "BC1631",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "羞耻",
+      "context": "第16卷中 贝多贝 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贝多贝 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1633"
+      ]
+    },
+    {
+      "case_id": "BC1632",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "嫉妒",
+      "context": "第16卷中 雷欧 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雷欧 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1634"
+      ]
+    },
+    {
+      "case_id": "BC1633",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "说谎",
+      "context": "第16卷中 卡瓦尼斯·司里安·阿斯拉 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：卡瓦尼斯·司里安·阿斯拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1635"
+      ]
+    },
+    {
+      "case_id": "BC1634",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "幽默",
+      "context": "第16卷中 贝多贝 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贝多贝 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1636"
+      ]
+    },
+    {
+      "case_id": "BC1635",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "愤怒",
+      "context": "第16卷中 雷欧 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雷欧 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1637"
+      ]
+    },
+    {
+      "case_id": "BC1636",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "恐惧",
+      "context": "第16卷中 卡瓦尼斯·司里安·阿斯拉 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：卡瓦尼斯·司里安·阿斯拉 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1638"
+      ]
+    },
+    {
+      "case_id": "BC1637",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "羞耻",
+      "context": "第16卷中 贝多贝 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：贝多贝 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1639"
+      ]
+    },
+    {
+      "case_id": "BC1638",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "嫉妒",
+      "context": "第16卷中 雷欧 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：雷欧 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1631"
+      ]
+    },
+    {
+      "case_id": "BC1639",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "幽默",
+      "context": "第16卷中 E0138 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1640"
+      ]
+    },
+    {
+      "case_id": "BC1640",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "戏弄",
+      "context": "第16卷中 E0137 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1641"
+      ]
+    },
+    {
+      "case_id": "BC1641",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "说谎",
+      "context": "第16卷中 E0136 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1642"
+      ]
+    },
+    {
+      "case_id": "BC1642",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "秘密",
+      "context": "第16卷中 E0138 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1643"
+      ]
+    },
+    {
+      "case_id": "BC1643",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "吸引",
+      "context": "第16卷中 E0137 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1644"
+      ]
+    },
+    {
+      "case_id": "BC1644",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "羞耻",
+      "context": "第16卷中 E0136 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1640"
+      ]
+    },
+    {
+      "case_id": "BC1645",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "幽默",
+      "context": "第16卷中 E0138 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1641"
+      ]
+    },
+    {
+      "case_id": "BC1646",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "戏弄",
+      "context": "第16卷中 E0137 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1642"
+      ]
+    },
+    {
+      "case_id": "BC1647",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "说谎",
+      "context": "第16卷中 E0136 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1643"
+      ]
+    },
+    {
+      "case_id": "BC1648",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "phase_name": "第16卷阶段3",
+      "volume_no": 16,
+      "situation_type": "秘密",
+      "context": "第16卷中 E0138 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1644"
+      ]
+    },
+    {
+      "case_id": "BC1649",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "phase_name": "第16卷阶段2",
+      "volume_no": 16,
+      "situation_type": "吸引",
+      "context": "第16卷中 E0137 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1640"
+      ]
+    },
+    {
+      "case_id": "BC1650",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "phase_name": "第16卷阶段1",
+      "volume_no": 16,
+      "situation_type": "羞耻",
+      "context": "第16卷中 E0136 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1641"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1609,6 +2543,433 @@
       "evidence_refs": [
         "EV1611"
       ]
+    },
+    {
+      "quirk_id": "QK1607",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "category": "身份",
+      "name": "雷欧身份鲁迪乌斯召唤的守护魔",
+      "description": "基于原文事实：雷欧 的 身份 为 鲁迪乌斯召唤的守护魔兽。鲁迪乌斯召唤的守护魔兽，德路迪亚村的狗，忠实守护家人。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及鲁迪乌斯召唤的守护魔兽"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出鲁迪乌斯召唤的守护魔兽",
+      "private_expression": "私下也保持鲁迪乌斯召唤的守护魔兽",
+      "behavior_patterns": [
+        "因鲁迪乌斯召唤的守护魔兽而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1631"
+      ]
+    },
+    {
+      "quirk_id": "QK1608",
+      "character_id": "E0029",
+      "phase_id": "phase-16-1",
+      "category": "经历",
+      "name": "佩尔基乌斯经历同意协助爱丽儿成为阿",
+      "description": "基于原文事实：佩尔基乌斯 的 经历 为 同意协助爱丽儿成为阿斯拉女王。甲龙王，杀死魔神的三英雄之一，决定支持爱丽儿登上王位。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及同意协助爱丽儿成为阿斯拉女王"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出同意协助爱丽儿成为阿斯拉女王",
+      "private_expression": "私下也保持同意协助爱丽儿成为阿斯拉女王",
+      "behavior_patterns": [
+        "因同意协助爱丽儿成为阿斯拉女王而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1632"
+      ]
+    },
+    {
+      "quirk_id": "QK1609",
+      "character_id": "E0044",
+      "phase_id": "phase-16-1",
+      "category": "经历",
+      "name": "爱丽儿·阿涅摩伊·阿斯拉经历说服佩尔基乌斯成为自",
+      "description": "基于原文事实：爱丽儿·阿涅摩伊·阿斯拉 的 经历 为 说服佩尔基乌斯成为自己的后盾。阿斯拉王国第二公主，立志成为女王。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及说服佩尔基乌斯成为自己的后盾"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出说服佩尔基乌斯成为自己的后盾",
+      "private_expression": "私下也保持说服佩尔基乌斯成为自己的后盾",
+      "behavior_patterns": [
+        "因说服佩尔基乌斯成为自己的后盾而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1633"
+      ]
+    },
+    {
+      "quirk_id": "QK1610",
+      "character_id": "E0046",
+      "phase_id": "phase-16-1",
+      "category": "经历",
+      "name": "迪利克·雷特巴特经历留下记述爱丽儿与路克",
+      "description": "基于原文事实：迪利克·雷特巴特 的 经历 为 留下记述爱丽儿与路克的日记。爱丽儿的守护术师，为保护爱丽儿而死，留下记述其理想的日记。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及留下记述爱丽儿与路克的日记"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出留下记述爱丽儿与路克的日记",
+      "private_expression": "私下也保持留下记述爱丽儿与路克的日记",
+      "behavior_patterns": [
+        "因留下记述爱丽儿与路克的日记而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1634"
+      ]
+    },
+    {
+      "quirk_id": "QK1611",
+      "character_id": "E0001",
+      "phase_id": "phase-16-1",
+      "category": "经历",
+      "name": "鲁迪乌斯·格雷拉特经历召唤守护魔兽雷欧保护",
+      "description": "基于原文事实：鲁迪乌斯·格雷拉特 的 经历 为 召唤守护魔兽雷欧保护家人。携带前世记忆转生的格雷拉特家长男，龙神奥尔斯帝德的部下。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及召唤守护魔兽雷欧保护家人"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出召唤守护魔兽雷欧保护家人",
+      "private_expression": "私下也保持召唤守护魔兽雷欧保护家人",
+      "behavior_patterns": [
+        "因召唤守护魔兽雷欧保护家人而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1635"
+      ]
+    },
+    {
+      "quirk_id": "QK1612",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "category": "口头禅",
+      "name": "V16极详细怪癖1",
+      "description": "第16卷中 E0138 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1640"
+      ]
+    },
+    {
+      "quirk_id": "QK1613",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "category": "小动作",
+      "name": "V16极详细怪癖2",
+      "description": "第16卷中 E0137 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1641"
+      ]
+    },
+    {
+      "quirk_id": "QK1614",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "category": "收藏癖",
+      "name": "V16极详细怪癖3",
+      "description": "第16卷中 E0136 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1642"
+      ]
+    },
+    {
+      "quirk_id": "QK1615",
+      "character_id": "E0138",
+      "phase_id": "phase-16-3",
+      "category": "羞耻表现",
+      "name": "V16极详细怪癖4",
+      "description": "第16卷中 E0138 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1643"
+      ]
+    },
+    {
+      "quirk_id": "QK1616",
+      "character_id": "E0137",
+      "phase_id": "phase-16-2",
+      "category": "紧张习惯",
+      "name": "V16极详细怪癖5",
+      "description": "第16卷中 E0137 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1644"
+      ]
+    },
+    {
+      "quirk_id": "QK1617",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "category": "私下低俗",
+      "name": "V16极详细怪癖6",
+      "description": "第16卷中 E0136 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1640"
+      ]
     }
   ],
   "character_preferences": [
@@ -1712,6 +3073,91 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1616"
+      ]
+    },
+    {
+      "preference_id": "PF1607",
+      "character_id": "E0136",
+      "phase_id": "phase-16-1",
+      "preference_type": "LIKE",
+      "target": "鲁迪乌斯召唤的守护魔兽",
+      "description": "雷欧 对 鲁迪乌斯召唤的守护魔兽 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1634"
+      ]
+    },
+    {
+      "preference_id": "PF1608",
+      "character_id": "E0029",
+      "phase_id": "phase-16-1",
+      "preference_type": "LIKE",
+      "target": "同意协助爱丽儿成为阿斯拉女王",
+      "description": "佩尔基乌斯 对 同意协助爱丽儿成为阿斯拉女王 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1635"
+      ]
+    },
+    {
+      "preference_id": "PF1609",
+      "character_id": "E0044",
+      "phase_id": "phase-16-1",
+      "preference_type": "LIKE",
+      "target": "说服佩尔基乌斯成为自己的后盾",
+      "description": "爱丽儿·阿涅摩伊·阿斯拉 对 说服佩尔基乌斯成为自己的后盾 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1636"
+      ]
+    },
+    {
+      "preference_id": "PF1610",
+      "character_id": "E0046",
+      "phase_id": "phase-16-1",
+      "preference_type": "LIKE",
+      "target": "留下记述爱丽儿与路克的日记",
+      "description": "迪利克·雷特巴特 对 留下记述爱丽儿与路克的日记 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1637"
+      ]
+    },
+    {
+      "preference_id": "PF1611",
+      "character_id": "E0001",
+      "phase_id": "phase-16-1",
+      "preference_type": "LIKE",
+      "target": "召唤守护魔兽雷欧保护家人",
+      "description": "鲁迪乌斯·格雷拉特 对 召唤守护魔兽雷欧保护家人 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1638"
       ]
     }
   ],

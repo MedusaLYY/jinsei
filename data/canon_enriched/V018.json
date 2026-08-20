@@ -349,6 +349,149 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V18 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1831",
+      "volume_no": 18,
+      "unit_id": "U0317",
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "source_start_line": 160886,
+      "source_end_line": 160888,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0149 身份: 洛琪希与鲁迪乌斯的女儿"
+    },
+    {
+      "evidence_id": "EV1832",
+      "volume_no": 18,
+      "unit_id": "U0323",
+      "chapter_title": "第八话「再度造访德路迪亚村」",
+      "source_start_line": 165644,
+      "source_end_line": 165646,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0148 身份: 猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身"
+    },
+    {
+      "evidence_id": "EV1833",
+      "volume_no": 18,
+      "unit_id": "U0322",
+      "chapter_title": "第七话「社内投资」",
+      "source_start_line": 164810,
+      "source_end_line": 164812,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0008 经历: 与莉妮亚共同创立鲁德佣兵团"
+    },
+    {
+      "evidence_id": "EV1834",
+      "volume_no": 18,
+      "unit_id": "U0318",
+      "chapter_title": "第三话「入学典礼与学生会会长」",
+      "source_start_line": 161736,
+      "source_end_line": 161738,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 当选魔法大学学生会会长"
+    },
+    {
+      "evidence_id": "EV1835",
+      "volume_no": 18,
+      "unit_id": "U0327",
+      "chapter_title": "第十二话「下一场战役」",
+      "source_start_line": 168106,
+      "source_end_line": 168108,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0007 经历: 决定成为冒险者"
+    },
+    {
+      "evidence_id": "EV1836",
+      "volume_no": 18,
+      "unit_id": "U0322",
+      "chapter_title": "第18卷",
+      "source_start_line": 164810,
+      "source_end_line": 164812,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 鲁德佣兵团创立: 鲁迪乌斯与爱夏、莉妮亚创立鲁德佣兵团。"
+    },
+    {
+      "evidence_id": "EV1837",
+      "volume_no": 18,
+      "unit_id": "U0323",
+      "chapter_title": "第18卷",
+      "source_start_line": 165176,
+      "source_end_line": 165178,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 德路迪亚村再访: 鲁迪乌斯、莉妮亚与雷欧再访德路迪亚村，确认莉妮亚的身世。"
+    },
+    {
+      "evidence_id": "EV1838",
+      "volume_no": 18,
+      "unit_id": "U0318",
+      "chapter_title": "第18卷",
+      "source_start_line": 161736,
+      "source_end_line": 161738,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 诺伦学生会会长就任: 诺伦在入学典礼上作为学生会会长致词。"
+    },
+    {
+      "evidence_id": "EV1839",
+      "volume_no": 18,
+      "unit_id": "U0316",
+      "chapter_title": "第一话「工作的其中一例」",
+      "source_start_line": 160072,
+      "source_end_line": 160073,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V18 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1840",
+      "volume_no": 18,
+      "unit_id": "U0317",
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "source_start_line": 160787,
+      "source_end_line": 160788,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V18 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1841",
+      "volume_no": 18,
+      "unit_id": "U0318",
+      "chapter_title": "第三话「入学典礼与学生会会长」",
+      "source_start_line": 161550,
+      "source_end_line": 161551,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V18 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1842",
+      "volume_no": 18,
+      "unit_id": "U0319",
+      "chapter_title": "第四话「研究进展」",
+      "source_start_line": 162279,
+      "source_end_line": 162280,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V18 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1843",
+      "volume_no": 18,
+      "unit_id": "U0320",
+      "chapter_title": "第五话「家庭崩坏的前兆」",
+      "source_start_line": 162904,
+      "source_end_line": 162905,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V18 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1116,6 +1259,708 @@
       "evidence_refs": [
         "EV1820"
       ]
+    },
+    {
+      "case_id": "BC1821",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "家庭",
+      "context": "事件：鲁德佣兵团创立 - 鲁迪乌斯与爱夏、莉妮亚创立鲁德佣兵团。",
+      "trigger": "事件触发：鲁德佣兵团创立",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 鲁德佣兵团创立 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1831"
+      ]
+    },
+    {
+      "case_id": "BC1822",
+      "character_id": "E0008",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "家庭",
+      "context": "事件：鲁德佣兵团创立 - 鲁迪乌斯与爱夏、莉妮亚创立鲁德佣兵团。",
+      "trigger": "事件触发：鲁德佣兵团创立",
+      "available_information": "知道部分情况",
+      "action": "爱夏 在 鲁德佣兵团创立 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1831"
+      ]
+    },
+    {
+      "case_id": "BC1823",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "家庭",
+      "context": "事件：德路迪亚村再访 - 鲁迪乌斯、莉妮亚与雷欧再访德路迪亚村，确认莉妮亚的身世。",
+      "trigger": "事件触发：德路迪亚村再访",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 德路迪亚村再访 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1832"
+      ]
+    },
+    {
+      "case_id": "BC1824",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "家庭",
+      "context": "事件：德路迪亚村再访 - 鲁迪乌斯、莉妮亚与雷欧再访德路迪亚村，确认莉妮亚的身世。",
+      "trigger": "事件触发：德路迪亚村再访",
+      "available_information": "知道部分情况",
+      "action": "莉妮亚 在 德路迪亚村再访 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1832"
+      ]
+    },
+    {
+      "case_id": "BC1825",
+      "character_id": "E0007",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "家庭",
+      "context": "事件：诺伦学生会会长就任 - 诺伦在入学典礼上作为学生会会长致词。",
+      "trigger": "事件触发：诺伦学生会会长就任",
+      "available_information": "知道部分情况",
+      "action": "诺伦 在 诺伦学生会会长就任 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1833"
+      ]
+    },
+    {
+      "case_id": "BC1826",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "愤怒",
+      "context": "第18卷中 莉妮亚 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莉妮亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1831"
+      ]
+    },
+    {
+      "case_id": "BC1827",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "恐惧",
+      "context": "第18卷中 菈菈·格雷拉特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：菈菈·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1832"
+      ]
+    },
+    {
+      "case_id": "BC1828",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "羞耻",
+      "context": "第18卷中 鲁迪乌斯·格雷拉特 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1833"
+      ]
+    },
+    {
+      "case_id": "BC1829",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "嫉妒",
+      "context": "第18卷中 莉妮亚 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莉妮亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1834"
+      ]
+    },
+    {
+      "case_id": "BC1830",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "说谎",
+      "context": "第18卷中 菈菈·格雷拉特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：菈菈·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1835"
+      ]
+    },
+    {
+      "case_id": "BC1831",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "幽默",
+      "context": "第18卷中 鲁迪乌斯·格雷拉特 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1836"
+      ]
+    },
+    {
+      "case_id": "BC1832",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "愤怒",
+      "context": "第18卷中 莉妮亚 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莉妮亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1837"
+      ]
+    },
+    {
+      "case_id": "BC1833",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "恐惧",
+      "context": "第18卷中 菈菈·格雷拉特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：菈菈·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1838"
+      ]
+    },
+    {
+      "case_id": "BC1834",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "羞耻",
+      "context": "第18卷中 鲁迪乌斯·格雷拉特 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1831"
+      ]
+    },
+    {
+      "case_id": "BC1835",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "嫉妒",
+      "context": "第18卷中 莉妮亚 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：莉妮亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1832"
+      ]
+    },
+    {
+      "case_id": "BC1836",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "幽默",
+      "context": "第18卷中 E0001 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1839"
+      ]
+    },
+    {
+      "case_id": "BC1837",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "戏弄",
+      "context": "第18卷中 E0149 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1840"
+      ]
+    },
+    {
+      "case_id": "BC1838",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "说谎",
+      "context": "第18卷中 E0148 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1841"
+      ]
+    },
+    {
+      "case_id": "BC1839",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "秘密",
+      "context": "第18卷中 E0001 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1842"
+      ]
+    },
+    {
+      "case_id": "BC1840",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "吸引",
+      "context": "第18卷中 E0149 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1843"
+      ]
+    },
+    {
+      "case_id": "BC1841",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "羞耻",
+      "context": "第18卷中 E0148 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1839"
+      ]
+    },
+    {
+      "case_id": "BC1842",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "幽默",
+      "context": "第18卷中 E0001 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1840"
+      ]
+    },
+    {
+      "case_id": "BC1843",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "戏弄",
+      "context": "第18卷中 E0149 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1841"
+      ]
+    },
+    {
+      "case_id": "BC1844",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "说谎",
+      "context": "第18卷中 E0148 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1842"
+      ]
+    },
+    {
+      "case_id": "BC1845",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "phase_name": "第18卷阶段3",
+      "volume_no": 18,
+      "situation_type": "秘密",
+      "context": "第18卷中 E0001 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1843"
+      ]
+    },
+    {
+      "case_id": "BC1846",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "phase_name": "第18卷阶段2",
+      "volume_no": 18,
+      "situation_type": "吸引",
+      "context": "第18卷中 E0149 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1839"
+      ]
+    },
+    {
+      "case_id": "BC1847",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "phase_name": "第18卷阶段1",
+      "volume_no": 18,
+      "situation_type": "羞耻",
+      "context": "第18卷中 E0148 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1840"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1609,6 +2454,433 @@
       "evidence_refs": [
         "EV1811"
       ]
+    },
+    {
+      "quirk_id": "QK1807",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "category": "身份",
+      "name": "菈菈·格雷拉特身份洛琪希与鲁迪乌斯的女",
+      "description": "基于原文事实：菈菈·格雷拉特 的 身份 为 洛琪希与鲁迪乌斯的女儿。洛琪希与鲁迪乌斯的女儿，受圣兽雷欧守护。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及洛琪希与鲁迪乌斯的女儿"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出洛琪希与鲁迪乌斯的女儿",
+      "private_expression": "私下也保持洛琪希与鲁迪乌斯的女儿",
+      "behavior_patterns": [
+        "因洛琪希与鲁迪乌斯的女儿而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1831"
+      ]
+    },
+    {
+      "quirk_id": "QK1808",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "category": "身份",
+      "name": "莉妮亚身份猫耳兽族少女，德路迪",
+      "description": "基于原文事实：莉妮亚 的 身份 为 猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身。猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身，现为女仆与鲁德佣兵团团长。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身",
+      "private_expression": "私下也保持猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身",
+      "behavior_patterns": [
+        "因猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1832"
+      ]
+    },
+    {
+      "quirk_id": "QK1809",
+      "character_id": "E0008",
+      "phase_id": "phase-18-1",
+      "category": "经历",
+      "name": "爱夏经历与莉妮亚共同创立鲁德",
+      "description": "基于原文事实：爱夏 的 经历 为 与莉妮亚共同创立鲁德佣兵团。保罗与莉莉雅的女儿，家中女仆，鲁德佣兵团的实质经营者。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及与莉妮亚共同创立鲁德佣兵团"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出与莉妮亚共同创立鲁德佣兵团",
+      "private_expression": "私下也保持与莉妮亚共同创立鲁德佣兵团",
+      "behavior_patterns": [
+        "因与莉妮亚共同创立鲁德佣兵团而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1833"
+      ]
+    },
+    {
+      "quirk_id": "QK1810",
+      "character_id": "E0007",
+      "phase_id": "phase-18-1",
+      "category": "经历",
+      "name": "诺伦经历当选魔法大学学生会会",
+      "description": "基于原文事实：诺伦 的 经历 为 当选魔法大学学生会会长。保罗与塞妮丝的女儿，魔法大学学生会会长，决定成为冒险者。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及当选魔法大学学生会会长"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出当选魔法大学学生会会长",
+      "private_expression": "私下也保持当选魔法大学学生会会长",
+      "behavior_patterns": [
+        "因当选魔法大学学生会会长而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1834"
+      ]
+    },
+    {
+      "quirk_id": "QK1811",
+      "character_id": "E0007",
+      "phase_id": "phase-18-1",
+      "category": "经历",
+      "name": "诺伦经历决定成为冒险者",
+      "description": "基于原文事实：诺伦 的 经历 为 决定成为冒险者。保罗与塞妮丝的女儿，魔法大学学生会会长，决定成为冒险者。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及决定成为冒险者"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出决定成为冒险者",
+      "private_expression": "私下也保持决定成为冒险者",
+      "behavior_patterns": [
+        "因决定成为冒险者而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1835"
+      ]
+    },
+    {
+      "quirk_id": "QK1812",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "category": "口头禅",
+      "name": "V18极详细怪癖1",
+      "description": "第18卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1839"
+      ]
+    },
+    {
+      "quirk_id": "QK1813",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "category": "小动作",
+      "name": "V18极详细怪癖2",
+      "description": "第18卷中 E0149 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1840"
+      ]
+    },
+    {
+      "quirk_id": "QK1814",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "category": "收藏癖",
+      "name": "V18极详细怪癖3",
+      "description": "第18卷中 E0148 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1841"
+      ]
+    },
+    {
+      "quirk_id": "QK1815",
+      "character_id": "E0001",
+      "phase_id": "phase-18-3",
+      "category": "羞耻表现",
+      "name": "V18极详细怪癖4",
+      "description": "第18卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1842"
+      ]
+    },
+    {
+      "quirk_id": "QK1816",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "category": "紧张习惯",
+      "name": "V18极详细怪癖5",
+      "description": "第18卷中 E0149 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1843"
+      ]
+    },
+    {
+      "quirk_id": "QK1817",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "category": "私下低俗",
+      "name": "V18极详细怪癖6",
+      "description": "第18卷中 E0148 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1839"
+      ]
     }
   ],
   "character_preferences": [
@@ -1712,6 +2984,91 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1816"
+      ]
+    },
+    {
+      "preference_id": "PF1807",
+      "character_id": "E0149",
+      "phase_id": "phase-18-2",
+      "preference_type": "LIKE",
+      "target": "洛琪希与鲁迪乌斯的女儿",
+      "description": "菈菈·格雷拉特 对 洛琪希与鲁迪乌斯的女儿 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1834"
+      ]
+    },
+    {
+      "preference_id": "PF1808",
+      "character_id": "E0148",
+      "phase_id": "phase-18-1",
+      "preference_type": "LIKE",
+      "target": "猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶",
+      "description": "莉妮亚 对 猫耳兽族少女，德路迪亚族裘耶斯之女，奴隶出身 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1835"
+      ]
+    },
+    {
+      "preference_id": "PF1809",
+      "character_id": "E0008",
+      "phase_id": "phase-18-1",
+      "preference_type": "LIKE",
+      "target": "与莉妮亚共同创立鲁德佣兵团",
+      "description": "爱夏 对 与莉妮亚共同创立鲁德佣兵团 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1836"
+      ]
+    },
+    {
+      "preference_id": "PF1810",
+      "character_id": "E0007",
+      "phase_id": "phase-18-1",
+      "preference_type": "LIKE",
+      "target": "当选魔法大学学生会会长",
+      "description": "诺伦 对 当选魔法大学学生会会长 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1837"
+      ]
+    },
+    {
+      "preference_id": "PF1811",
+      "character_id": "E0007",
+      "phase_id": "phase-18-1",
+      "preference_type": "LIKE",
+      "target": "决定成为冒险者",
+      "description": "诺伦 对 决定成为冒险者 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 18,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1838"
       ]
     }
   ],

@@ -351,6 +351,160 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V19 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV1931",
+      "volume_no": 19,
+      "unit_id": "U0334",
+      "chapter_title": "第四话「帕库斯王」",
+      "source_start_line": 170822,
+      "source_end_line": 170824,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0150 身份: 死神，王龙王国黑龙骑士团骑士"
+    },
+    {
+      "evidence_id": "EV1932",
+      "volume_no": 19,
+      "unit_id": "U0334",
+      "chapter_title": "第四话「帕库斯王」",
+      "source_start_line": 170730,
+      "source_end_line": 170732,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0081 经历: 成为西隆王国的国王，受人神操控"
+    },
+    {
+      "evidence_id": "EV1933",
+      "volume_no": 19,
+      "unit_id": "U0340",
+      "chapter_title": "第十话「所有人都在白费工夫」",
+      "source_start_line": 174830,
+      "source_end_line": 174832,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0081 经历: 在与鲁迪乌斯一行的战斗中身亡"
+    },
+    {
+      "evidence_id": "EV1934",
+      "volume_no": 19,
+      "unit_id": "U0343",
+      "chapter_title": "第十三话「应该要开心」",
+      "source_start_line": 176500,
+      "source_end_line": 176502,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0151 身份: 艾莉丝与鲁迪乌斯的儿子"
+    },
+    {
+      "evidence_id": "EV1935",
+      "volume_no": 19,
+      "unit_id": "U0342",
+      "chapter_title": "第十二话「札诺巴所选的路」",
+      "source_start_line": 176156,
+      "source_end_line": 176158,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0080 经历: 加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴"
+    },
+    {
+      "evidence_id": "EV1936",
+      "volume_no": 19,
+      "unit_id": "U0337",
+      "chapter_title": "第19卷",
+      "source_start_line": 172478,
+      "source_end_line": 172480,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 卡隆堡垒攻防战: 鲁迪乌斯、洛琪希与札诺巴在卡隆堡垒抵御帕库斯军队的进攻。"
+    },
+    {
+      "evidence_id": "EV1937",
+      "volume_no": 19,
+      "unit_id": "U0340",
+      "chapter_title": "第19卷",
+      "source_start_line": 174172,
+      "source_end_line": 174174,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 死神蓝道夫之战: 鲁迪乌斯一行与死神蓝道夫交战，帕库斯身亡。"
+    },
+    {
+      "evidence_id": "EV1938",
+      "volume_no": 19,
+      "unit_id": "U0343",
+      "chapter_title": "第19卷",
+      "source_start_line": 176246,
+      "source_end_line": 176248,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 亚尔斯出生: 艾莉丝在鲁迪乌斯外出期间生下儿子亚尔斯。"
+    },
+    {
+      "evidence_id": "EV1939",
+      "volume_no": 19,
+      "unit_id": "U0342",
+      "chapter_title": "第19卷",
+      "source_start_line": 176072,
+      "source_end_line": 176074,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 拉普拉斯真相: 奥尔斯帝德揭示拉普拉斯将在八十年后复活，决定建立军队对抗。"
+    },
+    {
+      "evidence_id": "EV1940",
+      "volume_no": 19,
+      "unit_id": "U0331",
+      "chapter_title": "第一话「札诺巴的决心」",
+      "source_start_line": 168684,
+      "source_end_line": 168685,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1941",
+      "volume_no": 19,
+      "unit_id": "U0332",
+      "chapter_title": "第二话「不好的预感」",
+      "source_start_line": 169315,
+      "source_end_line": 169316,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1942",
+      "volume_no": 19,
+      "unit_id": "U0333",
+      "chapter_title": "第三话「再访西隆王国」",
+      "source_start_line": 170034,
+      "source_end_line": 170035,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1943",
+      "volume_no": 19,
+      "unit_id": "U0334",
+      "chapter_title": "第四话「帕库斯王」",
+      "source_start_line": 170731,
+      "source_end_line": 170732,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV1944",
+      "volume_no": 19,
+      "unit_id": "U0335",
+      "chapter_title": "第五话「卡隆堡垒」",
+      "source_start_line": 171312,
+      "source_end_line": 171313,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1118,6 +1272,786 @@
       "evidence_refs": [
         "EV1920"
       ]
+    },
+    {
+      "case_id": "BC1921",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：卡隆堡垒攻防战 - 鲁迪乌斯、洛琪希与札诺巴在卡隆堡垒抵御帕库斯军队的进攻。",
+      "trigger": "事件触发：卡隆堡垒攻防战",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 卡隆堡垒攻防战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1931"
+      ]
+    },
+    {
+      "case_id": "BC1922",
+      "character_id": "E0005",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：卡隆堡垒攻防战 - 鲁迪乌斯、洛琪希与札诺巴在卡隆堡垒抵御帕库斯军队的进攻。",
+      "trigger": "事件触发：卡隆堡垒攻防战",
+      "available_information": "知道部分情况",
+      "action": "洛琪希 在 卡隆堡垒攻防战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1931"
+      ]
+    },
+    {
+      "case_id": "BC1923",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：死神蓝道夫之战 - 鲁迪乌斯一行与死神蓝道夫交战，帕库斯身亡。",
+      "trigger": "事件触发：死神蓝道夫之战",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 死神蓝道夫之战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1932"
+      ]
+    },
+    {
+      "case_id": "BC1924",
+      "character_id": "E0005",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：死神蓝道夫之战 - 鲁迪乌斯一行与死神蓝道夫交战，帕库斯身亡。",
+      "trigger": "事件触发：死神蓝道夫之战",
+      "available_information": "知道部分情况",
+      "action": "洛琪希 在 死神蓝道夫之战 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1932"
+      ]
+    },
+    {
+      "case_id": "BC1925",
+      "character_id": "E0021",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：亚尔斯出生 - 艾莉丝在鲁迪乌斯外出期间生下儿子亚尔斯。",
+      "trigger": "事件触发：亚尔斯出生",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·格雷拉特 在 亚尔斯出生 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1933"
+      ]
+    },
+    {
+      "case_id": "BC1926",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：亚尔斯出生 - 艾莉丝在鲁迪乌斯外出期间生下儿子亚尔斯。",
+      "trigger": "事件触发：亚尔斯出生",
+      "available_information": "知道部分情况",
+      "action": "亚尔斯·格雷拉特 在 亚尔斯出生 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1933"
+      ]
+    },
+    {
+      "case_id": "BC1927",
+      "character_id": "E0079",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：拉普拉斯真相 - 奥尔斯帝德揭示拉普拉斯将在八十年后复活，决定建立军队对抗。",
+      "trigger": "事件触发：拉普拉斯真相",
+      "available_information": "知道部分情况",
+      "action": "奥尔斯帝德 在 拉普拉斯真相 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1934"
+      ]
+    },
+    {
+      "case_id": "BC1928",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "家庭",
+      "context": "事件：拉普拉斯真相 - 奥尔斯帝德揭示拉普拉斯将在八十年后复活，决定建立军队对抗。",
+      "trigger": "事件触发：拉普拉斯真相",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 拉普拉斯真相 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV1934"
+      ]
+    },
+    {
+      "case_id": "BC1929",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "愤怒",
+      "context": "第19卷中 蓝道夫·马利安 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：蓝道夫·马利安 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1931"
+      ]
+    },
+    {
+      "case_id": "BC1930",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "恐惧",
+      "context": "第19卷中 鲁迪乌斯·格雷拉特 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1932"
+      ]
+    },
+    {
+      "case_id": "BC1931",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "羞耻",
+      "context": "第19卷中 亚尔斯·格雷拉特 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：亚尔斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1933"
+      ]
+    },
+    {
+      "case_id": "BC1932",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "嫉妒",
+      "context": "第19卷中 蓝道夫·马利安 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：蓝道夫·马利安 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1934"
+      ]
+    },
+    {
+      "case_id": "BC1933",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "说谎",
+      "context": "第19卷中 鲁迪乌斯·格雷拉特 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1935"
+      ]
+    },
+    {
+      "case_id": "BC1934",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "幽默",
+      "context": "第19卷中 亚尔斯·格雷拉特 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：亚尔斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1936"
+      ]
+    },
+    {
+      "case_id": "BC1935",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "愤怒",
+      "context": "第19卷中 蓝道夫·马利安 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：蓝道夫·马利安 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1937"
+      ]
+    },
+    {
+      "case_id": "BC1936",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "恐惧",
+      "context": "第19卷中 鲁迪乌斯·格雷拉特 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：鲁迪乌斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1938"
+      ]
+    },
+    {
+      "case_id": "BC1937",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "羞耻",
+      "context": "第19卷中 亚尔斯·格雷拉特 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：亚尔斯·格雷拉特 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1939"
+      ]
+    },
+    {
+      "case_id": "BC1938",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "嫉妒",
+      "context": "第19卷中 蓝道夫·马利安 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：蓝道夫·马利安 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV1931"
+      ]
+    },
+    {
+      "case_id": "BC1939",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "幽默",
+      "context": "第19卷中 E0001 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1940"
+      ]
+    },
+    {
+      "case_id": "BC1940",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "戏弄",
+      "context": "第19卷中 E0151 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1941"
+      ]
+    },
+    {
+      "case_id": "BC1941",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "说谎",
+      "context": "第19卷中 E0150 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1942"
+      ]
+    },
+    {
+      "case_id": "BC1942",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "秘密",
+      "context": "第19卷中 E0001 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1943"
+      ]
+    },
+    {
+      "case_id": "BC1943",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "吸引",
+      "context": "第19卷中 E0151 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1944"
+      ]
+    },
+    {
+      "case_id": "BC1944",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "羞耻",
+      "context": "第19卷中 E0150 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1940"
+      ]
+    },
+    {
+      "case_id": "BC1945",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "幽默",
+      "context": "第19卷中 E0001 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1941"
+      ]
+    },
+    {
+      "case_id": "BC1946",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "戏弄",
+      "context": "第19卷中 E0151 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1942"
+      ]
+    },
+    {
+      "case_id": "BC1947",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "说谎",
+      "context": "第19卷中 E0150 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1943"
+      ]
+    },
+    {
+      "case_id": "BC1948",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "phase_name": "第19卷阶段3",
+      "volume_no": 19,
+      "situation_type": "秘密",
+      "context": "第19卷中 E0001 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1944"
+      ]
+    },
+    {
+      "case_id": "BC1949",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "phase_name": "第19卷阶段2",
+      "volume_no": 19,
+      "situation_type": "吸引",
+      "context": "第19卷中 E0151 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1940"
+      ]
+    },
+    {
+      "case_id": "BC1950",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "phase_name": "第19卷阶段1",
+      "volume_no": 19,
+      "situation_type": "羞耻",
+      "context": "第19卷中 E0150 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV1941"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1611,6 +2545,433 @@
       "evidence_refs": [
         "EV1911"
       ]
+    },
+    {
+      "quirk_id": "QK1907",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "category": "身份",
+      "name": "蓝道夫·马利安身份死神，王龙王国黑龙骑",
+      "description": "基于原文事实：蓝道夫·马利安 的 身份 为 死神，王龙王国黑龙骑士团骑士。死神，王龙王国黑龙骑士团骑士，帕库斯的护卫。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及死神，王龙王国黑龙骑士团骑士"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出死神，王龙王国黑龙骑士团骑士",
+      "private_expression": "私下也保持死神，王龙王国黑龙骑士团骑士",
+      "behavior_patterns": [
+        "因死神，王龙王国黑龙骑士团骑士而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1931"
+      ]
+    },
+    {
+      "quirk_id": "QK1908",
+      "character_id": "E0081",
+      "phase_id": "phase-19-1",
+      "category": "经历",
+      "name": "帕库斯经历成为西隆王国的国王，",
+      "description": "基于原文事实：帕库斯 的 经历 为 成为西隆王国的国王，受人神操控。西隆王国的王子，成为国王后受人神操控，在战斗中身亡。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及成为西隆王国的国王，受人神操控"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出成为西隆王国的国王，受人神操控",
+      "private_expression": "私下也保持成为西隆王国的国王，受人神操控",
+      "behavior_patterns": [
+        "因成为西隆王国的国王，受人神操控而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1932"
+      ]
+    },
+    {
+      "quirk_id": "QK1909",
+      "character_id": "E0081",
+      "phase_id": "phase-19-1",
+      "category": "经历",
+      "name": "帕库斯经历在与鲁迪乌斯一行的战",
+      "description": "基于原文事实：帕库斯 的 经历 为 在与鲁迪乌斯一行的战斗中身亡。西隆王国的王子，成为国王后受人神操控，在战斗中身亡。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及在与鲁迪乌斯一行的战斗中身亡"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出在与鲁迪乌斯一行的战斗中身亡",
+      "private_expression": "私下也保持在与鲁迪乌斯一行的战斗中身亡",
+      "behavior_patterns": [
+        "因在与鲁迪乌斯一行的战斗中身亡而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1933"
+      ]
+    },
+    {
+      "quirk_id": "QK1910",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "category": "身份",
+      "name": "亚尔斯·格雷拉特身份艾莉丝与鲁迪乌斯的儿",
+      "description": "基于原文事实：亚尔斯·格雷拉特 的 身份 为 艾莉丝与鲁迪乌斯的儿子。艾莉丝与鲁迪乌斯的儿子，红发。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及艾莉丝与鲁迪乌斯的儿子"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出艾莉丝与鲁迪乌斯的儿子",
+      "private_expression": "私下也保持艾莉丝与鲁迪乌斯的儿子",
+      "behavior_patterns": [
+        "因艾莉丝与鲁迪乌斯的儿子而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1934"
+      ]
+    },
+    {
+      "quirk_id": "QK1911",
+      "character_id": "E0080",
+      "phase_id": "phase-19-1",
+      "category": "经历",
+      "name": "札诺巴经历加入奥尔斯帝德麾下，",
+      "description": "基于原文事实：札诺巴 的 经历 为 加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴。西隆王国第三王子，鲁迪乌斯的弟子，加入奥尔斯帝德麾下。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴",
+      "private_expression": "私下也保持加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴",
+      "behavior_patterns": [
+        "因加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1935"
+      ]
+    },
+    {
+      "quirk_id": "QK1912",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "category": "口头禅",
+      "name": "V19极详细怪癖1",
+      "description": "第19卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1940"
+      ]
+    },
+    {
+      "quirk_id": "QK1913",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "category": "小动作",
+      "name": "V19极详细怪癖2",
+      "description": "第19卷中 E0151 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1941"
+      ]
+    },
+    {
+      "quirk_id": "QK1914",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "category": "收藏癖",
+      "name": "V19极详细怪癖3",
+      "description": "第19卷中 E0150 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1942"
+      ]
+    },
+    {
+      "quirk_id": "QK1915",
+      "character_id": "E0001",
+      "phase_id": "phase-19-3",
+      "category": "羞耻表现",
+      "name": "V19极详细怪癖4",
+      "description": "第19卷中 E0001 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1943"
+      ]
+    },
+    {
+      "quirk_id": "QK1916",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "category": "紧张习惯",
+      "name": "V19极详细怪癖5",
+      "description": "第19卷中 E0151 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1944"
+      ]
+    },
+    {
+      "quirk_id": "QK1917",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "category": "私下低俗",
+      "name": "V19极详细怪癖6",
+      "description": "第19卷中 E0150 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1940"
+      ]
     }
   ],
   "character_preferences": [
@@ -1714,6 +3075,91 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV1916"
+      ]
+    },
+    {
+      "preference_id": "PF1907",
+      "character_id": "E0150",
+      "phase_id": "phase-19-1",
+      "preference_type": "LIKE",
+      "target": "死神，王龙王国黑龙骑士团骑士",
+      "description": "蓝道夫·马利安 对 死神，王龙王国黑龙骑士团骑士 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1934"
+      ]
+    },
+    {
+      "preference_id": "PF1908",
+      "character_id": "E0081",
+      "phase_id": "phase-19-1",
+      "preference_type": "LIKE",
+      "target": "成为西隆王国的国王，受人神操控",
+      "description": "帕库斯 对 成为西隆王国的国王，受人神操控 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1935"
+      ]
+    },
+    {
+      "preference_id": "PF1909",
+      "character_id": "E0081",
+      "phase_id": "phase-19-1",
+      "preference_type": "LIKE",
+      "target": "在与鲁迪乌斯一行的战斗中身亡",
+      "description": "帕库斯 对 在与鲁迪乌斯一行的战斗中身亡 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1936"
+      ]
+    },
+    {
+      "preference_id": "PF1910",
+      "character_id": "E0151",
+      "phase_id": "phase-19-2",
+      "preference_type": "LIKE",
+      "target": "艾莉丝与鲁迪乌斯的儿子",
+      "description": "亚尔斯·格雷拉特 对 艾莉丝与鲁迪乌斯的儿子 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1937"
+      ]
+    },
+    {
+      "preference_id": "PF1911",
+      "character_id": "E0080",
+      "phase_id": "phase-19-1",
+      "preference_type": "LIKE",
+      "target": "加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯",
+      "description": "札诺巴 对 加入奥尔斯帝德麾下，负责聚集对抗拉普拉斯的伙伴 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV1938"
       ]
     }
   ],

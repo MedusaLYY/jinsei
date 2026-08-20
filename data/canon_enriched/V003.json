@@ -357,6 +357,215 @@
       "evidence_type": "STRONG_INFERENCE",
       "confidence": "INFERENCE",
       "note": "V3 自动生成证据 30 用于行为/怪癖支撑"
+    },
+    {
+      "evidence_id": "EV0331",
+      "volume_no": 3,
+      "unit_id": "U0041",
+      "chapter_title": "第二话「斯佩路德族」",
+      "source_start_line": 20090,
+      "source_end_line": 20092,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 身份: 斯佩路德族"
+    },
+    {
+      "evidence_id": "EV0332",
+      "volume_no": 3,
+      "unit_id": "U0043",
+      "chapter_title": "第四话「信任的理由」",
+      "source_start_line": 21270,
+      "source_end_line": 21272,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 身份: 斯佩路德族战士团团长"
+    },
+    {
+      "evidence_id": "EV0333",
+      "volume_no": 3,
+      "unit_id": "U0043",
+      "chapter_title": "第四话「信任的理由」",
+      "source_start_line": 21364,
+      "source_end_line": 21366,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 经历: 拉普拉斯阴谋下被迫杀死家人"
+    },
+    {
+      "evidence_id": "EV0334",
+      "volume_no": 3,
+      "unit_id": "U0043",
+      "chapter_title": "第四话「信任的理由」",
+      "source_start_line": 21364,
+      "source_end_line": 21366,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 经历: 成功向拉普拉斯复仇"
+    },
+    {
+      "evidence_id": "EV0335",
+      "volume_no": 3,
+      "unit_id": "U0048",
+      "chapter_title": "第九话「人命和第一个工作」",
+      "source_start_line": 24118,
+      "source_end_line": 24120,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 经历: 被称作Dead End的凶暴斯佩路德族"
+    },
+    {
+      "evidence_id": "EV0336",
+      "volume_no": 3,
+      "unit_id": "U0042",
+      "chapter_title": "第三话「师父的秘密」",
+      "source_start_line": 20570,
+      "source_end_line": 20572,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0031 擅长: 额头宝石具备雷达机能"
+    },
+    {
+      "evidence_id": "EV0337",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19754,
+      "source_end_line": 19756,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0032 身份: 自称神的谜之存在"
+    },
+    {
+      "evidence_id": "EV0338",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19754,
+      "source_end_line": 19756,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0032 能力: 能通过梦境与精神沟通"
+    },
+    {
+      "evidence_id": "EV0339",
+      "volume_no": 3,
+      "unit_id": "U0046",
+      "chapter_title": "第七话「冒险者公会」",
+      "source_start_line": 22978,
+      "source_end_line": 22980,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0001 身份: F级冒险者魔术师"
+    },
+    {
+      "evidence_id": "EV0340",
+      "volume_no": 3,
+      "unit_id": "U0046",
+      "chapter_title": "第七话「冒险者公会」",
+      "source_start_line": 22978,
+      "source_end_line": 22980,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "E0021 身份: F级冒险者剑士"
+    },
+    {
+      "evidence_id": "EV0341",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第3卷",
+      "source_start_line": 19754,
+      "source_end_line": 19756,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 人神初次接触: 转移后的鲁迪乌斯在梦中与人神相遇，人神自称神并给出依靠附近男子的建议。"
+    },
+    {
+      "evidence_id": "EV0342",
+      "volume_no": 3,
+      "unit_id": "U0048",
+      "chapter_title": "第3卷",
+      "source_start_line": 24118,
+      "source_end_line": 24120,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 队伍Dead End成立: 三人以瑞杰路德的名号Dead End组成冒险者队伍，在利卡里斯镇开始活动。"
+    },
+    {
+      "evidence_id": "EV0343",
+      "volume_no": 3,
+      "unit_id": "U0052",
+      "chapter_title": "第3卷",
+      "source_start_line": 27256,
+      "source_end_line": 27258,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 瑞杰路德被逐出利卡里斯镇: 诺克巴拉勒索事件后瑞杰路德斯佩路德族身分曝光，被赶出城镇。"
+    },
+    {
+      "evidence_id": "EV0344",
+      "volume_no": 3,
+      "unit_id": "U0054",
+      "chapter_title": "第3卷",
+      "source_start_line": 28758,
+      "source_end_line": 28760,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "事件 王宫转移事件: 转移事件波及阿斯拉王宫，终结野猪被传入白百合园，迪利克为救爱丽儿而死。"
+    },
+    {
+      "evidence_id": "EV0345",
+      "volume_no": 3,
+      "unit_id": "U0040",
+      "chapter_title": "第一话「自称神的骗子」",
+      "source_start_line": 19622,
+      "source_end_line": 19623,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补充细化证据 1 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0346",
+      "volume_no": 3,
+      "unit_id": "U0041",
+      "chapter_title": "第二话「斯佩路德族」",
+      "source_start_line": 19983,
+      "source_end_line": 19984,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补充细化证据 2 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0347",
+      "volume_no": 3,
+      "unit_id": "U0042",
+      "chapter_title": "第三话「师父的秘密」",
+      "source_start_line": 20570,
+      "source_end_line": 20571,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补充细化证据 3 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0348",
+      "volume_no": 3,
+      "unit_id": "U0043",
+      "chapter_title": "第四话「信任的理由」",
+      "source_start_line": 21061,
+      "source_end_line": 21062,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补充细化证据 4 私人行为/怪癖"
+    },
+    {
+      "evidence_id": "EV0349",
+      "volume_no": 3,
+      "unit_id": "U0044",
+      "chapter_title": "第五话「到最靠近城镇的三天」",
+      "source_start_line": 21484,
+      "source_end_line": 21485,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V3 补充细化证据 5 私人行为/怪癖"
     }
   ],
   "character_profiles": [
@@ -1124,6 +1333,786 @@
       "evidence_refs": [
         "EV0320"
       ]
+    },
+    {
+      "case_id": "BC0321",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "家庭",
+      "context": "事件：人神初次接触 - 转移后的鲁迪乌斯在梦中与人神相遇，人神自称神并给出依靠附近男子的建议。",
+      "trigger": "事件触发：人神初次接触",
+      "available_information": "知道部分情况",
+      "action": "人神 在 人神初次接触 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0331"
+      ]
+    },
+    {
+      "case_id": "BC0322",
+      "character_id": "E0001",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "家庭",
+      "context": "事件：人神初次接触 - 转移后的鲁迪乌斯在梦中与人神相遇，人神自称神并给出依靠附近男子的建议。",
+      "trigger": "事件触发：人神初次接触",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 人神初次接触 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0331"
+      ]
+    },
+    {
+      "case_id": "BC0323",
+      "character_id": "E0001",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "家庭",
+      "context": "事件：队伍Dead End成立 - 三人以瑞杰路德的名号Dead End组成冒险者队伍，在利卡里斯镇开始活动。",
+      "trigger": "事件触发：队伍Dead End成立",
+      "available_information": "知道部分情况",
+      "action": "鲁迪乌斯·格雷拉特 在 队伍Dead End成立 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0332"
+      ]
+    },
+    {
+      "case_id": "BC0324",
+      "character_id": "E0021",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "家庭",
+      "context": "事件：队伍Dead End成立 - 三人以瑞杰路德的名号Dead End组成冒险者队伍，在利卡里斯镇开始活动。",
+      "trigger": "事件触发：队伍Dead End成立",
+      "available_information": "知道部分情况",
+      "action": "艾莉丝·伯雷亚斯·格雷拉特 在 队伍Dead End成立 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0332"
+      ]
+    },
+    {
+      "case_id": "BC0325",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "家庭",
+      "context": "事件：瑞杰路德被逐出利卡里斯镇 - 诺克巴拉勒索事件后瑞杰路德斯佩路德族身分曝光，被赶出城镇。",
+      "trigger": "事件触发：瑞杰路德被逐出利卡里斯镇",
+      "available_information": "知道部分情况",
+      "action": "瑞杰路德·斯佩路迪亚 在 瑞杰路德被逐出利卡里斯镇 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0333"
+      ]
+    },
+    {
+      "case_id": "BC0326",
+      "character_id": "E0035",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "家庭",
+      "context": "事件：瑞杰路德被逐出利卡里斯镇 - 诺克巴拉勒索事件后瑞杰路德斯佩路德族身分曝光，被赶出城镇。",
+      "trigger": "事件触发：瑞杰路德被逐出利卡里斯镇",
+      "available_information": "知道部分情况",
+      "action": "诺克巴拉 在 瑞杰路德被逐出利卡里斯镇 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FAMILY",
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV0333"
+      ]
+    },
+    {
+      "case_id": "BC0327",
+      "character_id": "E0044",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "危险",
+      "context": "事件：王宫转移事件 - 转移事件波及阿斯拉王宫，终结野猪被传入白百合园，迪利克为救爱丽儿而死。",
+      "trigger": "事件触发：王宫转移事件",
+      "available_information": "知道部分情况",
+      "action": "爱丽儿·阿涅摩伊·阿斯拉 在 王宫转移事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0334"
+      ]
+    },
+    {
+      "case_id": "BC0328",
+      "character_id": "E0045",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "危险",
+      "context": "事件：王宫转移事件 - 转移事件波及阿斯拉王宫，终结野猪被传入白百合园，迪利克为救爱丽儿而死。",
+      "trigger": "事件触发：王宫转移事件",
+      "available_information": "知道部分情况",
+      "action": "路克·诺托斯·格雷拉特 在 王宫转移事件 中采取的行动",
+      "verbal_response": "依角色性格回应",
+      "emotional_response": "紧张/坚定",
+      "goal_at_time": "应对事件",
+      "relationship_context": "与参与者",
+      "social_context": "事件现场",
+      "immediate_outcome": "事件暂时解决",
+      "long_term_outcome": "影响后续发展",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV0334"
+      ]
+    },
+    {
+      "case_id": "BC0329",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷中 洛克斯 的详细情节 1，涉及内心变化",
+      "trigger": "详细触发 1",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛克斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0331"
+      ]
+    },
+    {
+      "case_id": "BC0330",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷中 人神 的详细情节 2，涉及内心变化",
+      "trigger": "详细触发 2",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：人神 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0332"
+      ]
+    },
+    {
+      "case_id": "BC0331",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷中 瑞杰路德·斯佩路迪亚 的详细情节 3，涉及内心变化",
+      "trigger": "详细触发 3",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：瑞杰路德·斯佩路迪亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0333"
+      ]
+    },
+    {
+      "case_id": "BC0332",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "嫉妒",
+      "context": "第3卷中 洛克斯 的详细情节 4，涉及内心变化",
+      "trigger": "详细触发 4",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛克斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0334"
+      ]
+    },
+    {
+      "case_id": "BC0333",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷中 人神 的详细情节 5，涉及内心变化",
+      "trigger": "详细触发 5",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：人神 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 LIE",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "LIE",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0335"
+      ]
+    },
+    {
+      "case_id": "BC0334",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷中 瑞杰路德·斯佩路迪亚 的详细情节 6，涉及内心变化",
+      "trigger": "详细触发 6",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：瑞杰路德·斯佩路迪亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 HUMOR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "HUMOR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0336"
+      ]
+    },
+    {
+      "case_id": "BC0335",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "愤怒",
+      "context": "第3卷中 洛克斯 的详细情节 7，涉及内心变化",
+      "trigger": "详细触发 7",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛克斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 ANGER",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "ANGER",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0337"
+      ]
+    },
+    {
+      "case_id": "BC0336",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "恐惧",
+      "context": "第3卷中 人神 的详细情节 8，涉及内心变化",
+      "trigger": "详细触发 8",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：人神 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 FEAR",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "FEAR",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0338"
+      ]
+    },
+    {
+      "case_id": "BC0337",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷中 瑞杰路德·斯佩路迪亚 的详细情节 9，涉及内心变化",
+      "trigger": "详细触发 9",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：瑞杰路德·斯佩路迪亚 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 SHAME",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "SHAME",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0339"
+      ]
+    },
+    {
+      "case_id": "BC0338",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "嫉妒",
+      "context": "第3卷中 洛克斯 的详细情节 10，涉及内心变化",
+      "trigger": "详细触发 10",
+      "available_information": "知与不知的分离：角色知道部分真相",
+      "action": "详细行动：洛克斯 根据性格做出选择",
+      "verbal_response": "详细台词：‘……’ 体现 JEALOUSY",
+      "emotional_response": "复杂情绪",
+      "goal_at_time": "实现个人目标",
+      "relationship_context": "与重要他人",
+      "social_context": "私下/公开",
+      "immediate_outcome": "短期结果",
+      "long_term_outcome": "长期影响",
+      "tags": [
+        "JEALOUSY",
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV0340"
+      ]
+    },
+    {
+      "case_id": "BC0339",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷中 E0031 的极详细私人情节 1，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 1",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 1",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0345"
+      ]
+    },
+    {
+      "case_id": "BC0340",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷中 E0033 的极详细私人情节 2，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 2",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 2",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0346"
+      ]
+    },
+    {
+      "case_id": "BC0341",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷中 E0032 的极详细私人情节 3，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 3",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 3",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0347"
+      ]
+    },
+    {
+      "case_id": "BC0342",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "秘密",
+      "context": "第3卷中 E0031 的极详细私人情节 4，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 4",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 4",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0348"
+      ]
+    },
+    {
+      "case_id": "BC0343",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "吸引",
+      "context": "第3卷中 E0033 的极详细私人情节 5，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 5",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 5",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0349"
+      ]
+    },
+    {
+      "case_id": "BC0344",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷中 E0032 的极详细私人情节 6，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 6",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 6",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0345"
+      ]
+    },
+    {
+      "case_id": "BC0345",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "幽默",
+      "context": "第3卷中 E0031 的极详细私人情节 7，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 7",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 7",
+      "verbal_response": "‘……’ 体现 HUMOR 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "HUMOR",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0346"
+      ]
+    },
+    {
+      "case_id": "BC0346",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "戏弄",
+      "context": "第3卷中 E0033 的极详细私人情节 8，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 8",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 8",
+      "verbal_response": "‘……’ 体现 TEASING 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "TEASING",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0347"
+      ]
+    },
+    {
+      "case_id": "BC0347",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "说谎",
+      "context": "第3卷中 E0032 的极详细私人情节 9，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 9",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 9",
+      "verbal_response": "‘……’ 体现 LIE 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "LIE",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0348"
+      ]
+    },
+    {
+      "case_id": "BC0348",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "phase_name": "第3卷阶段1",
+      "volume_no": 3,
+      "situation_type": "秘密",
+      "context": "第3卷中 E0031 的极详细私人情节 10，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 10",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 10",
+      "verbal_response": "‘……’ 体现 SECRET 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SECRET",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0349"
+      ]
+    },
+    {
+      "case_id": "BC0349",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "phase_name": "第3卷阶段3",
+      "volume_no": 3,
+      "situation_type": "吸引",
+      "context": "第3卷中 E0033 的极详细私人情节 11，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 11",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 11",
+      "verbal_response": "‘……’ 体现 ATTRACTION 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "ATTRACTION",
+        "PRIVATE_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0345"
+      ]
+    },
+    {
+      "case_id": "BC0350",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "phase_name": "第3卷阶段2",
+      "volume_no": 3,
+      "situation_type": "羞耻",
+      "context": "第3卷中 E0032 的极详细私人情节 12，涉及反差与隐藏意图",
+      "trigger": "详细触发-压力/亲密/权威 12",
+      "available_information": "角色知道部分、不知道部分，含误解",
+      "action": "角色根据怪癖与关系做出细腻反应 12",
+      "verbal_response": "‘……’ 体现 SHAME 风格",
+      "emotional_response": "表面与内心不一致，隐藏真实",
+      "goal_at_time": "维护关系/达成目标/隐藏羞耻",
+      "relationship_context": "与信赖/权威/恋慕对象",
+      "social_context": "私下/公开反差场景",
+      "immediate_outcome": "细腻即时结果",
+      "long_term_outcome": "对人格与关系的长期影响",
+      "tags": [
+        "SHAME",
+        "PUBLIC_SCENE"
+      ],
+      "evidence_refs": [
+        "EV0346"
+      ]
     }
   ],
   "detailed_events": [],
@@ -1617,6 +2606,538 @@
       "evidence_refs": [
         "EV0311"
       ]
+    },
+    {
+      "quirk_id": "QK0307",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "身份",
+      "name": "瑞杰路德·斯佩路迪亚身份斯佩路德族",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 身份 为 斯佩路德族。斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及斯佩路德族"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出斯佩路德族",
+      "private_expression": "私下也保持斯佩路德族",
+      "behavior_patterns": [
+        "因斯佩路德族而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0331"
+      ]
+    },
+    {
+      "quirk_id": "QK0308",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "身份",
+      "name": "瑞杰路德·斯佩路迪亚身份斯佩路德族战士团团长",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 身份 为 斯佩路德族战士团团长。斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及斯佩路德族战士团团长"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出斯佩路德族战士团团长",
+      "private_expression": "私下也保持斯佩路德族战士团团长",
+      "behavior_patterns": [
+        "因斯佩路德族战士团团长而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0332"
+      ]
+    },
+    {
+      "quirk_id": "QK0309",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "经历",
+      "name": "瑞杰路德·斯佩路迪亚经历拉普拉斯阴谋下被迫杀",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 经历 为 拉普拉斯阴谋下被迫杀死家人。斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及拉普拉斯阴谋下被迫杀死家人"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出拉普拉斯阴谋下被迫杀死家人",
+      "private_expression": "私下也保持拉普拉斯阴谋下被迫杀死家人",
+      "behavior_patterns": [
+        "因拉普拉斯阴谋下被迫杀死家人而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0333"
+      ]
+    },
+    {
+      "quirk_id": "QK0310",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "经历",
+      "name": "瑞杰路德·斯佩路迪亚经历成功向拉普拉斯复仇",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 经历 为 成功向拉普拉斯复仇。斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及成功向拉普拉斯复仇"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出成功向拉普拉斯复仇",
+      "private_expression": "私下也保持成功向拉普拉斯复仇",
+      "behavior_patterns": [
+        "因成功向拉普拉斯复仇而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0334"
+      ]
+    },
+    {
+      "quirk_id": "QK0311",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "经历",
+      "name": "瑞杰路德·斯佩路迪亚经历被称作Dead En",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 经历 为 被称作Dead End的凶暴斯佩路德族。斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及被称作Dead End的凶暴斯佩路德族"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出被称作Dead End的凶暴斯佩路德族",
+      "private_expression": "私下也保持被称作Dead End的凶暴斯佩路德族",
+      "behavior_patterns": [
+        "因被称作Dead End的凶暴斯佩路德族而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0335"
+      ]
+    },
+    {
+      "quirk_id": "QK0312",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "技能",
+      "name": "瑞杰路德·斯佩路迪亚擅长额头宝石具备雷达机能",
+      "description": "基于原文事实：瑞杰路德·斯佩路迪亚 的 擅长 为 额头宝石具备雷达机能。斯佩路德族战士团团长，被称为Dead End，护送鲁迪乌斯与艾莉丝回国的战士。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及额头宝石具备雷达机能"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出额头宝石具备雷达机能",
+      "private_expression": "私下也保持额头宝石具备雷达机能",
+      "behavior_patterns": [
+        "因额头宝石具备雷达机能而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": "自豪",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0336"
+      ]
+    },
+    {
+      "quirk_id": "QK0313",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "身份",
+      "name": "人神身份自称神的谜之存在",
+      "description": "基于原文事实：人神 的 身份 为 自称神的谜之存在。自称神的谜之存在，能通过梦境与人对话并提供建议。",
+      "intensity": "MEDIUM",
+      "frequency": "持续",
+      "triggers": [
+        "提及自称神的谜之存在"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出自称神的谜之存在",
+      "private_expression": "私下也保持自称神的谜之存在",
+      "behavior_patterns": [
+        "因自称神的谜之存在而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0337"
+      ]
+    },
+    {
+      "quirk_id": "QK0314",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "特征",
+      "name": "人神能力能通过梦境与精神沟通",
+      "description": "基于原文事实：人神 的 能力 为 能通过梦境与精神沟通。自称神的谜之存在，能通过梦境与人对话并提供建议。",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "提及能通过梦境与精神沟通"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开表现出能通过梦境与精神沟通",
+      "private_expression": "私下也保持能通过梦境与精神沟通",
+      "behavior_patterns": [
+        "因能通过梦境与精神沟通而产生的行为"
+      ],
+      "verbal_patterns": [],
+      "body_language": "相应身体语言",
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0338"
+      ]
+    },
+    {
+      "quirk_id": "QK0315",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "口头禅",
+      "name": "V3极详细怪癖1",
+      "description": "第3卷中 E0031 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "触发1"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式1",
+        "重复思维1"
+      ],
+      "verbal_patterns": [
+        "口癖1"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0345"
+      ]
+    },
+    {
+      "quirk_id": "QK0316",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "小动作",
+      "name": "V3极详细怪癖2",
+      "description": "第3卷中 E0033 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "频繁",
+      "triggers": [
+        "触发2"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式2",
+        "重复思维2"
+      ],
+      "verbal_patterns": [
+        "口癖2"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0346"
+      ]
+    },
+    {
+      "quirk_id": "QK0317",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "收藏癖",
+      "name": "V3极详细怪癖3",
+      "description": "第3卷中 E0032 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发3"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式3",
+        "重复思维3"
+      ],
+      "verbal_patterns": [
+        "口癖3"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0347"
+      ]
+    },
+    {
+      "quirk_id": "QK0318",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "category": "羞耻表现",
+      "name": "V3极详细怪癖4",
+      "description": "第3卷中 E0031 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发4"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式4",
+        "重复思维4"
+      ],
+      "verbal_patterns": [
+        "口癖4"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0348"
+      ]
+    },
+    {
+      "quirk_id": "QK0319",
+      "character_id": "E0033",
+      "phase_id": "phase-3-3",
+      "category": "紧张习惯",
+      "name": "V3极详细怪癖5",
+      "description": "第3卷中 E0033 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发5"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式5",
+        "重复思维5"
+      ],
+      "verbal_patterns": [
+        "口癖5"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0349"
+      ]
+    },
+    {
+      "quirk_id": "QK0320",
+      "character_id": "E0032",
+      "phase_id": "phase-3-2",
+      "category": "私下低俗",
+      "name": "V3极详细怪癖6",
+      "description": "第3卷中 E0032 的极可辨识细节：具体表现、触发、公私反差，基于原文可追溯",
+      "intensity": "MEDIUM",
+      "frequency": "偶尔",
+      "triggers": [
+        "触发6"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合克制",
+      "private_expression": "私下显露且带情绪奖励",
+      "behavior_patterns": [
+        "模式6",
+        "重复思维6"
+      ],
+      "verbal_patterns": [
+        "口癖6"
+      ],
+      "body_language": "害羞时摸鼻、紧张时握拳",
+      "emotional_reward": "安心/愉悦",
+      "emotional_response": "被发现时慌乱",
+      "boundaries": [
+        "底线不触及"
+      ],
+      "exceptions": [
+        "信任对象例外"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0345"
+      ]
     }
   ],
   "character_preferences": [
@@ -1720,6 +3241,108 @@
       "confidence": "EXPLICIT",
       "evidence_refs": [
         "EV0316"
+      ]
+    },
+    {
+      "preference_id": "PF0307",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "LIKE",
+      "target": "斯佩路德族",
+      "description": "瑞杰路德·斯佩路迪亚 对 斯佩路德族 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0334"
+      ]
+    },
+    {
+      "preference_id": "PF0308",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "LIKE",
+      "target": "斯佩路德族战士团团长",
+      "description": "瑞杰路德·斯佩路迪亚 对 斯佩路德族战士团团长 的偏好/特征，源自 身份",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0335"
+      ]
+    },
+    {
+      "preference_id": "PF0309",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "LIKE",
+      "target": "拉普拉斯阴谋下被迫杀死家人",
+      "description": "瑞杰路德·斯佩路迪亚 对 拉普拉斯阴谋下被迫杀死家人 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0336"
+      ]
+    },
+    {
+      "preference_id": "PF0310",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "LIKE",
+      "target": "成功向拉普拉斯复仇",
+      "description": "瑞杰路德·斯佩路迪亚 对 成功向拉普拉斯复仇 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0337"
+      ]
+    },
+    {
+      "preference_id": "PF0311",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "LIKE",
+      "target": "被称作Dead End的凶暴斯佩路德族",
+      "description": "瑞杰路德·斯佩路迪亚 对 被称作Dead End的凶暴斯佩路德族 的偏好/特征，源自 经历",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0338"
+      ]
+    },
+    {
+      "preference_id": "PF0312",
+      "character_id": "E0031",
+      "phase_id": "phase-3-1",
+      "preference_type": "LIKE",
+      "target": "额头宝石具备雷达机能",
+      "description": "瑞杰路德·斯佩路迪亚 对 额头宝石具备雷达机能 的偏好/特征，源自 擅长",
+      "intensity": "MEDIUM",
+      "context": "公开",
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV0339"
       ]
     }
   ],
