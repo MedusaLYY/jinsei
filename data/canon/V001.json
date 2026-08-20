@@ -700,7 +700,7 @@
       "visible_to_volume": null
     },
     {
-      "fact_id": "F0023",
+      "fact_id": "F0227",
       "entity_id": "E0001",
       "predicate": "经历",
       "object_value": "五岁起随保罗学习剑术，获赠真剑与木剑",
@@ -721,7 +721,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0024",
+      "fact_id": "F0228",
       "entity_id": "E0001",
       "predicate": "擅长",
       "object_value": "混合魔术（以无咏唱并用多个魔术）",
@@ -742,7 +742,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0025",
+      "fact_id": "F0229",
       "entity_id": "E0001",
       "predicate": "经历",
       "object_value": "洛琪希的毕业考中现学水圣级魔术豪雷积雨云并合格",
@@ -763,7 +763,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0026",
+      "fact_id": "F0230",
       "entity_id": "E0006",
       "predicate": "身份",
       "object_value": "罗尔兹之女",
@@ -784,7 +784,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0027",
+      "fact_id": "F0231",
       "entity_id": "E0006",
       "predicate": "性别",
       "object_value": "女孩子（鲁迪一度误认为男孩）",
@@ -805,7 +805,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0028",
+      "fact_id": "F0232",
       "entity_id": "E0015",
       "predicate": "身份",
       "object_value": "半长耳族猎人、森林塔楼看守",
@@ -826,7 +826,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0029",
+      "fact_id": "F0233",
       "entity_id": "E0016",
       "predicate": "身份",
       "object_value": "艾特家之子，带头欺负希露菲的顽童",
@@ -847,7 +847,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0030",
+      "fact_id": "F0234",
       "entity_id": "E0001",
       "predicate": "经历",
       "object_value": "以魔术制止霸凌，救下希露菲",
@@ -868,7 +868,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0031",
+      "fact_id": "F0235",
       "entity_id": "E0001",
       "predicate": "经历",
       "object_value": "七岁时提议就读魔法大学，因学费与年龄被家人婉拒",
@@ -889,7 +889,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0032",
+      "fact_id": "F0236",
       "entity_id": "E0001",
       "predicate": "经历",
       "object_value": "七岁受雇前往罗亚担任大小姐的家庭教师",
@@ -910,7 +910,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0033",
+      "fact_id": "F0237",
       "entity_id": "E0002",
       "predicate": "行为",
       "object_value": "为让鲁迪独立，打昏他并委托基列奴送往罗亚",
@@ -931,7 +931,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0034",
+      "fact_id": "F0238",
       "entity_id": "E0006",
       "predicate": "行为",
       "object_value": "以无咏唱中级魔术攻击保罗，试图救回被绑的鲁迪",
@@ -952,7 +952,7 @@
       "date_precision": "UNKNOWN"
     },
     {
-      "fact_id": "F0035",
+      "fact_id": "F0239",
       "entity_id": "E0006",
       "predicate": "经历",
       "object_value": "主动向莉莉雅请求学习贵族礼节",
@@ -1184,7 +1184,7 @@
       "visible_to_volume": null
     },
     {
-      "relationship_id": "R0012",
+      "relationship_id": "R0066",
       "source_id": "E0015",
       "target_id": "E0006",
       "rel_type": "父女",
@@ -1203,7 +1203,7 @@
       "visible_to_volume": null
     },
     {
-      "relationship_id": "R0013",
+      "relationship_id": "R0067",
       "source_id": "E0016",
       "target_id": "E0006",
       "rel_type": "霸凌",
@@ -1222,7 +1222,7 @@
       "visible_to_volume": null
     },
     {
-      "relationship_id": "R0014",
+      "relationship_id": "R0068",
       "source_id": "E0015",
       "target_id": "E0001",
       "rel_type": "相识",
@@ -1241,7 +1241,7 @@
       "visible_to_volume": null
     },
     {
-      "relationship_id": "R0015",
+      "relationship_id": "R0069",
       "source_id": "E0016",
       "target_id": "E0001",
       "rel_type": "敌对",
@@ -1297,37 +1297,37 @@
       "note": "鲁迪乌斯知道洛琪希是水圣级魔术师。"
     },
     {
-      "knowledge_id": "K0006",
+      "knowledge_id": "K0108",
       "owner_id": "E0001",
       "fact_id": "F0009",
       "certainty": "EXPLICIT",
       "note": "鲁迪乌斯知道塞妮丝会治愈魔术。"
     },
     {
-      "knowledge_id": "K0007",
+      "knowledge_id": "K0109",
       "owner_id": "E0001",
-      "fact_id": "F0027",
+      "fact_id": "F0231",
       "certainty": "EXPLICIT",
       "note": "鲁迪知道希露菲是女孩子。"
     },
     {
-      "knowledge_id": "K0008",
+      "knowledge_id": "K0110",
       "owner_id": "E0002",
-      "fact_id": "F0031",
+      "fact_id": "F0235",
       "certainty": "EXPLICIT",
       "note": "保罗知道鲁迪想去魔法大学就读。"
     },
     {
-      "knowledge_id": "K0009",
+      "knowledge_id": "K0111",
       "owner_id": "E0003",
-      "fact_id": "F0027",
+      "fact_id": "F0231",
       "certainty": "EXPLICIT",
       "note": "塞妮丝知道希露菲是女孩子。"
     },
     {
-      "knowledge_id": "K0010",
+      "knowledge_id": "K0112",
       "owner_id": "E0006",
-      "fact_id": "F0035",
+      "fact_id": "F0239",
       "certainty": "EXPLICIT",
       "note": "希露菲清楚自己开始学习贵族礼节。"
     }
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "event_id": "T0005",
+      "event_id": "T0099",
       "title": "洛琪希毕业",
       "description": "洛琪希以水圣级魔术豪雷积雨云通过毕业考，赠鲁迪米格路德族护身符后离开。",
       "date": null,
@@ -1437,7 +1437,7 @@
       ]
     },
     {
-      "event_id": "T0006",
+      "event_id": "T0100",
       "title": "希露菲救援",
       "description": "鲁迪目睹希露菲被霸凌，用魔术赶走施暴者并救下她。",
       "date": null,
@@ -1458,7 +1458,7 @@
       ]
     },
     {
-      "event_id": "T0007",
+      "event_id": "T0101",
       "title": "索马尔事件",
       "description": "艾特太太上门告状，保罗冤枉鲁迪，弄清真相后向儿子道歉。",
       "date": null,
@@ -1479,7 +1479,7 @@
       ]
     },
     {
-      "event_id": "T0008",
+      "event_id": "T0102",
       "title": "紧急家族会议",
       "description": "莉莉雅怀孕曝光，塞妮丝在鲁迪劝解下接纳莉莉雅为家人。",
       "date": null,
@@ -1501,7 +1501,7 @@
       ]
     },
     {
-      "event_id": "T0009",
+      "event_id": "T0103",
       "title": "魔法大学请求",
       "description": "鲁迪提议前往魔法大学就读，因学费与年龄问题被家人婉拒。",
       "date": null,
@@ -1522,7 +1522,7 @@
       ]
     },
     {
-      "event_id": "T0010",
+      "event_id": "T0104",
       "title": "启程罗亚",
       "description": "保罗打昏鲁迪并托基列奴护送，鲁迪启程前往罗亚担任家教。",
       "date": null,

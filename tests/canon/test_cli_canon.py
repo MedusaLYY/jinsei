@@ -432,6 +432,147 @@ def test_canon_apply_command_refuses_dirty_batch(
         connection.close()
 
 
+def test_canon_enrich_verify_command_clean_batch(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    from overlord_worldsim.canon.extract_model import ExtractionBatch
+
+    from .enrich_fixtures import (
+        CORPUS as ENRICH_CORPUS,
+    )
+    from .enrich_fixtures import (
+        ENTITIES,
+        RELATIONSHIPS,
+        TIMELINE_EVENTS,
+        make_batch,
+    )
+
+    source = tmp_path / "source.txt"
+    source.write_text(ENRICH_CORPUS, encoding="utf-8")
+
+    canon_dir = tmp_path / "canon"
+    canon_dir.mkdir()
+    registry_batch = ExtractionBatch(
+        batch_id="V001",
+        source_volume=1,
+        source_unit_ids=("U0001", "U0002", "U0003"),
+        entities=ENTITIES,
+        facts=(),
+        relationships=RELATIONSHIPS,
+        knowledge=(),
+        events=TIMELINE_EVENTS,
+        phases=(),
+    )
+    (canon_dir / "V001.json").write_text(
+        json.dumps(registry_batch.to_json(), ensure_ascii=False), encoding="utf-8"
+    )
+
+    content_dir = tmp_path / "enrich"
+    content_dir.mkdir()
+    (content_dir / "V001.json").write_text(
+        json.dumps(make_batch().to_json(), ensure_ascii=False, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    out_path = tmp_path / "report.json"
+
+    assert (
+        main(
+            [
+                "canon",
+                "enrich-verify",
+                "--content",
+                str(content_dir),
+                "--source",
+                str(source),
+                "--canon",
+                str(canon_dir),
+                "--out",
+                str(out_path),
+            ]
+        )
+        == 0
+    )
+    captured = capsys.readouterr()
+    payload = json.loads(captured.out)
+    assert payload["is_clean"] is True
+    assert payload["batch_count"] == 1
+    assert json.loads(out_path.read_text(encoding="utf-8"))["is_clean"] is True
+    assert captured.err == ""
+
+
+def test_canon_enrich_verify_command_dirty_batch(
+    tmp_path: Path, capsys: pytest.CaptureFixture[str]
+) -> None:
+    from dataclasses import replace
+
+    from overlord_worldsim.canon.extract_model import ExtractionBatch
+
+    from .enrich_fixtures import (
+        CORPUS as ENRICH_CORPUS,
+    )
+    from .enrich_fixtures import (
+        ENTITIES,
+        RELATIONSHIPS,
+        TIMELINE_EVENTS,
+        make_batch,
+        make_profile,
+    )
+
+    source = tmp_path / "source.txt"
+    source.write_text(ENRICH_CORPUS, encoding="utf-8")
+
+    canon_dir = tmp_path / "canon"
+    canon_dir.mkdir()
+    registry_batch = ExtractionBatch(
+        batch_id="V001",
+        source_volume=1,
+        source_unit_ids=("U0001", "U0002", "U0003"),
+        entities=ENTITIES,
+        facts=(),
+        relationships=RELATIONSHIPS,
+        knowledge=(),
+        events=TIMELINE_EVENTS,
+        phases=(),
+    )
+    (canon_dir / "V001.json").write_text(
+        json.dumps(registry_batch.to_json(), ensure_ascii=False), encoding="utf-8"
+    )
+
+    content_dir = tmp_path / "enrich"
+    content_dir.mkdir()
+    batch = replace(
+        make_batch(), character_profiles=(replace(make_profile(), character_id="E9999"),)
+    )
+    (content_dir / "V001.json").write_text(
+        json.dumps(batch.to_json(), ensure_ascii=False, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    out_path = tmp_path / "report.json"
+
+    assert (
+        main(
+            [
+                "canon",
+                "enrich-verify",
+                "--content",
+                str(content_dir),
+                "--source",
+                str(source),
+                "--canon",
+                str(canon_dir),
+                "--out",
+                str(out_path),
+            ]
+        )
+        == 1
+    )
+    captured = capsys.readouterr()
+    payload = json.loads(captured.out)
+    assert payload["is_clean"] is False
+    assert any(error["code"] == "entity_ref" for error in payload["errors"])
+    assert "enrichment verification failed" in captured.err
+
+
 def test_canon_enrich_apply_command_applies_clean_batch(
     tmp_path: Path, capsys: pytest.CaptureFixture[str]
 ) -> None:

@@ -2520,7 +2520,7 @@
       "time_date": null,
       "time_note": "塞妮丝怀孕约一个月后",
       "time_precision": "UNKNOWN",
-      "timeline_event_id": "T0008",
+      "timeline_event_id": "T0102",
       "title": "紧急家族会议",
       "trigger": "莉莉雅当众宣布怀孕，保罗承认",
       "volume_no": 1
@@ -2540,7 +2540,7 @@
           "dependency_id": "ED000701",
           "dependency_type": "REVEALS",
           "statement": "罗亚家教为后续绑架事件埋下伏笔",
-          "target_event_id": "T0005"
+          "target_event_id": "T0099"
         }
       ],
       "event_id": "DE0007",
@@ -2622,7 +2622,7 @@
       "dependencies": [],
       "relationship_change_ids": [],
       "belief_ids": [],
-      "timeline_event_id": "T0007",
+      "timeline_event_id": "T0101",
       "evidence_refs": [
         "EV0068",
         "EV0069",
@@ -2666,7 +2666,7 @@
         "RC0006"
       ],
       "belief_ids": [],
-      "timeline_event_id": "T0006",
+      "timeline_event_id": "T0100",
       "evidence_refs": [
         "EV0069",
         "EV0071"
@@ -2708,7 +2708,7 @@
         "RC0007"
       ],
       "belief_ids": [],
-      "timeline_event_id": "T0005",
+      "timeline_event_id": "T0099",
       "evidence_refs": [
         "EV0062",
         "EV0063",
@@ -2750,7 +2750,7 @@
       "dependencies": [],
       "relationship_change_ids": [],
       "belief_ids": [],
-      "timeline_event_id": "T0009",
+      "timeline_event_id": "T0103",
       "evidence_refs": [
         "EV0083",
         "EV0084"
@@ -2795,7 +2795,7 @@
         "RC0008"
       ],
       "belief_ids": [],
-      "timeline_event_id": "T0010",
+      "timeline_event_id": "T0104",
       "evidence_refs": [
         "EV0086",
         "EV0088",

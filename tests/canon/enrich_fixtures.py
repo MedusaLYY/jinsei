@@ -19,10 +19,8 @@ from overlord_worldsim.canon.enrich_model import (
     CanonConflict,
     CanonGap,
     CharacterProfile,
-    Confidence,
     ConflictStatus,
     CreatureProfile,
-    DatePrecision,
     DetailedEvent,
     EconomicObservation,
     EnrichmentBatch,
@@ -54,6 +52,8 @@ from overlord_worldsim.canon.enrich_model import (
 )
 from overlord_worldsim.canon.enrich_registry import EntityRegistry
 from overlord_worldsim.canon.extract_model import (
+    Confidence,
+    DatePrecision,
     Entity,
     EntityKind,
     Relationship,

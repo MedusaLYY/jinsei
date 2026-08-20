@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Any, cast
 
 import pytest
 
@@ -198,18 +199,19 @@ def db_path(tmp_path: Path) -> Path:
 
 
 def test_get_character_returns_entity_and_visible_facts(db_path: Path) -> None:
-    character = get_character(db_path, "E0001")
+    character = cast(dict[str, Any], get_character(db_path, "E0001"))
     assert character["entity"]["name"] == "鲁迪乌斯·格雷拉特"
     assert "鲁迪" in character["entity"]["aliases"]
-    predicates = {fact["predicate"] for fact in character["facts"]}
+    predicates = {fact["predicate"] for fact in cast(list[Any], character["facts"])}
     assert {"年纪", "位于", "称号"} <= predicates
 
 
 def test_get_character_filters_by_volume_window(db_path: Path) -> None:
-    early = get_character(db_path, "E0001", at_volume=1)
-    assert {fact["predicate"] for fact in early["facts"]} == {"年纪", "位于"}
-    late = get_character(db_path, "E0001", at_volume=4)
-    assert {fact["predicate"] for fact in late["facts"]} == {"年纪", "位于", "称号"}
+    early = cast(dict[str, Any], get_character(db_path, "E0001", at_volume=1))
+    assert {fact["predicate"] for fact in cast(list[Any], early["facts"])} == {"年纪", "位于"}
+    late = cast(dict[str, Any], get_character(db_path, "E0001", at_volume=4))
+    late_predicates = {fact["predicate"] for fact in cast(list[Any], late["facts"])}
+    assert late_predicates == {"年纪", "位于", "称号"}
 
 
 def test_get_character_unknown_id_returns_none(db_path: Path) -> None:
@@ -263,24 +265,24 @@ def test_get_location(db_path: Path) -> None:
 
 
 def test_get_fact_with_verbatim_evidence(db_path: Path) -> None:
-    fact = get_fact(db_path, fact_id="F0001")
+    fact = cast(dict[str, Any], get_fact(db_path, fact_id="F0001"))
     assert fact is not None
     assert fact["predicate"] == "年纪"
     assert "鲁迪乌斯四岁" in fact["evidence_text"][0]
     assert get_fact(db_path, fact_id="NOPE") is None
-    by_query = get_fact(db_path, entity_id="E0001", predicate="位于")
+    by_query = cast(dict[str, Any], get_fact(db_path, entity_id="E0001", predicate="位于"))
     assert by_query is not None
     assert by_query["fact_id"] == "F0002"
 
 
 def test_get_canon_rudeus_state(db_path: Path) -> None:
-    state = get_canon_rudeus_state(db_path, at_volume=1)
+    state = cast(dict[str, Any], get_canon_rudeus_state(db_path, at_volume=1))
     assert state is not None
     assert state["entity"]["name"] == "鲁迪乌斯·格雷拉特"
     assert state["location"] == "布埃纳村"
     assert state["age"]["object_value"] == "四岁"
     assert state["phase"] == "幼年期"
     assert state["facts"] == ["年纪", "位于"]
-    late = get_canon_rudeus_state(db_path, at_volume=9)
+    late = cast(dict[str, Any], get_canon_rudeus_state(db_path, at_volume=9))
     assert late is not None
     assert late["facts"] == ["年纪", "位于", "称号"]

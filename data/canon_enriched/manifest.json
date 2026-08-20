@@ -1,10 +1,10 @@
 {
   "batch_counts": "{\"ENRICH_V001\":246}",
   "build_tool_version": "overlord-worldsim-cli",
-  "content_sha256": "b98e482550f08c5d5c114ef59971607fce6f9ab9b405a8857b4c758546792d4d",
+  "content_sha256": "74df257e2d8395825ae895742b90e758b114af720e692b6bd420aa952a999743",
   "content_version": "1",
   "entity_registry_version": "1",
-  "generated_at": "2026-08-20T04:09:48+00:00",
+  "generated_at": "2026-08-20T05:01:54+00:00",
   "schema_version": "1.0.0",
   "source_scope": "V001-V026 mainline",
   "source_sha256": "eb9cc724ba815cba424bea935a5105047546c199944c88c413a2bed414fd1355",

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Any, cast
 
 import pytest
 
@@ -260,8 +261,8 @@ def db_path(tmp_path: Path) -> Path:
 def test_get_character_filters_by_date(db_path: Path) -> None:
     from overlord_worldsim.canon.query import get_character
 
-    character = get_character(db_path, "E0001", at_volume=3, at_date="403-6")
-    assert {fact["predicate"] for fact in character["facts"]} == {"年纪"}
+    character = cast(dict[str, Any], get_character(db_path, "E0001", at_volume=3, at_date="403-6"))
+    assert {fact["predicate"] for fact in cast(list[Any], character["facts"])} == {"年纪"}
 
 
 def test_get_character_phase_filters_by_date(db_path: Path) -> None:

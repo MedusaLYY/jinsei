@@ -3,9 +3,9 @@
 from __future__ import annotations
 
 from dataclasses import replace
+from typing import cast
 
 from overlord_worldsim.canon.enrich_model import (
-    DatePrecision,
     EnrichmentBatch,
     EventDependency,
     EventDependencyKind,
@@ -15,6 +15,7 @@ from overlord_worldsim.canon.enrich_model import (
 from overlord_worldsim.canon.enrich_verifier import (
     verify_enrichment,
 )
+from overlord_worldsim.canon.extract_model import DatePrecision
 
 from .enrich_fixtures import (
     DOC,
@@ -192,3 +193,23 @@ def test_gap_searched_volume_rejected() -> None:
     gap = replace(batch.canon_gaps[0], searched_volumes=(99,))
     batch = replace(batch, canon_gaps=(gap,))
     assert "gap_volume" in _codes([batch])
+
+
+def test_wrong_id_prefix_rejected() -> None:
+    batch = make_batch()
+    profile = replace(make_profile(), profile_id="BC0001")
+    batch = replace(batch, character_profiles=(profile,))
+    assert "id_prefix" in _codes([batch])
+
+
+def test_report_and_error_to_json() -> None:
+    batch = make_batch()
+    profile = replace(make_profile(), profile_id="BC0001")
+    batch = replace(batch, character_profiles=(profile,))
+    report = verify_enrichment([batch], DOC, REGISTRY)
+    assert not report.is_clean
+    document = report.to_json()
+    assert document["is_clean"] is False
+    assert len(cast(list[object], document["errors"])) == 1
+    for error in report.errors:
+        assert set(error.to_json()) == {"code", "path", "message"}

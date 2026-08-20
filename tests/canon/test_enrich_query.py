@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Any, cast
 
 from overlord_worldsim.canon.enrich_query import (
     enrichment_summary,
@@ -41,7 +42,7 @@ def test_get_character_behavior_profile(tmp_path: Path) -> None:
     db_path = _apply(tmp_path)
     profiles = get_character_behavior_profile(db_path, "E0001")
     assert len(profiles) == 1
-    profile = profiles[0]
+    profile = cast(dict[str, Any], profiles[0])
     assert profile["profile_id"] == "CP0001"
     assert profile["personality_traits"] == ["认真", "好学"]
     assert profile["evidence"][0]["evidence_id"] == "EV0001"
@@ -89,11 +90,11 @@ def test_get_social_rules(tmp_path: Path) -> None:
 
 def test_get_item_with_instances_and_history(tmp_path: Path) -> None:
     db_path = _apply(tmp_path)
-    item = get_item(db_path, "IT0001")
+    item = cast(dict[str, Any], get_item(db_path, "IT0001"))
     assert item is not None
     assert item["canonical_name"] == "火之魔剑"
-    assert len(item["instances"]) == 1
-    history = item["instances"][0]["ownership_history"]
+    assert len(cast(list[Any], item["instances"])) == 1
+    history = cast(list[Any], cast(list[Any], item["instances"])[0]["ownership_history"])
     assert history[0]["owner_id"] == "E0001"
     flat_history = get_item_history(db_path, item_id="IT0001")
     assert len(flat_history) == 1
@@ -116,7 +117,7 @@ def test_get_power_comparisons(tmp_path: Path) -> None:
 
 def test_get_detailed_event_children(tmp_path: Path) -> None:
     db_path = _apply(tmp_path)
-    event = get_detailed_event(db_path, "DE0001")
+    event = cast(dict[str, Any], get_detailed_event(db_path, "DE0001"))
     assert event is not None
     assert event["title"] == "搬家"
     assert event["participants"] == ["E0001", "E0002"]
@@ -142,10 +143,10 @@ def test_get_location_profile_and_routes(tmp_path: Path) -> None:
 
 def test_get_organization_with_political_states(tmp_path: Path) -> None:
     db_path = _apply(tmp_path)
-    organization = get_organization(db_path, "E0005")
+    organization = cast(dict[str, Any], get_organization(db_path, "E0005"))
     assert organization is not None
     assert organization["org_type"] == "公會"
-    assert len(organization["political_states"]) == 1
+    assert len(cast(list[Any], organization["political_states"])) == 1
 
 
 def test_get_beliefs_at_time(tmp_path: Path) -> None:
