@@ -1789,6 +1789,354 @@
         "EV09005",
         "EV09006"
       ]
+    },
+    {
+      "profile_id": "CP0910",
+      "character_id": "E0001",
+      "phase_id": "phase-9-4",
+      "phase_name": "阿斯拉篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第9卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第9卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第9卷习得技能"
+      ],
+      "knowledge_state": [
+        "第9卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第9卷经历使人物更成熟",
+      "summary": "第9卷阿斯拉篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "profile_id": "CP0911",
+      "character_id": "E0113",
+      "phase_id": "phase-9-5",
+      "phase_name": "阿斯拉篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第9卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第9卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第9卷习得技能"
+      ],
+      "knowledge_state": [
+        "第9卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第9卷经历使人物更成熟",
+      "summary": "第9卷阿斯拉篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "profile_id": "CP0912",
+      "character_id": "E0002",
+      "phase_id": "phase-9-6",
+      "phase_name": "阿斯拉篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第9卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第9卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第9卷习得技能"
+      ],
+      "knowledge_state": [
+        "第9卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第9卷经历使人物更成熟",
+      "summary": "第9卷阿斯拉篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV09003"
+      ]
+    },
+    {
+      "profile_id": "CP0913",
+      "character_id": "E0003",
+      "phase_id": "phase-9-7",
+      "phase_name": "阿斯拉篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第9卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第9卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第9卷习得技能"
+      ],
+      "knowledge_state": [
+        "第9卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第9卷经历使人物更成熟",
+      "summary": "第9卷阿斯拉篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 9,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV09004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1799,20 +2147,20 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "ANGER",
-      "context": "第9卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「天才少年的秘密 前篇」——七星在对应章节的具体抉择与对抗",
+      "trigger": "第一话「天才少年的秘密 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「天才少年的秘密 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「天才少年的秘密 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「天才少年的秘密 前篇」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「天才少年的秘密 前篇」中达成当卷小目标",
+      "relationship_context": "与七星及相关者在第一话「天才少年的秘密 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「天才少年的秘密 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「天才少年的秘密 后篇」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV09001"
@@ -1825,20 +2173,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "FEAR",
-      "context": "第9卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「天才少年的秘密 后篇」——加尔在对应章节的具体抉择与对抗",
+      "trigger": "第二话「天才少年的秘密 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「天才少年的秘密 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「天才少年的秘密 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「天才少年的秘密 后篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「天才少年的秘密 后篇」中达成当卷小目标",
+      "relationship_context": "与加尔及相关者在第二话「天才少年的秘密 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「天才少年的秘密 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话「希露菲叶特3」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV09002"
@@ -1851,20 +2199,20 @@
       "phase_name": "第9卷阶段3",
       "volume_no": 9,
       "situation_type": "EMBARRASSMENT",
-      "context": "第9卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话「希露菲叶特3」——妮娜在对应章节的具体抉择与对抗",
+      "trigger": "闲话「希露菲叶特3」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话「希露菲叶特3」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话「希露菲叶特3」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕闲话「希露菲叶特3」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在闲话「希露菲叶特3」中达成当卷小目标",
+      "relationship_context": "与妮娜及相关者在闲话「希露菲叶特3」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "闲话「希露菲叶特3」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「洗衣板未婚妻 前篇」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV09003"
@@ -1877,20 +2225,20 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "SHAME",
-      "context": "第9卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「洗衣板未婚妻 前篇」——吉诺在对应章节的具体抉择与对抗",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「洗衣板未婚妻 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「洗衣板未婚妻 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第三话「洗衣板未婚妻 前篇」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「洗衣板未婚妻 前篇」中达成当卷小目标",
+      "relationship_context": "与吉诺及相关者在第三话「洗衣板未婚妻 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「洗衣板未婚妻 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「天才少年的秘密 前篇」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV09004"
@@ -1903,20 +2251,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "JEALOUSY",
-      "context": "第9卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「天才少年的秘密 前篇」——巴迪冈迪在对应章节的具体抉择与对抗",
+      "trigger": "第一话「天才少年的秘密 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「天才少年的秘密 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「天才少年的秘密 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「天才少年的秘密 前篇」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「天才少年的秘密 前篇」中达成当卷小目标",
+      "relationship_context": "与巴迪冈迪及相关者在第一话「天才少年的秘密 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「天才少年的秘密 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「天才少年的秘密 后篇」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV09005"
@@ -1929,20 +2277,20 @@
       "phase_name": "第9卷阶段3",
       "volume_no": 9,
       "situation_type": "ATTRACTION",
-      "context": "第9卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「天才少年的秘密 后篇」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「天才少年的秘密 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「天才少年的秘密 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「天才少年的秘密 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「天才少年的秘密 后篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「天才少年的秘密 后篇」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第二话「天才少年的秘密 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「天才少年的秘密 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话「希露菲叶特3」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV09006"
@@ -1955,19 +2303,19 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "ROMANCE",
-      "context": "第9卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话「希露菲叶特3」——七星在对应章节的具体抉择与对抗",
+      "trigger": "闲话「希露菲叶特3」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话「希露菲叶特3」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话「希露菲叶特3」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕闲话「希露菲叶特3」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在闲话「希露菲叶特3」中达成当卷小目标",
+      "relationship_context": "与七星及相关者在闲话「希露菲叶特3」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "闲话「希露菲叶特3」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「洗衣板未婚妻 前篇」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1981,20 +2329,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "FRIENDSHIP",
-      "context": "第9卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「洗衣板未婚妻 前篇」——加尔在对应章节的具体抉择与对抗",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「洗衣板未婚妻 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「洗衣板未婚妻 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第三话「洗衣板未婚妻 前篇」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「洗衣板未婚妻 前篇」中达成当卷小目标",
+      "relationship_context": "与加尔及相关者在第三话「洗衣板未婚妻 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「洗衣板未婚妻 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「天才少年的秘密 前篇」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV09008"
@@ -2007,20 +2355,20 @@
       "phase_name": "第9卷阶段3",
       "volume_no": 9,
       "situation_type": "FAMILY",
-      "context": "第9卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「天才少年的秘密 前篇」——妮娜在对应章节的具体抉择与对抗",
+      "trigger": "第一话「天才少年的秘密 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「天才少年的秘密 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「天才少年的秘密 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第一话「天才少年的秘密 前篇」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「天才少年的秘密 前篇」中达成当卷小目标",
+      "relationship_context": "与妮娜及相关者在第一话「天才少年的秘密 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「天才少年的秘密 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「天才少年的秘密 后篇」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV09009"
@@ -2033,20 +2381,20 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "AUTHORITY",
-      "context": "第9卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「天才少年的秘密 后篇」——吉诺在对应章节的具体抉择与对抗",
+      "trigger": "第二话「天才少年的秘密 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「天才少年的秘密 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「天才少年的秘密 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第二话「天才少年的秘密 后篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「天才少年的秘密 后篇」中达成当卷小目标",
+      "relationship_context": "与吉诺及相关者在第二话「天才少年的秘密 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「天才少年的秘密 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话「希露菲叶特3」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV09010"
@@ -2059,20 +2407,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "NEGOTIATION",
-      "context": "第9卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话「希露菲叶特3」——巴迪冈迪在对应章节的具体抉择与对抗",
+      "trigger": "闲话「希露菲叶特3」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话「希露菲叶特3」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话「希露菲叶特3」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕闲话「希露菲叶特3」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在闲话「希露菲叶特3」中达成当卷小目标",
+      "relationship_context": "与巴迪冈迪及相关者在闲话「希露菲叶特3」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "闲话「希露菲叶特3」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「洗衣板未婚妻 前篇」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV09011"
@@ -2085,20 +2433,20 @@
       "phase_name": "第9卷阶段3",
       "volume_no": 9,
       "situation_type": "REJECTION",
-      "context": "第9卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「洗衣板未婚妻 前篇」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「洗衣板未婚妻 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「洗衣板未婚妻 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第三话「洗衣板未婚妻 前篇」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「洗衣板未婚妻 前篇」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「洗衣板未婚妻 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「洗衣板未婚妻 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「天才少年的秘密 前篇」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV09012"
@@ -2111,20 +2459,20 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "LOSS",
-      "context": "第9卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「天才少年的秘密 前篇」——七星在对应章节的具体抉择与对抗",
+      "trigger": "第一话「天才少年的秘密 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「天才少年的秘密 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「天才少年的秘密 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「天才少年的秘密 前篇」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「天才少年的秘密 前篇」中达成当卷小目标",
+      "relationship_context": "与七星及相关者在第一话「天才少年的秘密 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「天才少年的秘密 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「天才少年的秘密 后篇」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV09013"
@@ -2137,20 +2485,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "GRIEF",
-      "context": "第9卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「天才少年的秘密 后篇」——加尔在对应章节的具体抉择与对抗",
+      "trigger": "第二话「天才少年的秘密 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「天才少年的秘密 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「天才少年的秘密 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「天才少年的秘密 后篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「天才少年的秘密 后篇」中达成当卷小目标",
+      "relationship_context": "与加尔及相关者在第二话「天才少年的秘密 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「天才少年的秘密 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话「希露菲叶特3」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV09014"
@@ -2163,20 +2511,20 @@
       "phase_name": "第9卷阶段3",
       "volume_no": 9,
       "situation_type": "DANGER",
-      "context": "第9卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话「希露菲叶特3」——妮娜在对应章节的具体抉择与对抗",
+      "trigger": "闲话「希露菲叶特3」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话「希露菲叶特3」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话「希露菲叶特3」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕闲话「希露菲叶特3」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在闲话「希露菲叶特3」中达成当卷小目标",
+      "relationship_context": "与妮娜及相关者在闲话「希露菲叶特3」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "闲话「希露菲叶特3」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「洗衣板未婚妻 前篇」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV09015"
@@ -2189,19 +2537,19 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "COMBAT",
-      "context": "第9卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「洗衣板未婚妻 前篇」——吉诺在对应章节的具体抉择与对抗",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「洗衣板未婚妻 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「洗衣板未婚妻 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第三话「洗衣板未婚妻 前篇」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「洗衣板未婚妻 前篇」中达成当卷小目标",
+      "relationship_context": "与吉诺及相关者在第三话「洗衣板未婚妻 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「洗衣板未婚妻 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「天才少年的秘密 前篇」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2215,20 +2563,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "PROTECT",
-      "context": "第9卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「天才少年的秘密 前篇」——巴迪冈迪在对应章节的具体抉择与对抗",
+      "trigger": "第一话「天才少年的秘密 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「天才少年的秘密 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「天才少年的秘密 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「天才少年的秘密 前篇」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「天才少年的秘密 前篇」中达成当卷小目标",
+      "relationship_context": "与巴迪冈迪及相关者在第一话「天才少年的秘密 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「天才少年的秘密 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「天才少年的秘密 后篇」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV09017"
@@ -2241,20 +2589,20 @@
       "phase_name": "第9卷阶段3",
       "volume_no": 9,
       "situation_type": "BETRAYAL",
-      "context": "第9卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「天才少年的秘密 后篇」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「天才少年的秘密 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「天才少年的秘密 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「天才少年的秘密 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「天才少年的秘密 后篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「天才少年的秘密 后篇」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第二话「天才少年的秘密 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「天才少年的秘密 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话「希露菲叶特3」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV09018"
@@ -2267,20 +2615,20 @@
       "phase_name": "第9卷阶段1",
       "volume_no": 9,
       "situation_type": "MORAL_CHOICE",
-      "context": "第9卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话「希露菲叶特3」——七星在对应章节的具体抉择与对抗",
+      "trigger": "闲话「希露菲叶特3」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话「希露菲叶特3」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话「希露菲叶特3」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕闲话「希露菲叶特3」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在闲话「希露菲叶特3」中达成当卷小目标",
+      "relationship_context": "与七星及相关者在闲话「希露菲叶特3」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "闲话「希露菲叶特3」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「洗衣板未婚妻 前篇」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV09019"
@@ -2293,20 +2641,20 @@
       "phase_name": "第9卷阶段2",
       "volume_no": 9,
       "situation_type": "REQUEST",
-      "context": "第9卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「洗衣板未婚妻 前篇」——加尔在对应章节的具体抉择与对抗",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「洗衣板未婚妻 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「洗衣板未婚妻 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第三话「洗衣板未婚妻 前篇」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「洗衣板未婚妻 前篇」中达成当卷小目标",
+      "relationship_context": "与加尔及相关者在第三话「洗衣板未婚妻 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「洗衣板未婚妻 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「天才少年的秘密 前篇」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV09020"
@@ -4133,34 +4481,964 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
-  "locations": [],
+  "detailed_events": [
+    {
+      "event_id": "DE0901",
+      "event_type": "成长",
+      "title": "第9卷事件1：阿斯拉篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第9卷",
+      "volume_no": 9,
+      "location_id": "E0109",
+      "participants": [
+        "E0001",
+        "E0111",
+        "E0113"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP090101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第9卷事件1",
+          "evidence_refs": [
+            "EV09001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED090101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0902",
+          "statement": "为后续发展铺垫第9卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC090101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第9卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第9卷剧情推进至阶段1",
+      "actions": [
+        "应对第9卷挑战1"
+      ],
+      "outcome": "推动第9卷阿斯拉篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "event_id": "DE0902",
+      "event_type": "成长",
+      "title": "第9卷事件2：阿斯拉篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第9卷",
+      "volume_no": 9,
+      "location_id": "E0109",
+      "participants": [
+        "E0001",
+        "E0111",
+        "E0113"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP090201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第9卷事件2",
+          "evidence_refs": [
+            "EV09002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED090201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0903",
+          "statement": "为后续发展铺垫第9卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC090201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第9卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第9卷剧情推进至阶段2",
+      "actions": [
+        "应对第9卷挑战2"
+      ],
+      "outcome": "推动第9卷阿斯拉篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "event_id": "DE0903",
+      "event_type": "成长",
+      "title": "第9卷事件3：阿斯拉篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第9卷",
+      "volume_no": 9,
+      "location_id": "E0109",
+      "participants": [
+        "E0001",
+        "E0111",
+        "E0113"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP090301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第9卷事件3",
+          "evidence_refs": [
+            "EV09003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED090301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0904",
+          "statement": "为后续发展铺垫第9卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC090301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第9卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第9卷剧情推进至阶段3",
+      "actions": [
+        "应对第9卷挑战3"
+      ],
+      "outcome": "推动第9卷阿斯拉篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV09003"
+      ]
+    },
+    {
+      "event_id": "DE0904",
+      "event_type": "成长",
+      "title": "第9卷事件4：阿斯拉篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第9卷",
+      "volume_no": 9,
+      "location_id": "E0109",
+      "participants": [
+        "E0001",
+        "E0111",
+        "E0113"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP090401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第9卷事件4",
+          "evidence_refs": [
+            "EV09004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED090401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0905",
+          "statement": "为后续发展铺垫第9卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC090401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第9卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第9卷剧情推进至阶段4",
+      "actions": [
+        "应对第9卷挑战4"
+      ],
+      "outcome": "推动第9卷阿斯拉篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV09004"
+      ]
+    },
+    {
+      "event_id": "DE0905",
+      "event_type": "成长",
+      "title": "第9卷事件5：阿斯拉篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第9卷",
+      "volume_no": 9,
+      "location_id": "E0109",
+      "participants": [
+        "E0001",
+        "E0111",
+        "E0113"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP090501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第9卷事件5",
+          "evidence_refs": [
+            "EV09005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED090501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0906",
+          "statement": "为后续发展铺垫第9卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC090501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第9卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第9卷剧情推进至阶段5",
+      "actions": [
+        "应对第9卷挑战5"
+      ],
+      "outcome": "推动第9卷阿斯拉篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV09005"
+      ]
+    },
+    {
+      "event_id": "DE0906",
+      "event_type": "成长",
+      "title": "第9卷事件6：阿斯拉篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第9卷",
+      "volume_no": 9,
+      "location_id": "E0109",
+      "participants": [
+        "E0001",
+        "E0111",
+        "E0113"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP090601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第9卷事件6",
+          "evidence_refs": [
+            "EV09006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC090601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第9卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第9卷剧情推进至阶段6",
+      "actions": [
+        "应对第9卷挑战6"
+      ],
+      "outcome": "推动第9卷阿斯拉篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV09006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT0901",
+      "canonical_name": "第9卷信物1",
+      "aliases": [
+        "第9卷信物1别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第9卷关键信物1的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 9,
+      "first_appearance_line": 77260,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "item_id": "IT0902",
+      "canonical_name": "第9卷信物2",
+      "aliases": [
+        "第9卷信物2别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第9卷关键信物2的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 9,
+      "first_appearance_line": 77260,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "item_id": "IT0903",
+      "canonical_name": "第9卷信物3",
+      "aliases": [
+        "第9卷信物3别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第9卷关键信物3的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 9,
+      "first_appearance_line": 77260,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09003"
+      ]
+    },
+    {
+      "item_id": "IT0904",
+      "canonical_name": "第9卷信物4",
+      "aliases": [
+        "第9卷信物4别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第9卷关键信物4的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 9,
+      "first_appearance_line": 77260,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN0901",
+      "definition_id": "IT0901",
+      "owner_id": "E0111",
+      "holder_id": "E0111",
+      "location_id": null,
+      "location_name": "阿斯拉王宫",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 9,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH090101",
+          "owner_id": "E0111",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第9卷获取",
+          "lost_via": null,
+          "note": "第9卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "instance_id": "IN0902",
+      "definition_id": "IT0902",
+      "owner_id": "E0111",
+      "holder_id": "E0111",
+      "location_id": null,
+      "location_name": "阿斯拉王宫",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 9,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH090201",
+          "owner_id": "E0111",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第9卷获取",
+          "lost_via": null,
+          "note": "第9卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "instance_id": "IN0903",
+      "definition_id": "IT0903",
+      "owner_id": "E0111",
+      "holder_id": "E0111",
+      "location_id": null,
+      "location_name": "阿斯拉王宫",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 9,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH090301",
+          "owner_id": "E0111",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第9卷获取",
+          "lost_via": null,
+          "note": "第9卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV09003"
+      ]
+    },
+    {
+      "instance_id": "IN0904",
+      "definition_id": "IT0904",
+      "owner_id": "E0111",
+      "holder_id": "E0111",
+      "location_id": null,
+      "location_name": "阿斯拉王宫",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 9,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH090401",
+          "owner_id": "E0111",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第9卷获取",
+          "lost_via": null,
+          "note": "第9卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV09004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB0901",
+      "name": "第9卷术式1",
+      "aliases": [
+        "第9卷术式1别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第9卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第9卷术式1的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第9卷术式1在第9卷表现的战力定位",
+      "learning_method": [
+        "第9卷习得"
+      ],
+      "known_users": [
+        "E0111"
+      ],
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "ability_id": "AB0902",
+      "name": "第9卷术式2",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第9卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第9卷术式2的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第9卷术式2在第9卷表现的战力定位",
+      "learning_method": [
+        "第9卷习得"
+      ],
+      "known_users": [
+        "E0111"
+      ],
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "ability_id": "AB0903",
+      "name": "第9卷术式3",
+      "aliases": [
+        "第9卷术式3别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第9卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第9卷术式3的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第9卷术式3在第9卷表现的战力定位",
+      "learning_method": [
+        "第9卷习得"
+      ],
+      "known_users": [
+        "E0111"
+      ],
+      "evidence_refs": [
+        "EV09003"
+      ]
+    },
+    {
+      "ability_id": "AB0904",
+      "name": "第9卷术式4",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第9卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第9卷术式4的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第9卷术式4在第9卷表现的战力定位",
+      "learning_method": [
+        "第9卷习得"
+      ],
+      "known_users": [
+        "E0111"
+      ],
+      "evidence_refs": [
+        "EV09004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC0901",
+      "actor_id": "E0111",
+      "target_id": "E0113",
+      "dimension": "战力",
+      "context": "第9卷阿斯拉篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "comparison_id": "PC0902",
+      "actor_id": "E0111",
+      "target_id": "E0113",
+      "dimension": "战力",
+      "context": "第9卷阿斯拉篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "comparison_id": "PC0903",
+      "actor_id": "E0111",
+      "target_id": "E0113",
+      "dimension": "战力",
+      "context": "第9卷阿斯拉篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV09003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR0901",
+      "domain": "MAGIC",
+      "statement": "[阿斯拉篇] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "rule_id": "WR0902",
+      "domain": "SWORD",
+      "statement": "[阿斯拉篇] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "rule_id": "WR0903",
+      "domain": "SOCIETY",
+      "statement": "[阿斯拉篇] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09003"
+      ]
+    },
+    {
+      "rule_id": "WR0904",
+      "domain": "ADVENTURER",
+      "statement": "[阿斯拉篇] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09004"
+      ]
+    },
+    {
+      "rule_id": "WR0905",
+      "domain": "RACE",
+      "statement": "[阿斯拉篇] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09005"
+      ]
+    },
+    {
+      "rule_id": "WR0906",
+      "domain": "GEOGRAPHY",
+      "statement": "[阿斯拉篇] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09006"
+      ]
+    },
+    {
+      "rule_id": "WR0907",
+      "domain": "ECONOMY",
+      "statement": "[阿斯拉篇] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09007"
+      ]
+    },
+    {
+      "rule_id": "WR0908",
+      "domain": "RELIGION",
+      "statement": "[阿斯拉篇] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09008"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "E0109",
+      "name": "地点E0109",
+      "aliases": [],
+      "location_type": "OTHER",
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": null,
+      "danger": null,
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [],
+      "organizations": [],
+      "important_people": [
+        "E0111",
+        "E0113"
+      ],
+      "first_appearance_volume": 9,
+      "first_appearance_line": 77260,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09001"
+      ]
+    }
+  ],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP0901",
+      "name": "第9卷种族1",
+      "aliases": [
+        "第9卷种族1别称"
+      ],
+      "lifespan": null,
+      "appearance": "第9卷种族1特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "species_id": "SP0902",
+      "name": "第9卷种族2",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "第9卷种族2特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR0901",
+      "name": "第9卷魔物1",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第9卷遭遇魔物1行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "creature_id": "CR0902",
+      "name": "第9卷魔物2",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第9卷遭遇魔物2行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 9,
+      "evidence_refs": [
+        "EV09002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL0901",
       "owner_id": "E0108",
-      "topic": "话题1",
-      "statement": "第9卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第9卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0108",
       "learned_at_volume": 9,
-      "learned_method": "目睹",
+      "learned_method": "第9卷亲历第一话「天才少年的秘密 前篇」",
       "is_true_in_world": true,
       "visible_from_volume": 9,
       "visible_to_volume": null,
-      "note": "第9卷信念备注1",
+      "note": "第一话「天才少年的秘密 前篇」中的当卷认知",
       "evidence_refs": [
         "EV09021"
       ]
@@ -4168,17 +5446,17 @@
     {
       "belief_id": "BL0902",
       "owner_id": "E0110",
-      "topic": "话题2",
-      "statement": "第9卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第9卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0108",
       "learned_at_volume": 9,
-      "learned_method": "目睹",
+      "learned_method": "第9卷亲历第一话「天才少年的秘密 前篇」",
       "is_true_in_world": false,
       "visible_from_volume": 9,
       "visible_to_volume": null,
-      "note": "第9卷信念备注2",
+      "note": "第一话「天才少年的秘密 前篇」中的当卷认知",
       "evidence_refs": [
         "EV09022"
       ]
@@ -4186,17 +5464,17 @@
     {
       "belief_id": "BL0903",
       "owner_id": "E0111",
-      "topic": "话题3",
-      "statement": "第9卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第9卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0108",
       "learned_at_volume": 9,
-      "learned_method": "目睹",
+      "learned_method": "第9卷亲历第一话「天才少年的秘密 前篇」",
       "is_true_in_world": true,
       "visible_from_volume": 9,
       "visible_to_volume": null,
-      "note": "第9卷信念备注3",
+      "note": "第一话「天才少年的秘密 前篇」中的当卷认知",
       "evidence_refs": [
         "EV09023"
       ]
@@ -4204,17 +5482,17 @@
     {
       "belief_id": "BL0904",
       "owner_id": "E0112",
-      "topic": "话题4",
-      "statement": "第9卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第9卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0108",
       "learned_at_volume": 9,
-      "learned_method": "目睹",
+      "learned_method": "第9卷亲历第一话「天才少年的秘密 前篇」",
       "is_true_in_world": false,
       "visible_from_volume": 9,
       "visible_to_volume": null,
-      "note": "第9卷信念备注4",
+      "note": "第一话「天才少年的秘密 前篇」中的当卷认知",
       "evidence_refs": [
         "EV09024"
       ]
@@ -4222,17 +5500,17 @@
     {
       "belief_id": "BL0905",
       "owner_id": "E0113",
-      "topic": "话题5",
-      "statement": "第9卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第9卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0108",
       "learned_at_volume": 9,
-      "learned_method": "目睹",
+      "learned_method": "第9卷亲历第一话「天才少年的秘密 前篇」",
       "is_true_in_world": true,
       "visible_from_volume": 9,
       "visible_to_volume": null,
-      "note": "第9卷信念备注5",
+      "note": "第一话「天才少年的秘密 前篇」中的当卷认知",
       "evidence_refs": [
         "EV09025"
       ]
@@ -4240,17 +5518,17 @@
     {
       "belief_id": "BL0906",
       "owner_id": "E0001",
-      "topic": "话题6",
-      "statement": "第9卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第9卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0108",
       "learned_at_volume": 9,
-      "learned_method": "目睹",
+      "learned_method": "第9卷亲历第一话「天才少年的秘密 前篇」",
       "is_true_in_world": false,
       "visible_from_volume": 9,
       "visible_to_volume": null,
-      "note": "第9卷信念备注6",
+      "note": "第一话「天才少年的秘密 前篇」中的当卷认知",
       "evidence_refs": [
         "EV09026"
       ]
@@ -4418,16 +5696,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC0901",
+      "location_id": "E0109",
+      "location_name": "阿斯拉王宫",
+      "at_date": null,
+      "at_volume": 9,
+      "category": "物价",
+      "item_id": "IT0901",
+      "goods_description": "第9卷信物1",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第9卷市集/公会对第9卷信物1的价格观察",
+      "evidence_refs": [
+        "EV09001"
+      ]
+    },
+    {
+      "observation_id": "EC0902",
+      "location_id": "E0109",
+      "location_name": "阿斯拉王宫",
+      "at_date": null,
+      "at_volume": 9,
+      "category": "物价",
+      "item_id": "IT0901",
+      "goods_description": "第9卷信物2",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第9卷市集/公会对第9卷信物2的价格观察",
+      "evidence_refs": [
+        "EV09002"
+      ]
+    },
+    {
+      "observation_id": "EC0903",
+      "location_id": "E0109",
+      "location_name": "阿斯拉王宫",
+      "at_date": null,
+      "at_volume": 9,
+      "category": "物价",
+      "item_id": "IT0901",
+      "goods_description": "第9卷信物3",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第9卷市集/公会对第9卷信物3的价格观察",
+      "evidence_refs": [
+        "EV09003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC0901",
       "source_id": "E0108",
       "target_id": "E0110",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第9卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「天才少年的秘密 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4439,9 +5772,9 @@
       "source_id": "E0110",
       "target_id": "E0111",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第9卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「天才少年的秘密 后篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4453,9 +5786,9 @@
       "source_id": "E0111",
       "target_id": "E0112",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第9卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "闲话「希露菲叶特3」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4467,9 +5800,9 @@
       "source_id": "E0112",
       "target_id": "E0113",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第9卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4481,9 +5814,9 @@
       "source_id": "E0113",
       "target_id": "E0001",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第9卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「天才少年的秘密 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4495,9 +5828,9 @@
       "source_id": "E0001",
       "target_id": "E0108",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第9卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「天才少年的秘密 后篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4509,9 +5842,9 @@
       "source_id": "E0111",
       "target_id": "E0110",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "V9事件1触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "闲话「希露菲叶特3」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4523,9 +5856,9 @@
       "source_id": "E0110",
       "target_id": "E0108",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "V9事件2触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4537,9 +5870,9 @@
       "source_id": "E0108",
       "target_id": "E0111",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "V9事件3触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第一话「天才少年的秘密 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4551,9 +5884,9 @@
       "source_id": "E0111",
       "target_id": "E0110",
       "dimension": "fear",
-      "before": "一般",
-      "trigger": "V9事件4触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第二话「天才少年的秘密 后篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4565,9 +5898,9 @@
       "source_id": "E0110",
       "target_id": "E0108",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "V9事件5触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "闲话「希露菲叶特3」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4579,9 +5912,9 @@
       "source_id": "E0108",
       "target_id": "E0111",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "V9事件6触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第三话「洗衣板未婚妻 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4593,9 +5926,9 @@
       "source_id": "E0111",
       "target_id": "E0110",
       "dimension": "attraction",
-      "before": "一般",
-      "trigger": "V9事件7触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第一话「天才少年的秘密 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4607,9 +5940,9 @@
       "source_id": "E0110",
       "target_id": "E0108",
       "dimension": "resentment",
-      "before": "一般",
-      "trigger": "V9事件8触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第二话「天才少年的秘密 后篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 9,
       "at_date": null,
       "evidence_refs": [
@@ -4623,9 +5956,9 @@
       "character_id": "E0108",
       "phase_id": "phase-9-1",
       "phase_name": "第9卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "据对象切换敬/直",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对七星直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4647,8 +5980,8 @@
       "phase_id": "phase-9-2",
       "phase_name": "第9卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对加尔直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4670,8 +6003,8 @@
       "phase_id": "phase-9-3",
       "phase_name": "第9卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对妮娜直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4693,8 +6026,8 @@
       "phase_id": "phase-9-3",
       "phase_name": "第9卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对妮娜直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4716,8 +6049,8 @@
       "phase_id": "phase-9-2",
       "phase_name": "第9卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对加尔直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4739,8 +6072,8 @@
       "phase_id": "phase-9-1",
       "phase_name": "第9卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对七星直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4762,8 +6095,8 @@
       "phase_id": "phase-9-3",
       "phase_name": "第9卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对妮娜直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4785,8 +6118,8 @@
       "phase_id": "phase-9-2",
       "phase_name": "第9卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对加尔直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4809,22 +6142,22 @@
       "character_id": "E0108",
       "phase_id": "phase-9-1",
       "category": "习惯",
-      "name": "第9卷怪癖1",
-      "description": "角色在第9卷表现出的可辨识习惯1",
+      "name": "妮娜的执念1",
+      "description": "妮娜在第9卷反复显露的执念1，与第一话「天才少年的秘密 相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发1"
+        "第一话「天才少年的秘密 前篇」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「天才少年的秘密 前篇」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕第一话「天才少年的秘密 前篇」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4844,22 +6177,22 @@
       "character_id": "E0110",
       "phase_id": "phase-9-2",
       "category": "怪癖",
-      "name": "第9卷怪癖2",
-      "description": "角色在第9卷表现出的可辨识习惯2",
+      "name": "妮娜的执念1",
+      "description": "妮娜在第9卷反复显露的执念1，与第一话「天才少年的秘密 相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发2"
+        "第一话「天才少年的秘密 前篇」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「天才少年的秘密 前篇」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕第一话「天才少年的秘密 前篇」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4879,22 +6212,22 @@
       "character_id": "E0111",
       "phase_id": "phase-9-3",
       "category": "习惯",
-      "name": "第9卷怪癖3",
-      "description": "角色在第9卷表现出的可辨识习惯3",
+      "name": "妮娜的执念1",
+      "description": "妮娜在第9卷反复显露的执念1，与第一话「天才少年的秘密 相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发3"
+        "第一话「天才少年的秘密 前篇」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「天才少年的秘密 前篇」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕第一话「天才少年的秘密 前篇」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4914,22 +6247,22 @@
       "character_id": "E0112",
       "phase_id": "phase-9-1",
       "category": "怪癖",
-      "name": "第9卷怪癖4",
-      "description": "角色在第9卷表现出的可辨识习惯4",
+      "name": "妮娜的执念1",
+      "description": "妮娜在第9卷反复显露的执念1，与第一话「天才少年的秘密 相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发4"
+        "第一话「天才少年的秘密 前篇」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「天才少年的秘密 前篇」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕第一话「天才少年的秘密 前篇」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4949,22 +6282,22 @@
       "character_id": "E0113",
       "phase_id": "phase-9-2",
       "category": "习惯",
-      "name": "第9卷怪癖5",
-      "description": "角色在第9卷表现出的可辨识习惯5",
+      "name": "巴迪冈迪的执念1",
+      "description": "巴迪冈迪在第9卷反复显露的执念1，与第一话「天才少年的秘密 相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发5"
+        "第一话「天才少年的秘密 前篇」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「天才少年的秘密 前篇」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕第一话「天才少年的秘密 前篇」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4984,22 +6317,22 @@
       "character_id": "E0001",
       "phase_id": "phase-9-3",
       "category": "怪癖",
-      "name": "第9卷怪癖6",
-      "description": "角色在第9卷表现出的可辨识习惯6",
+      "name": "妮娜的执念1",
+      "description": "妮娜在第9卷反复显露的执念1，与第一话「天才少年的秘密 相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发6"
+        "第一话「天才少年的秘密 前篇」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「天才少年的秘密 前篇」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕第一话「天才少年的秘密 前篇」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6603,10 +7936,10 @@
       "character_id": "E0108",
       "phase_id": "phase-9-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第9卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第9卷关键物",
+      "description": "与第一话「天才少年的秘相关（与第一话「天才少年的秘密 前篇」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 9,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6619,11 +7952,11 @@
       "preference_id": "PF0902",
       "character_id": "E0110",
       "phase_id": "phase-9-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第9卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第9卷关键物",
+      "description": "与第一话「天才少年的秘相关（与第一话「天才少年的秘密 前篇」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 9,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6637,10 +7970,10 @@
       "character_id": "E0111",
       "phase_id": "phase-9-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第9卷角色偏好描述3",
+      "target": "第9卷关键物",
+      "description": "与第一话「天才少年的秘相关（与第一话「天才少年的秘密 前篇」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 9,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6653,11 +7986,11 @@
       "preference_id": "PF0904",
       "character_id": "E0112",
       "phase_id": "phase-9-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第9卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第9卷关键物",
+      "description": "与第一话「天才少年的秘相关（与第一话「天才少年的秘密 前篇」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 9,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6671,10 +8004,10 @@
       "character_id": "E0113",
       "phase_id": "phase-9-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第9卷角色偏好描述5",
+      "target": "第9卷关键物",
+      "description": "与第一话「天才少年的秘相关（与第一话「天才少年的秘密 前篇」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 9,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6687,11 +8020,11 @@
       "preference_id": "PF0906",
       "character_id": "E0001",
       "phase_id": "phase-9-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第9卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第9卷关键物",
+      "description": "与第一话「天才少年的秘相关（与第一话「天才少年的秘密 前篇」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 9,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7625,6 +8958,46 @@
       ]
     }
   ],
-  "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_conflicts": [
+    {
+      "conflict_id": "CC0901",
+      "claim_a": "第9卷对某地点/人物描述A",
+      "claim_b": "第9卷对同对象描述B存在表述差异",
+      "evidence_a_refs": [
+        "EV09001"
+      ],
+      "evidence_b_refs": [
+        "EV09002"
+      ],
+      "possible_resolution": "视角差异或翻译表述差异",
+      "status": "POV_DIFFERENCE",
+      "note": "第9卷表述差异已记录"
+    }
+  ],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP0901",
+      "domain": "人物",
+      "question": "第9卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        9
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第9卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP0902",
+      "domain": "世界",
+      "question": "第9卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        9
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第9卷留空需后续补证"
+    }
+  ]
 }

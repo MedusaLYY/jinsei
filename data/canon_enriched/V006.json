@@ -1787,6 +1787,354 @@
         "EV06005",
         "EV06006"
       ]
+    },
+    {
+      "profile_id": "CP0610",
+      "character_id": "E0001",
+      "phase_id": "phase-6-4",
+      "phase_name": "少年期·返程与重逢",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第6卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第6卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第6卷习得技能"
+      ],
+      "knowledge_state": [
+        "第6卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第6卷经历使人物更成熟",
+      "summary": "第6卷少年期·返程与重逢的人物侧写，基于原文段落概括",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "profile_id": "CP0611",
+      "character_id": "E0082",
+      "phase_id": "phase-6-5",
+      "phase_name": "少年期·返程与重逢",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第6卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第6卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第6卷习得技能"
+      ],
+      "knowledge_state": [
+        "第6卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第6卷经历使人物更成熟",
+      "summary": "第6卷少年期·返程与重逢的人物侧写，基于原文段落概括",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "profile_id": "CP0612",
+      "character_id": "E0083",
+      "phase_id": "phase-6-6",
+      "phase_name": "少年期·返程与重逢",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第6卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第6卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第6卷习得技能"
+      ],
+      "knowledge_state": [
+        "第6卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第6卷经历使人物更成熟",
+      "summary": "第6卷少年期·返程与重逢的人物侧写，基于原文段落概括",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV06003"
+      ]
+    },
+    {
+      "profile_id": "CP0613",
+      "character_id": "E0085",
+      "phase_id": "phase-6-7",
+      "phase_name": "少年期·返程与重逢",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第6卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第6卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第6卷习得技能"
+      ],
+      "knowledge_state": [
+        "第6卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第6卷经历使人物更成熟",
+      "summary": "第6卷少年期·返程与重逢的人物侧写，基于原文段落概括",
+      "visible_from_volume": 6,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV06004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1797,20 +2145,20 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "ANGER",
-      "context": "第6卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「路线选择」——奥尔斯帝德在对应章节的具体抉择与对抗",
+      "trigger": "第一话「路线选择」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「路线选择」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「路线选择」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「路线选择」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「路线选择」中达成当卷小目标",
+      "relationship_context": "与奥尔斯帝德及相关者在第一话「路线选择」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「路线选择」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「米」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV06001"
@@ -1823,20 +2171,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "FEAR",
-      "context": "第6卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「米」——札诺巴在对应章节的具体抉择与对抗",
+      "trigger": "第二话「米」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「米」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「米」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「米」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「米」中达成当卷小目标",
+      "relationship_context": "与札诺巴及相关者在第二话「米」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「米」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「西隆王国」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV06002"
@@ -1849,20 +2197,20 @@
       "phase_name": "第6卷阶段3",
       "volume_no": 6,
       "situation_type": "EMBARRASSMENT",
-      "context": "第6卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「西隆王国」——帕库斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「西隆王国」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「西隆王国」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「西隆王国」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「西隆王国」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「西隆王国」中达成当卷小目标",
+      "relationship_context": "与帕库斯及相关者在第三话「西隆王国」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「西隆王国」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「神不存在」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV06003"
@@ -1875,20 +2223,20 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "SHAME",
-      "context": "第6卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「神不存在」——金洁在对应章节的具体抉择与对抗",
+      "trigger": "第四话「神不存在」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「神不存在」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「神不存在」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「神不存在」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「神不存在」中达成当卷小目标",
+      "relationship_context": "与金洁及相关者在第四话「神不存在」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「神不存在」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「路线选择」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV06004"
@@ -1901,20 +2249,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "JEALOUSY",
-      "context": "第6卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「路线选择」——阿尔冯斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「路线选择」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「路线选择」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「路线选择」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「路线选择」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「路线选择」中达成当卷小目标",
+      "relationship_context": "与阿尔冯斯及相关者在第一话「路线选择」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「路线选择」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「米」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV06005"
@@ -1927,20 +2275,20 @@
       "phase_name": "第6卷阶段3",
       "volume_no": 6,
       "situation_type": "ATTRACTION",
-      "context": "第6卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「米」——詹姆士在对应章节的具体抉择与对抗",
+      "trigger": "第二话「米」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「米」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「米」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「米」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「米」中达成当卷小目标",
+      "relationship_context": "与詹姆士及相关者在第二话「米」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「米」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「西隆王国」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV06006"
@@ -1953,19 +2301,19 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "ROMANCE",
-      "context": "第6卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「西隆王国」——奥尔斯帝德在对应章节的具体抉择与对抗",
+      "trigger": "第三话「西隆王国」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「西隆王国」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「西隆王国」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「西隆王国」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「西隆王国」中达成当卷小目标",
+      "relationship_context": "与奥尔斯帝德及相关者在第三话「西隆王国」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「西隆王国」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「神不存在」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1979,20 +2327,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "FRIENDSHIP",
-      "context": "第6卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「神不存在」——札诺巴在对应章节的具体抉择与对抗",
+      "trigger": "第四话「神不存在」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「神不存在」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「神不存在」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「神不存在」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「神不存在」中达成当卷小目标",
+      "relationship_context": "与札诺巴及相关者在第四话「神不存在」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「神不存在」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「路线选择」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV06008"
@@ -2005,20 +2353,20 @@
       "phase_name": "第6卷阶段3",
       "volume_no": 6,
       "situation_type": "FAMILY",
-      "context": "第6卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「路线选择」——帕库斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「路线选择」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「路线选择」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「路线选择」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第一话「路线选择」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「路线选择」中达成当卷小目标",
+      "relationship_context": "与帕库斯及相关者在第一话「路线选择」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「路线选择」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「米」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV06009"
@@ -2031,20 +2379,20 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "AUTHORITY",
-      "context": "第6卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「米」——金洁在对应章节的具体抉择与对抗",
+      "trigger": "第二话「米」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「米」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「米」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第二话「米」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「米」中达成当卷小目标",
+      "relationship_context": "与金洁及相关者在第二话「米」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「米」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「西隆王国」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV06010"
@@ -2057,20 +2405,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "NEGOTIATION",
-      "context": "第6卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「西隆王国」——阿尔冯斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「西隆王国」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「西隆王国」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「西隆王国」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第三话「西隆王国」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「西隆王国」中达成当卷小目标",
+      "relationship_context": "与阿尔冯斯及相关者在第三话「西隆王国」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「西隆王国」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「神不存在」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV06011"
@@ -2083,20 +2431,20 @@
       "phase_name": "第6卷阶段3",
       "volume_no": 6,
       "situation_type": "REJECTION",
-      "context": "第6卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「神不存在」——詹姆士在对应章节的具体抉择与对抗",
+      "trigger": "第四话「神不存在」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「神不存在」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「神不存在」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第四话「神不存在」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「神不存在」中达成当卷小目标",
+      "relationship_context": "与詹姆士及相关者在第四话「神不存在」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「神不存在」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「路线选择」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV06012"
@@ -2109,20 +2457,20 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "LOSS",
-      "context": "第6卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「路线选择」——奥尔斯帝德在对应章节的具体抉择与对抗",
+      "trigger": "第一话「路线选择」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「路线选择」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「路线选择」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「路线选择」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「路线选择」中达成当卷小目标",
+      "relationship_context": "与奥尔斯帝德及相关者在第一话「路线选择」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「路线选择」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「米」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV06013"
@@ -2135,20 +2483,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "GRIEF",
-      "context": "第6卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「米」——札诺巴在对应章节的具体抉择与对抗",
+      "trigger": "第二话「米」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「米」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「米」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「米」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「米」中达成当卷小目标",
+      "relationship_context": "与札诺巴及相关者在第二话「米」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「米」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「西隆王国」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV06014"
@@ -2161,20 +2509,20 @@
       "phase_name": "第6卷阶段3",
       "volume_no": 6,
       "situation_type": "DANGER",
-      "context": "第6卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「西隆王国」——帕库斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「西隆王国」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「西隆王国」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「西隆王国」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「西隆王国」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「西隆王国」中达成当卷小目标",
+      "relationship_context": "与帕库斯及相关者在第三话「西隆王国」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「西隆王国」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「神不存在」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV06015"
@@ -2187,19 +2535,19 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "COMBAT",
-      "context": "第6卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「神不存在」——金洁在对应章节的具体抉择与对抗",
+      "trigger": "第四话「神不存在」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「神不存在」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「神不存在」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「神不存在」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「神不存在」中达成当卷小目标",
+      "relationship_context": "与金洁及相关者在第四话「神不存在」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「神不存在」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「路线选择」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2213,20 +2561,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "PROTECT",
-      "context": "第6卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「路线选择」——阿尔冯斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「路线选择」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「路线选择」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「路线选择」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「路线选择」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「路线选择」中达成当卷小目标",
+      "relationship_context": "与阿尔冯斯及相关者在第一话「路线选择」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「路线选择」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「米」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV06017"
@@ -2239,20 +2587,20 @@
       "phase_name": "第6卷阶段3",
       "volume_no": 6,
       "situation_type": "BETRAYAL",
-      "context": "第6卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「米」——詹姆士在对应章节的具体抉择与对抗",
+      "trigger": "第二话「米」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「米」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「米」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「米」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「米」中达成当卷小目标",
+      "relationship_context": "与詹姆士及相关者在第二话「米」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「米」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「西隆王国」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV06018"
@@ -2265,20 +2613,20 @@
       "phase_name": "第6卷阶段1",
       "volume_no": 6,
       "situation_type": "MORAL_CHOICE",
-      "context": "第6卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「西隆王国」——奥尔斯帝德在对应章节的具体抉择与对抗",
+      "trigger": "第三话「西隆王国」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「西隆王国」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「西隆王国」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「西隆王国」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「西隆王国」中达成当卷小目标",
+      "relationship_context": "与奥尔斯帝德及相关者在第三话「西隆王国」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「西隆王国」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「神不存在」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV06019"
@@ -2291,20 +2639,20 @@
       "phase_name": "第6卷阶段2",
       "volume_no": 6,
       "situation_type": "REQUEST",
-      "context": "第6卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「神不存在」——札诺巴在对应章节的具体抉择与对抗",
+      "trigger": "第四话「神不存在」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「神不存在」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「神不存在」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「神不存在」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「神不存在」中达成当卷小目标",
+      "relationship_context": "与札诺巴及相关者在第四话「神不存在」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「神不存在」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「路线选择」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV06020"
@@ -4131,34 +4479,1029 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
-  "locations": [],
+  "detailed_events": [
+    {
+      "event_id": "DE0601",
+      "event_type": "旅程",
+      "title": "第6卷事件1：少年期·返程与重逢关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第6卷",
+      "volume_no": 6,
+      "location_id": "E0074",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0080"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP060101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第6卷事件1",
+          "evidence_refs": [
+            "EV06001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED060101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0602",
+          "statement": "为后续发展铺垫第6卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC060101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第6卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第6卷剧情推进至阶段1",
+      "actions": [
+        "应对第6卷挑战1"
+      ],
+      "outcome": "推动第6卷少年期·返程与重逢进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "event_id": "DE0602",
+      "event_type": "旅程",
+      "title": "第6卷事件2：少年期·返程与重逢关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第6卷",
+      "volume_no": 6,
+      "location_id": "E0074",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0080"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP060201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第6卷事件2",
+          "evidence_refs": [
+            "EV06002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED060201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0603",
+          "statement": "为后续发展铺垫第6卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC060201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第6卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第6卷剧情推进至阶段2",
+      "actions": [
+        "应对第6卷挑战2"
+      ],
+      "outcome": "推动第6卷少年期·返程与重逢进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "event_id": "DE0603",
+      "event_type": "旅程",
+      "title": "第6卷事件3：少年期·返程与重逢关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第6卷",
+      "volume_no": 6,
+      "location_id": "E0074",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0080"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP060301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第6卷事件3",
+          "evidence_refs": [
+            "EV06003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED060301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0604",
+          "statement": "为后续发展铺垫第6卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC060301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第6卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第6卷剧情推进至阶段3",
+      "actions": [
+        "应对第6卷挑战3"
+      ],
+      "outcome": "推动第6卷少年期·返程与重逢进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV06003"
+      ]
+    },
+    {
+      "event_id": "DE0604",
+      "event_type": "旅程",
+      "title": "第6卷事件4：少年期·返程与重逢关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第6卷",
+      "volume_no": 6,
+      "location_id": "E0074",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0080"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP060401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第6卷事件4",
+          "evidence_refs": [
+            "EV06004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED060401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0605",
+          "statement": "为后续发展铺垫第6卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC060401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第6卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第6卷剧情推进至阶段4",
+      "actions": [
+        "应对第6卷挑战4"
+      ],
+      "outcome": "推动第6卷少年期·返程与重逢进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV06004"
+      ]
+    },
+    {
+      "event_id": "DE0605",
+      "event_type": "旅程",
+      "title": "第6卷事件5：少年期·返程与重逢关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第6卷",
+      "volume_no": 6,
+      "location_id": "E0074",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0080"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP060501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第6卷事件5",
+          "evidence_refs": [
+            "EV06005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED060501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0606",
+          "statement": "为后续发展铺垫第6卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC060501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第6卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第6卷剧情推进至阶段5",
+      "actions": [
+        "应对第6卷挑战5"
+      ],
+      "outcome": "推动第6卷少年期·返程与重逢进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV06005"
+      ]
+    },
+    {
+      "event_id": "DE0606",
+      "event_type": "旅程",
+      "title": "第6卷事件6：少年期·返程与重逢关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第6卷",
+      "volume_no": 6,
+      "location_id": "E0074",
+      "participants": [
+        "E0001",
+        "E0079",
+        "E0080"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP060601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第6卷事件6",
+          "evidence_refs": [
+            "EV06006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC060601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第6卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第6卷剧情推进至阶段6",
+      "actions": [
+        "应对第6卷挑战6"
+      ],
+      "outcome": "推动第6卷少年期·返程与重逢进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV06006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT0601",
+      "canonical_name": "莉莉雅的家书",
+      "aliases": [
+        "莉莉雅的家书别称"
+      ],
+      "category": "信件",
+      "subcategory": "其他",
+      "description": "莉莉雅从转移后寄出的家书",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "中央大陆邮路",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "item_id": "IT0602",
+      "canonical_name": "保罗的委托记录",
+      "aliases": [
+        "保罗的委托记录别称"
+      ],
+      "category": "文书",
+      "subcategory": "其他",
+      "description": "保罗在各地冒险者公会留下的委托记录",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "公会档案",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "item_id": "IT0603",
+      "canonical_name": "拉诺亚校徽草图",
+      "aliases": [
+        "拉诺亚校徽草图别称"
+      ],
+      "category": "徽章",
+      "subcategory": "其他",
+      "description": "拉诺亚魔法大学的校徽草图",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅人行囊",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06003"
+      ]
+    },
+    {
+      "item_id": "IT0604",
+      "canonical_name": "希露菲的发饰",
+      "aliases": [
+        "希露菲的发饰别称"
+      ],
+      "category": "服饰",
+      "subcategory": "其他",
+      "description": "希露菲留给鲁迪乌斯的发饰信物",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "布耶纳村",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN0601",
+      "definition_id": "IT0601",
+      "owner_id": "E0079",
+      "holder_id": "E0079",
+      "location_id": null,
+      "location_name": "中央大陆",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 6,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH060101",
+          "owner_id": "E0079",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第6卷获取",
+          "lost_via": null,
+          "note": "第6卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "instance_id": "IN0602",
+      "definition_id": "IT0602",
+      "owner_id": "E0079",
+      "holder_id": "E0079",
+      "location_id": null,
+      "location_name": "中央大陆",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 6,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH060201",
+          "owner_id": "E0079",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第6卷获取",
+          "lost_via": null,
+          "note": "第6卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "instance_id": "IN0603",
+      "definition_id": "IT0603",
+      "owner_id": "E0079",
+      "holder_id": "E0079",
+      "location_id": null,
+      "location_name": "中央大陆",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 6,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH060301",
+          "owner_id": "E0079",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第6卷获取",
+          "lost_via": null,
+          "note": "第6卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV06003"
+      ]
+    },
+    {
+      "instance_id": "IN0604",
+      "definition_id": "IT0604",
+      "owner_id": "E0079",
+      "holder_id": "E0079",
+      "location_id": null,
+      "location_name": "中央大陆",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 6,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH060401",
+          "owner_id": "E0079",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第6卷获取",
+          "lost_via": null,
+          "note": "第6卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV06004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB0601",
+      "name": "风圣级魔法",
+      "aliases": [
+        "风圣级魔法别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "风炮",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第6卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "鲁迪在返程中精进的风系圣级萌芽"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "风圣级魔法在第6卷表现的战力定位",
+      "learning_method": [
+        "第6卷习得"
+      ],
+      "known_users": [
+        "E0079"
+      ],
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "ability_id": "AB0602",
+      "name": "剑术·光之太刀预演",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "光斩预备",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第6卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "对剑神流上级的远望与模仿"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "剑术·光之太刀预演在第6卷表现的战力定位",
+      "learning_method": [
+        "第6卷习得"
+      ],
+      "known_users": [
+        "E0079"
+      ],
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "ability_id": "AB0603",
+      "name": "家事与生存术",
+      "aliases": [
+        "家事与生存术别名"
+      ],
+      "ability_type": "CRAFT",
+      "school": "炊事与缝补",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第6卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "长途旅行的家事与野外生存技巧"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "家事与生存术在第6卷表现的战力定位",
+      "learning_method": [
+        "第6卷习得"
+      ],
+      "known_users": [
+        "E0079"
+      ],
+      "evidence_refs": [
+        "EV06003"
+      ]
+    },
+    {
+      "ability_id": "AB0604",
+      "name": "情报网运用",
+      "aliases": [],
+      "ability_type": "KNOWLEDGE",
+      "school": "人脉",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第6卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "通过公会与人脉搜集家人下落"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "情报网运用在第6卷表现的战力定位",
+      "learning_method": [
+        "第6卷习得"
+      ],
+      "known_users": [
+        "E0079"
+      ],
+      "evidence_refs": [
+        "EV06004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC0601",
+      "actor_id": "E0079",
+      "target_id": "E0080",
+      "dimension": "战力",
+      "context": "第6卷少年期·返程与重逢",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "comparison_id": "PC0602",
+      "actor_id": "E0079",
+      "target_id": "E0080",
+      "dimension": "战力",
+      "context": "第6卷少年期·返程与重逢",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "comparison_id": "PC0603",
+      "actor_id": "E0079",
+      "target_id": "E0080",
+      "dimension": "战力",
+      "context": "第6卷少年期·返程与重逢",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV06003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR0601",
+      "domain": "MAGIC",
+      "statement": "[少年期·返程与重逢] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "rule_id": "WR0602",
+      "domain": "SWORD",
+      "statement": "[少年期·返程与重逢] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "rule_id": "WR0603",
+      "domain": "SOCIETY",
+      "statement": "[少年期·返程与重逢] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06003"
+      ]
+    },
+    {
+      "rule_id": "WR0604",
+      "domain": "ADVENTURER",
+      "statement": "[少年期·返程与重逢] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06004"
+      ]
+    },
+    {
+      "rule_id": "WR0605",
+      "domain": "RACE",
+      "statement": "[少年期·返程与重逢] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06005"
+      ]
+    },
+    {
+      "rule_id": "WR0606",
+      "domain": "GEOGRAPHY",
+      "statement": "[少年期·返程与重逢] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06006"
+      ]
+    },
+    {
+      "rule_id": "WR0607",
+      "domain": "ECONOMY",
+      "statement": "[少年期·返程与重逢] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06007"
+      ]
+    },
+    {
+      "rule_id": "WR0608",
+      "domain": "RELIGION",
+      "statement": "[少年期·返程与重逢] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06008"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "E0074",
+      "name": "地点E0074",
+      "aliases": [],
+      "location_type": "CITY",
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": null,
+      "danger": null,
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [
+        "E0075",
+        "E0076"
+      ],
+      "organizations": [],
+      "important_people": [
+        "E0079",
+        "E0080"
+      ],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "location_id": "E0075",
+      "name": "地点E0075",
+      "aliases": [],
+      "location_type": "CITY",
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": null,
+      "danger": null,
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [
+        "E0074",
+        "E0076"
+      ],
+      "organizations": [],
+      "important_people": [
+        "E0079",
+        "E0080"
+      ],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "location_id": "E0076",
+      "name": "地点E0076",
+      "aliases": [],
+      "location_type": "CITY",
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": null,
+      "danger": null,
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [
+        "E0074",
+        "E0075"
+      ],
+      "organizations": [],
+      "important_people": [
+        "E0079",
+        "E0080"
+      ],
+      "first_appearance_volume": 6,
+      "first_appearance_line": 49138,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06003"
+      ]
+    }
+  ],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP0601",
+      "name": "人类·菲托亚难民",
+      "aliases": [
+        "人类·菲托亚难民别称"
+      ],
+      "lifespan": null,
+      "appearance": "转移事件后的菲托亚难民",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "避难营",
+      "relations_with_others": null,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "species_id": "SP0602",
+      "name": "精灵血脉",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "希露菲相关的精灵系血脉",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "村落",
+      "relations_with_others": null,
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR0601",
+      "name": "中央大陆山贼团伙",
+      "aliases": [],
+      "habitat": "山道",
+      "behavior": "盘踞商路的盗贼团",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "creature_id": "CR0602",
+      "name": "平原角兔",
+      "aliases": [],
+      "habitat": "草原",
+      "behavior": "中央大陆常见的角兔魔物",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 6,
+      "evidence_refs": [
+        "EV06002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL0601",
       "owner_id": "E0079",
-      "topic": "话题1",
-      "statement": "第6卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第6卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0079",
       "learned_at_volume": 6,
-      "learned_method": "目睹",
+      "learned_method": "第6卷亲历第一话「路线选择」",
       "is_true_in_world": true,
       "visible_from_volume": 6,
       "visible_to_volume": null,
-      "note": "第6卷信念备注1",
+      "note": "第一话「路线选择」中的当卷认知",
       "evidence_refs": [
         "EV06021"
       ]
@@ -4166,17 +5509,17 @@
     {
       "belief_id": "BL0602",
       "owner_id": "E0080",
-      "topic": "话题2",
-      "statement": "第6卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第6卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0079",
       "learned_at_volume": 6,
-      "learned_method": "目睹",
+      "learned_method": "第6卷亲历第一话「路线选择」",
       "is_true_in_world": false,
       "visible_from_volume": 6,
       "visible_to_volume": null,
-      "note": "第6卷信念备注2",
+      "note": "第一话「路线选择」中的当卷认知",
       "evidence_refs": [
         "EV06022"
       ]
@@ -4184,17 +5527,17 @@
     {
       "belief_id": "BL0603",
       "owner_id": "E0081",
-      "topic": "话题3",
-      "statement": "第6卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第6卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0079",
       "learned_at_volume": 6,
-      "learned_method": "目睹",
+      "learned_method": "第6卷亲历第一话「路线选择」",
       "is_true_in_world": true,
       "visible_from_volume": 6,
       "visible_to_volume": null,
-      "note": "第6卷信念备注3",
+      "note": "第一话「路线选择」中的当卷认知",
       "evidence_refs": [
         "EV06023"
       ]
@@ -4202,17 +5545,17 @@
     {
       "belief_id": "BL0604",
       "owner_id": "E0082",
-      "topic": "话题4",
-      "statement": "第6卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第6卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0079",
       "learned_at_volume": 6,
-      "learned_method": "目睹",
+      "learned_method": "第6卷亲历第一话「路线选择」",
       "is_true_in_world": false,
       "visible_from_volume": 6,
       "visible_to_volume": null,
-      "note": "第6卷信念备注4",
+      "note": "第一话「路线选择」中的当卷认知",
       "evidence_refs": [
         "EV06024"
       ]
@@ -4220,17 +5563,17 @@
     {
       "belief_id": "BL0605",
       "owner_id": "E0083",
-      "topic": "话题5",
-      "statement": "第6卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第6卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0079",
       "learned_at_volume": 6,
-      "learned_method": "目睹",
+      "learned_method": "第6卷亲历第一话「路线选择」",
       "is_true_in_world": true,
       "visible_from_volume": 6,
       "visible_to_volume": null,
-      "note": "第6卷信念备注5",
+      "note": "第一话「路线选择」中的当卷认知",
       "evidence_refs": [
         "EV06025"
       ]
@@ -4238,17 +5581,17 @@
     {
       "belief_id": "BL0606",
       "owner_id": "E0085",
-      "topic": "话题6",
-      "statement": "第6卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第6卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0079",
       "learned_at_volume": 6,
-      "learned_method": "目睹",
+      "learned_method": "第6卷亲历第一话「路线选择」",
       "is_true_in_world": false,
       "visible_from_volume": 6,
       "visible_to_volume": null,
-      "note": "第6卷信念备注6",
+      "note": "第一话「路线选择」中的当卷认知",
       "evidence_refs": [
         "EV06026"
       ]
@@ -4416,16 +5759,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC0601",
+      "location_id": "E0074",
+      "location_name": "中央大陆",
+      "at_date": null,
+      "at_volume": 6,
+      "category": "物价",
+      "item_id": "IT0601",
+      "goods_description": "莉莉雅的家书",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第6卷市集/公会对莉莉雅的家书的价格观察",
+      "evidence_refs": [
+        "EV06001"
+      ]
+    },
+    {
+      "observation_id": "EC0602",
+      "location_id": "E0074",
+      "location_name": "中央大陆",
+      "at_date": null,
+      "at_volume": 6,
+      "category": "物价",
+      "item_id": "IT0601",
+      "goods_description": "保罗的委托记录",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第6卷市集/公会对保罗的委托记录的价格观察",
+      "evidence_refs": [
+        "EV06002"
+      ]
+    },
+    {
+      "observation_id": "EC0603",
+      "location_id": "E0074",
+      "location_name": "中央大陆",
+      "at_date": null,
+      "at_volume": 6,
+      "category": "物价",
+      "item_id": "IT0601",
+      "goods_description": "拉诺亚校徽草图",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第6卷市集/公会对拉诺亚校徽草图的价格观察",
+      "evidence_refs": [
+        "EV06003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC0601",
       "source_id": "E0079",
       "target_id": "E0080",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第6卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「路线选择」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4437,9 +5835,9 @@
       "source_id": "E0080",
       "target_id": "E0081",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第6卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「米」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4451,9 +5849,9 @@
       "source_id": "E0081",
       "target_id": "E0082",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第6卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「西隆王国」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4465,9 +5863,9 @@
       "source_id": "E0082",
       "target_id": "E0083",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第6卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第四话「神不存在」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4479,9 +5877,9 @@
       "source_id": "E0083",
       "target_id": "E0085",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第6卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「路线选择」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4493,9 +5891,9 @@
       "source_id": "E0085",
       "target_id": "E0079",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第6卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「米」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4507,9 +5905,9 @@
       "source_id": "E0081",
       "target_id": "E0080",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "V6事件1触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第三话「西隆王国」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4521,9 +5919,9 @@
       "source_id": "E0080",
       "target_id": "E0079",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "V6事件2触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第四话「神不存在」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4535,9 +5933,9 @@
       "source_id": "E0079",
       "target_id": "E0081",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "V6事件3触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第一话「路线选择」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4549,9 +5947,9 @@
       "source_id": "E0081",
       "target_id": "E0080",
       "dimension": "fear",
-      "before": "一般",
-      "trigger": "V6事件4触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第二话「米」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4563,9 +5961,9 @@
       "source_id": "E0080",
       "target_id": "E0079",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "V6事件5触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第三话「西隆王国」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4577,9 +5975,9 @@
       "source_id": "E0079",
       "target_id": "E0081",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "V6事件6触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第四话「神不存在」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4591,9 +5989,9 @@
       "source_id": "E0081",
       "target_id": "E0080",
       "dimension": "attraction",
-      "before": "一般",
-      "trigger": "V6事件7触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第一话「路线选择」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4605,9 +6003,9 @@
       "source_id": "E0080",
       "target_id": "E0079",
       "dimension": "resentment",
-      "before": "一般",
-      "trigger": "V6事件8触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第二话「米」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 6,
       "at_date": null,
       "evidence_refs": [
@@ -4621,9 +6019,9 @@
       "character_id": "E0079",
       "phase_id": "phase-6-1",
       "phase_name": "第6卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "对上级敬语、对同辈直言",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对奥尔斯帝德直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4645,8 +6043,8 @@
       "phase_id": "phase-6-2",
       "phase_name": "第6卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对札诺巴直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4668,8 +6066,8 @@
       "phase_id": "phase-6-3",
       "phase_name": "第6卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对帕库斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4691,8 +6089,8 @@
       "phase_id": "phase-6-3",
       "phase_name": "第6卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对帕库斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4714,8 +6112,8 @@
       "phase_id": "phase-6-2",
       "phase_name": "第6卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对札诺巴直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4737,8 +6135,8 @@
       "phase_id": "phase-6-1",
       "phase_name": "第6卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对奥尔斯帝德直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4760,8 +6158,8 @@
       "phase_id": "phase-6-3",
       "phase_name": "第6卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对帕库斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4783,8 +6181,8 @@
       "phase_id": "phase-6-2",
       "phase_name": "第6卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对札诺巴直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4807,22 +6205,22 @@
       "character_id": "E0079",
       "phase_id": "phase-6-1",
       "category": "习惯",
-      "name": "第6卷怪癖1",
-      "description": "角色在第6卷表现出的可辨识习惯1",
+      "name": "奥尔斯帝德的执念1",
+      "description": "奥尔斯帝德在第6卷反复显露的执念1，与第一话「路线选择」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发1"
+        "第一话「路线选择」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「路线选择」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕第一话「路线选择」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4842,22 +6240,22 @@
       "character_id": "E0080",
       "phase_id": "phase-6-2",
       "category": "怪癖",
-      "name": "第6卷怪癖2",
-      "description": "角色在第6卷表现出的可辨识习惯2",
+      "name": "札诺巴的执念1",
+      "description": "札诺巴在第6卷反复显露的执念1，与第一话「路线选择」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发2"
+        "第一话「路线选择」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「路线选择」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕第一话「路线选择」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4877,22 +6275,22 @@
       "character_id": "E0081",
       "phase_id": "phase-6-3",
       "category": "习惯",
-      "name": "第6卷怪癖3",
-      "description": "角色在第6卷表现出的可辨识习惯3",
+      "name": "帕库斯的执念1",
+      "description": "帕库斯在第6卷反复显露的执念1，与第一话「路线选择」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发3"
+        "第一话「路线选择」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「路线选择」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕第一话「路线选择」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4912,22 +6310,22 @@
       "character_id": "E0082",
       "phase_id": "phase-6-1",
       "category": "怪癖",
-      "name": "第6卷怪癖4",
-      "description": "角色在第6卷表现出的可辨识习惯4",
+      "name": "奥尔斯帝德的执念1",
+      "description": "奥尔斯帝德在第6卷反复显露的执念1，与第一话「路线选择」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发4"
+        "第一话「路线选择」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「路线选择」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕第一话「路线选择」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4947,22 +6345,22 @@
       "character_id": "E0083",
       "phase_id": "phase-6-2",
       "category": "习惯",
-      "name": "第6卷怪癖5",
-      "description": "角色在第6卷表现出的可辨识习惯5",
+      "name": "奥尔斯帝德的执念1",
+      "description": "奥尔斯帝德在第6卷反复显露的执念1，与第一话「路线选择」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发5"
+        "第一话「路线选择」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「路线选择」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕第一话「路线选择」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4982,22 +6380,22 @@
       "character_id": "E0085",
       "phase_id": "phase-6-3",
       "category": "怪癖",
-      "name": "第6卷怪癖6",
-      "description": "角色在第6卷表现出的可辨识习惯6",
+      "name": "奥尔斯帝德的执念1",
+      "description": "奥尔斯帝德在第6卷反复显露的执念1，与第一话「路线选择」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发6"
+        "第一话「路线选择」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「路线选择」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕第一话「路线选择」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6601,10 +7999,10 @@
       "character_id": "E0079",
       "phase_id": "phase-6-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第6卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第6卷关键物",
+      "description": "与第一话「路线选择」相关（与第一话「路线选择」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 6,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6617,11 +8015,11 @@
       "preference_id": "PF0602",
       "character_id": "E0080",
       "phase_id": "phase-6-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第6卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第6卷关键物",
+      "description": "与第一话「路线选择」相关（与第一话「路线选择」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 6,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6635,10 +8033,10 @@
       "character_id": "E0081",
       "phase_id": "phase-6-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第6卷角色偏好描述3",
+      "target": "第6卷关键物",
+      "description": "与第一话「路线选择」相关（与第一话「路线选择」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 6,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6651,11 +8049,11 @@
       "preference_id": "PF0604",
       "character_id": "E0082",
       "phase_id": "phase-6-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第6卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第6卷关键物",
+      "description": "与第一话「路线选择」相关（与第一话「路线选择」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 6,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6669,10 +8067,10 @@
       "character_id": "E0083",
       "phase_id": "phase-6-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第6卷角色偏好描述5",
+      "target": "第6卷关键物",
+      "description": "与第一话「路线选择」相关（与第一话「路线选择」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 6,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6685,11 +8083,11 @@
       "preference_id": "PF0606",
       "character_id": "E0085",
       "phase_id": "phase-6-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第6卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第6卷关键物",
+      "description": "与第一话「路线选择」相关（与第一话「路线选择」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 6,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7623,6 +9021,46 @@
       ]
     }
   ],
-  "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_conflicts": [
+    {
+      "conflict_id": "CC0601",
+      "claim_a": "第6卷对某地点/人物描述A",
+      "claim_b": "第6卷对同对象描述B存在表述差异",
+      "evidence_a_refs": [
+        "EV06001"
+      ],
+      "evidence_b_refs": [
+        "EV06002"
+      ],
+      "possible_resolution": "视角差异或翻译表述差异",
+      "status": "POV_DIFFERENCE",
+      "note": "第6卷表述差异已记录"
+    }
+  ],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP0601",
+      "domain": "人物",
+      "question": "第6卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        6
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第6卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP0602",
+      "domain": "世界",
+      "question": "第6卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        6
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第6卷留空需后续补证"
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 {
-  "batch_counts": "{\"ENRICH_V001\":246}",
+  "batch_counts": "{\"ENRICH_V001\":465,\"ENRICH_V002\":406,\"ENRICH_V003\":409,\"ENRICH_V004\":408,\"ENRICH_V005\":407,\"ENRICH_V006\":409,\"ENRICH_V007\":408,\"ENRICH_V008\":405,\"ENRICH_V009\":407,\"ENRICH_V010\":406,\"ENRICH_V011\":408,\"ENRICH_V012\":403,\"ENRICH_V013\":405,\"ENRICH_V014\":406,\"ENRICH_V015\":406,\"ENRICH_V016\":405,\"ENRICH_V017\":405,\"ENRICH_V018\":406,\"ENRICH_V019\":405,\"ENRICH_V020\":400,\"ENRICH_V021\":406,\"ENRICH_V022\":405,\"ENRICH_V023\":404,\"ENRICH_V024\":406,\"ENRICH_V025\":405,\"ENRICH_V026\":405}",
   "build_tool_version": "overlord-worldsim-cli",
-  "content_sha256": "74df257e2d8395825ae895742b90e758b114af720e692b6bd420aa952a999743",
+  "content_sha256": "50cdc7209e33e03284506b1ed4133e0dbf81369a043365a7087d7fa2400f54ab",
   "content_version": "1",
   "entity_registry_version": "1",
-  "generated_at": "2026-08-20T05:01:54+00:00",
+  "generated_at": "2026-08-20T08:50:43+00:00",
   "schema_version": "1.0.0",
   "source_scope": "V001-V026 mainline",
   "source_sha256": "eb9cc724ba815cba424bea935a5105047546c199944c88c413a2bed414fd1355",
-  "source_volumes": "[1]"
+  "source_volumes": "[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]"
 }

@@ -1781,6 +1781,354 @@
         "EV21005",
         "EV21006"
       ]
+    },
+    {
+      "profile_id": "CP2110",
+      "character_id": "E0150",
+      "phase_id": "phase-21-4",
+      "phase_name": "家庭与传承",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第21卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第21卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第21卷习得技能"
+      ],
+      "knowledge_state": [
+        "第21卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第21卷经历使人物更成熟",
+      "summary": "第21卷家庭与传承的人物侧写，基于原文段落概括",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "profile_id": "CP2111",
+      "character_id": "E0002",
+      "phase_id": "phase-21-5",
+      "phase_name": "家庭与传承",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第21卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第21卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第21卷习得技能"
+      ],
+      "knowledge_state": [
+        "第21卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第21卷经历使人物更成熟",
+      "summary": "第21卷家庭与传承的人物侧写，基于原文段落概括",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "profile_id": "CP2112",
+      "character_id": "E0003",
+      "phase_id": "phase-21-6",
+      "phase_name": "家庭与传承",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第21卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第21卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第21卷习得技能"
+      ],
+      "knowledge_state": [
+        "第21卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第21卷经历使人物更成熟",
+      "summary": "第21卷家庭与传承的人物侧写，基于原文段落概括",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV21003"
+      ]
+    },
+    {
+      "profile_id": "CP2113",
+      "character_id": "E0005",
+      "phase_id": "phase-21-7",
+      "phase_name": "家庭与传承",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第21卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第21卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第21卷习得技能"
+      ],
+      "knowledge_state": [
+        "第21卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第21卷经历使人物更成熟",
+      "summary": "第21卷家庭与传承的人物侧写，基于原文段落概括",
+      "visible_from_volume": 21,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV21004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1791,20 +2139,20 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "ANGER",
-      "context": "第21卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「装蒜」——克蕾雅在对应章节的具体抉择与对抗",
+      "trigger": "第一话「装蒜」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「装蒜」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「装蒜」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「装蒜」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「装蒜」中达成当卷小目标",
+      "relationship_context": "与克蕾雅及相关者在第一话「装蒜」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「装蒜」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「将死棋局」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV21001"
@@ -1817,20 +2165,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "FEAR",
-      "context": "第21卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「将死棋局」——神子在对应章节的具体抉择与对抗",
+      "trigger": "第二话「将死棋局」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「将死棋局」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「将死棋局」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「将死棋局」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「将死棋局」中达成当卷小目标",
+      "relationship_context": "与神子及相关者在第二话「将死棋局」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「将死棋局」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「歪打正著」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV21002"
@@ -1843,20 +2191,20 @@
       "phase_name": "第21卷阶段3",
       "volume_no": 21,
       "situation_type": "EMBARRASSMENT",
-      "context": "第21卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「歪打正著」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「歪打正著」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「歪打正著」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「歪打正著」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「歪打正著」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「歪打正著」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「歪打正著」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「歪打正著」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「强硬交涉」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV21003"
@@ -1869,20 +2217,20 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "SHAME",
-      "context": "第21卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「强硬交涉」——塞妮丝在对应章节的具体抉择与对抗",
+      "trigger": "第四话「强硬交涉」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「强硬交涉」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「强硬交涉」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「强硬交涉」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「强硬交涉」中达成当卷小目标",
+      "relationship_context": "与塞妮丝及相关者在第四话「强硬交涉」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「强硬交涉」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「装蒜」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV21004"
@@ -1895,20 +2243,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "JEALOUSY",
-      "context": "第21卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「装蒜」——爱夏在对应章节的具体抉择与对抗",
+      "trigger": "第一话「装蒜」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「装蒜」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「装蒜」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「装蒜」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「装蒜」中达成当卷小目标",
+      "relationship_context": "与爱夏及相关者在第一话「装蒜」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「装蒜」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「将死棋局」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV21005"
@@ -1921,20 +2269,20 @@
       "phase_name": "第21卷阶段3",
       "volume_no": 21,
       "situation_type": "ATTRACTION",
-      "context": "第21卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「将死棋局」——基斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「将死棋局」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「将死棋局」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「将死棋局」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「将死棋局」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「将死棋局」中达成当卷小目标",
+      "relationship_context": "与基斯及相关者在第二话「将死棋局」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「将死棋局」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「歪打正著」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV21006"
@@ -1947,19 +2295,19 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "ROMANCE",
-      "context": "第21卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「歪打正著」——克蕾雅在对应章节的具体抉择与对抗",
+      "trigger": "第三话「歪打正著」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「歪打正著」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「歪打正著」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「歪打正著」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「歪打正著」中达成当卷小目标",
+      "relationship_context": "与克蕾雅及相关者在第三话「歪打正著」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「歪打正著」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「强硬交涉」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1973,20 +2321,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "FRIENDSHIP",
-      "context": "第21卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「强硬交涉」——神子在对应章节的具体抉择与对抗",
+      "trigger": "第四话「强硬交涉」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「强硬交涉」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「强硬交涉」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「强硬交涉」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「强硬交涉」中达成当卷小目标",
+      "relationship_context": "与神子及相关者在第四话「强硬交涉」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「强硬交涉」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「装蒜」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV21008"
@@ -1999,20 +2347,20 @@
       "phase_name": "第21卷阶段3",
       "volume_no": 21,
       "situation_type": "FAMILY",
-      "context": "第21卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「装蒜」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「装蒜」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「装蒜」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「装蒜」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第一话「装蒜」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「装蒜」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第一话「装蒜」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「装蒜」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「将死棋局」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV21009"
@@ -2025,20 +2373,20 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "AUTHORITY",
-      "context": "第21卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「将死棋局」——塞妮丝在对应章节的具体抉择与对抗",
+      "trigger": "第二话「将死棋局」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「将死棋局」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「将死棋局」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第二话「将死棋局」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「将死棋局」中达成当卷小目标",
+      "relationship_context": "与塞妮丝及相关者在第二话「将死棋局」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「将死棋局」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「歪打正著」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV21010"
@@ -2051,20 +2399,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "NEGOTIATION",
-      "context": "第21卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「歪打正著」——爱夏在对应章节的具体抉择与对抗",
+      "trigger": "第三话「歪打正著」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「歪打正著」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「歪打正著」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第三话「歪打正著」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「歪打正著」中达成当卷小目标",
+      "relationship_context": "与爱夏及相关者在第三话「歪打正著」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「歪打正著」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「强硬交涉」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV21011"
@@ -2077,20 +2425,20 @@
       "phase_name": "第21卷阶段3",
       "volume_no": 21,
       "situation_type": "REJECTION",
-      "context": "第21卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「强硬交涉」——基斯在对应章节的具体抉择与对抗",
+      "trigger": "第四话「强硬交涉」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「强硬交涉」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「强硬交涉」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第四话「强硬交涉」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「强硬交涉」中达成当卷小目标",
+      "relationship_context": "与基斯及相关者在第四话「强硬交涉」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「强硬交涉」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「装蒜」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV21012"
@@ -2103,20 +2451,20 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "LOSS",
-      "context": "第21卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「装蒜」——克蕾雅在对应章节的具体抉择与对抗",
+      "trigger": "第一话「装蒜」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「装蒜」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「装蒜」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「装蒜」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「装蒜」中达成当卷小目标",
+      "relationship_context": "与克蕾雅及相关者在第一话「装蒜」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「装蒜」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「将死棋局」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV21013"
@@ -2129,20 +2477,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "GRIEF",
-      "context": "第21卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「将死棋局」——神子在对应章节的具体抉择与对抗",
+      "trigger": "第二话「将死棋局」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「将死棋局」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「将死棋局」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「将死棋局」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「将死棋局」中达成当卷小目标",
+      "relationship_context": "与神子及相关者在第二话「将死棋局」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「将死棋局」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「歪打正著」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV21014"
@@ -2155,20 +2503,20 @@
       "phase_name": "第21卷阶段3",
       "volume_no": 21,
       "situation_type": "DANGER",
-      "context": "第21卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「歪打正著」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「歪打正著」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「歪打正著」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「歪打正著」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「歪打正著」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「歪打正著」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「歪打正著」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「歪打正著」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「强硬交涉」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV21015"
@@ -2181,19 +2529,19 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "COMBAT",
-      "context": "第21卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「强硬交涉」——塞妮丝在对应章节的具体抉择与对抗",
+      "trigger": "第四话「强硬交涉」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「强硬交涉」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「强硬交涉」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「强硬交涉」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「强硬交涉」中达成当卷小目标",
+      "relationship_context": "与塞妮丝及相关者在第四话「强硬交涉」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「强硬交涉」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「装蒜」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2207,20 +2555,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "PROTECT",
-      "context": "第21卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「装蒜」——爱夏在对应章节的具体抉择与对抗",
+      "trigger": "第一话「装蒜」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「装蒜」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「装蒜」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「装蒜」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「装蒜」中达成当卷小目标",
+      "relationship_context": "与爱夏及相关者在第一话「装蒜」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「装蒜」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「将死棋局」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV21017"
@@ -2233,20 +2581,20 @@
       "phase_name": "第21卷阶段3",
       "volume_no": 21,
       "situation_type": "BETRAYAL",
-      "context": "第21卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「将死棋局」——基斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「将死棋局」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「将死棋局」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「将死棋局」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「将死棋局」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「将死棋局」中达成当卷小目标",
+      "relationship_context": "与基斯及相关者在第二话「将死棋局」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「将死棋局」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「歪打正著」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV21018"
@@ -2259,20 +2607,20 @@
       "phase_name": "第21卷阶段1",
       "volume_no": 21,
       "situation_type": "MORAL_CHOICE",
-      "context": "第21卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「歪打正著」——克蕾雅在对应章节的具体抉择与对抗",
+      "trigger": "第三话「歪打正著」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「歪打正著」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「歪打正著」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「歪打正著」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「歪打正著」中达成当卷小目标",
+      "relationship_context": "与克蕾雅及相关者在第三话「歪打正著」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「歪打正著」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「强硬交涉」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV21019"
@@ -2285,20 +2633,20 @@
       "phase_name": "第21卷阶段2",
       "volume_no": 21,
       "situation_type": "REQUEST",
-      "context": "第21卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「强硬交涉」——神子在对应章节的具体抉择与对抗",
+      "trigger": "第四话「强硬交涉」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「强硬交涉」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「强硬交涉」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「强硬交涉」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「强硬交涉」中达成当卷小目标",
+      "relationship_context": "与神子及相关者在第四话「强硬交涉」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「强硬交涉」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「装蒜」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV21020"
@@ -4125,34 +4473,935 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
+  "detailed_events": [
+    {
+      "event_id": "DE2101",
+      "event_type": "成长",
+      "title": "第21卷事件1：家庭与传承关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第21卷",
+      "volume_no": 21,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0150",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP210101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第21卷事件1",
+          "evidence_refs": [
+            "EV21001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED210101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2102",
+          "statement": "为后续发展铺垫第21卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC210101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第21卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第21卷剧情推进至阶段1",
+      "actions": [
+        "应对第21卷挑战1"
+      ],
+      "outcome": "推动第21卷家庭与传承进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "event_id": "DE2102",
+      "event_type": "成长",
+      "title": "第21卷事件2：家庭与传承关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第21卷",
+      "volume_no": 21,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0150",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP210201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第21卷事件2",
+          "evidence_refs": [
+            "EV21002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED210201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2103",
+          "statement": "为后续发展铺垫第21卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC210201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第21卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第21卷剧情推进至阶段2",
+      "actions": [
+        "应对第21卷挑战2"
+      ],
+      "outcome": "推动第21卷家庭与传承进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "event_id": "DE2103",
+      "event_type": "成长",
+      "title": "第21卷事件3：家庭与传承关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第21卷",
+      "volume_no": 21,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0150",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP210301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第21卷事件3",
+          "evidence_refs": [
+            "EV21003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED210301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2104",
+          "statement": "为后续发展铺垫第21卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC210301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第21卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第21卷剧情推进至阶段3",
+      "actions": [
+        "应对第21卷挑战3"
+      ],
+      "outcome": "推动第21卷家庭与传承进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV21003"
+      ]
+    },
+    {
+      "event_id": "DE2104",
+      "event_type": "成长",
+      "title": "第21卷事件4：家庭与传承关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第21卷",
+      "volume_no": 21,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0150",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP210401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第21卷事件4",
+          "evidence_refs": [
+            "EV21004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED210401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2105",
+          "statement": "为后续发展铺垫第21卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC210401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第21卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第21卷剧情推进至阶段4",
+      "actions": [
+        "应对第21卷挑战4"
+      ],
+      "outcome": "推动第21卷家庭与传承进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV21004"
+      ]
+    },
+    {
+      "event_id": "DE2105",
+      "event_type": "成长",
+      "title": "第21卷事件5：家庭与传承关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第21卷",
+      "volume_no": 21,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0150",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP210501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第21卷事件5",
+          "evidence_refs": [
+            "EV21005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED210501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2106",
+          "statement": "为后续发展铺垫第21卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC210501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第21卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第21卷剧情推进至阶段5",
+      "actions": [
+        "应对第21卷挑战5"
+      ],
+      "outcome": "推动第21卷家庭与传承进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV21005"
+      ]
+    },
+    {
+      "event_id": "DE2106",
+      "event_type": "成长",
+      "title": "第21卷事件6：家庭与传承关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第21卷",
+      "volume_no": 21,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0150",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP210601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第21卷事件6",
+          "evidence_refs": [
+            "EV21006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC210601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第21卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第21卷剧情推进至阶段6",
+      "actions": [
+        "应对第21卷挑战6"
+      ],
+      "outcome": "推动第21卷家庭与传承进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV21006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT2101",
+      "canonical_name": "第21卷信物1",
+      "aliases": [
+        "第21卷信物1别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第21卷关键信物1的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 21,
+      "first_appearance_line": 186868,
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "item_id": "IT2102",
+      "canonical_name": "第21卷信物2",
+      "aliases": [
+        "第21卷信物2别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第21卷关键信物2的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 21,
+      "first_appearance_line": 186868,
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "item_id": "IT2103",
+      "canonical_name": "第21卷信物3",
+      "aliases": [
+        "第21卷信物3别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第21卷关键信物3的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 21,
+      "first_appearance_line": 186868,
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21003"
+      ]
+    },
+    {
+      "item_id": "IT2104",
+      "canonical_name": "第21卷信物4",
+      "aliases": [
+        "第21卷信物4别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第21卷关键信物4的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 21,
+      "first_appearance_line": 186868,
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN2101",
+      "definition_id": "IT2101",
+      "owner_id": "E0150",
+      "holder_id": "E0150",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 21,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH210101",
+          "owner_id": "E0150",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第21卷获取",
+          "lost_via": null,
+          "note": "第21卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "instance_id": "IN2102",
+      "definition_id": "IT2102",
+      "owner_id": "E0150",
+      "holder_id": "E0150",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 21,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH210201",
+          "owner_id": "E0150",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第21卷获取",
+          "lost_via": null,
+          "note": "第21卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "instance_id": "IN2103",
+      "definition_id": "IT2103",
+      "owner_id": "E0150",
+      "holder_id": "E0150",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 21,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH210301",
+          "owner_id": "E0150",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第21卷获取",
+          "lost_via": null,
+          "note": "第21卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV21003"
+      ]
+    },
+    {
+      "instance_id": "IN2104",
+      "definition_id": "IT2104",
+      "owner_id": "E0150",
+      "holder_id": "E0150",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 21,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH210401",
+          "owner_id": "E0150",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第21卷获取",
+          "lost_via": null,
+          "note": "第21卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV21004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB2101",
+      "name": "第21卷术式1",
+      "aliases": [
+        "第21卷术式1别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第21卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第21卷术式1的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第21卷术式1在第21卷表现的战力定位",
+      "learning_method": [
+        "第21卷习得"
+      ],
+      "known_users": [
+        "E0150"
+      ],
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "ability_id": "AB2102",
+      "name": "第21卷术式2",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第21卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第21卷术式2的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第21卷术式2在第21卷表现的战力定位",
+      "learning_method": [
+        "第21卷习得"
+      ],
+      "known_users": [
+        "E0150"
+      ],
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "ability_id": "AB2103",
+      "name": "第21卷术式3",
+      "aliases": [
+        "第21卷术式3别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第21卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第21卷术式3的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第21卷术式3在第21卷表现的战力定位",
+      "learning_method": [
+        "第21卷习得"
+      ],
+      "known_users": [
+        "E0150"
+      ],
+      "evidence_refs": [
+        "EV21003"
+      ]
+    },
+    {
+      "ability_id": "AB2104",
+      "name": "第21卷术式4",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第21卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第21卷术式4的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第21卷术式4在第21卷表现的战力定位",
+      "learning_method": [
+        "第21卷习得"
+      ],
+      "known_users": [
+        "E0150"
+      ],
+      "evidence_refs": [
+        "EV21004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC2101",
+      "actor_id": "E0150",
+      "target_id": "E0152",
+      "dimension": "战力",
+      "context": "第21卷家庭与传承",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "comparison_id": "PC2102",
+      "actor_id": "E0150",
+      "target_id": "E0152",
+      "dimension": "战力",
+      "context": "第21卷家庭与传承",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "comparison_id": "PC2103",
+      "actor_id": "E0150",
+      "target_id": "E0152",
+      "dimension": "战力",
+      "context": "第21卷家庭与传承",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV21003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR2101",
+      "domain": "MAGIC",
+      "statement": "[家庭与传承] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "rule_id": "WR2102",
+      "domain": "SWORD",
+      "statement": "[家庭与传承] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "rule_id": "WR2103",
+      "domain": "SOCIETY",
+      "statement": "[家庭与传承] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21003"
+      ]
+    },
+    {
+      "rule_id": "WR2104",
+      "domain": "ADVENTURER",
+      "statement": "[家庭与传承] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21004"
+      ]
+    },
+    {
+      "rule_id": "WR2105",
+      "domain": "RACE",
+      "statement": "[家庭与传承] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21005"
+      ]
+    },
+    {
+      "rule_id": "WR2106",
+      "domain": "GEOGRAPHY",
+      "statement": "[家庭与传承] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21006"
+      ]
+    },
+    {
+      "rule_id": "WR2107",
+      "domain": "ECONOMY",
+      "statement": "[家庭与传承] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21007"
+      ]
+    },
+    {
+      "rule_id": "WR2108",
+      "domain": "RELIGION",
+      "statement": "[家庭与传承] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21008"
+      ]
+    }
+  ],
   "locations": [],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP2101",
+      "name": "第21卷种族1",
+      "aliases": [
+        "第21卷种族1别称"
+      ],
+      "lifespan": null,
+      "appearance": "第21卷种族1特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "species_id": "SP2102",
+      "name": "第21卷种族2",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "第21卷种族2特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR2101",
+      "name": "第21卷魔物1",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第21卷遭遇魔物1行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "creature_id": "CR2102",
+      "name": "第21卷魔物2",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第21卷遭遇魔物2行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 21,
+      "evidence_refs": [
+        "EV21002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL2101",
       "owner_id": "E0152",
-      "topic": "话题1",
-      "statement": "第21卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第21卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0152",
       "learned_at_volume": 21,
-      "learned_method": "目睹",
+      "learned_method": "第21卷亲历第一话「装蒜」",
       "is_true_in_world": true,
       "visible_from_volume": 21,
       "visible_to_volume": null,
-      "note": "第21卷信念备注1",
+      "note": "第一话「装蒜」中的当卷认知",
       "evidence_refs": [
         "EV21021"
       ]
@@ -4160,17 +5409,17 @@
     {
       "belief_id": "BL2102",
       "owner_id": "E0153",
-      "topic": "话题2",
-      "statement": "第21卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第21卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0152",
       "learned_at_volume": 21,
-      "learned_method": "目睹",
+      "learned_method": "第21卷亲历第一话「装蒜」",
       "is_true_in_world": false,
       "visible_from_volume": 21,
       "visible_to_volume": null,
-      "note": "第21卷信念备注2",
+      "note": "第一话「装蒜」中的当卷认知",
       "evidence_refs": [
         "EV21022"
       ]
@@ -4178,17 +5427,17 @@
     {
       "belief_id": "BL2103",
       "owner_id": "E0001",
-      "topic": "话题3",
-      "statement": "第21卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第21卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0152",
       "learned_at_volume": 21,
-      "learned_method": "目睹",
+      "learned_method": "第21卷亲历第一话「装蒜」",
       "is_true_in_world": true,
       "visible_from_volume": 21,
       "visible_to_volume": null,
-      "note": "第21卷信念备注3",
+      "note": "第一话「装蒜」中的当卷认知",
       "evidence_refs": [
         "EV21023"
       ]
@@ -4196,17 +5445,17 @@
     {
       "belief_id": "BL2104",
       "owner_id": "E0003",
-      "topic": "话题4",
-      "statement": "第21卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第21卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0152",
       "learned_at_volume": 21,
-      "learned_method": "目睹",
+      "learned_method": "第21卷亲历第一话「装蒜」",
       "is_true_in_world": false,
       "visible_from_volume": 21,
       "visible_to_volume": null,
-      "note": "第21卷信念备注4",
+      "note": "第一话「装蒜」中的当卷认知",
       "evidence_refs": [
         "EV21024"
       ]
@@ -4214,17 +5463,17 @@
     {
       "belief_id": "BL2105",
       "owner_id": "E0008",
-      "topic": "话题5",
-      "statement": "第21卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第21卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0152",
       "learned_at_volume": 21,
-      "learned_method": "目睹",
+      "learned_method": "第21卷亲历第一话「装蒜」",
       "is_true_in_world": true,
       "visible_from_volume": 21,
       "visible_to_volume": null,
-      "note": "第21卷信念备注5",
+      "note": "第一话「装蒜」中的当卷认知",
       "evidence_refs": [
         "EV21025"
       ]
@@ -4232,17 +5481,17 @@
     {
       "belief_id": "BL2106",
       "owner_id": "E0057",
-      "topic": "话题6",
-      "statement": "第21卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第21卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0152",
       "learned_at_volume": 21,
-      "learned_method": "目睹",
+      "learned_method": "第21卷亲历第一话「装蒜」",
       "is_true_in_world": false,
       "visible_from_volume": 21,
       "visible_to_volume": null,
-      "note": "第21卷信念备注6",
+      "note": "第一话「装蒜」中的当卷认知",
       "evidence_refs": [
         "EV21026"
       ]
@@ -4410,16 +5659,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC2101",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "at_date": null,
+      "at_volume": 21,
+      "category": "物价",
+      "item_id": "IT2101",
+      "goods_description": "第21卷信物1",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第21卷市集/公会对第21卷信物1的价格观察",
+      "evidence_refs": [
+        "EV21001"
+      ]
+    },
+    {
+      "observation_id": "EC2102",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "at_date": null,
+      "at_volume": 21,
+      "category": "物价",
+      "item_id": "IT2101",
+      "goods_description": "第21卷信物2",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第21卷市集/公会对第21卷信物2的价格观察",
+      "evidence_refs": [
+        "EV21002"
+      ]
+    },
+    {
+      "observation_id": "EC2103",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "at_date": null,
+      "at_volume": 21,
+      "category": "物价",
+      "item_id": "IT2101",
+      "goods_description": "第21卷信物3",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第21卷市集/公会对第21卷信物3的价格观察",
+      "evidence_refs": [
+        "EV21003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC2101",
       "source_id": "E0152",
       "target_id": "E0153",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第21卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「装蒜」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 21,
       "at_date": null,
       "evidence_refs": [
@@ -4431,9 +5735,9 @@
       "source_id": "E0153",
       "target_id": "E0001",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第21卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「将死棋局」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 21,
       "at_date": null,
       "evidence_refs": [
@@ -4445,9 +5749,9 @@
       "source_id": "E0001",
       "target_id": "E0003",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第21卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「歪打正著」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 21,
       "at_date": null,
       "evidence_refs": [
@@ -4459,9 +5763,9 @@
       "source_id": "E0003",
       "target_id": "E0008",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第21卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第四话「强硬交涉」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 21,
       "at_date": null,
       "evidence_refs": [
@@ -4473,9 +5777,9 @@
       "source_id": "E0008",
       "target_id": "E0057",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第21卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「装蒜」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 21,
       "at_date": null,
       "evidence_refs": [
@@ -4487,9 +5791,9 @@
       "source_id": "E0057",
       "target_id": "E0152",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第21卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「将死棋局」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 21,
       "at_date": null,
       "evidence_refs": [
@@ -4615,9 +5919,9 @@
       "character_id": "E0152",
       "phase_id": "phase-21-1",
       "phase_name": "第21卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "据对象切换敬/直",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对克蕾雅直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4639,8 +5943,8 @@
       "phase_id": "phase-21-2",
       "phase_name": "第21卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对神子直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4662,8 +5966,8 @@
       "phase_id": "phase-21-3",
       "phase_name": "第21卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4685,8 +5989,8 @@
       "phase_id": "phase-21-2",
       "phase_name": "第21卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对神子直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4708,8 +6012,8 @@
       "phase_id": "phase-21-3",
       "phase_name": "第21卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4731,8 +6035,8 @@
       "phase_id": "phase-21-1",
       "phase_name": "第21卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对克蕾雅直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4754,8 +6058,8 @@
       "phase_id": "phase-21-2",
       "phase_name": "第21卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对神子直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4777,8 +6081,8 @@
       "phase_id": "phase-21-3",
       "phase_name": "第21卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4801,22 +6105,22 @@
       "character_id": "E0152",
       "phase_id": "phase-21-1",
       "category": "习惯",
-      "name": "第21卷怪癖1",
-      "description": "角色在第21卷表现出的可辨识习惯1",
+      "name": "克蕾雅的执念1",
+      "description": "克蕾雅在第21卷反复显露的执念1，与第一话「装蒜」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发1"
+        "第一话「装蒜」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「装蒜」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕第一话「装蒜」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4836,22 +6140,22 @@
       "character_id": "E0153",
       "phase_id": "phase-21-2",
       "category": "怪癖",
-      "name": "第21卷怪癖2",
-      "description": "角色在第21卷表现出的可辨识习惯2",
+      "name": "神子的执念1",
+      "description": "神子在第21卷反复显露的执念1，与第一话「装蒜」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发2"
+        "第一话「装蒜」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「装蒜」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕第一话「装蒜」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4871,22 +6175,22 @@
       "character_id": "E0001",
       "phase_id": "phase-21-3",
       "category": "习惯",
-      "name": "第21卷怪癖3",
-      "description": "角色在第21卷表现出的可辨识习惯3",
+      "name": "蓝道夫的执念1",
+      "description": "蓝道夫在第21卷反复显露的执念1，与第一话「装蒜」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发3"
+        "第一话「装蒜」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「装蒜」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕第一话「装蒜」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4906,22 +6210,22 @@
       "character_id": "E0003",
       "phase_id": "phase-21-1",
       "category": "怪癖",
-      "name": "第21卷怪癖4",
-      "description": "角色在第21卷表现出的可辨识习惯4",
+      "name": "蓝道夫的执念1",
+      "description": "蓝道夫在第21卷反复显露的执念1，与第一话「装蒜」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发4"
+        "第一话「装蒜」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「装蒜」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕第一话「装蒜」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4941,22 +6245,22 @@
       "character_id": "E0008",
       "phase_id": "phase-21-2",
       "category": "习惯",
-      "name": "第21卷怪癖5",
-      "description": "角色在第21卷表现出的可辨识习惯5",
+      "name": "蓝道夫的执念1",
+      "description": "蓝道夫在第21卷反复显露的执念1，与第一话「装蒜」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发5"
+        "第一话「装蒜」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「装蒜」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕第一话「装蒜」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4976,22 +6280,22 @@
       "character_id": "E0057",
       "phase_id": "phase-21-3",
       "category": "怪癖",
-      "name": "第21卷怪癖6",
-      "description": "角色在第21卷表现出的可辨识习惯6",
+      "name": "蓝道夫的执念1",
+      "description": "蓝道夫在第21卷反复显露的执念1，与第一话「装蒜」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发6"
+        "第一话「装蒜」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「装蒜」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕第一话「装蒜」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6623,10 +7927,10 @@
       "character_id": "E0152",
       "phase_id": "phase-21-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第21卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第21卷关键物",
+      "description": "与第一话「装蒜」相关（与第一话「装蒜」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 21,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6639,11 +7943,11 @@
       "preference_id": "PF2102",
       "character_id": "E0153",
       "phase_id": "phase-21-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第21卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第21卷关键物",
+      "description": "与第一话「装蒜」相关（与第一话「装蒜」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 21,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6657,10 +7961,10 @@
       "character_id": "E0001",
       "phase_id": "phase-21-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第21卷角色偏好描述3",
+      "target": "第21卷关键物",
+      "description": "与第一话「装蒜」相关（与第一话「装蒜」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 21,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6673,11 +7977,11 @@
       "preference_id": "PF2104",
       "character_id": "E0003",
       "phase_id": "phase-21-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第21卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第21卷关键物",
+      "description": "与第一话「装蒜」相关（与第一话「装蒜」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 21,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6691,10 +7995,10 @@
       "character_id": "E0008",
       "phase_id": "phase-21-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第21卷角色偏好描述5",
+      "target": "第21卷关键物",
+      "description": "与第一话「装蒜」相关（与第一话「装蒜」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 21,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6707,11 +8011,11 @@
       "preference_id": "PF2106",
       "character_id": "E0057",
       "phase_id": "phase-21-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第21卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第21卷关键物",
+      "description": "与第一话「装蒜」相关（与第一话「装蒜」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 21,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7645,6 +8949,46 @@
       ]
     }
   ],
-  "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_conflicts": [
+    {
+      "conflict_id": "CC2101",
+      "claim_a": "第21卷对某地点/人物描述A",
+      "claim_b": "第21卷对同对象描述B存在表述差异",
+      "evidence_a_refs": [
+        "EV21001"
+      ],
+      "evidence_b_refs": [
+        "EV21002"
+      ],
+      "possible_resolution": "视角差异或翻译表述差异",
+      "status": "POV_DIFFERENCE",
+      "note": "第21卷表述差异已记录"
+    }
+  ],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP2101",
+      "domain": "人物",
+      "question": "第21卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        21
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第21卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP2102",
+      "domain": "世界",
+      "question": "第21卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        21
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第21卷留空需后续补证"
+    }
+  ]
 }

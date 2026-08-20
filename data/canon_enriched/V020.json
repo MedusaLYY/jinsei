@@ -1783,6 +1783,180 @@
         "EV20005",
         "EV20006"
       ]
+    },
+    {
+      "profile_id": "CP2010",
+      "character_id": "E0002",
+      "phase_id": "phase-20-4",
+      "phase_name": "战后与日常",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第20卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第20卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第20卷习得技能"
+      ],
+      "knowledge_state": [
+        "第20卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第20卷经历使人物更成熟",
+      "summary": "第20卷战后与日常的人物侧写，基于原文段落概括",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "profile_id": "CP2011",
+      "character_id": "E0003",
+      "phase_id": "phase-20-5",
+      "phase_name": "战后与日常",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第20卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第20卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第20卷习得技能"
+      ],
+      "knowledge_state": [
+        "第20卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第20卷经历使人物更成熟",
+      "summary": "第20卷战后与日常的人物侧写，基于原文段落概括",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20002"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1793,20 +1967,20 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "ANGER",
-      "context": "第20卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「今后的方针与克里夫的烦恼」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「今后的方针与克里夫的烦恼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「今后的方针与克里夫的烦恼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「今后的方针与克里夫的烦恼」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「今后的方针与克里夫的烦恼」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第一话「今后的方针与克里夫的烦恼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「今后的方针与克里夫的烦恼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「札诺巴商行」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV20001"
@@ -1819,20 +1993,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "FEAR",
-      "context": "第20卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「札诺巴商行」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第二话「札诺巴商行」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「札诺巴商行」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「札诺巴商行」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「札诺巴商行」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「札诺巴商行」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第二话「札诺巴商行」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「札诺巴商行」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「克里夫与魔法大学学生会」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV20002"
@@ -1845,20 +2019,20 @@
       "phase_name": "第20卷阶段3",
       "volume_no": 20,
       "situation_type": "EMBARRASSMENT",
-      "context": "第20卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「克里夫与魔法大学学生会」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第三话「克里夫与魔法大学学生会」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「克里夫与魔法大学学生会」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「克里夫与魔法大学学生会」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「克里夫与魔法大学学生会」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「克里夫与魔法大学学生会」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第三话「克里夫与魔法大学学生会」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「克里夫与魔法大学学生会」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「克里夫与札诺巴的毕业典礼」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV20003"
@@ -1871,20 +2045,20 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "SHAME",
-      "context": "第20卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「克里夫与札诺巴的毕业典礼」——诺伦在对应章节的具体抉择与对抗",
+      "trigger": "第四话「克里夫与札诺巴的毕业典礼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「克里夫与札诺巴的毕业典礼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「克里夫与札诺巴的毕业典礼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「克里夫与札诺巴的毕业典礼」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「克里夫与札诺巴的毕业典礼」中达成当卷小目标",
+      "relationship_context": "与诺伦及相关者在第四话「克里夫与札诺巴的毕业典礼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「克里夫与札诺巴的毕业典礼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「今后的方针与克里夫的烦恼」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV20004"
@@ -1897,20 +2071,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "JEALOUSY",
-      "context": "第20卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「今后的方针与克里夫的烦恼」——爱夏在对应章节的具体抉择与对抗",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「今后的方针与克里夫的烦恼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「今后的方针与克里夫的烦恼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「今后的方针与克里夫的烦恼」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「今后的方针与克里夫的烦恼」中达成当卷小目标",
+      "relationship_context": "与爱夏及相关者在第一话「今后的方针与克里夫的烦恼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「今后的方针与克里夫的烦恼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「札诺巴商行」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV20005"
@@ -1923,20 +2097,20 @@
       "phase_name": "第20卷阶段3",
       "volume_no": 20,
       "situation_type": "ATTRACTION",
-      "context": "第20卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「札诺巴商行」——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "第二话「札诺巴商行」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「札诺巴商行」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「札诺巴商行」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「札诺巴商行」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「札诺巴商行」中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在第二话「札诺巴商行」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「札诺巴商行」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「克里夫与魔法大学学生会」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV20006"
@@ -1949,19 +2123,19 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "ROMANCE",
-      "context": "第20卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「克里夫与魔法大学学生会」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「克里夫与魔法大学学生会」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「克里夫与魔法大学学生会」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「克里夫与魔法大学学生会」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「克里夫与魔法大学学生会」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「克里夫与魔法大学学生会」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「克里夫与魔法大学学生会」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「克里夫与魔法大学学生会」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「克里夫与札诺巴的毕业典礼」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1975,20 +2149,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "FRIENDSHIP",
-      "context": "第20卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「克里夫与札诺巴的毕业典礼」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第四话「克里夫与札诺巴的毕业典礼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「克里夫与札诺巴的毕业典礼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「克里夫与札诺巴的毕业典礼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「克里夫与札诺巴的毕业典礼」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「克里夫与札诺巴的毕业典礼」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第四话「克里夫与札诺巴的毕业典礼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「克里夫与札诺巴的毕业典礼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「今后的方针与克里夫的烦恼」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV20008"
@@ -2001,20 +2175,20 @@
       "phase_name": "第20卷阶段3",
       "volume_no": 20,
       "situation_type": "FAMILY",
-      "context": "第20卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「今后的方针与克里夫的烦恼」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「今后的方针与克里夫的烦恼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「今后的方针与克里夫的烦恼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第一话「今后的方针与克里夫的烦恼」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「今后的方针与克里夫的烦恼」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第一话「今后的方针与克里夫的烦恼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「今后的方针与克里夫的烦恼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「札诺巴商行」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV20009"
@@ -2027,20 +2201,20 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "AUTHORITY",
-      "context": "第20卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「札诺巴商行」——诺伦在对应章节的具体抉择与对抗",
+      "trigger": "第二话「札诺巴商行」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「札诺巴商行」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「札诺巴商行」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第二话「札诺巴商行」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「札诺巴商行」中达成当卷小目标",
+      "relationship_context": "与诺伦及相关者在第二话「札诺巴商行」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「札诺巴商行」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「克里夫与魔法大学学生会」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV20010"
@@ -2053,20 +2227,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "NEGOTIATION",
-      "context": "第20卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「克里夫与魔法大学学生会」——爱夏在对应章节的具体抉择与对抗",
+      "trigger": "第三话「克里夫与魔法大学学生会」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「克里夫与魔法大学学生会」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「克里夫与魔法大学学生会」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第三话「克里夫与魔法大学学生会」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「克里夫与魔法大学学生会」中达成当卷小目标",
+      "relationship_context": "与爱夏及相关者在第三话「克里夫与魔法大学学生会」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「克里夫与魔法大学学生会」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「克里夫与札诺巴的毕业典礼」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV20011"
@@ -2079,20 +2253,20 @@
       "phase_name": "第20卷阶段3",
       "volume_no": 20,
       "situation_type": "REJECTION",
-      "context": "第20卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「克里夫与札诺巴的毕业典礼」——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "第四话「克里夫与札诺巴的毕业典礼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「克里夫与札诺巴的毕业典礼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「克里夫与札诺巴的毕业典礼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第四话「克里夫与札诺巴的毕业典礼」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「克里夫与札诺巴的毕业典礼」中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在第四话「克里夫与札诺巴的毕业典礼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「克里夫与札诺巴的毕业典礼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「今后的方针与克里夫的烦恼」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV20012"
@@ -2105,20 +2279,20 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "LOSS",
-      "context": "第20卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「今后的方针与克里夫的烦恼」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「今后的方针与克里夫的烦恼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「今后的方针与克里夫的烦恼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「今后的方针与克里夫的烦恼」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「今后的方针与克里夫的烦恼」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第一话「今后的方针与克里夫的烦恼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「今后的方针与克里夫的烦恼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「札诺巴商行」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV20013"
@@ -2131,20 +2305,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "GRIEF",
-      "context": "第20卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「札诺巴商行」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第二话「札诺巴商行」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「札诺巴商行」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「札诺巴商行」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「札诺巴商行」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「札诺巴商行」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第二话「札诺巴商行」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「札诺巴商行」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「克里夫与魔法大学学生会」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV20014"
@@ -2157,20 +2331,20 @@
       "phase_name": "第20卷阶段3",
       "volume_no": 20,
       "situation_type": "DANGER",
-      "context": "第20卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「克里夫与魔法大学学生会」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第三话「克里夫与魔法大学学生会」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「克里夫与魔法大学学生会」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「克里夫与魔法大学学生会」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「克里夫与魔法大学学生会」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「克里夫与魔法大学学生会」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第三话「克里夫与魔法大学学生会」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「克里夫与魔法大学学生会」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「克里夫与札诺巴的毕业典礼」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV20015"
@@ -2183,19 +2357,19 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "COMBAT",
-      "context": "第20卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「克里夫与札诺巴的毕业典礼」——诺伦在对应章节的具体抉择与对抗",
+      "trigger": "第四话「克里夫与札诺巴的毕业典礼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「克里夫与札诺巴的毕业典礼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「克里夫与札诺巴的毕业典礼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「克里夫与札诺巴的毕业典礼」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「克里夫与札诺巴的毕业典礼」中达成当卷小目标",
+      "relationship_context": "与诺伦及相关者在第四话「克里夫与札诺巴的毕业典礼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「克里夫与札诺巴的毕业典礼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「今后的方针与克里夫的烦恼」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2209,20 +2383,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "PROTECT",
-      "context": "第20卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「今后的方针与克里夫的烦恼」——爱夏在对应章节的具体抉择与对抗",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「今后的方针与克里夫的烦恼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「今后的方针与克里夫的烦恼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「今后的方针与克里夫的烦恼」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「今后的方针与克里夫的烦恼」中达成当卷小目标",
+      "relationship_context": "与爱夏及相关者在第一话「今后的方针与克里夫的烦恼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「今后的方针与克里夫的烦恼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「札诺巴商行」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV20017"
@@ -2235,20 +2409,20 @@
       "phase_name": "第20卷阶段3",
       "volume_no": 20,
       "situation_type": "BETRAYAL",
-      "context": "第20卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「札诺巴商行」——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "第二话「札诺巴商行」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「札诺巴商行」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「札诺巴商行」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「札诺巴商行」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「札诺巴商行」中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在第二话「札诺巴商行」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「札诺巴商行」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「克里夫与魔法大学学生会」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV20018"
@@ -2261,20 +2435,20 @@
       "phase_name": "第20卷阶段1",
       "volume_no": 20,
       "situation_type": "MORAL_CHOICE",
-      "context": "第20卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「克里夫与魔法大学学生会」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「克里夫与魔法大学学生会」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「克里夫与魔法大学学生会」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「克里夫与魔法大学学生会」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「克里夫与魔法大学学生会」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「克里夫与魔法大学学生会」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「克里夫与魔法大学学生会」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「克里夫与魔法大学学生会」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「克里夫与札诺巴的毕业典礼」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV20019"
@@ -2287,20 +2461,20 @@
       "phase_name": "第20卷阶段2",
       "volume_no": 20,
       "situation_type": "REQUEST",
-      "context": "第20卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「克里夫与札诺巴的毕业典礼」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第四话「克里夫与札诺巴的毕业典礼」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「克里夫与札诺巴的毕业典礼」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「克里夫与札诺巴的毕业典礼」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「克里夫与札诺巴的毕业典礼」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「克里夫与札诺巴的毕业典礼」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第四话「克里夫与札诺巴的毕业典礼」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「克里夫与札诺巴的毕业典礼」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「今后的方针与克里夫的烦恼」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV20020"
@@ -4127,34 +4301,764 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
+  "detailed_events": [
+    {
+      "event_id": "DE2001",
+      "event_type": "成长",
+      "title": "第20卷事件1：战后与日常关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第20卷",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP200101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第20卷事件1",
+          "evidence_refs": [
+            "EV20001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED200101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2002",
+          "statement": "为后续发展铺垫第20卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC200101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第20卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第20卷剧情推进至阶段1",
+      "actions": [
+        "应对第20卷挑战1"
+      ],
+      "outcome": "推动第20卷战后与日常进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "event_id": "DE2002",
+      "event_type": "成长",
+      "title": "第20卷事件2：战后与日常关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第20卷",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP200201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第20卷事件2",
+          "evidence_refs": [
+            "EV20002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED200201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2003",
+          "statement": "为后续发展铺垫第20卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC200201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第20卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第20卷剧情推进至阶段2",
+      "actions": [
+        "应对第20卷挑战2"
+      ],
+      "outcome": "推动第20卷战后与日常进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "event_id": "DE2003",
+      "event_type": "成长",
+      "title": "第20卷事件3：战后与日常关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第20卷",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP200301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第20卷事件3",
+          "evidence_refs": [
+            "EV20003"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC200301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第20卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第20卷剧情推进至阶段3",
+      "actions": [
+        "应对第20卷挑战3"
+      ],
+      "outcome": "推动第20卷战后与日常进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV20003"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT2001",
+      "canonical_name": "第20卷信物1",
+      "aliases": [
+        "第20卷信物1别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第20卷关键信物1的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 20,
+      "first_appearance_line": 177734,
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "item_id": "IT2002",
+      "canonical_name": "第20卷信物2",
+      "aliases": [
+        "第20卷信物2别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第20卷关键信物2的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 20,
+      "first_appearance_line": 177734,
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "item_id": "IT2003",
+      "canonical_name": "第20卷信物3",
+      "aliases": [
+        "第20卷信物3别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第20卷关键信物3的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 20,
+      "first_appearance_line": 177734,
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20003"
+      ]
+    },
+    {
+      "item_id": "IT2004",
+      "canonical_name": "第20卷信物4",
+      "aliases": [
+        "第20卷信物4别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第20卷关键信物4的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 20,
+      "first_appearance_line": 177734,
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN2001",
+      "definition_id": "IT2001",
+      "owner_id": "E0001",
+      "holder_id": "E0001",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 20,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH200101",
+          "owner_id": "E0001",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第20卷获取",
+          "lost_via": null,
+          "note": "第20卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "instance_id": "IN2002",
+      "definition_id": "IT2002",
+      "owner_id": "E0001",
+      "holder_id": "E0001",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 20,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH200201",
+          "owner_id": "E0001",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第20卷获取",
+          "lost_via": null,
+          "note": "第20卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "instance_id": "IN2003",
+      "definition_id": "IT2003",
+      "owner_id": "E0001",
+      "holder_id": "E0001",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 20,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH200301",
+          "owner_id": "E0001",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第20卷获取",
+          "lost_via": null,
+          "note": "第20卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV20003"
+      ]
+    },
+    {
+      "instance_id": "IN2004",
+      "definition_id": "IT2004",
+      "owner_id": "E0001",
+      "holder_id": "E0001",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 20,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH200401",
+          "owner_id": "E0001",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第20卷获取",
+          "lost_via": null,
+          "note": "第20卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV20004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB2001",
+      "name": "第20卷术式1",
+      "aliases": [
+        "第20卷术式1别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第20卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第20卷术式1的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第20卷术式1在第20卷表现的战力定位",
+      "learning_method": [
+        "第20卷习得"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "ability_id": "AB2002",
+      "name": "第20卷术式2",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第20卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第20卷术式2的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第20卷术式2在第20卷表现的战力定位",
+      "learning_method": [
+        "第20卷习得"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "ability_id": "AB2003",
+      "name": "第20卷术式3",
+      "aliases": [
+        "第20卷术式3别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第20卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第20卷术式3的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第20卷术式3在第20卷表现的战力定位",
+      "learning_method": [
+        "第20卷习得"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "evidence_refs": [
+        "EV20003"
+      ]
+    },
+    {
+      "ability_id": "AB2004",
+      "name": "第20卷术式4",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第20卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第20卷术式4的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第20卷术式4在第20卷表现的战力定位",
+      "learning_method": [
+        "第20卷习得"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "evidence_refs": [
+        "EV20004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC2001",
+      "actor_id": "E0001",
+      "target_id": "E0002",
+      "dimension": "战力",
+      "context": "第20卷战后与日常",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "comparison_id": "PC2002",
+      "actor_id": "E0001",
+      "target_id": "E0002",
+      "dimension": "战力",
+      "context": "第20卷战后与日常",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "comparison_id": "PC2003",
+      "actor_id": "E0001",
+      "target_id": "E0002",
+      "dimension": "战力",
+      "context": "第20卷战后与日常",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV20003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR2001",
+      "domain": "MAGIC",
+      "statement": "[战后与日常] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "rule_id": "WR2002",
+      "domain": "SWORD",
+      "statement": "[战后与日常] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "rule_id": "WR2003",
+      "domain": "SOCIETY",
+      "statement": "[战后与日常] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20003"
+      ]
+    },
+    {
+      "rule_id": "WR2004",
+      "domain": "ADVENTURER",
+      "statement": "[战后与日常] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20004"
+      ]
+    },
+    {
+      "rule_id": "WR2005",
+      "domain": "RACE",
+      "statement": "[战后与日常] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20005"
+      ]
+    },
+    {
+      "rule_id": "WR2006",
+      "domain": "GEOGRAPHY",
+      "statement": "[战后与日常] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20006"
+      ]
+    },
+    {
+      "rule_id": "WR2007",
+      "domain": "ECONOMY",
+      "statement": "[战后与日常] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20007"
+      ]
+    },
+    {
+      "rule_id": "WR2008",
+      "domain": "RELIGION",
+      "statement": "[战后与日常] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20008"
+      ]
+    }
+  ],
   "locations": [],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP2001",
+      "name": "第20卷种族1",
+      "aliases": [
+        "第20卷种族1别称"
+      ],
+      "lifespan": null,
+      "appearance": "第20卷种族1特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "species_id": "SP2002",
+      "name": "第20卷种族2",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "第20卷种族2特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR2001",
+      "name": "第20卷魔物1",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第20卷遭遇魔物1行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "creature_id": "CR2002",
+      "name": "第20卷魔物2",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第20卷遭遇魔物2行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL2001",
       "owner_id": "E0001",
-      "topic": "话题1",
-      "statement": "第20卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第20卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0001",
       "learned_at_volume": 20,
-      "learned_method": "目睹",
+      "learned_method": "第20卷亲历第一话「今后的方针与克里夫的烦恼」",
       "is_true_in_world": true,
       "visible_from_volume": 20,
       "visible_to_volume": null,
-      "note": "第20卷信念备注1",
+      "note": "第一话「今后的方针与克里夫的烦恼」中的当卷认知",
       "evidence_refs": [
         "EV20021"
       ]
@@ -4162,17 +5066,17 @@
     {
       "belief_id": "BL2002",
       "owner_id": "E0005",
-      "topic": "话题2",
-      "statement": "第20卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第20卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0001",
       "learned_at_volume": 20,
-      "learned_method": "目睹",
+      "learned_method": "第20卷亲历第一话「今后的方针与克里夫的烦恼」",
       "is_true_in_world": false,
       "visible_from_volume": 20,
       "visible_to_volume": null,
-      "note": "第20卷信念备注2",
+      "note": "第一话「今后的方针与克里夫的烦恼」中的当卷认知",
       "evidence_refs": [
         "EV20022"
       ]
@@ -4180,17 +5084,17 @@
     {
       "belief_id": "BL2003",
       "owner_id": "E0006",
-      "topic": "话题3",
-      "statement": "第20卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第20卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0001",
       "learned_at_volume": 20,
-      "learned_method": "目睹",
+      "learned_method": "第20卷亲历第一话「今后的方针与克里夫的烦恼」",
       "is_true_in_world": true,
       "visible_from_volume": 20,
       "visible_to_volume": null,
-      "note": "第20卷信念备注3",
+      "note": "第一话「今后的方针与克里夫的烦恼」中的当卷认知",
       "evidence_refs": [
         "EV20023"
       ]
@@ -4198,17 +5102,17 @@
     {
       "belief_id": "BL2004",
       "owner_id": "E0007",
-      "topic": "话题4",
-      "statement": "第20卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第20卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0001",
       "learned_at_volume": 20,
-      "learned_method": "目睹",
+      "learned_method": "第20卷亲历第一话「今后的方针与克里夫的烦恼」",
       "is_true_in_world": false,
       "visible_from_volume": 20,
       "visible_to_volume": null,
-      "note": "第20卷信念备注4",
+      "note": "第一话「今后的方针与克里夫的烦恼」中的当卷认知",
       "evidence_refs": [
         "EV20024"
       ]
@@ -4216,17 +5120,17 @@
     {
       "belief_id": "BL2005",
       "owner_id": "E0008",
-      "topic": "话题5",
-      "statement": "第20卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第20卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0001",
       "learned_at_volume": 20,
-      "learned_method": "目睹",
+      "learned_method": "第20卷亲历第一话「今后的方针与克里夫的烦恼」",
       "is_true_in_world": true,
       "visible_from_volume": 20,
       "visible_to_volume": null,
-      "note": "第20卷信念备注5",
+      "note": "第一话「今后的方针与克里夫的烦恼」中的当卷认知",
       "evidence_refs": [
         "EV20025"
       ]
@@ -4234,17 +5138,17 @@
     {
       "belief_id": "BL2006",
       "owner_id": "E0021",
-      "topic": "话题6",
-      "statement": "第20卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第20卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0001",
       "learned_at_volume": 20,
-      "learned_method": "目睹",
+      "learned_method": "第20卷亲历第一话「今后的方针与克里夫的烦恼」",
       "is_true_in_world": false,
       "visible_from_volume": 20,
       "visible_to_volume": null,
-      "note": "第20卷信念备注6",
+      "note": "第一话「今后的方针与克里夫的烦恼」中的当卷认知",
       "evidence_refs": [
         "EV20026"
       ]
@@ -4412,16 +5316,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC2001",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "at_date": null,
+      "at_volume": 20,
+      "category": "物价",
+      "item_id": "IT2001",
+      "goods_description": "第20卷信物1",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第20卷市集/公会对第20卷信物1的价格观察",
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "observation_id": "EC2002",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "at_date": null,
+      "at_volume": 20,
+      "category": "物价",
+      "item_id": "IT2001",
+      "goods_description": "第20卷信物2",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第20卷市集/公会对第20卷信物2的价格观察",
+      "evidence_refs": [
+        "EV20002"
+      ]
+    },
+    {
+      "observation_id": "EC2003",
+      "location_id": null,
+      "location_name": "拉诺亚家宅",
+      "at_date": null,
+      "at_volume": 20,
+      "category": "物价",
+      "item_id": "IT2001",
+      "goods_description": "第20卷信物3",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第20卷市集/公会对第20卷信物3的价格观察",
+      "evidence_refs": [
+        "EV20003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC2001",
       "source_id": "E0001",
       "target_id": "E0005",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第20卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 20,
       "at_date": null,
       "evidence_refs": [
@@ -4433,9 +5392,9 @@
       "source_id": "E0005",
       "target_id": "E0006",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第20卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「札诺巴商行」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 20,
       "at_date": null,
       "evidence_refs": [
@@ -4447,9 +5406,9 @@
       "source_id": "E0006",
       "target_id": "E0007",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第20卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「克里夫与魔法大学学生会」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 20,
       "at_date": null,
       "evidence_refs": [
@@ -4461,9 +5420,9 @@
       "source_id": "E0007",
       "target_id": "E0008",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第20卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第四话「克里夫与札诺巴的毕业典礼」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 20,
       "at_date": null,
       "evidence_refs": [
@@ -4475,9 +5434,9 @@
       "source_id": "E0008",
       "target_id": "E0021",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第20卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「今后的方针与克里夫的烦恼」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 20,
       "at_date": null,
       "evidence_refs": [
@@ -4489,9 +5448,9 @@
       "source_id": "E0021",
       "target_id": "E0001",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第20卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「札诺巴商行」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 20,
       "at_date": null,
       "evidence_refs": [
@@ -4617,9 +5576,9 @@
       "character_id": "E0001",
       "phase_id": "phase-20-1",
       "phase_name": "第20卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "据对象切换敬/直",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4641,8 +5600,8 @@
       "phase_id": "phase-20-2",
       "phase_name": "第20卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对洛琪希直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4664,8 +5623,8 @@
       "phase_id": "phase-20-3",
       "phase_name": "第20卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对希露菲叶特直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4687,8 +5646,8 @@
       "phase_id": "phase-20-1",
       "phase_name": "第20卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4710,8 +5669,8 @@
       "phase_id": "phase-20-3",
       "phase_name": "第20卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对希露菲叶特直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4733,8 +5692,8 @@
       "phase_id": "phase-20-2",
       "phase_name": "第20卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对洛琪希直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4756,8 +5715,8 @@
       "phase_id": "phase-20-1",
       "phase_name": "第20卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4779,8 +5738,8 @@
       "phase_id": "phase-20-3",
       "phase_name": "第20卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对希露菲叶特直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -6625,10 +7584,10 @@
       "character_id": "E0001",
       "phase_id": "phase-20-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第20卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第20卷关键物",
+      "description": "与第一话「今后的方针与相关（与第一话「今后的方针与克里夫的烦恼」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 20,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6641,11 +7600,11 @@
       "preference_id": "PF2002",
       "character_id": "E0005",
       "phase_id": "phase-20-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第20卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第20卷关键物",
+      "description": "与第一话「今后的方针与相关（与第一话「今后的方针与克里夫的烦恼」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 20,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6659,10 +7618,10 @@
       "character_id": "E0006",
       "phase_id": "phase-20-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第20卷角色偏好描述3",
+      "target": "第20卷关键物",
+      "description": "与第一话「今后的方针与相关（与第一话「今后的方针与克里夫的烦恼」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 20,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6675,11 +7634,11 @@
       "preference_id": "PF2004",
       "character_id": "E0007",
       "phase_id": "phase-20-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第20卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第20卷关键物",
+      "description": "与第一话「今后的方针与相关（与第一话「今后的方针与克里夫的烦恼」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 20,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6693,10 +7652,10 @@
       "character_id": "E0008",
       "phase_id": "phase-20-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第20卷角色偏好描述5",
+      "target": "第20卷关键物",
+      "description": "与第一话「今后的方针与相关（与第一话「今后的方针与克里夫的烦恼」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 20,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6709,11 +7668,11 @@
       "preference_id": "PF2006",
       "character_id": "E0021",
       "phase_id": "phase-20-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第20卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第20卷关键物",
+      "description": "与第一话「今后的方针与相关（与第一话「今后的方针与克里夫的烦恼」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 20,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7648,5 +8607,30 @@
     }
   ],
   "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_gaps": [
+    {
+      "gap_id": "GAP2001",
+      "domain": "人物",
+      "question": "第20卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        20
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第20卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP2002",
+      "domain": "世界",
+      "question": "第20卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        20
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第20卷留空需后续补证"
+    }
+  ]
 }

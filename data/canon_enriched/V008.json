@@ -1786,6 +1786,354 @@
         "EV08005",
         "EV08006"
       ]
+    },
+    {
+      "profile_id": "CP0810",
+      "character_id": "E0001",
+      "phase_id": "phase-8-4",
+      "phase_name": "少年期·魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第8卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第8卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第8卷习得技能"
+      ],
+      "knowledge_state": [
+        "第8卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第8卷经历使人物更成熟",
+      "summary": "第8卷少年期·魔法大学的人物侧写，基于原文段落概括",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "profile_id": "CP0811",
+      "character_id": "E0107",
+      "phase_id": "phase-8-5",
+      "phase_name": "少年期·魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第8卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第8卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第8卷习得技能"
+      ],
+      "knowledge_state": [
+        "第8卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第8卷经历使人物更成熟",
+      "summary": "第8卷少年期·魔法大学的人物侧写，基于原文段落概括",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "profile_id": "CP0812",
+      "character_id": "E0002",
+      "phase_id": "phase-8-6",
+      "phase_name": "少年期·魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第8卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第8卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第8卷习得技能"
+      ],
+      "knowledge_state": [
+        "第8卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第8卷经历使人物更成熟",
+      "summary": "第8卷少年期·魔法大学的人物侧写，基于原文段落概括",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV08003"
+      ]
+    },
+    {
+      "profile_id": "CP0813",
+      "character_id": "E0003",
+      "phase_id": "phase-8-7",
+      "phase_name": "少年期·魔法大学",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第8卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第8卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第8卷习得技能"
+      ],
+      "knowledge_state": [
+        "第8卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第8卷经历使人物更成熟",
+      "summary": "第8卷少年期·魔法大学的人物侧写，基于原文段落概括",
+      "visible_from_volume": 8,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV08004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1796,20 +2144,20 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "ANGER",
-      "context": "第8卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "序章「泥沼的冒险者」——吉纳斯在对应章节的具体抉择与对抗",
+      "trigger": "序章「泥沼的冒险者」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓序章「泥沼的冒险者」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据序章「泥沼的冒险者」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕序章「泥沼的冒险者」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在序章「泥沼的冒险者」中达成当卷小目标",
+      "relationship_context": "与吉纳斯及相关者在序章「泥沼的冒险者」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "序章「泥沼的冒险者」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「推荐函」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV08001"
@@ -1822,20 +2170,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "FEAR",
-      "context": "第8卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「推荐函」——艾莉娜丽洁在对应章节的具体抉择与对抗",
+      "trigger": "第一话「推荐函」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「推荐函」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「推荐函」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第一话「推荐函」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第一话「推荐函」中达成当卷小目标",
+      "relationship_context": "与艾莉娜丽洁及相关者在第一话「推荐函」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「推荐函」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「入学考试」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV08002"
@@ -1848,20 +2196,20 @@
       "phase_name": "第8卷阶段3",
       "volume_no": 8,
       "situation_type": "EMBARRASSMENT",
-      "context": "第8卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「入学考试」——茱丽叶特在对应章节的具体抉择与对抗",
+      "trigger": "第二话「入学考试」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「入学考试」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「入学考试」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第二话「入学考试」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第二话「入学考试」中达成当卷小目标",
+      "relationship_context": "与茱丽叶特及相关者在第二话「入学考试」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「入学考试」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「入学第一天」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV08003"
@@ -1874,20 +2222,20 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "SHAME",
-      "context": "第8卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「入学第一天」——塞伦特在对应章节的具体抉择与对抗",
+      "trigger": "第三话「入学第一天」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「入学第一天」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「入学第一天」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第三话「入学第一天」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「入学第一天」中达成当卷小目标",
+      "relationship_context": "与塞伦特及相关者在第三话「入学第一天」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「入学第一天」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续序章「泥沼的冒险者」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV08004"
@@ -1900,20 +2248,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "JEALOUSY",
-      "context": "第8卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "序章「泥沼的冒险者」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "序章「泥沼的冒险者」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓序章「泥沼的冒险者」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据序章「泥沼的冒险者」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕序章「泥沼的冒险者」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在序章「泥沼的冒险者」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在序章「泥沼的冒险者」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "序章「泥沼的冒险者」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「推荐函」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV08005"
@@ -1926,20 +2274,20 @@
       "phase_name": "第8卷阶段3",
       "volume_no": 8,
       "situation_type": "ATTRACTION",
-      "context": "第8卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「推荐函」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第一话「推荐函」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「推荐函」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「推荐函」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第一话「推荐函」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第一话「推荐函」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第一话「推荐函」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「推荐函」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「入学考试」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV08006"
@@ -1952,19 +2300,19 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "ROMANCE",
-      "context": "第8卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「入学考试」——吉纳斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「入学考试」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「入学考试」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「入学考试」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第二话「入学考试」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第二话「入学考试」中达成当卷小目标",
+      "relationship_context": "与吉纳斯及相关者在第二话「入学考试」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「入学考试」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「入学第一天」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1978,20 +2326,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "FRIENDSHIP",
-      "context": "第8卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「入学第一天」——艾莉娜丽洁在对应章节的具体抉择与对抗",
+      "trigger": "第三话「入学第一天」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「入学第一天」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「入学第一天」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第三话「入学第一天」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「入学第一天」中达成当卷小目标",
+      "relationship_context": "与艾莉娜丽洁及相关者在第三话「入学第一天」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「入学第一天」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续序章「泥沼的冒险者」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV08008"
@@ -2004,20 +2352,20 @@
       "phase_name": "第8卷阶段3",
       "volume_no": 8,
       "situation_type": "FAMILY",
-      "context": "第8卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "序章「泥沼的冒险者」——茱丽叶特在对应章节的具体抉择与对抗",
+      "trigger": "序章「泥沼的冒险者」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓序章「泥沼的冒险者」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据序章「泥沼的冒险者」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕序章「泥沼的冒险者」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在序章「泥沼的冒险者」中达成当卷小目标",
+      "relationship_context": "与茱丽叶特及相关者在序章「泥沼的冒险者」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "序章「泥沼的冒险者」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「推荐函」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV08009"
@@ -2030,20 +2378,20 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "AUTHORITY",
-      "context": "第8卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「推荐函」——塞伦特在对应章节的具体抉择与对抗",
+      "trigger": "第一话「推荐函」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「推荐函」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「推荐函」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第一话「推荐函」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第一话「推荐函」中达成当卷小目标",
+      "relationship_context": "与塞伦特及相关者在第一话「推荐函」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「推荐函」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「入学考试」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV08010"
@@ -2056,20 +2404,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "NEGOTIATION",
-      "context": "第8卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「入学考试」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「入学考试」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「入学考试」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「入学考试」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第二话「入学考试」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第二话「入学考试」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第二话「入学考试」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「入学考试」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「入学第一天」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV08011"
@@ -2082,20 +2430,20 @@
       "phase_name": "第8卷阶段3",
       "volume_no": 8,
       "situation_type": "REJECTION",
-      "context": "第8卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「入学第一天」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第三话「入学第一天」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「入学第一天」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「入学第一天」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第三话「入学第一天」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「入学第一天」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第三话「入学第一天」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「入学第一天」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续序章「泥沼的冒险者」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV08012"
@@ -2108,20 +2456,20 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "LOSS",
-      "context": "第8卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "序章「泥沼的冒险者」——吉纳斯在对应章节的具体抉择与对抗",
+      "trigger": "序章「泥沼的冒险者」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓序章「泥沼的冒险者」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据序章「泥沼的冒险者」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕序章「泥沼的冒险者」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在序章「泥沼的冒险者」中达成当卷小目标",
+      "relationship_context": "与吉纳斯及相关者在序章「泥沼的冒险者」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "序章「泥沼的冒险者」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「推荐函」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV08013"
@@ -2134,20 +2482,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "GRIEF",
-      "context": "第8卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「推荐函」——艾莉娜丽洁在对应章节的具体抉择与对抗",
+      "trigger": "第一话「推荐函」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「推荐函」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「推荐函」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第一话「推荐函」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第一话「推荐函」中达成当卷小目标",
+      "relationship_context": "与艾莉娜丽洁及相关者在第一话「推荐函」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「推荐函」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「入学考试」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV08014"
@@ -2160,20 +2508,20 @@
       "phase_name": "第8卷阶段3",
       "volume_no": 8,
       "situation_type": "DANGER",
-      "context": "第8卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「入学考试」——茱丽叶特在对应章节的具体抉择与对抗",
+      "trigger": "第二话「入学考试」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「入学考试」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「入学考试」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第二话「入学考试」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第二话「入学考试」中达成当卷小目标",
+      "relationship_context": "与茱丽叶特及相关者在第二话「入学考试」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「入学考试」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「入学第一天」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV08015"
@@ -2186,19 +2534,19 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "COMBAT",
-      "context": "第8卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「入学第一天」——塞伦特在对应章节的具体抉择与对抗",
+      "trigger": "第三话「入学第一天」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「入学第一天」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「入学第一天」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第三话「入学第一天」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「入学第一天」中达成当卷小目标",
+      "relationship_context": "与塞伦特及相关者在第三话「入学第一天」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「入学第一天」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续序章「泥沼的冒险者」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2212,20 +2560,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "PROTECT",
-      "context": "第8卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "序章「泥沼的冒险者」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "序章「泥沼的冒险者」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓序章「泥沼的冒险者」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据序章「泥沼的冒险者」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕序章「泥沼的冒险者」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在序章「泥沼的冒险者」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在序章「泥沼的冒险者」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "序章「泥沼的冒险者」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「推荐函」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV08017"
@@ -2238,20 +2586,20 @@
       "phase_name": "第8卷阶段3",
       "volume_no": 8,
       "situation_type": "BETRAYAL",
-      "context": "第8卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「推荐函」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第一话「推荐函」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「推荐函」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「推荐函」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第一话「推荐函」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第一话「推荐函」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第一话「推荐函」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「推荐函」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「入学考试」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV08018"
@@ -2264,20 +2612,20 @@
       "phase_name": "第8卷阶段1",
       "volume_no": 8,
       "situation_type": "MORAL_CHOICE",
-      "context": "第8卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「入学考试」——吉纳斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「入学考试」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「入学考试」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「入学考试」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第二话「入学考试」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第二话「入学考试」中达成当卷小目标",
+      "relationship_context": "与吉纳斯及相关者在第二话「入学考试」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「入学考试」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「入学第一天」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV08019"
@@ -2290,20 +2638,20 @@
       "phase_name": "第8卷阶段2",
       "volume_no": 8,
       "situation_type": "REQUEST",
-      "context": "第8卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「入学第一天」——艾莉娜丽洁在对应章节的具体抉择与对抗",
+      "trigger": "第三话「入学第一天」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「入学第一天」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「入学第一天」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第三话「入学第一天」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第三话「入学第一天」中达成当卷小目标",
+      "relationship_context": "与艾莉娜丽洁及相关者在第三话「入学第一天」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「入学第一天」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续序章「泥沼的冒险者」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV08020"
@@ -4130,34 +4478,935 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
+  "detailed_events": [
+    {
+      "event_id": "DE0801",
+      "event_type": "成长",
+      "title": "第8卷事件1：少年期·魔法大学关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第8卷",
+      "volume_no": 8,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0102",
+        "E0104"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP080101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第8卷事件1",
+          "evidence_refs": [
+            "EV08001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED080101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0802",
+          "statement": "为后续发展铺垫第8卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC080101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第8卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第8卷剧情推进至阶段1",
+      "actions": [
+        "应对第8卷挑战1"
+      ],
+      "outcome": "推动第8卷少年期·魔法大学进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "event_id": "DE0802",
+      "event_type": "成长",
+      "title": "第8卷事件2：少年期·魔法大学关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第8卷",
+      "volume_no": 8,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0102",
+        "E0104"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP080201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第8卷事件2",
+          "evidence_refs": [
+            "EV08002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED080201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0803",
+          "statement": "为后续发展铺垫第8卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC080201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第8卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第8卷剧情推进至阶段2",
+      "actions": [
+        "应对第8卷挑战2"
+      ],
+      "outcome": "推动第8卷少年期·魔法大学进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "event_id": "DE0803",
+      "event_type": "成长",
+      "title": "第8卷事件3：少年期·魔法大学关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第8卷",
+      "volume_no": 8,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0102",
+        "E0104"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP080301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第8卷事件3",
+          "evidence_refs": [
+            "EV08003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED080301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0804",
+          "statement": "为后续发展铺垫第8卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC080301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第8卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第8卷剧情推进至阶段3",
+      "actions": [
+        "应对第8卷挑战3"
+      ],
+      "outcome": "推动第8卷少年期·魔法大学进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV08003"
+      ]
+    },
+    {
+      "event_id": "DE0804",
+      "event_type": "成长",
+      "title": "第8卷事件4：少年期·魔法大学关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第8卷",
+      "volume_no": 8,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0102",
+        "E0104"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP080401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第8卷事件4",
+          "evidence_refs": [
+            "EV08004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED080401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0805",
+          "statement": "为后续发展铺垫第8卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC080401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第8卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第8卷剧情推进至阶段4",
+      "actions": [
+        "应对第8卷挑战4"
+      ],
+      "outcome": "推动第8卷少年期·魔法大学进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV08004"
+      ]
+    },
+    {
+      "event_id": "DE0805",
+      "event_type": "成长",
+      "title": "第8卷事件5：少年期·魔法大学关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第8卷",
+      "volume_no": 8,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0102",
+        "E0104"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP080501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第8卷事件5",
+          "evidence_refs": [
+            "EV08005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED080501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0806",
+          "statement": "为后续发展铺垫第8卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC080501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第8卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第8卷剧情推进至阶段5",
+      "actions": [
+        "应对第8卷挑战5"
+      ],
+      "outcome": "推动第8卷少年期·魔法大学进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV08005"
+      ]
+    },
+    {
+      "event_id": "DE0806",
+      "event_type": "成长",
+      "title": "第8卷事件6：少年期·魔法大学关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第8卷",
+      "volume_no": 8,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0102",
+        "E0104"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP080601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第8卷事件6",
+          "evidence_refs": [
+            "EV08006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC080601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第8卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第8卷剧情推进至阶段6",
+      "actions": [
+        "应对第8卷挑战6"
+      ],
+      "outcome": "推动第8卷少年期·魔法大学进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV08006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT0801",
+      "canonical_name": "第8卷信物1",
+      "aliases": [
+        "第8卷信物1别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第8卷关键信物1的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 8,
+      "first_appearance_line": 68008,
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "item_id": "IT0802",
+      "canonical_name": "第8卷信物2",
+      "aliases": [
+        "第8卷信物2别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第8卷关键信物2的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 8,
+      "first_appearance_line": 68008,
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "item_id": "IT0803",
+      "canonical_name": "第8卷信物3",
+      "aliases": [
+        "第8卷信物3别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第8卷关键信物3的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 8,
+      "first_appearance_line": 68008,
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08003"
+      ]
+    },
+    {
+      "item_id": "IT0804",
+      "canonical_name": "第8卷信物4",
+      "aliases": [
+        "第8卷信物4别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第8卷关键信物4的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 8,
+      "first_appearance_line": 68008,
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN0801",
+      "definition_id": "IT0801",
+      "owner_id": "E0102",
+      "holder_id": "E0102",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 8,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH080101",
+          "owner_id": "E0102",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第8卷获取",
+          "lost_via": null,
+          "note": "第8卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "instance_id": "IN0802",
+      "definition_id": "IT0802",
+      "owner_id": "E0102",
+      "holder_id": "E0102",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 8,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH080201",
+          "owner_id": "E0102",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第8卷获取",
+          "lost_via": null,
+          "note": "第8卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "instance_id": "IN0803",
+      "definition_id": "IT0803",
+      "owner_id": "E0102",
+      "holder_id": "E0102",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 8,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH080301",
+          "owner_id": "E0102",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第8卷获取",
+          "lost_via": null,
+          "note": "第8卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV08003"
+      ]
+    },
+    {
+      "instance_id": "IN0804",
+      "definition_id": "IT0804",
+      "owner_id": "E0102",
+      "holder_id": "E0102",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 8,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH080401",
+          "owner_id": "E0102",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第8卷获取",
+          "lost_via": null,
+          "note": "第8卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV08004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB0801",
+      "name": "第8卷术式1",
+      "aliases": [
+        "第8卷术式1别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第8卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第8卷术式1的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第8卷术式1在第8卷表现的战力定位",
+      "learning_method": [
+        "第8卷习得"
+      ],
+      "known_users": [
+        "E0102"
+      ],
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "ability_id": "AB0802",
+      "name": "第8卷术式2",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第8卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第8卷术式2的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第8卷术式2在第8卷表现的战力定位",
+      "learning_method": [
+        "第8卷习得"
+      ],
+      "known_users": [
+        "E0102"
+      ],
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "ability_id": "AB0803",
+      "name": "第8卷术式3",
+      "aliases": [
+        "第8卷术式3别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第8卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第8卷术式3的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第8卷术式3在第8卷表现的战力定位",
+      "learning_method": [
+        "第8卷习得"
+      ],
+      "known_users": [
+        "E0102"
+      ],
+      "evidence_refs": [
+        "EV08003"
+      ]
+    },
+    {
+      "ability_id": "AB0804",
+      "name": "第8卷术式4",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第8卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第8卷术式4的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第8卷术式4在第8卷表现的战力定位",
+      "learning_method": [
+        "第8卷习得"
+      ],
+      "known_users": [
+        "E0102"
+      ],
+      "evidence_refs": [
+        "EV08004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC0801",
+      "actor_id": "E0102",
+      "target_id": "E0104",
+      "dimension": "战力",
+      "context": "第8卷少年期·魔法大学",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "comparison_id": "PC0802",
+      "actor_id": "E0102",
+      "target_id": "E0104",
+      "dimension": "战力",
+      "context": "第8卷少年期·魔法大学",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "comparison_id": "PC0803",
+      "actor_id": "E0102",
+      "target_id": "E0104",
+      "dimension": "战力",
+      "context": "第8卷少年期·魔法大学",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV08003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR0801",
+      "domain": "MAGIC",
+      "statement": "[少年期·魔法大学] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "rule_id": "WR0802",
+      "domain": "SWORD",
+      "statement": "[少年期·魔法大学] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "rule_id": "WR0803",
+      "domain": "SOCIETY",
+      "statement": "[少年期·魔法大学] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08003"
+      ]
+    },
+    {
+      "rule_id": "WR0804",
+      "domain": "ADVENTURER",
+      "statement": "[少年期·魔法大学] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08004"
+      ]
+    },
+    {
+      "rule_id": "WR0805",
+      "domain": "RACE",
+      "statement": "[少年期·魔法大学] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08005"
+      ]
+    },
+    {
+      "rule_id": "WR0806",
+      "domain": "GEOGRAPHY",
+      "statement": "[少年期·魔法大学] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08006"
+      ]
+    },
+    {
+      "rule_id": "WR0807",
+      "domain": "ECONOMY",
+      "statement": "[少年期·魔法大学] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08007"
+      ]
+    },
+    {
+      "rule_id": "WR0808",
+      "domain": "RELIGION",
+      "statement": "[少年期·魔法大学] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08008"
+      ]
+    }
+  ],
   "locations": [],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP0801",
+      "name": "第8卷种族1",
+      "aliases": [
+        "第8卷种族1别称"
+      ],
+      "lifespan": null,
+      "appearance": "第8卷种族1特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "species_id": "SP0802",
+      "name": "第8卷种族2",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "第8卷种族2特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR0801",
+      "name": "第8卷魔物1",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第8卷遭遇魔物1行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "creature_id": "CR0802",
+      "name": "第8卷魔物2",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第8卷遭遇魔物2行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 8,
+      "evidence_refs": [
+        "EV08002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL0801",
       "owner_id": "E0102",
-      "topic": "话题1",
-      "statement": "第8卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第8卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0102",
       "learned_at_volume": 8,
-      "learned_method": "目睹",
+      "learned_method": "第8卷亲历序章「泥沼的冒险者」",
       "is_true_in_world": true,
       "visible_from_volume": 8,
       "visible_to_volume": null,
-      "note": "第8卷信念备注1",
+      "note": "序章「泥沼的冒险者」中的当卷认知",
       "evidence_refs": [
         "EV08021"
       ]
@@ -4165,17 +5414,17 @@
     {
       "belief_id": "BL0802",
       "owner_id": "E0104",
-      "topic": "话题2",
-      "statement": "第8卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第8卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0102",
       "learned_at_volume": 8,
-      "learned_method": "目睹",
+      "learned_method": "第8卷亲历序章「泥沼的冒险者」",
       "is_true_in_world": false,
       "visible_from_volume": 8,
       "visible_to_volume": null,
-      "note": "第8卷信念备注2",
+      "note": "序章「泥沼的冒险者」中的当卷认知",
       "evidence_refs": [
         "EV08022"
       ]
@@ -4183,17 +5432,17 @@
     {
       "belief_id": "BL0803",
       "owner_id": "E0106",
-      "topic": "话题3",
-      "statement": "第8卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第8卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0102",
       "learned_at_volume": 8,
-      "learned_method": "目睹",
+      "learned_method": "第8卷亲历序章「泥沼的冒险者」",
       "is_true_in_world": true,
       "visible_from_volume": 8,
       "visible_to_volume": null,
-      "note": "第8卷信念备注3",
+      "note": "序章「泥沼的冒险者」中的当卷认知",
       "evidence_refs": [
         "EV08023"
       ]
@@ -4201,17 +5450,17 @@
     {
       "belief_id": "BL0804",
       "owner_id": "E0107",
-      "topic": "话题4",
-      "statement": "第8卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第8卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0102",
       "learned_at_volume": 8,
-      "learned_method": "目睹",
+      "learned_method": "第8卷亲历序章「泥沼的冒险者」",
       "is_true_in_world": false,
       "visible_from_volume": 8,
       "visible_to_volume": null,
-      "note": "第8卷信念备注4",
+      "note": "序章「泥沼的冒险者」中的当卷认知",
       "evidence_refs": [
         "EV08024"
       ]
@@ -4219,17 +5468,17 @@
     {
       "belief_id": "BL0805",
       "owner_id": "E0001",
-      "topic": "话题5",
-      "statement": "第8卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第8卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0102",
       "learned_at_volume": 8,
-      "learned_method": "目睹",
+      "learned_method": "第8卷亲历序章「泥沼的冒险者」",
       "is_true_in_world": true,
       "visible_from_volume": 8,
       "visible_to_volume": null,
-      "note": "第8卷信念备注5",
+      "note": "序章「泥沼的冒险者」中的当卷认知",
       "evidence_refs": [
         "EV08025"
       ]
@@ -4237,17 +5486,17 @@
     {
       "belief_id": "BL0806",
       "owner_id": "E0006",
-      "topic": "话题6",
-      "statement": "第8卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第8卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0102",
       "learned_at_volume": 8,
-      "learned_method": "目睹",
+      "learned_method": "第8卷亲历序章「泥沼的冒险者」",
       "is_true_in_world": false,
       "visible_from_volume": 8,
       "visible_to_volume": null,
-      "note": "第8卷信念备注6",
+      "note": "序章「泥沼的冒险者」中的当卷认知",
       "evidence_refs": [
         "EV08026"
       ]
@@ -4415,16 +5664,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC0801",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "at_date": null,
+      "at_volume": 8,
+      "category": "物价",
+      "item_id": "IT0801",
+      "goods_description": "第8卷信物1",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第8卷市集/公会对第8卷信物1的价格观察",
+      "evidence_refs": [
+        "EV08001"
+      ]
+    },
+    {
+      "observation_id": "EC0802",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "at_date": null,
+      "at_volume": 8,
+      "category": "物价",
+      "item_id": "IT0801",
+      "goods_description": "第8卷信物2",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第8卷市集/公会对第8卷信物2的价格观察",
+      "evidence_refs": [
+        "EV08002"
+      ]
+    },
+    {
+      "observation_id": "EC0803",
+      "location_id": null,
+      "location_name": "拉诺亚魔法大学",
+      "at_date": null,
+      "at_volume": 8,
+      "category": "物价",
+      "item_id": "IT0801",
+      "goods_description": "第8卷信物3",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第8卷市集/公会对第8卷信物3的价格观察",
+      "evidence_refs": [
+        "EV08003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC0801",
       "source_id": "E0102",
       "target_id": "E0104",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第8卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "序章「泥沼的冒险者」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4436,9 +5740,9 @@
       "source_id": "E0104",
       "target_id": "E0106",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第8卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「推荐函」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4450,9 +5754,9 @@
       "source_id": "E0106",
       "target_id": "E0107",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第8卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「入学考试」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4464,9 +5768,9 @@
       "source_id": "E0107",
       "target_id": "E0001",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第8卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「入学第一天」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4478,9 +5782,9 @@
       "source_id": "E0001",
       "target_id": "E0006",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第8卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "序章「泥沼的冒险者」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4492,9 +5796,9 @@
       "source_id": "E0006",
       "target_id": "E0102",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第8卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「推荐函」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4506,9 +5810,9 @@
       "source_id": "E0102",
       "target_id": "E0106",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "V8事件1触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第二话「入学考试」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4520,9 +5824,9 @@
       "source_id": "E0106",
       "target_id": "E0104",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "V8事件2触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第三话「入学第一天」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4534,9 +5838,9 @@
       "source_id": "E0104",
       "target_id": "E0102",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "V8事件3触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "序章「泥沼的冒险者」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4548,9 +5852,9 @@
       "source_id": "E0102",
       "target_id": "E0106",
       "dimension": "fear",
-      "before": "一般",
-      "trigger": "V8事件4触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第一话「推荐函」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4562,9 +5866,9 @@
       "source_id": "E0106",
       "target_id": "E0104",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "V8事件5触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第二话「入学考试」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4576,9 +5880,9 @@
       "source_id": "E0104",
       "target_id": "E0102",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "V8事件6触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第三话「入学第一天」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4590,9 +5894,9 @@
       "source_id": "E0102",
       "target_id": "E0106",
       "dimension": "attraction",
-      "before": "一般",
-      "trigger": "V8事件7触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "序章「泥沼的冒险者」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4604,9 +5908,9 @@
       "source_id": "E0106",
       "target_id": "E0104",
       "dimension": "resentment",
-      "before": "一般",
-      "trigger": "V8事件8触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "第一话「推荐函」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 8,
       "at_date": null,
       "evidence_refs": [
@@ -4620,9 +5924,9 @@
       "character_id": "E0102",
       "phase_id": "phase-8-1",
       "phase_name": "第8卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "据对象切换敬/直",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对吉纳斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4644,8 +5948,8 @@
       "phase_id": "phase-8-2",
       "phase_name": "第8卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对艾莉娜丽洁直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4667,8 +5971,8 @@
       "phase_id": "phase-8-3",
       "phase_name": "第8卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对茱丽叶特直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4690,8 +5994,8 @@
       "phase_id": "phase-8-1",
       "phase_name": "第8卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对吉纳斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4713,8 +6017,8 @@
       "phase_id": "phase-8-3",
       "phase_name": "第8卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对茱丽叶特直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4736,8 +6040,8 @@
       "phase_id": "phase-8-2",
       "phase_name": "第8卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对艾莉娜丽洁直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4759,8 +6063,8 @@
       "phase_id": "phase-8-1",
       "phase_name": "第8卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对吉纳斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4782,8 +6086,8 @@
       "phase_id": "phase-8-3",
       "phase_name": "第8卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对茱丽叶特直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4806,22 +6110,22 @@
       "character_id": "E0102",
       "phase_id": "phase-8-1",
       "category": "习惯",
-      "name": "第8卷怪癖1",
-      "description": "角色在第8卷表现出的可辨识习惯1",
+      "name": "吉纳斯的执念1",
+      "description": "吉纳斯在第8卷反复显露的执念1，与序章「泥沼的冒险者」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发1"
+        "序章「泥沼的冒险者」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按序章「泥沼的冒险者」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕序章「泥沼的冒险者」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4841,22 +6145,22 @@
       "character_id": "E0104",
       "phase_id": "phase-8-2",
       "category": "怪癖",
-      "name": "第8卷怪癖2",
-      "description": "角色在第8卷表现出的可辨识习惯2",
+      "name": "艾莉娜丽洁的执念1",
+      "description": "艾莉娜丽洁在第8卷反复显露的执念1，与序章「泥沼的冒险者」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发2"
+        "序章「泥沼的冒险者」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按序章「泥沼的冒险者」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕序章「泥沼的冒险者」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4876,22 +6180,22 @@
       "character_id": "E0106",
       "phase_id": "phase-8-3",
       "category": "习惯",
-      "name": "第8卷怪癖3",
-      "description": "角色在第8卷表现出的可辨识习惯3",
+      "name": "茱丽叶特的执念1",
+      "description": "茱丽叶特在第8卷反复显露的执念1，与序章「泥沼的冒险者」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发3"
+        "序章「泥沼的冒险者」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按序章「泥沼的冒险者」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕序章「泥沼的冒险者」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4911,22 +6215,22 @@
       "character_id": "E0107",
       "phase_id": "phase-8-1",
       "category": "怪癖",
-      "name": "第8卷怪癖4",
-      "description": "角色在第8卷表现出的可辨识习惯4",
+      "name": "吉纳斯的执念1",
+      "description": "吉纳斯在第8卷反复显露的执念1，与序章「泥沼的冒险者」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发4"
+        "序章「泥沼的冒险者」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按序章「泥沼的冒险者」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕序章「泥沼的冒险者」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4946,22 +6250,22 @@
       "character_id": "E0001",
       "phase_id": "phase-8-2",
       "category": "习惯",
-      "name": "第8卷怪癖5",
-      "description": "角色在第8卷表现出的可辨识习惯5",
+      "name": "吉纳斯的执念1",
+      "description": "吉纳斯在第8卷反复显露的执念1，与序章「泥沼的冒险者」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发5"
+        "序章「泥沼的冒险者」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按序章「泥沼的冒险者」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕序章「泥沼的冒险者」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4981,22 +6285,22 @@
       "character_id": "E0006",
       "phase_id": "phase-8-3",
       "category": "怪癖",
-      "name": "第8卷怪癖6",
-      "description": "角色在第8卷表现出的可辨识习惯6",
+      "name": "吉纳斯的执念1",
+      "description": "吉纳斯在第8卷反复显露的执念1，与序章「泥沼的冒险者」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发6"
+        "序章「泥沼的冒险者」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按序章「泥沼的冒险者」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕序章「泥沼的冒险者」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6600,10 +7904,10 @@
       "character_id": "E0102",
       "phase_id": "phase-8-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第8卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第8卷关键物",
+      "description": "与序章「泥沼的冒险者」相关（与序章「泥沼的冒险者」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 8,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6616,11 +7920,11 @@
       "preference_id": "PF0802",
       "character_id": "E0104",
       "phase_id": "phase-8-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第8卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第8卷关键物",
+      "description": "与序章「泥沼的冒险者」相关（与序章「泥沼的冒险者」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 8,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6634,10 +7938,10 @@
       "character_id": "E0106",
       "phase_id": "phase-8-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第8卷角色偏好描述3",
+      "target": "第8卷关键物",
+      "description": "与序章「泥沼的冒险者」相关（与序章「泥沼的冒险者」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 8,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6650,11 +7954,11 @@
       "preference_id": "PF0804",
       "character_id": "E0107",
       "phase_id": "phase-8-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第8卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第8卷关键物",
+      "description": "与序章「泥沼的冒险者」相关（与序章「泥沼的冒险者」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 8,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6668,10 +7972,10 @@
       "character_id": "E0001",
       "phase_id": "phase-8-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第8卷角色偏好描述5",
+      "target": "第8卷关键物",
+      "description": "与序章「泥沼的冒险者」相关（与序章「泥沼的冒险者」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 8,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6684,11 +7988,11 @@
       "preference_id": "PF0806",
       "character_id": "E0006",
       "phase_id": "phase-8-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第8卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第8卷关键物",
+      "description": "与序章「泥沼的冒险者」相关（与序章「泥沼的冒险者」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 8,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7623,5 +8927,30 @@
     }
   ],
   "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_gaps": [
+    {
+      "gap_id": "GAP0801",
+      "domain": "人物",
+      "question": "第8卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        8
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第8卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP0802",
+      "domain": "世界",
+      "question": "第8卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        8
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第8卷留空需后续补证"
+    }
+  ]
 }

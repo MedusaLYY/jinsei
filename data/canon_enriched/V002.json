@@ -1785,6 +1785,354 @@
         "EV02005",
         "EV02006"
       ]
+    },
+    {
+      "profile_id": "CP0210",
+      "character_id": "E0001",
+      "phase_id": "phase-2-4",
+      "phase_name": "少年期·家庭教师篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第2卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第2卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第2卷习得技能"
+      ],
+      "knowledge_state": [
+        "第2卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第2卷经历使人物更成熟",
+      "summary": "第2卷少年期·家庭教师篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "profile_id": "CP0211",
+      "character_id": "E0024",
+      "phase_id": "phase-2-5",
+      "phase_name": "少年期·家庭教师篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第2卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第2卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第2卷习得技能"
+      ],
+      "knowledge_state": [
+        "第2卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第2卷经历使人物更成熟",
+      "summary": "第2卷少年期·家庭教师篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "profile_id": "CP0212",
+      "character_id": "E0025",
+      "phase_id": "phase-2-6",
+      "phase_name": "少年期·家庭教师篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第2卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第2卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第2卷习得技能"
+      ],
+      "knowledge_state": [
+        "第2卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第2卷经历使人物更成熟",
+      "summary": "第2卷少年期·家庭教师篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "profile_id": "CP0213",
+      "character_id": "E0026",
+      "phase_id": "phase-2-7",
+      "phase_name": "少年期·家庭教师篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第2卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第2卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第2卷习得技能"
+      ],
+      "knowledge_state": [
+        "第2卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第2卷经历使人物更成熟",
+      "summary": "第2卷少年期·家庭教师篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1795,20 +2143,20 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "ANGER",
-      "context": "第2卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "大小姐的暴力：艾莉丝殴打前任家庭教师——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "大小姐的暴力：艾莉丝殴打前任家庭教师中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓大小姐的暴力的表面信息，不知对方底牌与后续灾害",
+      "action": "依据大小姐的暴力情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕大小姐的暴力的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在大小姐的暴力中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在大小姐的暴力中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "大小姐的暴力的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续自导自演埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV02001"
@@ -1821,20 +2169,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "FEAR",
-      "context": "第2卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "自导自演：鲁迪设局让艾莉丝认清实力差距——基列奴在对应章节的具体抉择与对抗",
+      "trigger": "自导自演：鲁迪设局让艾莉丝认清实力差距中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓自导自演的表面信息，不知对方底牌与后续灾害",
+      "action": "依据自导自演情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕自导自演的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在自导自演中达成当卷小目标",
+      "relationship_context": "与基列奴及相关者在自导自演中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "自导自演的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话伯雷亚斯式问候埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV02002"
@@ -1847,20 +2195,20 @@
       "phase_name": "第2卷阶段3",
       "volume_no": 2,
       "situation_type": "EMBARRASSMENT",
-      "context": "第2卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话伯雷亚斯式问候：贵族礼仪冲突——绍罗斯在对应章节的具体抉择与对抗",
+      "trigger": "闲话伯雷亚斯式问候：贵族礼仪冲突中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话伯雷亚斯式问候的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话伯雷亚斯式问候情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕闲话伯雷亚斯式问候的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在闲话伯雷亚斯式问候中达成当卷小目标",
+      "relationship_context": "与绍罗斯及相关者在闲话伯雷亚斯式问候中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "闲话伯雷亚斯式问候的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续凶暴尚未衰退埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV02003"
@@ -1873,20 +2221,20 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "SHAME",
-      "context": "第2卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "凶暴尚未衰退：剑术训练抗拒——菲利普在对应章节的具体抉择与对抗",
+      "trigger": "凶暴尚未衰退：剑术训练抗拒中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓凶暴尚未衰退的表面信息，不知对方底牌与后续灾害",
+      "action": "依据凶暴尚未衰退情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕凶暴尚未衰退的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在凶暴尚未衰退中达成当卷小目标",
+      "relationship_context": "与菲利普及相关者在凶暴尚未衰退中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "凶暴尚未衰退的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续职员会议与星期日埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV02004"
@@ -1899,20 +2247,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "JEALOUSY",
-      "context": "第2卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "职员会议与星期日：菲利普斡旋家臣——希尔达在对应章节的具体抉择与对抗",
+      "trigger": "职员会议与星期日：菲利普斡旋家臣中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓职员会议与星期日的表面信息，不知对方底牌与后续灾害",
+      "action": "依据职员会议与星期日情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕职员会议与星期日的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在职员会议与星期日中达成当卷小目标",
+      "relationship_context": "与希尔达及相关者在职员会议与星期日中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "职员会议与星期日的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续十岁生日宴埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV02005"
@@ -1925,20 +2273,20 @@
       "phase_name": "第2卷阶段3",
       "volume_no": 2,
       "situation_type": "ATTRACTION",
-      "context": "第2卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "十岁生日宴：艾莉丝担任舞会主角——艾德娜在对应章节的具体抉择与对抗",
+      "trigger": "十岁生日宴：艾莉丝担任舞会主角中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓十岁生日宴的表面信息，不知对方底牌与后续灾害",
+      "action": "依据十岁生日宴情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕十岁生日宴的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在十岁生日宴中达成当卷小目标",
+      "relationship_context": "与艾德娜及相关者在十岁生日宴中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "十岁生日宴的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续转移事件埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV02006"
@@ -1951,19 +2299,19 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "ROMANCE",
-      "context": "第2卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "转移事件：菲托亚上空魔力灾害——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "转移事件：菲托亚上空魔力灾害中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓转移事件的表面信息，不知对方底牌与后续灾害",
+      "action": "依据转移事件情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕转移事件的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在转移事件中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在转移事件中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "转移事件的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续大小姐的暴力埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1977,20 +2325,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "FRIENDSHIP",
-      "context": "第2卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "大小姐的暴力：艾莉丝殴打前任家庭教师——基列奴在对应章节的具体抉择与对抗",
+      "trigger": "大小姐的暴力：艾莉丝殴打前任家庭教师中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓大小姐的暴力的表面信息，不知对方底牌与后续灾害",
+      "action": "依据大小姐的暴力情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕大小姐的暴力的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在大小姐的暴力中达成当卷小目标",
+      "relationship_context": "与基列奴及相关者在大小姐的暴力中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "大小姐的暴力的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续自导自演埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV02008"
@@ -2003,20 +2351,20 @@
       "phase_name": "第2卷阶段3",
       "volume_no": 2,
       "situation_type": "FAMILY",
-      "context": "第2卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "自导自演：鲁迪设局让艾莉丝认清实力差距——绍罗斯在对应章节的具体抉择与对抗",
+      "trigger": "自导自演：鲁迪设局让艾莉丝认清实力差距中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓自导自演的表面信息，不知对方底牌与后续灾害",
+      "action": "依据自导自演情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕自导自演的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在自导自演中达成当卷小目标",
+      "relationship_context": "与绍罗斯及相关者在自导自演中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "自导自演的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话伯雷亚斯式问候埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV02009"
@@ -2029,20 +2377,20 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "AUTHORITY",
-      "context": "第2卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话伯雷亚斯式问候：贵族礼仪冲突——菲利普在对应章节的具体抉择与对抗",
+      "trigger": "闲话伯雷亚斯式问候：贵族礼仪冲突中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话伯雷亚斯式问候的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话伯雷亚斯式问候情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕闲话伯雷亚斯式问候的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在闲话伯雷亚斯式问候中达成当卷小目标",
+      "relationship_context": "与菲利普及相关者在闲话伯雷亚斯式问候中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "闲话伯雷亚斯式问候的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续凶暴尚未衰退埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV02010"
@@ -2055,20 +2403,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "NEGOTIATION",
-      "context": "第2卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "凶暴尚未衰退：剑术训练抗拒——希尔达在对应章节的具体抉择与对抗",
+      "trigger": "凶暴尚未衰退：剑术训练抗拒中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓凶暴尚未衰退的表面信息，不知对方底牌与后续灾害",
+      "action": "依据凶暴尚未衰退情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕凶暴尚未衰退的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在凶暴尚未衰退中达成当卷小目标",
+      "relationship_context": "与希尔达及相关者在凶暴尚未衰退中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "凶暴尚未衰退的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续职员会议与星期日埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV02011"
@@ -2081,20 +2429,20 @@
       "phase_name": "第2卷阶段3",
       "volume_no": 2,
       "situation_type": "REJECTION",
-      "context": "第2卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "职员会议与星期日：菲利普斡旋家臣——艾德娜在对应章节的具体抉择与对抗",
+      "trigger": "职员会议与星期日：菲利普斡旋家臣中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓职员会议与星期日的表面信息，不知对方底牌与后续灾害",
+      "action": "依据职员会议与星期日情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕职员会议与星期日的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在职员会议与星期日中达成当卷小目标",
+      "relationship_context": "与艾德娜及相关者在职员会议与星期日中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "职员会议与星期日的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续十岁生日宴埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV02012"
@@ -2107,20 +2455,20 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "LOSS",
-      "context": "第2卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "十岁生日宴：艾莉丝担任舞会主角——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "十岁生日宴：艾莉丝担任舞会主角中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓十岁生日宴的表面信息，不知对方底牌与后续灾害",
+      "action": "依据十岁生日宴情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕十岁生日宴的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在十岁生日宴中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在十岁生日宴中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "十岁生日宴的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续转移事件埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV02013"
@@ -2133,20 +2481,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "GRIEF",
-      "context": "第2卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "转移事件：菲托亚上空魔力灾害——基列奴在对应章节的具体抉择与对抗",
+      "trigger": "转移事件：菲托亚上空魔力灾害中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓转移事件的表面信息，不知对方底牌与后续灾害",
+      "action": "依据转移事件情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕转移事件的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在转移事件中达成当卷小目标",
+      "relationship_context": "与基列奴及相关者在转移事件中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "转移事件的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续大小姐的暴力埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV02014"
@@ -2159,20 +2507,20 @@
       "phase_name": "第2卷阶段3",
       "volume_no": 2,
       "situation_type": "DANGER",
-      "context": "第2卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "大小姐的暴力：艾莉丝殴打前任家庭教师——绍罗斯在对应章节的具体抉择与对抗",
+      "trigger": "大小姐的暴力：艾莉丝殴打前任家庭教师中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓大小姐的暴力的表面信息，不知对方底牌与后续灾害",
+      "action": "依据大小姐的暴力情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕大小姐的暴力的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在大小姐的暴力中达成当卷小目标",
+      "relationship_context": "与绍罗斯及相关者在大小姐的暴力中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "大小姐的暴力的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续自导自演埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV02015"
@@ -2185,19 +2533,19 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "COMBAT",
-      "context": "第2卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "自导自演：鲁迪设局让艾莉丝认清实力差距——菲利普在对应章节的具体抉择与对抗",
+      "trigger": "自导自演：鲁迪设局让艾莉丝认清实力差距中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓自导自演的表面信息，不知对方底牌与后续灾害",
+      "action": "依据自导自演情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕自导自演的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在自导自演中达成当卷小目标",
+      "relationship_context": "与菲利普及相关者在自导自演中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "自导自演的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续闲话伯雷亚斯式问候埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2211,20 +2559,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "PROTECT",
-      "context": "第2卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "闲话伯雷亚斯式问候：贵族礼仪冲突——希尔达在对应章节的具体抉择与对抗",
+      "trigger": "闲话伯雷亚斯式问候：贵族礼仪冲突中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓闲话伯雷亚斯式问候的表面信息，不知对方底牌与后续灾害",
+      "action": "依据闲话伯雷亚斯式问候情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕闲话伯雷亚斯式问候的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在闲话伯雷亚斯式问候中达成当卷小目标",
+      "relationship_context": "与希尔达及相关者在闲话伯雷亚斯式问候中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "闲话伯雷亚斯式问候的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续凶暴尚未衰退埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV02017"
@@ -2237,20 +2585,20 @@
       "phase_name": "第2卷阶段3",
       "volume_no": 2,
       "situation_type": "BETRAYAL",
-      "context": "第2卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "凶暴尚未衰退：剑术训练抗拒——艾德娜在对应章节的具体抉择与对抗",
+      "trigger": "凶暴尚未衰退：剑术训练抗拒中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓凶暴尚未衰退的表面信息，不知对方底牌与后续灾害",
+      "action": "依据凶暴尚未衰退情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕凶暴尚未衰退的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在凶暴尚未衰退中达成当卷小目标",
+      "relationship_context": "与艾德娜及相关者在凶暴尚未衰退中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "凶暴尚未衰退的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续职员会议与星期日埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV02018"
@@ -2263,20 +2611,20 @@
       "phase_name": "第2卷阶段1",
       "volume_no": 2,
       "situation_type": "MORAL_CHOICE",
-      "context": "第2卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "职员会议与星期日：菲利普斡旋家臣——艾莉丝在对应章节的具体抉择与对抗",
+      "trigger": "职员会议与星期日：菲利普斡旋家臣中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓职员会议与星期日的表面信息，不知对方底牌与后续灾害",
+      "action": "依据职员会议与星期日情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕职员会议与星期日的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在职员会议与星期日中达成当卷小目标",
+      "relationship_context": "与艾莉丝及相关者在职员会议与星期日中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "职员会议与星期日的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续十岁生日宴埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV02019"
@@ -2289,20 +2637,20 @@
       "phase_name": "第2卷阶段2",
       "volume_no": 2,
       "situation_type": "REQUEST",
-      "context": "第2卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "十岁生日宴：艾莉丝担任舞会主角——基列奴在对应章节的具体抉择与对抗",
+      "trigger": "十岁生日宴：艾莉丝担任舞会主角中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓十岁生日宴的表面信息，不知对方底牌与后续灾害",
+      "action": "依据十岁生日宴情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕十岁生日宴的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在十岁生日宴中达成当卷小目标",
+      "relationship_context": "与基列奴及相关者在十岁生日宴中的从属/对抗关系",
+      "social_context": "公开/私下混合场景，贵族与平民/师徒身份并存",
+      "immediate_outcome": "十岁生日宴的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续转移事件埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV02020"
@@ -4129,34 +4477,964 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
-  "locations": [],
+  "detailed_events": [
+    {
+      "event_id": "DE0201",
+      "event_type": "成长",
+      "title": "第2卷事件1：少年期·家庭教师篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第2卷",
+      "volume_no": 2,
+      "location_id": "E0030",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP020101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第2卷事件1",
+          "evidence_refs": [
+            "EV02001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED020101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0202",
+          "statement": "为后续发展铺垫第2卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC020101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第2卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第2卷剧情推进至阶段1",
+      "actions": [
+        "应对第2卷挑战1"
+      ],
+      "outcome": "推动第2卷少年期·家庭教师篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "event_id": "DE0202",
+      "event_type": "成长",
+      "title": "第2卷事件2：少年期·家庭教师篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第2卷",
+      "volume_no": 2,
+      "location_id": "E0030",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP020201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第2卷事件2",
+          "evidence_refs": [
+            "EV02002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED020201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0203",
+          "statement": "为后续发展铺垫第2卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC020201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第2卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第2卷剧情推进至阶段2",
+      "actions": [
+        "应对第2卷挑战2"
+      ],
+      "outcome": "推动第2卷少年期·家庭教师篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "event_id": "DE0203",
+      "event_type": "成长",
+      "title": "第2卷事件3：少年期·家庭教师篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第2卷",
+      "volume_no": 2,
+      "location_id": "E0030",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP020301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第2卷事件3",
+          "evidence_refs": [
+            "EV02003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED020301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0204",
+          "statement": "为后续发展铺垫第2卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC020301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第2卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第2卷剧情推进至阶段3",
+      "actions": [
+        "应对第2卷挑战3"
+      ],
+      "outcome": "推动第2卷少年期·家庭教师篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "event_id": "DE0204",
+      "event_type": "成长",
+      "title": "第2卷事件4：少年期·家庭教师篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第2卷",
+      "volume_no": 2,
+      "location_id": "E0030",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP020401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第2卷事件4",
+          "evidence_refs": [
+            "EV02004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED020401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0205",
+          "statement": "为后续发展铺垫第2卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC020401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第2卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第2卷剧情推进至阶段4",
+      "actions": [
+        "应对第2卷挑战4"
+      ],
+      "outcome": "推动第2卷少年期·家庭教师篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV02004"
+      ]
+    },
+    {
+      "event_id": "DE0205",
+      "event_type": "成长",
+      "title": "第2卷事件5：少年期·家庭教师篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第2卷",
+      "volume_no": 2,
+      "location_id": "E0030",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP020501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第2卷事件5",
+          "evidence_refs": [
+            "EV02005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED020501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE0206",
+          "statement": "为后续发展铺垫第2卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC020501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第2卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第2卷剧情推进至阶段5",
+      "actions": [
+        "应对第2卷挑战5"
+      ],
+      "outcome": "推动第2卷少年期·家庭教师篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "event_id": "DE0206",
+      "event_type": "成长",
+      "title": "第2卷事件6：少年期·家庭教师篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第2卷",
+      "volume_no": 2,
+      "location_id": "E0030",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP020601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第2卷事件6",
+          "evidence_refs": [
+            "EV02006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC020601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第2卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第2卷剧情推进至阶段6",
+      "actions": [
+        "应对第2卷挑战6"
+      ],
+      "outcome": "推动第2卷少年期·家庭教师篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV02006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT0201",
+      "canonical_name": "傲慢水龙王",
+      "aliases": [
+        "傲慢水龙王别称"
+      ],
+      "category": "魔杖",
+      "subcategory": "其他",
+      "description": "鲁迪乌斯十岁生辰艾莉丝所赠的魔杖，鳞纹装饰",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "珍贵",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "佩尔基乌斯使魔传承物的仿制氛围",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 9740,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "item_id": "IT0202",
+      "canonical_name": "艾莉丝用木剑",
+      "aliases": [
+        "艾莉丝用木剑别称"
+      ],
+      "category": "武器",
+      "subcategory": "练习用",
+      "description": "剑神流训练用木剑，常与基列奴对练",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "罗亚伯雷亚斯家庭教师道场",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 9740,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "item_id": "IT0203",
+      "canonical_name": "伯雷亚斯礼服",
+      "aliases": [
+        "伯雷亚斯礼服别称"
+      ],
+      "category": "服饰",
+      "subcategory": "贵族礼服",
+      "description": "十岁生日宴贵族礼服，需符合伯雷亚斯式问候礼仪",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "罗亚伯雷亚斯宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 9740,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "item_id": "IT0204",
+      "canonical_name": "家庭教师聘书",
+      "aliases": [
+        "家庭教师聘书别称"
+      ],
+      "category": "文书",
+      "subcategory": "其他",
+      "description": "菲利普聘用艾德娜与鲁迪乌斯的文书",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "伯雷亚斯家",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 9740,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN0201",
+      "definition_id": "IT0201",
+      "owner_id": "E0021",
+      "holder_id": "E0021",
+      "location_id": null,
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 2,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH020101",
+          "owner_id": "E0021",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第2卷获取",
+          "lost_via": null,
+          "note": "第2卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "instance_id": "IN0202",
+      "definition_id": "IT0202",
+      "owner_id": "E0021",
+      "holder_id": "E0021",
+      "location_id": null,
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 2,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH020201",
+          "owner_id": "E0021",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第2卷获取",
+          "lost_via": null,
+          "note": "第2卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "instance_id": "IN0203",
+      "definition_id": "IT0203",
+      "owner_id": "E0021",
+      "holder_id": "E0021",
+      "location_id": null,
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 2,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH020301",
+          "owner_id": "E0021",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第2卷获取",
+          "lost_via": null,
+          "note": "第2卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "instance_id": "IN0204",
+      "definition_id": "IT0204",
+      "owner_id": "E0021",
+      "holder_id": "E0021",
+      "location_id": null,
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 2,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH020401",
+          "owner_id": "E0021",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第2卷获取",
+          "lost_via": null,
+          "note": "第2卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV02004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB0201",
+      "name": "水圣级无咏唱",
+      "aliases": [
+        "水圣级无咏唱别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "治愈与水弹并用",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第2卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "水魔法无咏唱趋于成熟的过渡"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "水圣级无咏唱在第2卷表现的战力定位",
+      "learning_method": [
+        "第2卷习得"
+      ],
+      "known_users": [
+        "E0021"
+      ],
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "ability_id": "AB0202",
+      "name": "剑神流中级",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "泰德鲁帝亚式突进",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第2卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "艾莉丝在基列奴指导下晋升中级的步法"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "剑神流中级在第2卷表现的战力定位",
+      "learning_method": [
+        "第2卷习得"
+      ],
+      "known_users": [
+        "E0021"
+      ],
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "ability_id": "AB0203",
+      "name": "魔眼·预见眼",
+      "aliases": [
+        "魔眼·预见眼别名"
+      ],
+      "ability_type": "MAGIC_EYE",
+      "school": "战斗预判",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第2卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "基列奴持有的预见类魔眼相关认知"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "魔眼·预见眼在第2卷表现的战力定位",
+      "learning_method": [
+        "第2卷习得"
+      ],
+      "known_users": [
+        "E0021"
+      ],
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "ability_id": "AB0204",
+      "name": "召唤使魔·阿尔曼菲",
+      "aliases": [],
+      "ability_type": "MAGIC",
+      "school": "光速移动",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第2卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "佩尔基乌斯十二使魔中光之精灵的现界"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "召唤使魔·阿尔曼菲在第2卷表现的战力定位",
+      "learning_method": [
+        "第2卷习得"
+      ],
+      "known_users": [
+        "E0021"
+      ],
+      "evidence_refs": [
+        "EV02004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC0201",
+      "actor_id": "E0021",
+      "target_id": "E0022",
+      "dimension": "战力",
+      "context": "第2卷少年期·家庭教师篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "comparison_id": "PC0202",
+      "actor_id": "E0021",
+      "target_id": "E0022",
+      "dimension": "战力",
+      "context": "第2卷少年期·家庭教师篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "comparison_id": "PC0203",
+      "actor_id": "E0021",
+      "target_id": "E0022",
+      "dimension": "战力",
+      "context": "第2卷少年期·家庭教师篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV02003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR0201",
+      "domain": "MAGIC",
+      "statement": "[少年期·家庭教师篇] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "rule_id": "WR0202",
+      "domain": "SWORD",
+      "statement": "[少年期·家庭教师篇] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "rule_id": "WR0203",
+      "domain": "SOCIETY",
+      "statement": "[少年期·家庭教师篇] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "rule_id": "WR0204",
+      "domain": "ADVENTURER",
+      "statement": "[少年期·家庭教师篇] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02004"
+      ]
+    },
+    {
+      "rule_id": "WR0205",
+      "domain": "RACE",
+      "statement": "[少年期·家庭教师篇] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "rule_id": "WR0206",
+      "domain": "GEOGRAPHY",
+      "statement": "[少年期·家庭教师篇] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02006"
+      ]
+    },
+    {
+      "rule_id": "WR0207",
+      "domain": "ECONOMY",
+      "statement": "[少年期·家庭教师篇] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "rule_id": "WR0208",
+      "domain": "RELIGION",
+      "statement": "[少年期·家庭教师篇] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02008"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "E0030",
+      "name": "地点E0030",
+      "aliases": [],
+      "location_type": "OTHER",
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": null,
+      "danger": null,
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [],
+      "organizations": [],
+      "important_people": [
+        "E0021",
+        "E0022"
+      ],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 9740,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    }
+  ],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP0201",
+      "name": "泰德鲁帝亚族",
+      "aliases": [
+        "泰德鲁帝亚族别称"
+      ],
+      "lifespan": null,
+      "appearance": "兽族分支，尾巴摆动显露情绪",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "罗亚及王龙山脉",
+      "relations_with_others": null,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "species_id": "SP0202",
+      "name": "长耳族血统",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "希露菲叶特的血脉背景",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "菲托亚布耶纳村",
+      "relations_with_others": null,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR0201",
+      "name": "菲托亚野犬",
+      "aliases": [],
+      "habitat": "野外猎场",
+      "behavior": "夜间徘徊于罗亚近郊的野兽",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "creature_id": "CR0202",
+      "name": "伯雷亚斯家猎犬",
+      "aliases": [],
+      "habitat": "罗亚邸内",
+      "behavior": "伯雷亚斯家驯养的护卫犬",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL0201",
       "owner_id": "E0021",
-      "topic": "话题1",
-      "statement": "第2卷信念陈述1",
+      "topic": "伯雷亚斯家权威",
+      "statement": "绍罗斯的话即是菲托亚领的法",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0021",
       "learned_at_volume": 2,
-      "learned_method": "目睹",
+      "learned_method": "第2卷亲历大小姐的暴力",
       "is_true_in_world": true,
       "visible_from_volume": 2,
       "visible_to_volume": null,
-      "note": "第2卷信念备注1",
+      "note": "大小姐的暴力中的当卷认知",
       "evidence_refs": [
         "EV02021"
       ]
@@ -4164,17 +5442,17 @@
     {
       "belief_id": "BL0202",
       "owner_id": "E0022",
-      "topic": "话题2",
-      "statement": "第2卷信念陈述2",
-      "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "topic": "剑术即价值",
+      "statement": "能打就能被尊重",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
       "learned_from": "E0021",
       "learned_at_volume": 2,
-      "learned_method": "目睹",
+      "learned_method": "第2卷亲历大小姐的暴力",
       "is_true_in_world": false,
       "visible_from_volume": 2,
       "visible_to_volume": null,
-      "note": "第2卷信念备注2",
+      "note": "大小姐的暴力中的当卷认知",
       "evidence_refs": [
         "EV02022"
       ]
@@ -4182,17 +5460,17 @@
     {
       "belief_id": "BL0203",
       "owner_id": "E0023",
-      "topic": "话题3",
-      "statement": "第2卷信念陈述3",
+      "topic": "伯雷亚斯家权威",
+      "statement": "绍罗斯的话即是菲托亚领的法",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0021",
       "learned_at_volume": 2,
-      "learned_method": "目睹",
+      "learned_method": "第2卷亲历大小姐的暴力",
       "is_true_in_world": true,
       "visible_from_volume": 2,
       "visible_to_volume": null,
-      "note": "第2卷信念备注3",
+      "note": "大小姐的暴力中的当卷认知",
       "evidence_refs": [
         "EV02023"
       ]
@@ -4200,17 +5478,17 @@
     {
       "belief_id": "BL0204",
       "owner_id": "E0024",
-      "topic": "话题4",
-      "statement": "第2卷信念陈述4",
-      "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "topic": "剑术即价值",
+      "statement": "能打就能被尊重",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
       "learned_from": "E0021",
       "learned_at_volume": 2,
-      "learned_method": "目睹",
+      "learned_method": "第2卷亲历大小姐的暴力",
       "is_true_in_world": false,
       "visible_from_volume": 2,
       "visible_to_volume": null,
-      "note": "第2卷信念备注4",
+      "note": "大小姐的暴力中的当卷认知",
       "evidence_refs": [
         "EV02024"
       ]
@@ -4218,17 +5496,17 @@
     {
       "belief_id": "BL0205",
       "owner_id": "E0025",
-      "topic": "话题5",
-      "statement": "第2卷信念陈述5",
+      "topic": "伯雷亚斯家权威",
+      "statement": "绍罗斯的话即是菲托亚领的法",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0021",
       "learned_at_volume": 2,
-      "learned_method": "目睹",
+      "learned_method": "第2卷亲历大小姐的暴力",
       "is_true_in_world": true,
       "visible_from_volume": 2,
       "visible_to_volume": null,
-      "note": "第2卷信念备注5",
+      "note": "大小姐的暴力中的当卷认知",
       "evidence_refs": [
         "EV02025"
       ]
@@ -4236,17 +5514,17 @@
     {
       "belief_id": "BL0206",
       "owner_id": "E0026",
-      "topic": "话题6",
-      "statement": "第2卷信念陈述6",
-      "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "topic": "剑术即价值",
+      "statement": "能打就能被尊重",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
       "learned_from": "E0021",
       "learned_at_volume": 2,
-      "learned_method": "目睹",
+      "learned_method": "第2卷亲历大小姐的暴力",
       "is_true_in_world": false,
       "visible_from_volume": 2,
       "visible_to_volume": null,
-      "note": "第2卷信念备注6",
+      "note": "大小姐的暴力中的当卷认知",
       "evidence_refs": [
         "EV02026"
       ]
@@ -4414,16 +5692,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC0201",
+      "location_id": "E0030",
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "at_date": null,
+      "at_volume": 2,
+      "category": "物价",
+      "item_id": "IT0201",
+      "goods_description": "傲慢水龙王",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第2卷市集/公会对傲慢水龙王的价格观察",
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "observation_id": "EC0202",
+      "location_id": "E0030",
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "at_date": null,
+      "at_volume": 2,
+      "category": "物价",
+      "item_id": "IT0201",
+      "goods_description": "艾莉丝用木剑",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第2卷市集/公会对艾莉丝用木剑的价格观察",
+      "evidence_refs": [
+        "EV02002"
+      ]
+    },
+    {
+      "observation_id": "EC0203",
+      "location_id": "E0030",
+      "location_name": "伯雷亚斯家/菲托亚领",
+      "at_date": null,
+      "at_volume": 2,
+      "category": "物价",
+      "item_id": "IT0201",
+      "goods_description": "伯雷亚斯礼服",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第2卷市集/公会对伯雷亚斯礼服的价格观察",
+      "evidence_refs": [
+        "EV02003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC0201",
       "source_id": "E0021",
       "target_id": "E0022",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第2卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "大小姐的暴力：艾莉丝殴打前任家庭教师中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4435,9 +5768,9 @@
       "source_id": "E0022",
       "target_id": "E0023",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第2卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "自导自演：鲁迪设局让艾莉丝认清实力差距中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4449,9 +5782,9 @@
       "source_id": "E0023",
       "target_id": "E0024",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第2卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "闲话伯雷亚斯式问候：贵族礼仪冲突中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4463,9 +5796,9 @@
       "source_id": "E0024",
       "target_id": "E0025",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第2卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "凶暴尚未衰退：剑术训练抗拒中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4477,9 +5810,9 @@
       "source_id": "E0025",
       "target_id": "E0026",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第2卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "职员会议与星期日：菲利普斡旋家臣中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4491,9 +5824,9 @@
       "source_id": "E0026",
       "target_id": "E0021",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第2卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "十岁生日宴：艾莉丝担任舞会主角中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4505,9 +5838,9 @@
       "source_id": "E0021",
       "target_id": "E0023",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "V2事件1触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "转移事件：菲托亚上空魔力灾害中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4519,9 +5852,9 @@
       "source_id": "E0023",
       "target_id": "E0022",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "V2事件2触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "大小姐的暴力：艾莉丝殴打前任家庭教师中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4533,9 +5866,9 @@
       "source_id": "E0022",
       "target_id": "E0021",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "V2事件3触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "自导自演：鲁迪设局让艾莉丝认清实力差距中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4547,9 +5880,9 @@
       "source_id": "E0021",
       "target_id": "E0023",
       "dimension": "fear",
-      "before": "一般",
-      "trigger": "V2事件4触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "闲话伯雷亚斯式问候：贵族礼仪冲突中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4561,9 +5894,9 @@
       "source_id": "E0023",
       "target_id": "E0022",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "V2事件5触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "凶暴尚未衰退：剑术训练抗拒中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4575,9 +5908,9 @@
       "source_id": "E0022",
       "target_id": "E0021",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "V2事件6触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "职员会议与星期日：菲利普斡旋家臣中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4589,9 +5922,9 @@
       "source_id": "E0021",
       "target_id": "E0023",
       "dimension": "attraction",
-      "before": "一般",
-      "trigger": "V2事件7触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "十岁生日宴：艾莉丝担任舞会主角中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4603,9 +5936,9 @@
       "source_id": "E0023",
       "target_id": "E0022",
       "dimension": "resentment",
-      "before": "一般",
-      "trigger": "V2事件8触发",
-      "after": "亲近/疏离",
+      "before": "疏离或试探",
+      "trigger": "转移事件：菲托亚上空魔力灾害中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 2,
       "at_date": null,
       "evidence_refs": [
@@ -4619,9 +5952,9 @@
       "character_id": "E0021",
       "phase_id": "phase-2-1",
       "phase_name": "第2卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "直率带刺、句短、称呼鲁迪",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对艾莉丝直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4642,9 +5975,9 @@
       "character_id": "E0022",
       "phase_id": "phase-2-2",
       "phase_name": "第2卷阶段2",
-      "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "简短肯定句、少用敬语、常",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对基列奴直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4666,8 +5999,8 @@
       "phase_id": "phase-2-3",
       "phase_name": "第2卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对绍罗斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4688,9 +6021,9 @@
       "character_id": "E0021",
       "phase_id": "phase-2-1",
       "phase_name": "第2卷阶段1",
-      "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "直率带刺、句短、称呼鲁迪",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对艾莉丝直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4712,8 +6045,8 @@
       "phase_id": "phase-2-3",
       "phase_name": "第2卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对绍罗斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4734,9 +6067,9 @@
       "character_id": "E0022",
       "phase_id": "phase-2-2",
       "phase_name": "第2卷阶段2",
-      "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "简短肯定句、少用敬语、常",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对基列奴直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4757,9 +6090,9 @@
       "character_id": "E0021",
       "phase_id": "phase-2-1",
       "phase_name": "第2卷阶段1",
-      "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "直率带刺、句短、称呼鲁迪",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对艾莉丝直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4781,8 +6114,8 @@
       "phase_id": "phase-2-3",
       "phase_name": "第2卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对绍罗斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4805,22 +6138,22 @@
       "character_id": "E0021",
       "phase_id": "phase-2-1",
       "category": "习惯",
-      "name": "第2卷怪癖1",
-      "description": "角色在第2卷表现出的可辨识习惯1",
-      "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "name": "极度厌学",
+      "description": "对读写与礼仪课本能抗拒，需强刺激才肯学",
+      "intensity": "HIGH",
+      "frequency": "频繁",
       "triggers": [
-        "触发1"
+        "大小姐的暴力"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按大小姐的暴力规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕大小姐的暴力的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4840,22 +6173,22 @@
       "character_id": "E0022",
       "phase_id": "phase-2-2",
       "category": "怪癖",
-      "name": "第2卷怪癖2",
-      "description": "角色在第2卷表现出的可辨识习惯2",
-      "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "name": "沉默寡言以行动示意",
+      "description": "基列奴少言，点头或拔剑即为回答",
+      "intensity": "HIGH",
+      "frequency": "频繁",
       "triggers": [
-        "触发2"
+        "大小姐的暴力"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按大小姐的暴力规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕大小姐的暴力的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4875,22 +6208,22 @@
       "character_id": "E0023",
       "phase_id": "phase-2-3",
       "category": "习惯",
-      "name": "第2卷怪癖3",
-      "description": "角色在第2卷表现出的可辨识习惯3",
-      "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "name": "贵族威仪治家",
+      "description": "绍罗斯以领主威严压制家臣与家族",
+      "intensity": "HIGH",
+      "frequency": "频繁",
       "triggers": [
-        "触发3"
+        "大小姐的暴力"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按大小姐的暴力规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕大小姐的暴力的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4910,22 +6243,22 @@
       "character_id": "E0024",
       "phase_id": "phase-2-1",
       "category": "怪癖",
-      "name": "第2卷怪癖4",
-      "description": "角色在第2卷表现出的可辨识习惯4",
-      "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "name": "极度厌学",
+      "description": "对读写与礼仪课本能抗拒，需强刺激才肯学",
+      "intensity": "HIGH",
+      "frequency": "频繁",
       "triggers": [
-        "触发4"
+        "大小姐的暴力"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按大小姐的暴力规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕大小姐的暴力的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4945,22 +6278,22 @@
       "character_id": "E0025",
       "phase_id": "phase-2-2",
       "category": "习惯",
-      "name": "第2卷怪癖5",
-      "description": "角色在第2卷表现出的可辨识习惯5",
-      "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "name": "极度厌学",
+      "description": "对读写与礼仪课本能抗拒，需强刺激才肯学",
+      "intensity": "HIGH",
+      "frequency": "频繁",
       "triggers": [
-        "触发5"
+        "大小姐的暴力"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按大小姐的暴力规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕大小姐的暴力的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4980,22 +6313,22 @@
       "character_id": "E0026",
       "phase_id": "phase-2-3",
       "category": "怪癖",
-      "name": "第2卷怪癖6",
-      "description": "角色在第2卷表现出的可辨识习惯6",
-      "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "name": "极度厌学",
+      "description": "对读写与礼仪课本能抗拒，需强刺激才肯学",
+      "intensity": "HIGH",
+      "frequency": "频繁",
       "triggers": [
-        "触发6"
+        "大小姐的暴力"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按大小姐的暴力规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕大小姐的暴力的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6599,10 +7932,10 @@
       "character_id": "E0021",
       "phase_id": "phase-2-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第2卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "剑术训练",
+      "description": "在道场挥剑时专注度明显提升（与大小姐的暴力关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6616,10 +7949,10 @@
       "character_id": "E0022",
       "phase_id": "phase-2-2",
       "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第2卷角色偏好描述2",
+      "target": "读写课",
+      "description": "一见书本便烦躁走神（与大小姐的暴力关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6633,10 +7966,10 @@
       "character_id": "E0023",
       "phase_id": "phase-2-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第2卷角色偏好描述3",
+      "target": "被认可为伯雷亚斯家一员",
+      "description": "被祖父点名表扬时表情缓和（与大小姐的暴力关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6649,11 +7982,11 @@
       "preference_id": "PF0204",
       "character_id": "E0024",
       "phase_id": "phase-2-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第2卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "AVERSION",
+      "target": "被当作无能大小姐",
+      "description": "对怜悯态度激烈反弹（与大小姐的暴力关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6667,10 +8000,10 @@
       "character_id": "E0025",
       "phase_id": "phase-2-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第2卷角色偏好描述5",
+      "target": "剑术训练",
+      "description": "在道场挥剑时专注度明显提升（与大小姐的暴力关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6684,10 +8017,10 @@
       "character_id": "E0026",
       "phase_id": "phase-2-3",
       "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第2卷角色偏好描述6",
+      "target": "读写课",
+      "description": "一见书本便烦躁走神（与大小姐的暴力关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 2,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7622,5 +8955,30 @@
     }
   ],
   "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_gaps": [
+    {
+      "gap_id": "GAP0201",
+      "domain": "人物",
+      "question": "第2卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        2
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第2卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP0202",
+      "domain": "世界",
+      "question": "第2卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        2
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第2卷留空需后续补证"
+    }
+  ]
 }

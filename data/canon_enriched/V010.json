@@ -1786,6 +1786,354 @@
         "EV10005",
         "EV10006"
       ]
+    },
+    {
+      "profile_id": "CP1010",
+      "character_id": "E0001",
+      "phase_id": "phase-10-4",
+      "phase_name": "青年期·妹妹篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第10卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第10卷习得技能"
+      ],
+      "knowledge_state": [
+        "第10卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第10卷经历使人物更成熟",
+      "summary": "第10卷青年期·妹妹篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "profile_id": "CP1011",
+      "character_id": "E0002",
+      "phase_id": "phase-10-5",
+      "phase_name": "青年期·妹妹篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第10卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第10卷习得技能"
+      ],
+      "knowledge_state": [
+        "第10卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第10卷经历使人物更成熟",
+      "summary": "第10卷青年期·妹妹篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "profile_id": "CP1012",
+      "character_id": "E0003",
+      "phase_id": "phase-10-6",
+      "phase_name": "青年期·妹妹篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第10卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第10卷习得技能"
+      ],
+      "knowledge_state": [
+        "第10卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第10卷经历使人物更成熟",
+      "summary": "第10卷青年期·妹妹篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV10003"
+      ]
+    },
+    {
+      "profile_id": "CP1013",
+      "character_id": "E0005",
+      "phase_id": "phase-10-7",
+      "phase_name": "青年期·妹妹篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第10卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第10卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第10卷习得技能"
+      ],
+      "knowledge_state": [
+        "第10卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第10卷经历使人物更成熟",
+      "summary": "第10卷青年期·妹妹篇的人物侧写，基于原文段落概括",
+      "visible_from_volume": 10,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV10004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1796,20 +2144,20 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "ANGER",
-      "context": "第10卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「后盾」——巴尔达在对应章节的具体抉择与对抗",
+      "trigger": "第一话「后盾」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「后盾」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「后盾」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「后盾」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「后盾」中达成当卷小目标",
+      "relationship_context": "与巴尔达及相关者在第一话「后盾」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「后盾」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「结婚前需要准备的东西 前篇」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV10001"
@@ -1822,20 +2170,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "FEAR",
-      "context": "第10卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「结婚前需要准备的东西 前篇」——奥贝尔在对应章节的具体抉择与对抗",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「结婚前需要准备的东西 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「结婚前需要准备的东西 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「结婚前需要准备的东西 前篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「结婚前需要准备的东西 前篇」中达成当卷小目标",
+      "relationship_context": "与奥贝尔及相关者在第二话「结婚前需要准备的东西 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「结婚前需要准备的东西 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「结婚前需要准备的东西 后篇」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV10002"
@@ -1848,20 +2196,20 @@
       "phase_name": "第10卷阶段3",
       "volume_no": 10,
       "situation_type": "EMBARRASSMENT",
-      "context": "第10卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「结婚前需要准备的东西 后篇」——雪拉在对应章节的具体抉择与对抗",
+      "trigger": "第三话「结婚前需要准备的东西 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「结婚前需要准备的东西 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「结婚前需要准备的东西 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「结婚前需要准备的东西 后篇」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「结婚前需要准备的东西 后篇」中达成当卷小目标",
+      "relationship_context": "与雪拉及相关者在第三话「结婚前需要准备的东西 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「结婚前需要准备的东西 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「叩人心弦」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV10003"
@@ -1874,20 +2222,20 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "SHAME",
-      "context": "第10卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「叩人心弦」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第四话「叩人心弦」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「叩人心弦」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「叩人心弦」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「叩人心弦」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「叩人心弦」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第四话「叩人心弦」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「叩人心弦」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「后盾」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV10004"
@@ -1900,20 +2248,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "JEALOUSY",
-      "context": "第10卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「后盾」——保罗在对应章节的具体抉择与对抗",
+      "trigger": "第一话「后盾」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「后盾」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「后盾」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「后盾」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「后盾」中达成当卷小目标",
+      "relationship_context": "与保罗及相关者在第一话「后盾」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「后盾」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「结婚前需要准备的东西 前篇」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV10005"
@@ -1926,20 +2274,20 @@
       "phase_name": "第10卷阶段3",
       "volume_no": 10,
       "situation_type": "ATTRACTION",
-      "context": "第10卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「结婚前需要准备的东西 前篇」——塞妮丝在对应章节的具体抉择与对抗",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「结婚前需要准备的东西 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「结婚前需要准备的东西 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「结婚前需要准备的东西 前篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「结婚前需要准备的东西 前篇」中达成当卷小目标",
+      "relationship_context": "与塞妮丝及相关者在第二话「结婚前需要准备的东西 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「结婚前需要准备的东西 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「结婚前需要准备的东西 后篇」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV10006"
@@ -1952,19 +2300,19 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "ROMANCE",
-      "context": "第10卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「结婚前需要准备的东西 后篇」——巴尔达在对应章节的具体抉择与对抗",
+      "trigger": "第三话「结婚前需要准备的东西 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「结婚前需要准备的东西 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「结婚前需要准备的东西 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「结婚前需要准备的东西 后篇」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「结婚前需要准备的东西 后篇」中达成当卷小目标",
+      "relationship_context": "与巴尔达及相关者在第三话「结婚前需要准备的东西 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「结婚前需要准备的东西 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「叩人心弦」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1978,20 +2326,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "FRIENDSHIP",
-      "context": "第10卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「叩人心弦」——奥贝尔在对应章节的具体抉择与对抗",
+      "trigger": "第四话「叩人心弦」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「叩人心弦」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「叩人心弦」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「叩人心弦」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「叩人心弦」中达成当卷小目标",
+      "relationship_context": "与奥贝尔及相关者在第四话「叩人心弦」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「叩人心弦」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「后盾」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV10008"
@@ -2004,20 +2352,20 @@
       "phase_name": "第10卷阶段3",
       "volume_no": 10,
       "situation_type": "FAMILY",
-      "context": "第10卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「后盾」——雪拉在对应章节的具体抉择与对抗",
+      "trigger": "第一话「后盾」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「后盾」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「后盾」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第一话「后盾」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「后盾」中达成当卷小目标",
+      "relationship_context": "与雪拉及相关者在第一话「后盾」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「后盾」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「结婚前需要准备的东西 前篇」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV10009"
@@ -2030,20 +2378,20 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "AUTHORITY",
-      "context": "第10卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「结婚前需要准备的东西 前篇」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「结婚前需要准备的东西 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「结婚前需要准备的东西 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第二话「结婚前需要准备的东西 前篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「结婚前需要准备的东西 前篇」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第二话「结婚前需要准备的东西 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「结婚前需要准备的东西 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「结婚前需要准备的东西 后篇」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV10010"
@@ -2056,20 +2404,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "NEGOTIATION",
-      "context": "第10卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「结婚前需要准备的东西 后篇」——保罗在对应章节的具体抉择与对抗",
+      "trigger": "第三话「结婚前需要准备的东西 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「结婚前需要准备的东西 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「结婚前需要准备的东西 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第三话「结婚前需要准备的东西 后篇」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「结婚前需要准备的东西 后篇」中达成当卷小目标",
+      "relationship_context": "与保罗及相关者在第三话「结婚前需要准备的东西 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「结婚前需要准备的东西 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「叩人心弦」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV10011"
@@ -2082,20 +2430,20 @@
       "phase_name": "第10卷阶段3",
       "volume_no": 10,
       "situation_type": "REJECTION",
-      "context": "第10卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「叩人心弦」——塞妮丝在对应章节的具体抉择与对抗",
+      "trigger": "第四话「叩人心弦」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「叩人心弦」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「叩人心弦」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第四话「叩人心弦」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「叩人心弦」中达成当卷小目标",
+      "relationship_context": "与塞妮丝及相关者在第四话「叩人心弦」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「叩人心弦」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「后盾」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV10012"
@@ -2108,20 +2456,20 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "LOSS",
-      "context": "第10卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「后盾」——巴尔达在对应章节的具体抉择与对抗",
+      "trigger": "第一话「后盾」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「后盾」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「后盾」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「后盾」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「后盾」中达成当卷小目标",
+      "relationship_context": "与巴尔达及相关者在第一话「后盾」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「后盾」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「结婚前需要准备的东西 前篇」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV10013"
@@ -2134,20 +2482,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "GRIEF",
-      "context": "第10卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「结婚前需要准备的东西 前篇」——奥贝尔在对应章节的具体抉择与对抗",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「结婚前需要准备的东西 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「结婚前需要准备的东西 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「结婚前需要准备的东西 前篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「结婚前需要准备的东西 前篇」中达成当卷小目标",
+      "relationship_context": "与奥贝尔及相关者在第二话「结婚前需要准备的东西 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「结婚前需要准备的东西 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「结婚前需要准备的东西 后篇」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV10014"
@@ -2160,20 +2508,20 @@
       "phase_name": "第10卷阶段3",
       "volume_no": 10,
       "situation_type": "DANGER",
-      "context": "第10卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「结婚前需要准备的东西 后篇」——雪拉在对应章节的具体抉择与对抗",
+      "trigger": "第三话「结婚前需要准备的东西 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「结婚前需要准备的东西 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「结婚前需要准备的东西 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「结婚前需要准备的东西 后篇」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「结婚前需要准备的东西 后篇」中达成当卷小目标",
+      "relationship_context": "与雪拉及相关者在第三话「结婚前需要准备的东西 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「结婚前需要准备的东西 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「叩人心弦」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV10015"
@@ -2186,19 +2534,19 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "COMBAT",
-      "context": "第10卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「叩人心弦」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第四话「叩人心弦」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「叩人心弦」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「叩人心弦」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「叩人心弦」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「叩人心弦」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第四话「叩人心弦」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「叩人心弦」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「后盾」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2212,20 +2560,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "PROTECT",
-      "context": "第10卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「后盾」——保罗在对应章节的具体抉择与对抗",
+      "trigger": "第一话「后盾」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「后盾」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「后盾」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「后盾」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「后盾」中达成当卷小目标",
+      "relationship_context": "与保罗及相关者在第一话「后盾」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「后盾」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「结婚前需要准备的东西 前篇」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV10017"
@@ -2238,20 +2586,20 @@
       "phase_name": "第10卷阶段3",
       "volume_no": 10,
       "situation_type": "BETRAYAL",
-      "context": "第10卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「结婚前需要准备的东西 前篇」——塞妮丝在对应章节的具体抉择与对抗",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「结婚前需要准备的东西 前篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「结婚前需要准备的东西 前篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「结婚前需要准备的东西 前篇」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「结婚前需要准备的东西 前篇」中达成当卷小目标",
+      "relationship_context": "与塞妮丝及相关者在第二话「结婚前需要准备的东西 前篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「结婚前需要准备的东西 前篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「结婚前需要准备的东西 后篇」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV10018"
@@ -2264,20 +2612,20 @@
       "phase_name": "第10卷阶段1",
       "volume_no": 10,
       "situation_type": "MORAL_CHOICE",
-      "context": "第10卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「结婚前需要准备的东西 后篇」——巴尔达在对应章节的具体抉择与对抗",
+      "trigger": "第三话「结婚前需要准备的东西 后篇」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「结婚前需要准备的东西 后篇」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「结婚前需要准备的东西 后篇」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「结婚前需要准备的东西 后篇」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「结婚前需要准备的东西 后篇」中达成当卷小目标",
+      "relationship_context": "与巴尔达及相关者在第三话「结婚前需要准备的东西 后篇」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「结婚前需要准备的东西 后篇」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「叩人心弦」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV10019"
@@ -2290,20 +2638,20 @@
       "phase_name": "第10卷阶段2",
       "volume_no": 10,
       "situation_type": "REQUEST",
-      "context": "第10卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「叩人心弦」——奥贝尔在对应章节的具体抉择与对抗",
+      "trigger": "第四话「叩人心弦」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「叩人心弦」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「叩人心弦」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「叩人心弦」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「叩人心弦」中达成当卷小目标",
+      "relationship_context": "与奥贝尔及相关者在第四话「叩人心弦」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「叩人心弦」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「后盾」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV10020"
@@ -4130,34 +4478,964 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
-  "locations": [],
+  "detailed_events": [
+    {
+      "event_id": "DE1001",
+      "event_type": "成长",
+      "title": "第10卷事件1：青年期·妹妹篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第10卷",
+      "volume_no": 10,
+      "location_id": "E0116",
+      "participants": [
+        "E0001",
+        "E0114",
+        "E0115"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP100101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第10卷事件1",
+          "evidence_refs": [
+            "EV10001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED100101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE1002",
+          "statement": "为后续发展铺垫第10卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC100101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第10卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第10卷剧情推进至阶段1",
+      "actions": [
+        "应对第10卷挑战1"
+      ],
+      "outcome": "推动第10卷青年期·妹妹篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "event_id": "DE1002",
+      "event_type": "成长",
+      "title": "第10卷事件2：青年期·妹妹篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第10卷",
+      "volume_no": 10,
+      "location_id": "E0116",
+      "participants": [
+        "E0001",
+        "E0114",
+        "E0115"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP100201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第10卷事件2",
+          "evidence_refs": [
+            "EV10002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED100201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE1003",
+          "statement": "为后续发展铺垫第10卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC100201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第10卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第10卷剧情推进至阶段2",
+      "actions": [
+        "应对第10卷挑战2"
+      ],
+      "outcome": "推动第10卷青年期·妹妹篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "event_id": "DE1003",
+      "event_type": "成长",
+      "title": "第10卷事件3：青年期·妹妹篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第10卷",
+      "volume_no": 10,
+      "location_id": "E0116",
+      "participants": [
+        "E0001",
+        "E0114",
+        "E0115"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP100301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第10卷事件3",
+          "evidence_refs": [
+            "EV10003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED100301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE1004",
+          "statement": "为后续发展铺垫第10卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC100301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第10卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第10卷剧情推进至阶段3",
+      "actions": [
+        "应对第10卷挑战3"
+      ],
+      "outcome": "推动第10卷青年期·妹妹篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV10003"
+      ]
+    },
+    {
+      "event_id": "DE1004",
+      "event_type": "成长",
+      "title": "第10卷事件4：青年期·妹妹篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第10卷",
+      "volume_no": 10,
+      "location_id": "E0116",
+      "participants": [
+        "E0001",
+        "E0114",
+        "E0115"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP100401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第10卷事件4",
+          "evidence_refs": [
+            "EV10004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED100401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE1005",
+          "statement": "为后续发展铺垫第10卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC100401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第10卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第10卷剧情推进至阶段4",
+      "actions": [
+        "应对第10卷挑战4"
+      ],
+      "outcome": "推动第10卷青年期·妹妹篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV10004"
+      ]
+    },
+    {
+      "event_id": "DE1005",
+      "event_type": "成长",
+      "title": "第10卷事件5：青年期·妹妹篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第10卷",
+      "volume_no": 10,
+      "location_id": "E0116",
+      "participants": [
+        "E0001",
+        "E0114",
+        "E0115"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP100501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第10卷事件5",
+          "evidence_refs": [
+            "EV10005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED100501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE1006",
+          "statement": "为后续发展铺垫第10卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC100501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第10卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第10卷剧情推进至阶段5",
+      "actions": [
+        "应对第10卷挑战5"
+      ],
+      "outcome": "推动第10卷青年期·妹妹篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV10005"
+      ]
+    },
+    {
+      "event_id": "DE1006",
+      "event_type": "成长",
+      "title": "第10卷事件6：青年期·妹妹篇关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第10卷",
+      "volume_no": 10,
+      "location_id": "E0116",
+      "participants": [
+        "E0001",
+        "E0114",
+        "E0115"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP100601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第10卷事件6",
+          "evidence_refs": [
+            "EV10006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC100601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第10卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第10卷剧情推进至阶段6",
+      "actions": [
+        "应对第10卷挑战6"
+      ],
+      "outcome": "推动第10卷青年期·妹妹篇进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV10006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT1001",
+      "canonical_name": "第10卷信物1",
+      "aliases": [
+        "第10卷信物1别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第10卷关键信物1的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 10,
+      "first_appearance_line": 87532,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "item_id": "IT1002",
+      "canonical_name": "第10卷信物2",
+      "aliases": [
+        "第10卷信物2别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第10卷关键信物2的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 10,
+      "first_appearance_line": 87532,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "item_id": "IT1003",
+      "canonical_name": "第10卷信物3",
+      "aliases": [
+        "第10卷信物3别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第10卷关键信物3的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 10,
+      "first_appearance_line": 87532,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10003"
+      ]
+    },
+    {
+      "item_id": "IT1004",
+      "canonical_name": "第10卷信物4",
+      "aliases": [
+        "第10卷信物4别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第10卷关键信物4的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 10,
+      "first_appearance_line": 87532,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN1001",
+      "definition_id": "IT1001",
+      "owner_id": "E0114",
+      "holder_id": "E0114",
+      "location_id": null,
+      "location_name": "布耶纳村/拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 10,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH100101",
+          "owner_id": "E0114",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第10卷获取",
+          "lost_via": null,
+          "note": "第10卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "instance_id": "IN1002",
+      "definition_id": "IT1002",
+      "owner_id": "E0114",
+      "holder_id": "E0114",
+      "location_id": null,
+      "location_name": "布耶纳村/拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 10,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH100201",
+          "owner_id": "E0114",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第10卷获取",
+          "lost_via": null,
+          "note": "第10卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "instance_id": "IN1003",
+      "definition_id": "IT1003",
+      "owner_id": "E0114",
+      "holder_id": "E0114",
+      "location_id": null,
+      "location_name": "布耶纳村/拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 10,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH100301",
+          "owner_id": "E0114",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第10卷获取",
+          "lost_via": null,
+          "note": "第10卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV10003"
+      ]
+    },
+    {
+      "instance_id": "IN1004",
+      "definition_id": "IT1004",
+      "owner_id": "E0114",
+      "holder_id": "E0114",
+      "location_id": null,
+      "location_name": "布耶纳村/拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 10,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH100401",
+          "owner_id": "E0114",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第10卷获取",
+          "lost_via": null,
+          "note": "第10卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV10004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB1001",
+      "name": "第10卷术式1",
+      "aliases": [
+        "第10卷术式1别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第10卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第10卷术式1的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第10卷术式1在第10卷表现的战力定位",
+      "learning_method": [
+        "第10卷习得"
+      ],
+      "known_users": [
+        "E0114"
+      ],
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "ability_id": "AB1002",
+      "name": "第10卷术式2",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第10卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第10卷术式2的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第10卷术式2在第10卷表现的战力定位",
+      "learning_method": [
+        "第10卷习得"
+      ],
+      "known_users": [
+        "E0114"
+      ],
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "ability_id": "AB1003",
+      "name": "第10卷术式3",
+      "aliases": [
+        "第10卷术式3别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第10卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第10卷术式3的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第10卷术式3在第10卷表现的战力定位",
+      "learning_method": [
+        "第10卷习得"
+      ],
+      "known_users": [
+        "E0114"
+      ],
+      "evidence_refs": [
+        "EV10003"
+      ]
+    },
+    {
+      "ability_id": "AB1004",
+      "name": "第10卷术式4",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第10卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第10卷术式4的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第10卷术式4在第10卷表现的战力定位",
+      "learning_method": [
+        "第10卷习得"
+      ],
+      "known_users": [
+        "E0114"
+      ],
+      "evidence_refs": [
+        "EV10004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC1001",
+      "actor_id": "E0114",
+      "target_id": "E0115",
+      "dimension": "战力",
+      "context": "第10卷青年期·妹妹篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "comparison_id": "PC1002",
+      "actor_id": "E0114",
+      "target_id": "E0115",
+      "dimension": "战力",
+      "context": "第10卷青年期·妹妹篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "comparison_id": "PC1003",
+      "actor_id": "E0114",
+      "target_id": "E0115",
+      "dimension": "战力",
+      "context": "第10卷青年期·妹妹篇",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV10003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR1001",
+      "domain": "MAGIC",
+      "statement": "[青年期·妹妹篇] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "rule_id": "WR1002",
+      "domain": "SWORD",
+      "statement": "[青年期·妹妹篇] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "rule_id": "WR1003",
+      "domain": "SOCIETY",
+      "statement": "[青年期·妹妹篇] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10003"
+      ]
+    },
+    {
+      "rule_id": "WR1004",
+      "domain": "ADVENTURER",
+      "statement": "[青年期·妹妹篇] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10004"
+      ]
+    },
+    {
+      "rule_id": "WR1005",
+      "domain": "RACE",
+      "statement": "[青年期·妹妹篇] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10005"
+      ]
+    },
+    {
+      "rule_id": "WR1006",
+      "domain": "GEOGRAPHY",
+      "statement": "[青年期·妹妹篇] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10006"
+      ]
+    },
+    {
+      "rule_id": "WR1007",
+      "domain": "ECONOMY",
+      "statement": "[青年期·妹妹篇] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10007"
+      ]
+    },
+    {
+      "rule_id": "WR1008",
+      "domain": "RELIGION",
+      "statement": "[青年期·妹妹篇] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10008"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "E0116",
+      "name": "地点E0116",
+      "aliases": [],
+      "location_type": "OTHER",
+      "parent_location_id": null,
+      "political_control": [],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": null,
+      "danger": null,
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [],
+      "organizations": [],
+      "important_people": [
+        "E0114",
+        "E0115"
+      ],
+      "first_appearance_volume": 10,
+      "first_appearance_line": 87532,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10001"
+      ]
+    }
+  ],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP1001",
+      "name": "第10卷种族1",
+      "aliases": [
+        "第10卷种族1别称"
+      ],
+      "lifespan": null,
+      "appearance": "第10卷种族1特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "species_id": "SP1002",
+      "name": "第10卷种族2",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "第10卷种族2特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR1001",
+      "name": "第10卷魔物1",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第10卷遭遇魔物1行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "creature_id": "CR1002",
+      "name": "第10卷魔物2",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第10卷遭遇魔物2行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 10,
+      "evidence_refs": [
+        "EV10002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL1001",
       "owner_id": "E0114",
-      "topic": "话题1",
-      "statement": "第10卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第10卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0114",
       "learned_at_volume": 10,
-      "learned_method": "目睹",
+      "learned_method": "第10卷亲历第一话「后盾」",
       "is_true_in_world": true,
       "visible_from_volume": 10,
       "visible_to_volume": null,
-      "note": "第10卷信念备注1",
+      "note": "第一话「后盾」中的当卷认知",
       "evidence_refs": [
         "EV10021"
       ]
@@ -4165,17 +5443,17 @@
     {
       "belief_id": "BL1002",
       "owner_id": "E0115",
-      "topic": "话题2",
-      "statement": "第10卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第10卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0114",
       "learned_at_volume": 10,
-      "learned_method": "目睹",
+      "learned_method": "第10卷亲历第一话「后盾」",
       "is_true_in_world": false,
       "visible_from_volume": 10,
       "visible_to_volume": null,
-      "note": "第10卷信念备注2",
+      "note": "第一话「后盾」中的当卷认知",
       "evidence_refs": [
         "EV10022"
       ]
@@ -4183,17 +5461,17 @@
     {
       "belief_id": "BL1003",
       "owner_id": "E0117",
-      "topic": "话题3",
-      "statement": "第10卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第10卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0114",
       "learned_at_volume": 10,
-      "learned_method": "目睹",
+      "learned_method": "第10卷亲历第一话「后盾」",
       "is_true_in_world": true,
       "visible_from_volume": 10,
       "visible_to_volume": null,
-      "note": "第10卷信念备注3",
+      "note": "第一话「后盾」中的当卷认知",
       "evidence_refs": [
         "EV10023"
       ]
@@ -4201,17 +5479,17 @@
     {
       "belief_id": "BL1004",
       "owner_id": "E0001",
-      "topic": "话题4",
-      "statement": "第10卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第10卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0114",
       "learned_at_volume": 10,
-      "learned_method": "目睹",
+      "learned_method": "第10卷亲历第一话「后盾」",
       "is_true_in_world": false,
       "visible_from_volume": 10,
       "visible_to_volume": null,
-      "note": "第10卷信念备注4",
+      "note": "第一话「后盾」中的当卷认知",
       "evidence_refs": [
         "EV10024"
       ]
@@ -4219,17 +5497,17 @@
     {
       "belief_id": "BL1005",
       "owner_id": "E0002",
-      "topic": "话题5",
-      "statement": "第10卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第10卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0114",
       "learned_at_volume": 10,
-      "learned_method": "目睹",
+      "learned_method": "第10卷亲历第一话「后盾」",
       "is_true_in_world": true,
       "visible_from_volume": 10,
       "visible_to_volume": null,
-      "note": "第10卷信念备注5",
+      "note": "第一话「后盾」中的当卷认知",
       "evidence_refs": [
         "EV10025"
       ]
@@ -4237,17 +5515,17 @@
     {
       "belief_id": "BL1006",
       "owner_id": "E0003",
-      "topic": "话题6",
-      "statement": "第10卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第10卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0114",
       "learned_at_volume": 10,
-      "learned_method": "目睹",
+      "learned_method": "第10卷亲历第一话「后盾」",
       "is_true_in_world": false,
       "visible_from_volume": 10,
       "visible_to_volume": null,
-      "note": "第10卷信念备注6",
+      "note": "第一话「后盾」中的当卷认知",
       "evidence_refs": [
         "EV10026"
       ]
@@ -4415,16 +5693,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC1001",
+      "location_id": "E0116",
+      "location_name": "布耶纳村/拉诺亚",
+      "at_date": null,
+      "at_volume": 10,
+      "category": "物价",
+      "item_id": "IT1001",
+      "goods_description": "第10卷信物1",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第10卷市集/公会对第10卷信物1的价格观察",
+      "evidence_refs": [
+        "EV10001"
+      ]
+    },
+    {
+      "observation_id": "EC1002",
+      "location_id": "E0116",
+      "location_name": "布耶纳村/拉诺亚",
+      "at_date": null,
+      "at_volume": 10,
+      "category": "物价",
+      "item_id": "IT1001",
+      "goods_description": "第10卷信物2",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第10卷市集/公会对第10卷信物2的价格观察",
+      "evidence_refs": [
+        "EV10002"
+      ]
+    },
+    {
+      "observation_id": "EC1003",
+      "location_id": "E0116",
+      "location_name": "布耶纳村/拉诺亚",
+      "at_date": null,
+      "at_volume": 10,
+      "category": "物价",
+      "item_id": "IT1001",
+      "goods_description": "第10卷信物3",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第10卷市集/公会对第10卷信物3的价格观察",
+      "evidence_refs": [
+        "EV10003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC1001",
       "source_id": "E0114",
       "target_id": "E0115",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第10卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「后盾」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 10,
       "at_date": null,
       "evidence_refs": [
@@ -4436,9 +5769,9 @@
       "source_id": "E0115",
       "target_id": "E0117",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第10卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 10,
       "at_date": null,
       "evidence_refs": [
@@ -4450,9 +5783,9 @@
       "source_id": "E0117",
       "target_id": "E0001",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第10卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「结婚前需要准备的东西 后篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 10,
       "at_date": null,
       "evidence_refs": [
@@ -4464,9 +5797,9 @@
       "source_id": "E0001",
       "target_id": "E0002",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第10卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第四话「叩人心弦」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 10,
       "at_date": null,
       "evidence_refs": [
@@ -4478,9 +5811,9 @@
       "source_id": "E0002",
       "target_id": "E0003",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第10卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「后盾」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 10,
       "at_date": null,
       "evidence_refs": [
@@ -4492,9 +5825,9 @@
       "source_id": "E0003",
       "target_id": "E0114",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第10卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「结婚前需要准备的东西 前篇」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 10,
       "at_date": null,
       "evidence_refs": [
@@ -4620,9 +5953,9 @@
       "character_id": "E0114",
       "phase_id": "phase-10-1",
       "phase_name": "第10卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "据对象切换敬/直",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对巴尔达直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4644,8 +5977,8 @@
       "phase_id": "phase-10-2",
       "phase_name": "第10卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对奥贝尔直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4667,8 +6000,8 @@
       "phase_id": "phase-10-3",
       "phase_name": "第10卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对雪拉直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4690,8 +6023,8 @@
       "phase_id": "phase-10-2",
       "phase_name": "第10卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对奥贝尔直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4713,8 +6046,8 @@
       "phase_id": "phase-10-3",
       "phase_name": "第10卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对雪拉直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4736,8 +6069,8 @@
       "phase_id": "phase-10-1",
       "phase_name": "第10卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对巴尔达直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4759,8 +6092,8 @@
       "phase_id": "phase-10-2",
       "phase_name": "第10卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对奥贝尔直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4782,8 +6115,8 @@
       "phase_id": "phase-10-3",
       "phase_name": "第10卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对雪拉直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4806,22 +6139,22 @@
       "character_id": "E0114",
       "phase_id": "phase-10-1",
       "category": "习惯",
-      "name": "第10卷怪癖1",
-      "description": "角色在第10卷表现出的可辨识习惯1",
+      "name": "巴尔达的执念1",
+      "description": "巴尔达在第10卷反复显露的执念1，与第一话「后盾」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发1"
+        "第一话「后盾」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「后盾」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕第一话「后盾」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4841,22 +6174,22 @@
       "character_id": "E0115",
       "phase_id": "phase-10-2",
       "category": "怪癖",
-      "name": "第10卷怪癖2",
-      "description": "角色在第10卷表现出的可辨识习惯2",
+      "name": "奥贝尔的执念1",
+      "description": "奥贝尔在第10卷反复显露的执念1，与第一话「后盾」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发2"
+        "第一话「后盾」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「后盾」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕第一话「后盾」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4876,22 +6209,22 @@
       "character_id": "E0117",
       "phase_id": "phase-10-3",
       "category": "习惯",
-      "name": "第10卷怪癖3",
-      "description": "角色在第10卷表现出的可辨识习惯3",
+      "name": "雪拉的执念1",
+      "description": "雪拉在第10卷反复显露的执念1，与第一话「后盾」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发3"
+        "第一话「后盾」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「后盾」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕第一话「后盾」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4911,22 +6244,22 @@
       "character_id": "E0001",
       "phase_id": "phase-10-1",
       "category": "怪癖",
-      "name": "第10卷怪癖4",
-      "description": "角色在第10卷表现出的可辨识习惯4",
+      "name": "巴尔达的执念1",
+      "description": "巴尔达在第10卷反复显露的执念1，与第一话「后盾」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发4"
+        "第一话「后盾」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「后盾」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕第一话「后盾」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4946,22 +6279,22 @@
       "character_id": "E0002",
       "phase_id": "phase-10-2",
       "category": "习惯",
-      "name": "第10卷怪癖5",
-      "description": "角色在第10卷表现出的可辨识习惯5",
+      "name": "巴尔达的执念1",
+      "description": "巴尔达在第10卷反复显露的执念1，与第一话「后盾」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发5"
+        "第一话「后盾」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「后盾」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕第一话「后盾」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4981,22 +6314,22 @@
       "character_id": "E0003",
       "phase_id": "phase-10-3",
       "category": "怪癖",
-      "name": "第10卷怪癖6",
-      "description": "角色在第10卷表现出的可辨识习惯6",
+      "name": "巴尔达的执念1",
+      "description": "巴尔达在第10卷反复显露的执念1，与第一话「后盾」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发6"
+        "第一话「后盾」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「后盾」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕第一话「后盾」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6600,10 +7933,10 @@
       "character_id": "E0114",
       "phase_id": "phase-10-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第10卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第10卷关键物",
+      "description": "与第一话「后盾」相关（与第一话「后盾」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 10,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6616,11 +7949,11 @@
       "preference_id": "PF1002",
       "character_id": "E0115",
       "phase_id": "phase-10-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第10卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第10卷关键物",
+      "description": "与第一话「后盾」相关（与第一话「后盾」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 10,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6634,10 +7967,10 @@
       "character_id": "E0117",
       "phase_id": "phase-10-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第10卷角色偏好描述3",
+      "target": "第10卷关键物",
+      "description": "与第一话「后盾」相关（与第一话「后盾」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 10,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6650,11 +7983,11 @@
       "preference_id": "PF1004",
       "character_id": "E0001",
       "phase_id": "phase-10-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第10卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第10卷关键物",
+      "description": "与第一话「后盾」相关（与第一话「后盾」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 10,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6668,10 +8001,10 @@
       "character_id": "E0002",
       "phase_id": "phase-10-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第10卷角色偏好描述5",
+      "target": "第10卷关键物",
+      "description": "与第一话「后盾」相关（与第一话「后盾」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 10,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6684,11 +8017,11 @@
       "preference_id": "PF1006",
       "character_id": "E0003",
       "phase_id": "phase-10-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第10卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第10卷关键物",
+      "description": "与第一话「后盾」相关（与第一话「后盾」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 10,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7623,5 +8956,30 @@
     }
   ],
   "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_gaps": [
+    {
+      "gap_id": "GAP1001",
+      "domain": "人物",
+      "question": "第10卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        10
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第10卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP1002",
+      "domain": "世界",
+      "question": "第10卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        10
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第10卷留空需后续补证"
+    }
+  ]
 }

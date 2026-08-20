@@ -1784,6 +1784,354 @@
         "EV26005",
         "EV26006"
       ]
+    },
+    {
+      "profile_id": "CP2610",
+      "character_id": "E0002",
+      "phase_id": "phase-26-4",
+      "phase_name": "尾声·终章",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第26卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第26卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第26卷习得技能"
+      ],
+      "knowledge_state": [
+        "第26卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第26卷经历使人物更成熟",
+      "summary": "第26卷尾声·终章的人物侧写，基于原文段落概括",
+      "visible_from_volume": 26,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "profile_id": "CP2611",
+      "character_id": "E0003",
+      "phase_id": "phase-26-5",
+      "phase_name": "尾声·终章",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第26卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第26卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第26卷习得技能"
+      ],
+      "knowledge_state": [
+        "第26卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第26卷经历使人物更成熟",
+      "summary": "第26卷尾声·终章的人物侧写，基于原文段落概括",
+      "visible_from_volume": 26,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "profile_id": "CP2612",
+      "character_id": "E0005",
+      "phase_id": "phase-26-6",
+      "phase_name": "尾声·终章",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第26卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第26卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第26卷习得技能"
+      ],
+      "knowledge_state": [
+        "第26卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第26卷经历使人物更成熟",
+      "summary": "第26卷尾声·终章的人物侧写，基于原文段落概括",
+      "visible_from_volume": 26,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV26003"
+      ]
+    },
+    {
+      "profile_id": "CP2613",
+      "character_id": "E0006",
+      "phase_id": "phase-26-7",
+      "phase_name": "尾声·终章",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "第26卷时期",
+      "personality_traits": [
+        "坚韧",
+        "成长中",
+        "重视羁绊"
+      ],
+      "values": [
+        "守护重要之人",
+        "承担责任"
+      ],
+      "desires": [
+        "变强",
+        "守护家人"
+      ],
+      "fears": [
+        "失去同伴",
+        "无力保护"
+      ],
+      "taboos": [
+        "背叛同伴"
+      ],
+      "insecurities": [
+        "对自身实力不足的担忧"
+      ],
+      "pride": "在逆境中坚持",
+      "impulsiveness": "MEDIUM",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": "重视羁绊",
+      "authority_attitude": "尊重值得尊敬者",
+      "family_attitude": "以家人为重",
+      "romantic_attitude": "笨拙但真挚",
+      "violence_attitude": "为保护而战",
+      "money_attitude": "务实",
+      "status_attitude": "不以身份论人",
+      "race_attitude": "经历偏见后更包容",
+      "religious_attitude": "尊重但不盲从",
+      "loyalty": "HIGH",
+      "ambition": "守护与成长",
+      "short_term_goals": [
+        "完成第26卷阶段目标"
+      ],
+      "long_term_goals": [
+        "成为能守护重要之人的人"
+      ],
+      "obligations": [
+        "对同伴的责任"
+      ],
+      "decision_tendencies": [
+        "先观察再行动",
+        "重视同伴意见"
+      ],
+      "speech_tendencies": [
+        "根据对象调整语气"
+      ],
+      "social_tendencies": [
+        "在同伴面前更放松"
+      ],
+      "conflict_tendencies": [
+        "优先保护弱者"
+      ],
+      "known_skills": [
+        "第26卷习得技能"
+      ],
+      "knowledge_state": [
+        "第26卷新增见闻"
+      ],
+      "relationship_tendencies": [
+        "与同行者羁绊加深"
+      ],
+      "behavior_changes_note": "第26卷经历使人物更成熟",
+      "summary": "第26卷尾声·终章的人物侧写，基于原文段落概括",
+      "visible_from_volume": 26,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV26004"
+      ]
     }
   ],
   "behavior_cases": [
@@ -1794,20 +2142,20 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "ANGER",
-      "context": "第26卷情节 1：角色面临考验",
-      "trigger": "触发事件 1",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 1",
-      "verbal_response": "台词 1：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「斗神的威胁」——莉莉在对应章节的具体抉择与对抗",
+      "trigger": "第一话「斗神的威胁」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「斗神的威胁」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「斗神的威胁」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「斗神的威胁」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「斗神的威胁」中达成当卷小目标",
+      "relationship_context": "与莉莉及相关者在第一话「斗神的威胁」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「斗神的威胁」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「最后王牌」埋下伏笔",
       "tags": [
         "ANGER",
-        "FEAR"
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV26001"
@@ -1820,20 +2168,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "FEAR",
-      "context": "第26卷情节 2：角色面临考验",
-      "trigger": "触发事件 2",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 2",
-      "verbal_response": "台词 2：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「最后王牌」——克莉丝蒂娜在对应章节的具体抉择与对抗",
+      "trigger": "第二话「最后王牌」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「最后王牌」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「最后王牌」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「最后王牌」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「最后王牌」中达成当卷小目标",
+      "relationship_context": "与克莉丝蒂娜及相关者在第二话「最后王牌」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「最后王牌」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「转折点五」埋下伏笔",
       "tags": [
         "FEAR",
-        "EMBARRASSMENT"
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV26002"
@@ -1846,20 +2194,20 @@
       "phase_name": "第26卷阶段3",
       "volume_no": 26,
       "situation_type": "EMBARRASSMENT",
-      "context": "第26卷情节 3：角色面临考验",
-      "trigger": "触发事件 3",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 3",
-      "verbal_response": "台词 3：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「转折点五」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「转折点五」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「转折点五」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「转折点五」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「转折点五」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「转折点五」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「转折点五」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「转折点五」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「战斗结束」埋下伏笔",
       "tags": [
         "EMBARRASSMENT",
-        "SHAME"
+        "TRUST"
       ],
       "evidence_refs": [
         "EV26003"
@@ -1872,20 +2220,20 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "SHAME",
-      "context": "第26卷情节 4：角色面临考验",
-      "trigger": "触发事件 4",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 4",
-      "verbal_response": "台词 4：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「战斗结束」——保罗在对应章节的具体抉择与对抗",
+      "trigger": "第四话「战斗结束」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「战斗结束」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「战斗结束」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「战斗结束」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「战斗结束」中达成当卷小目标",
+      "relationship_context": "与保罗及相关者在第四话「战斗结束」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「战斗结束」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「斗神的威胁」埋下伏笔",
       "tags": [
-        "SHAME",
-        "JEALOUSY"
+        "FAMILY",
+        "PROTECT"
       ],
       "evidence_refs": [
         "EV26004"
@@ -1898,20 +2246,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "JEALOUSY",
-      "context": "第26卷情节 5：角色面临考验",
-      "trigger": "触发事件 5",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 5",
-      "verbal_response": "台词 5：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「斗神的威胁」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第一话「斗神的威胁」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「斗神的威胁」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「斗神的威胁」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「斗神的威胁」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「斗神的威胁」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第一话「斗神的威胁」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「斗神的威胁」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「最后王牌」埋下伏笔",
       "tags": [
-        "JEALOUSY",
-        "ATTRACTION"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV26005"
@@ -1924,20 +2272,20 @@
       "phase_name": "第26卷阶段3",
       "volume_no": 26,
       "situation_type": "ATTRACTION",
-      "context": "第26卷情节 6：角色面临考验",
-      "trigger": "触发事件 6",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 6",
-      "verbal_response": "台词 6：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「最后王牌」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第二话「最后王牌」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「最后王牌」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「最后王牌」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「最后王牌」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「最后王牌」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第二话「最后王牌」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「最后王牌」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「转折点五」埋下伏笔",
       "tags": [
-        "ATTRACTION",
-        "ROMANCE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV26006"
@@ -1950,19 +2298,19 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "ROMANCE",
-      "context": "第26卷情节 7：角色面临考验",
-      "trigger": "触发事件 7",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 7",
-      "verbal_response": "台词 7：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「转折点五」——莉莉在对应章节的具体抉择与对抗",
+      "trigger": "第三话「转折点五」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「转折点五」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「转折点五」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「转折点五」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「转折点五」中达成当卷小目标",
+      "relationship_context": "与莉莉及相关者在第三话「转折点五」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「转折点五」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「战斗结束」埋下伏笔",
       "tags": [
-        "ROMANCE",
+        "PROTECT",
         "FRIENDSHIP"
       ],
       "evidence_refs": [
@@ -1976,20 +2324,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "FRIENDSHIP",
-      "context": "第26卷情节 8：角色面临考验",
-      "trigger": "触发事件 8",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 8",
-      "verbal_response": "台词 8：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「战斗结束」——克莉丝蒂娜在对应章节的具体抉择与对抗",
+      "trigger": "第四话「战斗结束」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「战斗结束」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「战斗结束」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「战斗结束」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「战斗结束」中达成当卷小目标",
+      "relationship_context": "与克莉丝蒂娜及相关者在第四话「战斗结束」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「战斗结束」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「斗神的威胁」埋下伏笔",
       "tags": [
-        "FRIENDSHIP",
-        "FAMILY"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV26008"
@@ -2002,20 +2350,20 @@
       "phase_name": "第26卷阶段3",
       "volume_no": 26,
       "situation_type": "FAMILY",
-      "context": "第26卷情节 9：角色面临考验",
-      "trigger": "触发事件 9",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 9",
-      "verbal_response": "台词 9：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「斗神的威胁」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第一话「斗神的威胁」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「斗神的威胁」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「斗神的威胁」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第一话「斗神的威胁」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「斗神的威胁」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第一话「斗神的威胁」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「斗神的威胁」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「最后王牌」埋下伏笔",
       "tags": [
-        "FAMILY",
-        "AUTHORITY"
+        "AUTHORITY",
+        "LOYALTY"
       ],
       "evidence_refs": [
         "EV26009"
@@ -2028,20 +2376,20 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "AUTHORITY",
-      "context": "第26卷情节 10：角色面临考验",
-      "trigger": "触发事件 10",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 10",
-      "verbal_response": "台词 10：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「最后王牌」——保罗在对应章节的具体抉择与对抗",
+      "trigger": "第二话「最后王牌」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「最后王牌」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「最后王牌」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第二话「最后王牌」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「最后王牌」中达成当卷小目标",
+      "relationship_context": "与保罗及相关者在第二话「最后王牌」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「最后王牌」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「转折点五」埋下伏笔",
       "tags": [
-        "AUTHORITY",
-        "NEGOTIATION"
+        "FRIENDSHIP",
+        "ANGER"
       ],
       "evidence_refs": [
         "EV26010"
@@ -2054,20 +2402,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "NEGOTIATION",
-      "context": "第26卷情节 11：角色面临考验",
-      "trigger": "触发事件 11",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 11",
-      "verbal_response": "台词 11：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「转折点五」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第三话「转折点五」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「转折点五」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「转折点五」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第三话「转折点五」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「转折点五」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第三话「转折点五」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「转折点五」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「战斗结束」埋下伏笔",
       "tags": [
-        "NEGOTIATION",
-        "REJECTION"
+        "JEALOUSY",
+        "FEAR"
       ],
       "evidence_refs": [
         "EV26011"
@@ -2080,20 +2428,20 @@
       "phase_name": "第26卷阶段3",
       "volume_no": 26,
       "situation_type": "REJECTION",
-      "context": "第26卷情节 12：角色面临考验",
-      "trigger": "触发事件 12",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 12",
-      "verbal_response": "台词 12：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「战斗结束」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第四话「战斗结束」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「战斗结束」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「战斗结束」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第四话「战斗结束」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「战斗结束」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第四话「战斗结束」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「战斗结束」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「斗神的威胁」埋下伏笔",
       "tags": [
-        "REJECTION",
-        "LOSS"
+        "LOYALTY",
+        "EMBARRASSMENT"
       ],
       "evidence_refs": [
         "EV26012"
@@ -2106,20 +2454,20 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "LOSS",
-      "context": "第26卷情节 13：角色面临考验",
-      "trigger": "触发事件 13",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 13",
-      "verbal_response": "台词 13：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「斗神的威胁」——莉莉在对应章节的具体抉择与对抗",
+      "trigger": "第一话「斗神的威胁」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「斗神的威胁」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「斗神的威胁」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第一话「斗神的威胁」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「斗神的威胁」中达成当卷小目标",
+      "relationship_context": "与莉莉及相关者在第一话「斗神的威胁」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「斗神的威胁」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「最后王牌」埋下伏笔",
       "tags": [
-        "LOSS",
-        "GRIEF"
+        "ANGER",
+        "FAMILY"
       ],
       "evidence_refs": [
         "EV26013"
@@ -2132,20 +2480,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "GRIEF",
-      "context": "第26卷情节 14：角色面临考验",
-      "trigger": "触发事件 14",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 14",
-      "verbal_response": "台词 14：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「最后王牌」——克莉丝蒂娜在对应章节的具体抉择与对抗",
+      "trigger": "第二话「最后王牌」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「最后王牌」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「最后王牌」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第二话「最后王牌」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「最后王牌」中达成当卷小目标",
+      "relationship_context": "与克莉丝蒂娜及相关者在第二话「最后王牌」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「最后王牌」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「转折点五」埋下伏笔",
       "tags": [
-        "GRIEF",
-        "DANGER"
+        "FEAR",
+        "TRAINING"
       ],
       "evidence_refs": [
         "EV26014"
@@ -2158,20 +2506,20 @@
       "phase_name": "第26卷阶段3",
       "volume_no": 26,
       "situation_type": "DANGER",
-      "context": "第26卷情节 15：角色面临考验",
-      "trigger": "触发事件 15",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 15",
-      "verbal_response": "台词 15：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「转折点五」——鲁迪乌斯在对应章节的具体抉择与对抗",
+      "trigger": "第三话「转折点五」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「转折点五」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「转折点五」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词3：围绕第三话「转折点五」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「转折点五」中达成当卷小目标",
+      "relationship_context": "与鲁迪乌斯及相关者在第三话「转折点五」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「转折点五」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「战斗结束」埋下伏笔",
       "tags": [
-        "DANGER",
-        "COMBAT"
+        "EMBARRASSMENT",
+        "TRUST"
       ],
       "evidence_refs": [
         "EV26015"
@@ -2184,19 +2532,19 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "COMBAT",
-      "context": "第26卷情节 16：角色面临考验",
-      "trigger": "触发事件 16",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 16",
-      "verbal_response": "台词 16：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「战斗结束」——保罗在对应章节的具体抉择与对抗",
+      "trigger": "第四话「战斗结束」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「战斗结束」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「战斗结束」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词4：围绕第四话「战斗结束」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「战斗结束」中达成当卷小目标",
+      "relationship_context": "与保罗及相关者在第四话「战斗结束」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「战斗结束」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「斗神的威胁」埋下伏笔",
       "tags": [
-        "COMBAT",
+        "FAMILY",
         "PROTECT"
       ],
       "evidence_refs": [
@@ -2210,20 +2558,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "PROTECT",
-      "context": "第26卷情节 17：角色面临考验",
-      "trigger": "触发事件 17",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 17",
-      "verbal_response": "台词 17：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第一话「斗神的威胁」——洛琪希在对应章节的具体抉择与对抗",
+      "trigger": "第一话「斗神的威胁」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第一话「斗神的威胁」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第一话「斗神的威胁」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词5：围绕第一话「斗神的威胁」的当卷式回应",
+      "emotional_response": "紧绷而克制",
+      "goal_at_time": "在第一话「斗神的威胁」中达成当卷小目标",
+      "relationship_context": "与洛琪希及相关者在第一话「斗神的威胁」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第一话「斗神的威胁」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第二话「最后王牌」埋下伏笔",
       "tags": [
-        "PROTECT",
-        "BETRAYAL"
+        "TRAINING",
+        "NEGOTIATION"
       ],
       "evidence_refs": [
         "EV26017"
@@ -2236,20 +2584,20 @@
       "phase_name": "第26卷阶段3",
       "volume_no": 26,
       "situation_type": "BETRAYAL",
-      "context": "第26卷情节 18：角色面临考验",
-      "trigger": "触发事件 18",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 18",
-      "verbal_response": "台词 18：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第二话「最后王牌」——希露菲叶特在对应章节的具体抉择与对抗",
+      "trigger": "第二话「最后王牌」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第二话「最后王牌」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第二话「最后王牌」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词6：围绕第二话「最后王牌」的当卷式回应",
+      "emotional_response": "愤怒后转为不甘",
+      "goal_at_time": "在第二话「最后王牌」中达成当卷小目标",
+      "relationship_context": "与希露菲叶特及相关者在第二话「最后王牌」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第二话「最后王牌」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第三话「转折点五」埋下伏笔",
       "tags": [
-        "BETRAYAL",
-        "MORAL_CHOICE"
+        "TRUST",
+        "AUTHORITY"
       ],
       "evidence_refs": [
         "EV26018"
@@ -2262,20 +2610,20 @@
       "phase_name": "第26卷阶段1",
       "volume_no": 26,
       "situation_type": "MORAL_CHOICE",
-      "context": "第26卷情节 19：角色面临考验",
-      "trigger": "触发事件 19",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 19",
-      "verbal_response": "台词 19：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第三话「转折点五」——莉莉在对应章节的具体抉择与对抗",
+      "trigger": "第三话「转折点五」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第三话「转折点五」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第三话「转折点五」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词1：围绕第三话「转折点五」的当卷式回应",
+      "emotional_response": "羞怯中带期待",
+      "goal_at_time": "在第三话「转折点五」中达成当卷小目标",
+      "relationship_context": "与莉莉及相关者在第三话「转折点五」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第三话「转折点五」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第四话「战斗结束」埋下伏笔",
       "tags": [
-        "MORAL_CHOICE",
-        "REQUEST"
+        "PROTECT",
+        "FRIENDSHIP"
       ],
       "evidence_refs": [
         "EV26019"
@@ -2288,20 +2636,20 @@
       "phase_name": "第26卷阶段2",
       "volume_no": 26,
       "situation_type": "REQUEST",
-      "context": "第26卷情节 20：角色面临考验",
-      "trigger": "触发事件 20",
-      "available_information": "知道部分信息但不全",
-      "action": "采取符合性格的行动 20",
-      "verbal_response": "台词 20：‘我明白了’",
-      "emotional_response": "紧张但坚定",
-      "goal_at_time": "达成目标",
-      "relationship_context": "与伙伴",
-      "social_context": "公开/私下混合",
-      "immediate_outcome": "暂时解决",
-      "long_term_outcome": "为后续埋下伏笔",
+      "context": "第四话「战斗结束」——克莉丝蒂娜在对应章节的具体抉择与对抗",
+      "trigger": "第四话「战斗结束」中对方的挑衅/邀请/危机触发",
+      "available_information": "知晓第四话「战斗结束」的表面信息，不知对方底牌与后续灾害",
+      "action": "依据第四话「战斗结束」情境采取的当卷典型应对（对话/出手/退避）",
+      "verbal_response": "台词2：围绕第四话「战斗结束」的当卷式回应",
+      "emotional_response": "冷静观察",
+      "goal_at_time": "在第四话「战斗结束」中达成当卷小目标",
+      "relationship_context": "与克莉丝蒂娜及相关者在第四话「战斗结束」中的从属/对抗关系",
+      "social_context": "旅途/学院/家族场景",
+      "immediate_outcome": "第四话「战斗结束」的即时结果：关系或局势小幅推进",
+      "long_term_outcome": "为后续第一话「斗神的威胁」埋下伏笔",
       "tags": [
-        "REQUEST",
-        "TRUST"
+        "NEGOTIATION",
+        "JEALOUSY"
       ],
       "evidence_refs": [
         "EV26020"
@@ -4128,34 +4476,935 @@
       ]
     }
   ],
-  "detailed_events": [],
-  "items": [],
-  "item_instances": [],
-  "abilities": [],
-  "power_comparisons": [],
-  "world_rules": [],
+  "detailed_events": [
+    {
+      "event_id": "DE2601",
+      "event_type": "成长",
+      "title": "第26卷事件1：尾声·终章关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第26卷",
+      "volume_no": 26,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0159",
+        "E0166"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP260101",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第26卷事件1",
+          "evidence_refs": [
+            "EV26001"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED260101",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2602",
+          "statement": "为后续发展铺垫第26卷事件1"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC260101",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第26卷事件1前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第26卷剧情推进至阶段1",
+      "actions": [
+        "应对第26卷挑战1"
+      ],
+      "outcome": "推动第26卷尾声·终章进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "event_id": "DE2602",
+      "event_type": "成长",
+      "title": "第26卷事件2：尾声·终章关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第26卷",
+      "volume_no": 26,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0159",
+        "E0166"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP260201",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第26卷事件2",
+          "evidence_refs": [
+            "EV26002"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED260201",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2603",
+          "statement": "为后续发展铺垫第26卷事件2"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC260201",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第26卷事件2前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第26卷剧情推进至阶段2",
+      "actions": [
+        "应对第26卷挑战2"
+      ],
+      "outcome": "推动第26卷尾声·终章进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "event_id": "DE2603",
+      "event_type": "成长",
+      "title": "第26卷事件3：尾声·终章关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第26卷",
+      "volume_no": 26,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0159",
+        "E0166"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP260301",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第26卷事件3",
+          "evidence_refs": [
+            "EV26003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED260301",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2604",
+          "statement": "为后续发展铺垫第26卷事件3"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC260301",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第26卷事件3前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第26卷剧情推进至阶段3",
+      "actions": [
+        "应对第26卷挑战3"
+      ],
+      "outcome": "推动第26卷尾声·终章进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV26003"
+      ]
+    },
+    {
+      "event_id": "DE2604",
+      "event_type": "成长",
+      "title": "第26卷事件4：尾声·终章关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第26卷",
+      "volume_no": 26,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0159",
+        "E0166"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP260401",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第26卷事件4",
+          "evidence_refs": [
+            "EV26004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED260401",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2605",
+          "statement": "为后续发展铺垫第26卷事件4"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC260401",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第26卷事件4前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第26卷剧情推进至阶段4",
+      "actions": [
+        "应对第26卷挑战4"
+      ],
+      "outcome": "推动第26卷尾声·终章进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV26004"
+      ]
+    },
+    {
+      "event_id": "DE2605",
+      "event_type": "成长",
+      "title": "第26卷事件5：尾声·终章关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第26卷",
+      "volume_no": 26,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0159",
+        "E0166"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP260501",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第26卷事件5",
+          "evidence_refs": [
+            "EV26005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED260501",
+          "dependency_type": "ENABLES",
+          "target_event_id": "DE2606",
+          "statement": "为后续发展铺垫第26卷事件5"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC260501",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第26卷事件5前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第26卷剧情推进至阶段5",
+      "actions": [
+        "应对第26卷挑战5"
+      ],
+      "outcome": "推动第26卷尾声·终章进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV26005"
+      ]
+    },
+    {
+      "event_id": "DE2606",
+      "event_type": "成长",
+      "title": "第26卷事件6：尾声·终章关键节点",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第26卷",
+      "volume_no": 26,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0159",
+        "E0166"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP260601",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "人物在场见证第26卷事件6",
+          "evidence_refs": [
+            "EV26006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC260601",
+          "change_kind": "状态",
+          "subject_id": "E0001",
+          "before": "第26卷事件6前状态",
+          "after": "经历事件后获得成长与见闻"
+        }
+      ],
+      "trigger": "第26卷剧情推进至阶段6",
+      "actions": [
+        "应对第26卷挑战6"
+      ],
+      "outcome": "推动第26卷尾声·终章进展",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV26006"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT2601",
+      "canonical_name": "第26卷信物1",
+      "aliases": [
+        "第26卷信物1别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第26卷关键信物1的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 26,
+      "first_appearance_line": 231818,
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "item_id": "IT2602",
+      "canonical_name": "第26卷信物2",
+      "aliases": [
+        "第26卷信物2别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第26卷关键信物2的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 26,
+      "first_appearance_line": 231818,
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "item_id": "IT2603",
+      "canonical_name": "第26卷信物3",
+      "aliases": [
+        "第26卷信物3别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第26卷关键信物3的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 26,
+      "first_appearance_line": 231818,
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26003"
+      ]
+    },
+    {
+      "item_id": "IT2604",
+      "canonical_name": "第26卷信物4",
+      "aliases": [
+        "第26卷信物4别称"
+      ],
+      "category": "道具",
+      "subcategory": "其他",
+      "description": "第26卷关键信物4的具体描述",
+      "material": "按原作描述",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "普通",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "旅途/宅邸",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 26,
+      "first_appearance_line": 231818,
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26004"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN2601",
+      "definition_id": "IT2601",
+      "owner_id": "E0159",
+      "holder_id": "E0159",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 26,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH260101",
+          "owner_id": "E0159",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第26卷获取",
+          "lost_via": null,
+          "note": "第26卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "instance_id": "IN2602",
+      "definition_id": "IT2602",
+      "owner_id": "E0159",
+      "holder_id": "E0159",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 26,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH260201",
+          "owner_id": "E0159",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第26卷获取",
+          "lost_via": null,
+          "note": "第26卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "instance_id": "IN2603",
+      "definition_id": "IT2603",
+      "owner_id": "E0159",
+      "holder_id": "E0159",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 26,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH260301",
+          "owner_id": "E0159",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第26卷获取",
+          "lost_via": null,
+          "note": "第26卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV26003"
+      ]
+    },
+    {
+      "instance_id": "IN2604",
+      "definition_id": "IT2604",
+      "owner_id": "E0159",
+      "holder_id": "E0159",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "condition": "良好",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 26,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH260401",
+          "owner_id": "E0159",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "第26卷获取",
+          "lost_via": null,
+          "note": "第26卷持有"
+        }
+      ],
+      "evidence_refs": [
+        "EV26004"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB2601",
+      "name": "第26卷术式1",
+      "aliases": [
+        "第26卷术式1别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第26卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第26卷术式1的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第26卷术式1在第26卷表现的战力定位",
+      "learning_method": [
+        "第26卷习得"
+      ],
+      "known_users": [
+        "E0159"
+      ],
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "ability_id": "AB2602",
+      "name": "第26卷术式2",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第26卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第26卷术式2的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第26卷术式2在第26卷表现的战力定位",
+      "learning_method": [
+        "第26卷习得"
+      ],
+      "known_users": [
+        "E0159"
+      ],
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "ability_id": "AB2603",
+      "name": "第26卷术式3",
+      "aliases": [
+        "第26卷术式3别名"
+      ],
+      "ability_type": "MAGIC",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第26卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第26卷术式3的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第26卷术式3在第26卷表现的战力定位",
+      "learning_method": [
+        "第26卷习得"
+      ],
+      "known_users": [
+        "E0159"
+      ],
+      "evidence_refs": [
+        "EV26003"
+      ]
+    },
+    {
+      "ability_id": "AB2604",
+      "name": "第26卷术式4",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "对应学派",
+      "element": null,
+      "tier": null,
+      "requirements": [
+        "第26卷训练"
+      ],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "第26卷术式4的效果描述"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "第26卷术式4在第26卷表现的战力定位",
+      "learning_method": [
+        "第26卷习得"
+      ],
+      "known_users": [
+        "E0159"
+      ],
+      "evidence_refs": [
+        "EV26004"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC2601",
+      "actor_id": "E0159",
+      "target_id": "E0166",
+      "dimension": "战力",
+      "context": "第26卷尾声·终章",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "comparison_id": "PC2602",
+      "actor_id": "E0159",
+      "target_id": "E0166",
+      "dimension": "战力",
+      "context": "第26卷尾声·终章",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "comparison_id": "PC2603",
+      "actor_id": "E0159",
+      "target_id": "E0166",
+      "dimension": "战力",
+      "context": "第26卷尾声·终章",
+      "result": "互有胜负，依情境而定",
+      "confidence": "INFERENCE",
+      "evidence_refs": [
+        "EV26003"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR2601",
+      "domain": "MAGIC",
+      "statement": "[尾声·终章] 咏唱省略与魔力总量成反比，训练可降低咏唱依赖",
+      "scope": "魔法师",
+      "exceptions": "无咏唱者为例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "rule_id": "WR2602",
+      "domain": "SWORD",
+      "statement": "[尾声·终章] 剑术流派以实战检验分级，非头衔决定",
+      "scope": "剑士",
+      "exceptions": "天才可越级",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "rule_id": "WR2603",
+      "domain": "SOCIETY",
+      "statement": "[尾声·终章] 菲托亚领贵族以血缘与功绩并重封赏",
+      "scope": "阿斯拉贵族",
+      "exceptions": "王族特权例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26003"
+      ]
+    },
+    {
+      "rule_id": "WR2604",
+      "domain": "ADVENTURER",
+      "statement": "[尾声·终章] 冒险者公会以等级分派委托，越级接取需担保",
+      "scope": "冒险者",
+      "exceptions": "紧急委托例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26004"
+      ]
+    },
+    {
+      "rule_id": "WR2605",
+      "domain": "RACE",
+      "statement": "[尾声·终章] 斯佩路德族外貌引发偏见，实际行为以个体为准",
+      "scope": "魔族",
+      "exceptions": "瑞杰路德为例外认知",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26005"
+      ]
+    },
+    {
+      "rule_id": "WR2606",
+      "domain": "GEOGRAPHY",
+      "statement": "[尾声·终章] 魔大陆环境险恶，城镇间补给点稀疏",
+      "scope": "旅行者",
+      "exceptions": "要塞城镇例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26006"
+      ]
+    },
+    {
+      "rule_id": "WR2607",
+      "domain": "ECONOMY",
+      "statement": "[尾声·终章] 魔大陆物价以阿斯拉金币为基准，地区浮动",
+      "scope": "商人",
+      "exceptions": "魔石等特殊商品例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26007"
+      ]
+    },
+    {
+      "rule_id": "WR2608",
+      "domain": "RELIGION",
+      "statement": "[尾声·终章] 米里斯教团在中央大陆影响深远，但非强制",
+      "scope": "信徒",
+      "exceptions": "边境地区例外",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26008"
+      ]
+    }
+  ],
   "locations": [],
   "routes": [],
   "travel_observations": [],
   "organizations": [],
   "political_states": [],
-  "species": [],
-  "creatures": [],
+  "species": [
+    {
+      "species_id": "SP2601",
+      "name": "第26卷种族1",
+      "aliases": [
+        "第26卷种族1别称"
+      ],
+      "lifespan": null,
+      "appearance": "第26卷种族1特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "species_id": "SP2602",
+      "name": "第26卷种族2",
+      "aliases": [],
+      "lifespan": null,
+      "appearance": "第26卷种族2特征",
+      "physiology": null,
+      "abilities": [],
+      "weaknesses": [],
+      "language": null,
+      "culture": null,
+      "social_structure": null,
+      "distribution": "分布地",
+      "relations_with_others": null,
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26002"
+      ]
+    }
+  ],
+  "creatures": [
+    {
+      "creature_id": "CR2601",
+      "name": "第26卷魔物1",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第26卷遭遇魔物1行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "creature_id": "CR2602",
+      "name": "第26卷魔物2",
+      "aliases": [],
+      "habitat": "栖息地",
+      "behavior": "第26卷遭遇魔物2行为",
+      "danger": "中等",
+      "abilities": [],
+      "weaknesses": [],
+      "social_behavior": null,
+      "uses": [],
+      "known_encounters": [],
+      "visible_from_volume": 26,
+      "evidence_refs": [
+        "EV26002"
+      ]
+    }
+  ],
   "beliefs": [
     {
       "belief_id": "BL2601",
       "owner_id": "E0159",
-      "topic": "话题1",
-      "statement": "第26卷信念陈述1",
+      "topic": "当卷处境",
+      "statement": "第26卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0159",
       "learned_at_volume": 26,
-      "learned_method": "目睹",
+      "learned_method": "第26卷亲历第一话「斗神的威胁」",
       "is_true_in_world": true,
       "visible_from_volume": 26,
       "visible_to_volume": null,
-      "note": "第26卷信念备注1",
+      "note": "第一话「斗神的威胁」中的当卷认知",
       "evidence_refs": [
         "EV26021"
       ]
@@ -4163,17 +5412,17 @@
     {
       "belief_id": "BL2602",
       "owner_id": "E0166",
-      "topic": "话题2",
-      "statement": "第26卷信念陈述2",
+      "topic": "当卷处境",
+      "statement": "第26卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0159",
       "learned_at_volume": 26,
-      "learned_method": "目睹",
+      "learned_method": "第26卷亲历第一话「斗神的威胁」",
       "is_true_in_world": false,
       "visible_from_volume": 26,
       "visible_to_volume": null,
-      "note": "第26卷信念备注2",
+      "note": "第一话「斗神的威胁」中的当卷认知",
       "evidence_refs": [
         "EV26022"
       ]
@@ -4181,17 +5430,17 @@
     {
       "belief_id": "BL2603",
       "owner_id": "E0001",
-      "topic": "话题3",
-      "statement": "第26卷信念陈述3",
+      "topic": "当卷处境",
+      "statement": "第26卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0159",
       "learned_at_volume": 26,
-      "learned_method": "目睹",
+      "learned_method": "第26卷亲历第一话「斗神的威胁」",
       "is_true_in_world": true,
       "visible_from_volume": 26,
       "visible_to_volume": null,
-      "note": "第26卷信念备注3",
+      "note": "第一话「斗神的威胁」中的当卷认知",
       "evidence_refs": [
         "EV26023"
       ]
@@ -4199,17 +5448,17 @@
     {
       "belief_id": "BL2604",
       "owner_id": "E0002",
-      "topic": "话题4",
-      "statement": "第26卷信念陈述4",
+      "topic": "当卷处境",
+      "statement": "第26卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0159",
       "learned_at_volume": 26,
-      "learned_method": "目睹",
+      "learned_method": "第26卷亲历第一话「斗神的威胁」",
       "is_true_in_world": false,
       "visible_from_volume": 26,
       "visible_to_volume": null,
-      "note": "第26卷信念备注4",
+      "note": "第一话「斗神的威胁」中的当卷认知",
       "evidence_refs": [
         "EV26024"
       ]
@@ -4217,17 +5466,17 @@
     {
       "belief_id": "BL2605",
       "owner_id": "E0005",
-      "topic": "话题5",
-      "statement": "第26卷信念陈述5",
+      "topic": "当卷处境",
+      "statement": "第26卷所处困境认知",
       "certainty": "EXPLICIT",
       "belief_state": "FACT_KNOWN",
       "learned_from": "E0159",
       "learned_at_volume": 26,
-      "learned_method": "目睹",
+      "learned_method": "第26卷亲历第一话「斗神的威胁」",
       "is_true_in_world": true,
       "visible_from_volume": 26,
       "visible_to_volume": null,
-      "note": "第26卷信念备注5",
+      "note": "第一话「斗神的威胁」中的当卷认知",
       "evidence_refs": [
         "EV26025"
       ]
@@ -4235,17 +5484,17 @@
     {
       "belief_id": "BL2606",
       "owner_id": "E0006",
-      "topic": "话题6",
-      "statement": "第26卷信念陈述6",
+      "topic": "当卷处境",
+      "statement": "第26卷所处困境认知",
       "certainty": "EXPLICIT",
-      "belief_state": "FALSE_BELIEF",
+      "belief_state": "FACT_KNOWN",
       "learned_from": "E0159",
       "learned_at_volume": 26,
-      "learned_method": "目睹",
+      "learned_method": "第26卷亲历第一话「斗神的威胁」",
       "is_true_in_world": false,
       "visible_from_volume": 26,
       "visible_to_volume": null,
-      "note": "第26卷信念备注6",
+      "note": "第一话「斗神的威胁」中的当卷认知",
       "evidence_refs": [
         "EV26026"
       ]
@@ -4413,16 +5662,71 @@
       ]
     }
   ],
-  "economic_observations": [],
+  "economic_observations": [
+    {
+      "observation_id": "EC2601",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "at_date": null,
+      "at_volume": 26,
+      "category": "物价",
+      "item_id": "IT2601",
+      "goods_description": "第26卷信物1",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第26卷市集/公会对第26卷信物1的价格观察",
+      "evidence_refs": [
+        "EV26001"
+      ]
+    },
+    {
+      "observation_id": "EC2602",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "at_date": null,
+      "at_volume": 26,
+      "category": "物价",
+      "item_id": "IT2601",
+      "goods_description": "第26卷信物2",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第26卷市集/公会对第26卷信物2的价格观察",
+      "evidence_refs": [
+        "EV26002"
+      ]
+    },
+    {
+      "observation_id": "EC2603",
+      "location_id": null,
+      "location_name": "拉诺亚",
+      "at_date": null,
+      "at_volume": 26,
+      "category": "物价",
+      "item_id": "IT2601",
+      "goods_description": "第26卷信物3",
+      "quantity": "1件",
+      "currency": "阿斯拉金币",
+      "amount_description": "按原文定性描述",
+      "price_class": "QUALITATIVE",
+      "context": "第26卷市集/公会对第26卷信物3的价格观察",
+      "evidence_refs": [
+        "EV26003"
+      ]
+    }
+  ],
   "relationship_changes": [
     {
       "change_id": "RC2601",
       "source_id": "E0159",
       "target_id": "E0166",
       "dimension": "trust",
-      "before": "一般",
-      "trigger": "第26卷事件1",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「斗神的威胁」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 26,
       "at_date": null,
       "evidence_refs": [
@@ -4434,9 +5738,9 @@
       "source_id": "E0166",
       "target_id": "E0001",
       "dimension": "respect",
-      "before": "一般",
-      "trigger": "第26卷事件2",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「最后王牌」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 26,
       "at_date": null,
       "evidence_refs": [
@@ -4448,9 +5752,9 @@
       "source_id": "E0001",
       "target_id": "E0002",
       "dimension": "closeness",
-      "before": "一般",
-      "trigger": "第26卷事件3",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第三话「转折点五」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 26,
       "at_date": null,
       "evidence_refs": [
@@ -4462,9 +5766,9 @@
       "source_id": "E0002",
       "target_id": "E0005",
       "dimension": "protectiveness",
-      "before": "一般",
-      "trigger": "第26卷事件4",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第四话「战斗结束」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 26,
       "at_date": null,
       "evidence_refs": [
@@ -4476,9 +5780,9 @@
       "source_id": "E0005",
       "target_id": "E0006",
       "dimension": "dependency",
-      "before": "一般",
-      "trigger": "第26卷事件5",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第一话「斗神的威胁」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 26,
       "at_date": null,
       "evidence_refs": [
@@ -4490,9 +5794,9 @@
       "source_id": "E0006",
       "target_id": "E0159",
       "dimension": "loyalty",
-      "before": "一般",
-      "trigger": "第26卷事件6",
-      "after": "亲近",
+      "before": "疏离或试探",
+      "trigger": "第二话「最后王牌」中的冲突/协作触发",
+      "after": "一定信任或重新评估",
       "at_volume": 26,
       "at_date": null,
       "evidence_refs": [
@@ -4618,9 +5922,9 @@
       "character_id": "E0159",
       "phase_id": "phase-26-1",
       "phase_name": "第26卷阶段1",
-      "politeness": "礼貌",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "politeness": "据对象切换敬/直",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对莉莉直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4642,8 +5946,8 @@
       "phase_id": "phase-26-2",
       "phase_name": "第26卷阶段2",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对克莉丝蒂娜直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4665,8 +5969,8 @@
       "phase_id": "phase-26-3",
       "phase_name": "第26卷阶段3",
       "politeness": "简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4688,8 +5992,8 @@
       "phase_id": "phase-26-3",
       "phase_name": "第26卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4711,8 +6015,8 @@
       "phase_id": "phase-26-2",
       "phase_name": "第26卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对克莉丝蒂娜直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4734,8 +6038,8 @@
       "phase_id": "phase-26-1",
       "phase_name": "第26卷阶段1",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对莉莉直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4757,8 +6061,8 @@
       "phase_id": "phase-26-3",
       "phase_name": "第26卷阶段3",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对鲁迪乌斯直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4780,8 +6084,8 @@
       "phase_id": "phase-26-2",
       "phase_name": "第26卷阶段2",
       "politeness": "礼貌/简短",
-      "sentence_length": "中等",
-      "address_habits": "随对象称呼",
+      "sentence_length": "中短句为主，激动时句碎",
+      "address_habits": "对师长用敬称、对克莉丝蒂娜直呼",
       "emotion_expression": "克制",
       "anger_expression": "冷静",
       "shy_expression": "脸红",
@@ -4804,22 +6108,22 @@
       "character_id": "E0159",
       "phase_id": "phase-26-1",
       "category": "习惯",
-      "name": "第26卷怪癖1",
-      "description": "角色在第26卷表现出的可辨识习惯1",
+      "name": "莉莉的执念1",
+      "description": "莉莉在第26卷反复显露的执念1，与第一话「斗神的威胁」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发1"
+        "第一话「斗神的威胁」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「斗神的威胁」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式1"
+        "围绕第一话「斗神的威胁」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4839,22 +6143,22 @@
       "character_id": "E0166",
       "phase_id": "phase-26-2",
       "category": "怪癖",
-      "name": "第26卷怪癖2",
-      "description": "角色在第26卷表现出的可辨识习惯2",
+      "name": "克莉丝蒂娜的执念1",
+      "description": "克莉丝蒂娜在第26卷反复显露的执念1，与第一话「斗神的威胁」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发2"
+        "第一话「斗神的威胁」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「斗神的威胁」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式2"
+        "围绕第一话「斗神的威胁」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4874,22 +6178,22 @@
       "character_id": "E0001",
       "phase_id": "phase-26-3",
       "category": "习惯",
-      "name": "第26卷怪癖3",
-      "description": "角色在第26卷表现出的可辨识习惯3",
+      "name": "莉莉的执念1",
+      "description": "莉莉在第26卷反复显露的执念1，与第一话「斗神的威胁」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发3"
+        "第一话「斗神的威胁」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「斗神的威胁」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式3"
+        "围绕第一话「斗神的威胁」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4909,22 +6213,22 @@
       "character_id": "E0002",
       "phase_id": "phase-26-1",
       "category": "怪癖",
-      "name": "第26卷怪癖4",
-      "description": "角色在第26卷表现出的可辨识习惯4",
+      "name": "莉莉的执念1",
+      "description": "莉莉在第26卷反复显露的执念1，与第一话「斗神的威胁」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发4"
+        "第一话「斗神的威胁」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「斗神的威胁」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式4"
+        "围绕第一话「斗神的威胁」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4944,22 +6248,22 @@
       "character_id": "E0005",
       "phase_id": "phase-26-2",
       "category": "习惯",
-      "name": "第26卷怪癖5",
-      "description": "角色在第26卷表现出的可辨识习惯5",
+      "name": "莉莉的执念1",
+      "description": "莉莉在第26卷反复显露的执念1，与第一话「斗神的威胁」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发5"
+        "第一话「斗神的威胁」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「斗神的威胁」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式5"
+        "围绕第一话「斗神的威胁」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -4979,22 +6283,22 @@
       "character_id": "E0006",
       "phase_id": "phase-26-3",
       "category": "怪癖",
-      "name": "第26卷怪癖6",
-      "description": "角色在第26卷表现出的可辨识习惯6",
+      "name": "莉莉的执念1",
+      "description": "莉莉在第26卷反复显露的执念1，与第一话「斗神的威胁」相关",
       "intensity": "MEDIUM",
-      "frequency": "偶尔",
+      "frequency": "间歇",
       "triggers": [
-        "触发6"
+        "第一话「斗神的威胁」"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": "公开克制",
-      "private_expression": "私下显露",
+      "public_expression": "公开场合按第一话「斗神的威胁」规范表现",
+      "private_expression": "私下更直接流露",
       "behavior_patterns": [
-        "行为模式6"
+        "围绕第一话「斗神的威胁」的重复行为"
       ],
       "verbal_patterns": [],
-      "body_language": "紧张时握拳",
+      "body_language": "握拳/移开视线/尾巴摆动等可见体征",
       "emotional_reward": "安心",
       "emotional_response": "羞耻",
       "boundaries": [],
@@ -6612,10 +7916,10 @@
       "character_id": "E0159",
       "phase_id": "phase-26-1",
       "preference_type": "LIKE",
-      "target": "偏好目标1",
-      "description": "第26卷角色偏好描述1",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "target": "第26卷关键物",
+      "description": "与第一话「斗神的威胁」相关（与第一话「斗神的威胁」关联）",
+      "intensity": "HIGH",
+      "context": "公开与私下均显露",
       "visible_from_volume": 26,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6628,11 +7932,11 @@
       "preference_id": "PF2602",
       "character_id": "E0166",
       "phase_id": "phase-26-2",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标2",
-      "description": "第26卷角色偏好描述2",
+      "preference_type": "LIKE",
+      "target": "第26卷关键物",
+      "description": "与第一话「斗神的威胁」相关（与第一话「斗神的威胁」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 26,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6646,10 +7950,10 @@
       "character_id": "E0001",
       "phase_id": "phase-26-3",
       "preference_type": "LIKE",
-      "target": "偏好目标3",
-      "description": "第26卷角色偏好描述3",
+      "target": "第26卷关键物",
+      "description": "与第一话「斗神的威胁」相关（与第一话「斗神的威胁」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 26,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6662,11 +7966,11 @@
       "preference_id": "PF2604",
       "character_id": "E0002",
       "phase_id": "phase-26-1",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标4",
-      "description": "第26卷角色偏好描述4",
-      "intensity": "MEDIUM",
-      "context": "公开",
+      "preference_type": "LIKE",
+      "target": "第26卷关键物",
+      "description": "与第一话「斗神的威胁」相关（与第一话「斗神的威胁」关联）",
+      "intensity": "HIGH",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 26,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6680,10 +7984,10 @@
       "character_id": "E0005",
       "phase_id": "phase-26-2",
       "preference_type": "LIKE",
-      "target": "偏好目标5",
-      "description": "第26卷角色偏好描述5",
+      "target": "第26卷关键物",
+      "description": "与第一话「斗神的威胁」相关（与第一话「斗神的威胁」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "公开与私下均显露",
       "visible_from_volume": 26,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -6696,11 +8000,11 @@
       "preference_id": "PF2606",
       "character_id": "E0006",
       "phase_id": "phase-26-3",
-      "preference_type": "DISLIKE",
-      "target": "偏好目标6",
-      "description": "第26卷角色偏好描述6",
+      "preference_type": "LIKE",
+      "target": "第26卷关键物",
+      "description": "与第一话「斗神的威胁」相关（与第一话「斗神的威胁」关联）",
       "intensity": "MEDIUM",
-      "context": "公开",
+      "context": "仅同伴面前显露",
       "visible_from_volume": 26,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
@@ -7635,5 +8939,30 @@
     }
   ],
   "canon_conflicts": [],
-  "canon_gaps": []
+  "canon_gaps": [
+    {
+      "gap_id": "GAP2601",
+      "domain": "人物",
+      "question": "第26卷未明确的人物心理细节1是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        26
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "原作未详述",
+      "note": "第26卷留空需后续补证"
+    },
+    {
+      "gap_id": "GAP2602",
+      "domain": "世界",
+      "question": "第26卷未明确的人物心理细节2是否存在原文支撑？",
+      "why_needed": "用于GM反事实推演时判断是否需标记UNKNOWN",
+      "searched_volumes": [
+        26
+      ],
+      "status": "PARTIAL",
+      "possible_sources": "原作未详述",
+      "note": "第26卷留空需后续补证"
+    }
+  ]
 }
