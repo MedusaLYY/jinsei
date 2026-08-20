@@ -107,7 +107,10 @@ def get_character_behavior_profile(
 
 def _profile_dict(row: sqlite3.Row) -> dict[str, object]:
     profile = dict(row)
-    profile["values"] = profile.pop("profile_values")
+    # pre-1.1 DBs may not have world-sim columns — tolerate missing cols
+    if "profile_values" in profile:
+        profile["values"] = profile.pop("profile_values")
+    # legacy JSON columns
     for column in (
         "personality_traits",
         "values",
@@ -126,7 +129,24 @@ def _profile_dict(row: sqlite3.Row) -> dict[str, object]:
         "knowledge_state",
         "relationship_tendencies",
     ):
-        profile[column] = _json_loads(str(profile[column]))
+        if column in profile:
+            profile[column] = _json_loads(str(profile[column]))
+    # world-sim deep-model JSON columns (v1.1+, tolerate absent cols on old DBs)
+    for column in (
+        "appearance_traits",
+        "body_traits",
+        "core_personality",
+        "surface_personality",
+        "hidden_personality",
+        "interests",
+        "dislikes",
+        "weaknesses",
+        "obsessions",
+        "habits",
+        "emotional_triggers",
+    ):
+        if column in profile:
+            profile[column] = _json_loads(str(profile[column]))
     return profile
 
 
@@ -405,6 +425,16 @@ def _event_dict(
         ).fetchall()
     ]
     event["actions"] = json.loads(str(row["actions"])) if row["actions"] else []
+    # world-sim event fields (v1.1) — tolerate old DBs missing columns
+    for col in (
+        "involved_factions",
+        "long_term_impacts",
+        "political_impacts",
+        "world_impacts",
+        "participant_actions",
+    ):
+        if col in event and isinstance(event[col], str):
+            event[col] = json.loads(event[col])
     event["prerequisites"] = (
         [
             dict(prerequisite_row)

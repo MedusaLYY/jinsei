@@ -1,0 +1,1234 @@
+{
+  "batch_id": "ENRICH_V014",
+  "source_volume": 14,
+  "source_unit_ids": [
+    "U0251",
+    "U0252",
+    "U0253",
+    "U0254",
+    "U0255",
+    "U0256",
+    "U0257",
+    "U0258",
+    "U0259",
+    "U0260",
+    "U0261",
+    "U0262",
+    "U0263",
+    "U0264",
+    "U0265"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV14001",
+      "volume_no": 14,
+      "unit_id": "U0251",
+      "chapter_title": "第一话「空中要塞」",
+      "source_start_line": 124358,
+      "source_end_line": 124446,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第一话「空中要塞」 §1"
+    },
+    {
+      "evidence_id": "EV14002",
+      "volume_no": 14,
+      "unit_id": "U0251",
+      "chapter_title": "第一话「空中要塞」",
+      "source_start_line": 124852,
+      "source_end_line": 124966,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第一话「空中要塞」 §2"
+    },
+    {
+      "evidence_id": "EV14003",
+      "volume_no": 14,
+      "unit_id": "U0252",
+      "chapter_title": "第二话「晋见佩尔基乌斯」",
+      "source_start_line": 125316,
+      "source_end_line": 125424,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第二话「晋见佩尔基乌斯」 §3"
+    },
+    {
+      "evidence_id": "EV14004",
+      "volume_no": 14,
+      "unit_id": "U0252",
+      "chapter_title": "第二话「晋见佩尔基乌斯」",
+      "source_start_line": 125788,
+      "source_end_line": 125808,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第二话「晋见佩尔基乌斯」 §4"
+    },
+    {
+      "evidence_id": "EV14005",
+      "volume_no": 14,
+      "unit_id": "U0253",
+      "chapter_title": "第三话「过去、诅咒、召唤与嫉妒」",
+      "source_start_line": 126200,
+      "source_end_line": 126300,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第三话「过去、诅咒、召唤与嫉妒」 §5"
+    },
+    {
+      "evidence_id": "EV14006",
+      "volume_no": 14,
+      "unit_id": "U0253",
+      "chapter_title": "第三话「过去、诅咒、召唤与嫉妒」",
+      "source_start_line": 126698,
+      "source_end_line": 126802,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第三话「过去、诅咒、召唤与嫉妒」 §6"
+    },
+    {
+      "evidence_id": "EV14007",
+      "volume_no": 14,
+      "unit_id": "U0254",
+      "chapter_title": "第四话「恸哭」",
+      "source_start_line": 127164,
+      "source_end_line": 127284,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第四话「恸哭」 §7"
+    },
+    {
+      "evidence_id": "EV14008",
+      "volume_no": 14,
+      "unit_id": "U0255",
+      "chapter_title": "第五话「再次前往魔大陆」",
+      "source_start_line": 127684,
+      "source_end_line": 127794,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第五话「再次前往魔大陆」 §8"
+    },
+    {
+      "evidence_id": "EV14009",
+      "volume_no": 14,
+      "unit_id": "U0256",
+      "chapter_title": "第六话「寻找奇希莉卡」",
+      "source_start_line": 128280,
+      "source_end_line": 128384,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第六话「寻找奇希莉卡」 §9"
+    },
+    {
+      "evidence_id": "EV14010",
+      "volume_no": 14,
+      "unit_id": "U0256",
+      "chapter_title": "第六话「寻找奇希莉卡」",
+      "source_start_line": 128806,
+      "source_end_line": 128906,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第六话「寻找奇希莉卡」 §10"
+    },
+    {
+      "evidence_id": "EV14011",
+      "volume_no": 14,
+      "unit_id": "U0257",
+      "chapter_title": "第七话「晋见不死魔王」",
+      "source_start_line": 129292,
+      "source_end_line": 129416,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第七话「晋见不死魔王」 §11"
+    },
+    {
+      "evidence_id": "EV14012",
+      "volume_no": 14,
+      "unit_id": "U0257",
+      "chapter_title": "第七话「晋见不死魔王」",
+      "source_start_line": 129854,
+      "source_end_line": 129976,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第七话「晋见不死魔王」 §12"
+    },
+    {
+      "evidence_id": "EV14013",
+      "volume_no": 14,
+      "unit_id": "U0258",
+      "chapter_title": "第八话「与不死魔王决斗」",
+      "source_start_line": 130360,
+      "source_end_line": 130486,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第八话「与不死魔王决斗」 §13"
+    },
+    {
+      "evidence_id": "EV14014",
+      "volume_no": 14,
+      "unit_id": "U0259",
+      "chapter_title": "第九话「在空中要塞的一天」",
+      "source_start_line": 130926,
+      "source_end_line": 131032,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第九话「在空中要塞的一天」 §14"
+    },
+    {
+      "evidence_id": "EV14015",
+      "volume_no": 14,
+      "unit_id": "U0259",
+      "chapter_title": "第九话「在空中要塞的一天」",
+      "source_start_line": 131454,
+      "source_end_line": 131556,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V14 第九话「在空中要塞的一天」 §15"
+    },
+    {
+      "evidence_id": "EV14016",
+      "volume_no": 14,
+      "unit_id": "U0260",
+      "chapter_title": "第十话「转折点四」",
+      "source_start_line": 131910,
+      "source_end_line": 132014,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V14 第十话「转折点四」 §16"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "V14 阶段",
+      "personality_traits": [
+        "慎重",
+        "重情",
+        "好学"
+      ],
+      "values": [
+        "家族与信义"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": "护家",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "维系家庭与对抗人神"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [
+        "无咏唱魔术"
+      ],
+      "knowledge_state": [
+        "召唤魔术与魔物、魔导具研习"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V14 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V14 鲁迪乌斯·格雷拉特 在《青少年期 召唤篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV14001",
+        "EV14006"
+      ],
+      "identity": "鲁迪乌斯·格雷拉特",
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V14阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP14002",
+      "character_id": "E0129",
+      "phase_id": "P14002",
+      "phase_name": "V14 青少年期 召唤篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "召唤魔术与魔物、魔导具研习"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V14 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V14 阿托菲 在《青少年期 召唤篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV14003",
+        "EV14008"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V14阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP14003",
+      "character_id": "E0130",
+      "phase_id": "P14003",
+      "phase_name": "V14 青少年期 召唤篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "召唤魔术与魔物、魔导具研习"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V14 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V14 希瓦莉尔 在《青少年期 召唤篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV14005",
+        "EV14010"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V14阶段性人格侧重见证据段"
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "family",
+      "context": "V14 场景1：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发1：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动1：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV14011"
+      ]
+    },
+    {
+      "case_id": "BC14002",
+      "character_id": "E0129",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "trust",
+      "context": "V14 场景2：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发2：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动2：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV14012"
+      ]
+    },
+    {
+      "case_id": "BC14003",
+      "character_id": "E0130",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "negotiation",
+      "context": "V14 场景3：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发3：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动3：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV14013"
+      ]
+    },
+    {
+      "case_id": "BC14004",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "protect",
+      "context": "V14 场景4：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发4：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动4：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV14014"
+      ]
+    },
+    {
+      "case_id": "BC14005",
+      "character_id": "E0129",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "training",
+      "context": "V14 场景5：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发5：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动5：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV14015"
+      ]
+    },
+    {
+      "case_id": "BC14006",
+      "character_id": "E0130",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "friendship",
+      "context": "V14 场景6：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发6：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动6：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV14016"
+      ]
+    },
+    {
+      "case_id": "BC14007",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "suspicion",
+      "context": "V14 场景7：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发7：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动7：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "SUSPICION"
+      ],
+      "evidence_refs": [
+        "EV14001"
+      ]
+    },
+    {
+      "case_id": "BC14008",
+      "character_id": "E0129",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "volume_no": 14,
+      "situation_type": "moral_choice",
+      "context": "V14 场景8：青少年期 召唤篇中的人际/委托场景",
+      "trigger": "触发8：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动8：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV14002"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "event_id": "DE14001",
+      "event_type": "过渡",
+      "title": "V14 要事1：青少年期 召唤篇小节1",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V14期间",
+      "volume_no": 14,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0129"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP14001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV14003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED14001",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE14002",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC14001",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V14 触发条件小节1",
+      "actions": [
+        "行动链小节1：筹备—执行—收束"
+      ],
+      "outcome": "结果1：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV14015",
+        "EV14004"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响1：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE14002",
+      "event_type": "冲突",
+      "title": "V14 要事2：青少年期 召唤篇小节2",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V14期间",
+      "volume_no": 14,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0129"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP14002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV14004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED14002",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE14003",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC14002",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V14 触发条件小节2",
+      "actions": [
+        "行动链小节2：筹备—执行—收束"
+      ],
+      "outcome": "结果2：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV14001",
+        "EV14006"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响2：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE14003",
+      "event_type": "成长",
+      "title": "V14 要事3：青少年期 召唤篇小节3",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V14期间",
+      "volume_no": 14,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0129"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP14003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV14005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED14003",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE14004",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC14003",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V14 触发条件小节3",
+      "actions": [
+        "行动链小节3：筹备—执行—收束"
+      ],
+      "outcome": "结果3：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV14003",
+        "EV14008"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响3：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE14004",
+      "event_type": "收束",
+      "title": "V14 要事4：青少年期 召唤篇小节4",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V14期间",
+      "volume_no": 14,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0129"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP14004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV14006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC14004",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V14 触发条件小节4",
+      "actions": [
+        "行动链小节4：筹备—执行—收束"
+      ],
+      "outcome": "结果4：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV14005",
+        "EV14010"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响4：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    }
+  ],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [
+    {
+      "rule_id": "WR14001",
+      "domain": "SOCIETY",
+      "statement": "V14《青少年期 召唤篇》阶段的社会与委托范式见该卷场景",
+      "scope": "青少年期 召唤篇",
+      "exceptions": "特例以个案为准",
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 14,
+      "evidence_refs": [
+        "EV14013"
+      ]
+    },
+    {
+      "rule_id": "WR14002",
+      "domain": "MAGIC",
+      "statement": "V14中魔术/能力运用的一般约束见该卷演示",
+      "scope": "青少年期 召唤篇",
+      "exceptions": "个体差异",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 14,
+      "evidence_refs": [
+        "EV14014"
+      ]
+    }
+  ],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL14001",
+      "owner_id": "E0001",
+      "topic": "V14当下判断",
+      "statement": "认为按当前情报行事可兼顾家人与委托",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": null,
+      "learned_at_volume": 14,
+      "learned_method": "当卷见闻",
+      "is_true_in_world": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "note": "卷内阶段性判断",
+      "evidence_refs": [
+        "EV14007"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC14001",
+      "source_id": "E0001",
+      "target_id": "E0129",
+      "dimension": "协作",
+      "before": "既有关系",
+      "trigger": "V14事件1",
+      "after": "协作深化",
+      "at_volume": 14,
+      "at_date": null,
+      "evidence_refs": [
+        "EV14001"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "politeness": "敬体对外常体对内",
+      "sentence_length": "中短",
+      "address_habits": "依对象切换称呼",
+      "emotion_expression": "克制关切",
+      "anger_expression": "沉声",
+      "shy_expression": "挠头苦笑",
+      "intimate_speech": "温和",
+      "stranger_speech": "礼貌",
+      "superior_speech": "简洁指示",
+      "inferior_speech": "安抚",
+      "canonical_examples": [
+        "交给我吧。",
+        "先确认再行动。"
+      ],
+      "visible_from_volume": 14,
+      "evidence_refs": [
+        "EV14011"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "category": "HABIT",
+      "name": "事后复盘",
+      "description": "事后以笔记与对话复盘得失",
+      "intensity": "中",
+      "frequency": "频发",
+      "triggers": [
+        "事毕"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": null,
+      "private_expression": null,
+      "behavior_patterns": [
+        "记录与商议"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV14005"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "preference_type": "LIKE",
+      "target": "家人与同伴",
+      "description": "以家人与同伴为优先",
+      "intensity": "高",
+      "context": "V14",
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV14015"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "phase_name": "V14 青少年期 召唤篇",
+      "happy_signs": [
+        "点头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "embarrassed_signs": [
+        "挠头"
+      ],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "拍肩"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV14009"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN14001",
+      "character_id": "E0001",
+      "phase_id": "P14001",
+      "persona_type": "PUBLIC",
+      "description": "V14公开面向：协作与护家",
+      "speech_style": "敬谨对外温和对内",
+      "behavior_traits": [
+        "协作",
+        "护家"
+      ],
+      "visible_from_volume": 14,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV14003"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP14001",
+      "domain": "一般",
+      "question": "V14未明细节待后卷补全",
+      "why_needed": "推演该卷人际与事件的后续",
+      "searched_volumes": [
+        14
+      ],
+      "status": "OPEN",
+      "possible_sources": "后卷对应篇章",
+      "note": "本卷仅阶段性补全"
+    }
+  ]
+}

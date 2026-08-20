@@ -1,0 +1,2322 @@
+{
+  "abilities": [
+    {
+      "ability_id": "AB26001",
+      "ability_type": "SWORD",
+      "aliases": [
+        "王龙大上段"
+      ],
+      "counters": [],
+      "duration_if_known": "瞬时",
+      "effects": [
+        "斩断不死身手臂与躯干"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV26025"
+      ],
+      "known_users": [
+        "E0021"
+      ],
+      "learning_method": [],
+      "limitations": [
+        "需王龙剑"
+      ],
+      "mana_cost_if_known": null,
+      "name": "王龙剑斩切",
+      "preconditions": [],
+      "qualitative_power": "神级斩切",
+      "range_if_known": "近战",
+      "requirements": [
+        "王龙剑"
+      ],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": "神级"
+    },
+    {
+      "ability_id": "AB26002",
+      "ability_type": "SWORD",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": "瞬时",
+      "effects": [
+        "劈开斗神铠"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV26026"
+      ],
+      "known_users": [
+        "E0079"
+      ],
+      "learning_method": [],
+      "limitations": [],
+      "mana_cost_if_known": null,
+      "name": "神刀",
+      "preconditions": [],
+      "qualitative_power": "龙神级",
+      "range_if_known": "近战",
+      "requirements": [],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": "神级"
+    },
+    {
+      "ability_id": "AB26003",
+      "ability_type": "MAGIC",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": "长久",
+      "effects": [
+        "封印巴迪冈迪"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV26027"
+      ],
+      "known_users": [
+        "E0029"
+      ],
+      "learning_method": [],
+      "limitations": [],
+      "mana_cost_if_known": null,
+      "name": "地龙谷封印术",
+      "preconditions": [],
+      "qualitative_power": "王级结界",
+      "range_if_known": "结界",
+      "requirements": [
+        "佩尔基乌斯"
+      ],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": null
+    }
+  ],
+  "batch_id": "ENRICH_V026",
+  "behavior_cases": [
+    {
+      "action": "无咏唱多重魔术与地形协同",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26001",
+      "character_id": "E0001",
+      "context": "毕黑利尔战场以岩炮与无咏唱压制",
+      "emotional_response": "凝重而专注",
+      "evidence_refs": [
+        "EV26021"
+      ],
+      "goal_at_time": "封印巴迪冈迪并终结人神使徒链条",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "protect",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "巴迪冈迪与基斯现身",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "王龙剑大上段斩落手臂",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26002",
+      "character_id": "E0021",
+      "context": "持王龙剑斩切巴迪冈迪手臂",
+      "emotional_response": "愤怒后决绝",
+      "evidence_refs": [
+        "EV26022"
+      ],
+      "goal_at_time": "封印巴迪冈迪并终结人神使徒链条",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "combat",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "巴迪冈迪突袭希露菲与艾莉丝",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "二次斩切致其倒地",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26003",
+      "character_id": "E0021",
+      "context": "补刀斩切巴迪冈迪躯干",
+      "emotional_response": "决意",
+      "evidence_refs": [
+        "EV26023"
+      ],
+      "goal_at_time": "封印巴迪冈迪并终结人神使徒链条",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "combat",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "断臂斗神仍前冲",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "以土墙与魔力盾阻隔",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26004",
+      "character_id": "E0001",
+      "context": "掩护希露菲搬运伤员与治疗衔接",
+      "emotional_response": "焦虑后镇定",
+      "evidence_refs": [
+        "EV26024"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "protect",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "PROTECT"
+      ],
+      "trigger": "战线被斗神冲击撕开",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "以神刀劈开斗神铠",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26005",
+      "character_id": "E0079",
+      "context": "神刀对斗神铠亚历山大",
+      "emotional_response": "冷静碾压",
+      "evidence_refs": [
+        "EV26025"
+      ],
+      "goal_at_time": "封印巴迪冈迪并终结人神使徒链条",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "combat",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "亚历山大借残片复生着铠",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "再战后被制服封印",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26006",
+      "character_id": "E0113",
+      "context": "复活后仍求对决再被封印",
+      "emotional_response": "不甘而豪笑",
+      "evidence_refs": [
+        "EV26026"
+      ],
+      "goal_at_time": "封印巴迪冈迪并终结人神使徒链条",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "combat",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "被王龙剑斩切后不死性再生",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "预置斗神铠残片与毕塔疫病",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26007",
+      "character_id": "E0057",
+      "context": "以遗策发动疫病与亚历山大复生",
+      "emotional_response": "狞笑",
+      "evidence_refs": [
+        "EV26027"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "betrayal",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "BETRAYAL"
+      ],
+      "trigger": "自身将死仍布局",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "令火化以绝人神再利用",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26008",
+      "character_id": "E0001",
+      "context": "战后确认基斯尸体火化",
+      "emotional_response": "肃然",
+      "evidence_refs": [
+        "EV26028"
+      ],
+      "goal_at_time": "守护家庭至终",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "family",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "FAMILY"
+      ],
+      "trigger": "基斯战死倒地",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "夹击斩杀剑神",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26009",
+      "character_id": "E0110",
+      "context": "艾莉丝与瑞杰路德合斩加尔",
+      "emotional_response": "决然",
+      "evidence_refs": [
+        "EV26001"
+      ],
+      "goal_at_time": "封印巴迪冈迪并终结人神使徒链条",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "combat",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "加尔持王龙剑对手",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "请佩尔基乌斯布结界",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26010",
+      "character_id": "E0001",
+      "context": "佩尔基乌斯协力设地龙谷结界",
+      "emotional_response": "敬慎托付",
+      "evidence_refs": [
+        "EV26002"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "loyalty",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "LOYALTY"
+      ],
+      "trigger": "需长久封印巴迪冈迪",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "在希露菲洛琪希艾莉丝环绕中闭眼",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26011",
+      "character_id": "E0001",
+      "context": "家中安详离世前与三妻话别",
+      "emotional_response": "平静满足",
+      "evidence_refs": [
+        "EV26003"
+      ],
+      "goal_at_time": "守护家庭至终",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "family",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "FAMILY"
+      ],
+      "trigger": "年迈体衰临终",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "握手陪伴至最后一息",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26012",
+      "character_id": "E0006",
+      "context": "守候鲁迪临终并收拾遗容",
+      "emotional_response": "悲伤而温柔",
+      "evidence_refs": [
+        "EV26004"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "grief",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "GRIEF"
+      ],
+      "trigger": "鲁迪逝世",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "以母职哺育与教育",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26013",
+      "character_id": "E0005",
+      "context": "抚养莉莉并守护其成长",
+      "emotional_response": "慈爱",
+      "evidence_refs": [
+        "EV26005"
+      ],
+      "goal_at_time": "守护家庭至终",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "family",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "FAMILY"
+      ],
+      "trigger": "莉莉出生后",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    },
+    {
+      "action": "向子孙低语离间",
+      "available_information": "终章当下战况与对话可见",
+      "case_id": "BC26014",
+      "character_id": "E0032",
+      "context": "人神死后仍谋划以鲁迪子孙为棋",
+      "emotional_response": "阴冷",
+      "evidence_refs": [
+        "EV26006"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部战果或情感收束",
+      "long_term_outcome": "推动封印与家族延续",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "relationship_context": "与奥尔斯帝德与家人战友协同",
+      "situation_type": "suspicion",
+      "social_context": "毕黑利尔王国决战与家中终局",
+      "tags": [
+        "SUSPICION"
+      ],
+      "trigger": "鲁迪逝世人神未灭",
+      "verbal_response": "依情境简短回应或无言斩切",
+      "volume_no": 26
+    }
+  ],
+  "beliefs": [
+    {
+      "belief_id": "BL26001",
+      "belief_state": "FALSE_BELIEF",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV26017"
+      ],
+      "is_true_in_world": false,
+      "learned_at_volume": 26,
+      "learned_from": "人神神谕",
+      "learned_method": "被托付",
+      "note": "误判奥尔斯帝德与王龙剑",
+      "owner_id": "E0057",
+      "statement": "以为凭斗神与剑神可一举击溃奥尔斯帝德阵营",
+      "topic": "使徒必胜",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL26002",
+      "belief_state": "FACT_KNOWN",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV26018"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 26,
+      "learned_from": "奥尔斯帝德与佩尔基乌斯",
+      "learned_method": "战前商议",
+      "note": "地龙谷结界为共识",
+      "owner_id": "E0001",
+      "statement": "认为巴迪冈迪只能封印不可彻底杀死",
+      "topic": "封印可行",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL26003",
+      "belief_state": "INFERRED",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV26019"
+      ],
+      "is_true_in_world": false,
+      "learned_at_volume": 26,
+      "learned_from": "对未来的观测",
+      "learned_method": "神视",
+      "note": "人神谋划",
+      "owner_id": "E0032",
+      "statement": "认为鲁迪乌斯死后可轻易离间其子孙延续对抗",
+      "topic": "子孙可欺",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "affection_signs": [
+        "握手",
+        "抚头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "character_id": "E0001",
+      "embarrassed_signs": [
+        "苦笑"
+      ],
+      "evidence_refs": [
+        "EV26011"
+      ],
+      "fear_signs": [],
+      "happy_signs": [
+        "微笑",
+        "轻拍"
+      ],
+      "hostility_signs": [],
+      "lying_signs": [],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "profile_id": "BY26001",
+      "thinking_signs": [
+        "托腮权衡"
+      ],
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "affection_signs": [
+        "挽臂"
+      ],
+      "angry_signs": [
+        "瞪目",
+        "拔剑"
+      ],
+      "character_id": "E0021",
+      "embarrassed_signs": [
+        "别过脸"
+      ],
+      "evidence_refs": [
+        "EV26012"
+      ],
+      "fear_signs": [],
+      "happy_signs": [
+        "咧嘴"
+      ],
+      "hostility_signs": [
+        "剑指"
+      ],
+      "lying_signs": [],
+      "nervous_signs": [],
+      "phase_id": "P26002",
+      "phase_name": "终章·狂剑王决战期",
+      "profile_id": "BY26002",
+      "thinking_signs": [],
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "domain": "封印",
+      "gap_id": "GAP26001",
+      "note": "卷终仅言封印，未给结界术式细节",
+      "possible_sources": "后日谈与续作补述",
+      "question": "地龙谷结界的具体维持年限与魔力供给方式为何？",
+      "searched_volumes": [
+        26
+      ],
+      "status": "OPEN",
+      "why_needed": "推演封印松动时的再战时间窗"
+    },
+    {
+      "domain": "七大列强",
+      "gap_id": "GAP26002",
+      "note": "仅见列位宣告，无仪式描写",
+      "possible_sources": "王龙王国与甲龙王相关文书",
+      "question": "鲁迪乌斯列第七位的正式授位仪式与权能边界为何？",
+      "searched_volumes": [
+        26
+      ],
+      "status": "OPEN",
+      "why_needed": "判定列强位阶在政治推演中的实际效力"
+    }
+  ],
+  "character_personas": [
+    {
+      "behavior_traits": [
+        "克制",
+        "托付"
+      ],
+      "character_id": "E0001",
+      "description": "对外为奥尔斯帝德属下第七位，对内为临终前温和的家长",
+      "evidence_refs": [
+        "EV26021"
+      ],
+      "persona_id": "PN26001",
+      "persona_type": "PUBLIC",
+      "phase_id": "P26001",
+      "speech_style": "对外敬慎，对家温和",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "behavior_traits": [
+        "悍勇",
+        "忠直"
+      ],
+      "character_id": "E0021",
+      "description": "对外为狂剑王，对内为鲁迪乌斯的剑与妻",
+      "evidence_refs": [
+        "EV26022"
+      ],
+      "persona_id": "PN26002",
+      "persona_type": "PUBLIC",
+      "phase_id": "P26002",
+      "speech_style": "短促直言",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "character_preferences": [
+    {
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "context": "临终前",
+      "description": "终章以家中围坐、子女成长为最高价值",
+      "evidence_refs": [
+        "EV26001"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P26001",
+      "preference_id": "PF26001",
+      "preference_type": "LIKE",
+      "target": "家人环绕的日常",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "context": "临终托付",
+      "description": "厌恶人神以低语离间子孙",
+      "evidence_refs": [
+        "EV26002"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P26001",
+      "preference_id": "PF26002",
+      "preference_type": "DISLIKE",
+      "target": "人神对子孙的离间",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "character_profiles": [
+    {
+      "age_description": "74岁，毕黑利尔决战后十年安享晚年于家中逝世",
+      "ambition": "LOW",
+      "attachment_style": "对家庭依恋",
+      "authority_attitude": "尊奉奥尔斯帝德",
+      "behavior_changes_note": "从战时的谋划者转为终章的家族守望者",
+      "character_id": "E0001",
+      "conflict_tendencies": [
+        "以魔术与王龙剑协同压制，再以结界封印"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "守护家庭至临终",
+        "协助奥尔斯帝德封印巴迪冈迪"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26001",
+        "EV26008"
+      ],
+      "family_attitude": "以父职为重",
+      "fears": [
+        "家庭再遭人神离间",
+        "毕塔式疫病再现"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知晓巴迪冈迪被封印于地龙谷",
+        "知晓基斯战死火化",
+        "知晓自身列第七位"
+      ],
+      "known_skills": [
+        "无咏唱魔术",
+        "岩炮弹",
+        "魔导铠运用"
+      ],
+      "long_term_goals": [
+        "家族延续不受人神离间"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对奥尔斯帝德的部下职责",
+        "对家庭的终身承诺"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "坚韧",
+        "护家",
+        "务实",
+        "好色而克制"
+      ],
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "pride": "守护家人",
+      "profile_id": "CP26001",
+      "race_attitude": "尊重兽族与魔族",
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "协助封印巴迪冈迪",
+        "安度余生"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "对奥尔斯帝德敬语，对家人常体"
+      ],
+      "start_date": null,
+      "status_attitude": "无意虚名而列第七位",
+      "summary": "V026核心为最终决战与寿终正寝的收束卷。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "家人至上",
+        "忠于奥尔斯帝德",
+        "实用主义"
+      ],
+      "violence_attitude": "克制而决断",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "三十余岁，剑王，持王龙剑斩切斗神巴迪冈迪",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从游击剑士转为决战主攻",
+      "character_id": "E0021",
+      "conflict_tendencies": [
+        "正面斩切"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "以剑守护鲁迪乌斯",
+        "斩杀加尔与重创巴迪冈迪"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26004",
+        "EV26011"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "孕后体能受限复发",
+        "鲁迪离世的失落"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知晓王龙剑可切斗神",
+        "知晓加尔为敌"
+      ],
+      "known_skills": [
+        "剑王剑术",
+        "王龙剑大上段斩切"
+      ],
+      "long_term_goals": [
+        "守护所在阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "战友职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "直率",
+        "好战",
+        "重情义",
+        "悍勇"
+      ],
+      "phase_id": "P26002",
+      "phase_name": "终章·狂剑王决战期",
+      "pride": null,
+      "profile_id": "CP26002",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当下职责"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "简洁直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "卷末以王龙剑两度斩切巴迪冈迪、并斩加尔。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "力量",
+        "忠诚",
+        "家庭"
+      ],
+      "violence_attitude": "好战而直来",
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "龙神，以神刀击败斗神铠亚历山大",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从幕后调度转为正面决胜",
+      "character_id": "E0079",
+      "conflict_tendencies": [
+        "策略后决胜"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "以神刀击败亚历山大",
+        "主持巴迪冈迪封印"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26007",
+        "EV26014"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "诅咒致孤立"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知晓斗神铠残片机制",
+        "知晓地龙谷结界"
+      ],
+      "known_skills": [
+        "神刀术",
+        "龙神流"
+      ],
+      "long_term_goals": [
+        "守护所在阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "战友职责"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "冷峻",
+        "谋略深远",
+        "重承诺"
+      ],
+      "phase_id": "P26003",
+      "phase_name": "终章·龙神决胜期",
+      "pride": null,
+      "profile_id": "CP26003",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "完成当下职责"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "简洁直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "龙神在终决中完成对人神使徒链条的收束击。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "打倒人神",
+        "守护轮回成果"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "不死身魔王，复活后被封印于地龙谷结界",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从不死斗神转为被封印状态",
+      "character_id": "E0113",
+      "conflict_tendencies": [
+        "策略后决胜"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "求与强者对决"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26010",
+        "EV26017"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "被王龙剑切断再生受限"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知地龙谷为封印地"
+      ],
+      "known_skills": [
+        "斗神铠",
+        "不死身再生"
+      ],
+      "long_term_goals": [
+        "守护所在阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "战友职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "豪放",
+        "好战",
+        "重义"
+      ],
+      "phase_id": "P26004",
+      "phase_name": "终章·斗神封印期",
+      "pride": null,
+      "profile_id": "CP26004",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当下职责"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "简洁直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "斗神本卷经历被斩、复活、再败而封印。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "战斗与酒"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "人神使徒，终决中战死并火化，遗策仍发动亚历山大复生",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从暗线操盘转为败亡后仍遗害",
+      "character_id": "E0057",
+      "conflict_tendencies": [
+        "策略后决胜"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "诱导毕塔与亚历山大"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26013",
+        "EV26020"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "被识破"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知疫病源于毕塔"
+      ],
+      "known_skills": [
+        "使徒策动",
+        "疫病散布指使"
+      ],
+      "long_term_goals": [
+        "守护所在阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "战友职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "狡黠",
+        "煽动",
+        "忠于人神"
+      ],
+      "phase_id": "P26005",
+      "phase_name": "终章·人神使徒末路期",
+      "pride": null,
+      "profile_id": "CP26005",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当下职责"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "简洁直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "基斯之死为终章关键节点，其遗策延续至亚历山大复生。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "人神胜利"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "三十余岁，鲁迪第二妻，莉莉之母，终章陪伴临终",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": "尊敬奥尔斯帝德",
+      "behavior_changes_note": "从冒险教师转为家族母亲",
+      "character_id": "E0005",
+      "conflict_tendencies": [
+        "策略后决胜"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "守护莉莉与家庭"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26016",
+        "EV26023"
+      ],
+      "family_attitude": "以母职为重",
+      "fears": [
+        "丈夫老去"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知莉莉出生",
+        "知鲁迪病逝安详"
+      ],
+      "known_skills": [
+        "水王级魔术",
+        "治愈辅助"
+      ],
+      "long_term_goals": [
+        "守护所在阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "家庭职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "聪慧",
+        "坚强",
+        "包容"
+      ],
+      "phase_id": "P26006",
+      "phase_name": "终章·家庭支援期",
+      "pride": null,
+      "profile_id": "CP26006",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "LOW",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当下职责"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "简洁直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "洛琪希在终章回归家庭支柱角色。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "家庭与知识"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "三十余岁，鲁迪第一妻，陪伴至其临终",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": "尊敬奥尔斯帝德",
+      "behavior_changes_note": "从青梅守护转为终身陪伴",
+      "character_id": "E0006",
+      "conflict_tendencies": [
+        "策略后决胜"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先保家人再求胜"
+      ],
+      "desires": [
+        "守护丈夫与子女"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV26019",
+        "EV26026"
+      ],
+      "family_attitude": "以母职为重",
+      "fears": [
+        "失去至亲的恐惧"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对别离不安"
+      ],
+      "knowledge_state": [
+        "知鲁迪临终平静",
+        "知子女成年"
+      ],
+      "known_skills": [
+        "治愈与支援魔术"
+      ],
+      "long_term_goals": [
+        "守护所在阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "家庭职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "温柔",
+        "包容",
+        "坚定"
+      ],
+      "phase_id": "P26007",
+      "phase_name": "终章·陪伴至终期",
+      "pride": null,
+      "profile_id": "CP26007",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "护家"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "LOW",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当下职责"
+      ],
+      "social_tendencies": [
+        "组织协同"
+      ],
+      "speech_tendencies": [
+        "简洁直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "希露菲为鲁迪临终在场核心，见证其安详离世。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "家庭和谐"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "character_quirks": [
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "握手",
+        "轻抚头"
+      ],
+      "body_language": "握手",
+      "boundaries": [
+        "不向外人示弱"
+      ],
+      "category": "HABIT",
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "description": "晚年反复向家人道谢与托付，强调勿为人神离间",
+      "emotional_response": "平静",
+      "emotional_reward": "安心",
+      "end_date": null,
+      "evidence_refs": [
+        "EV26019"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [],
+      "frequency": "偶发",
+      "intensity": "中",
+      "name": "临终家话",
+      "phase_id": "P26001",
+      "preferred_targets": [],
+      "private_expression": "独处时轻声愧疚自语",
+      "public_expression": "家中围坐时温言",
+      "quirk_id": "QK26001",
+      "start_date": null,
+      "triggers": [
+        "家族团聚",
+        "临终前"
+      ],
+      "verbal_patterns": [
+        "谢谢",
+        "拜托了"
+      ],
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    },
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "大上段起手",
+        "一刀两断"
+      ],
+      "body_language": "持剑前冲",
+      "boundaries": [
+        "不斩家人"
+      ],
+      "category": "HABIT",
+      "character_id": "E0021",
+      "confidence": "EXPLICIT",
+      "description": "遇挑衅或危机不作口舌，直接拔王龙剑斩切",
+      "emotional_response": "豪快",
+      "emotional_reward": "畅快",
+      "end_date": null,
+      "evidence_refs": [
+        "EV26020"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [
+        "孕期会收力"
+      ],
+      "frequency": "频发",
+      "intensity": "高",
+      "name": "以剑代答",
+      "phase_id": "P26002",
+      "preferred_targets": [],
+      "private_expression": null,
+      "public_expression": "当众拔剑斩切",
+      "quirk_id": "QK26002",
+      "start_date": null,
+      "triggers": [
+        "被挑衅",
+        "家人受威胁"
+      ],
+      "verbal_patterns": [],
+      "visible_from_volume": 26,
+      "visible_to_volume": null
+    }
+  ],
+  "creatures": [],
+  "detailed_events": [
+    {
+      "actions": [
+        "鲁迪无咏唱、艾莉丝王龙剑、奥尔斯帝德神刀协同迎敌"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED26001",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE26002"
+        }
+      ],
+      "event_id": "DE26001",
+      "event_type": "决战",
+      "evidence_refs": [
+        "EV26008",
+        "EV26015"
+      ],
+      "location_id": null,
+      "outcome": "斗神受创倒地",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0079",
+        "E0113",
+        "E0057"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV26013"
+          ],
+          "prerequisite_id": "EP26001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "胜后收束",
+          "before": "对峙",
+          "change_id": "SC26001",
+          "change_kind": "状态",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "最终决战毕黑利尔开战",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0095",
+      "title": "最终决战毕黑利尔开战",
+      "trigger": "巴迪冈迪与基斯率斗神势力现身",
+      "volume_no": 26
+    },
+    {
+      "actions": [
+        "确认死亡并火化其尸"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED26002",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE26003"
+        }
+      ],
+      "event_id": "DE26002",
+      "event_type": "终局",
+      "evidence_refs": [
+        "EV26010",
+        "EV26017"
+      ],
+      "location_id": null,
+      "outcome": "绝其再被利用并揭露遗策",
+      "participants": [
+        "E0057",
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV26014"
+          ],
+          "prerequisite_id": "EP26003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0057",
+          "statement": "E0057在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "死亡并火化",
+          "before": "存活",
+          "change_id": "SC26002",
+          "change_kind": "生死",
+          "subject_id": "E0057"
+        }
+      ],
+      "time_date": null,
+      "time_note": "基斯之死与火化",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0096",
+      "title": "基斯之死与火化",
+      "trigger": "基斯战死倒地",
+      "volume_no": 26
+    },
+    {
+      "actions": [
+        "艾莉丝与瑞杰路德合击斩杀"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED26003",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE26004"
+        }
+      ],
+      "event_id": "DE26003",
+      "event_type": "决战",
+      "evidence_refs": [
+        "EV26012",
+        "EV26019"
+      ],
+      "location_id": null,
+      "outcome": "剑神陨落",
+      "participants": [
+        "E0110",
+        "E0021",
+        "E0031"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV26015"
+          ],
+          "prerequisite_id": "EP26005",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0110",
+          "statement": "E0110在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "胜后收束",
+          "before": "对峙",
+          "change_id": "SC26003",
+          "change_kind": "状态",
+          "subject_id": "E0110"
+        }
+      ],
+      "time_date": null,
+      "time_note": "加尔·法利昂被斩",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": null,
+      "title": "加尔·法利昂被斩",
+      "trigger": "剑神加尔参战",
+      "volume_no": 26
+    },
+    {
+      "actions": [
+        "佩尔基乌斯设地龙谷结界封印"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED26004",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE26005"
+        }
+      ],
+      "event_id": "DE26004",
+      "event_type": "封印",
+      "evidence_refs": [
+        "EV26014",
+        "EV26021"
+      ],
+      "location_id": null,
+      "outcome": "巴迪冈迪被封",
+      "participants": [
+        "E0113",
+        "E0079",
+        "E0029",
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV26016"
+          ],
+          "prerequisite_id": "EP26007",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0113",
+          "statement": "E0113在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "地龙谷封印中",
+          "before": "自由斗神",
+          "change_id": "SC26004",
+          "change_kind": "封印",
+          "subject_id": "E0113"
+        }
+      ],
+      "time_date": null,
+      "time_note": "巴迪冈迪封印地龙谷",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0097",
+      "title": "巴迪冈迪封印地龙谷",
+      "trigger": "斗神再败需长久封印",
+      "volume_no": 26
+    },
+    {
+      "actions": [
+        "在三妻环绕中闭眼"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [],
+      "event_id": "DE26005",
+      "event_type": "终章",
+      "evidence_refs": [
+        "EV26016",
+        "EV26023"
+      ],
+      "location_id": null,
+      "outcome": "列第七位而逝，人神仍图子孙",
+      "participants": [
+        "E0001",
+        "E0006",
+        "E0005",
+        "E0021"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV26017"
+          ],
+          "prerequisite_id": "EP26009",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "逝世享年74",
+          "before": "在世",
+          "change_id": "SC26005",
+          "change_kind": "生死",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "鲁迪乌斯安详离世",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0098",
+      "title": "鲁迪乌斯安详离世",
+      "trigger": "年迈74岁临终",
+      "volume_no": 26
+    }
+  ],
+  "economic_observations": [
+    {
+      "amount_description": null,
+      "at_date": null,
+      "at_volume": 26,
+      "category": "战后处理",
+      "context": "基斯火化与结界布设为战后收束",
+      "currency": null,
+      "evidence_refs": [
+        "EV26024"
+      ],
+      "goods_description": "火化所需柴薪与结界维持",
+      "item_id": null,
+      "location_id": null,
+      "location_name": "毕黑利尔王国",
+      "observation_id": "EC26001",
+      "price_class": "UNKNOWN",
+      "quantity": null
+    }
+  ],
+  "evidence": [
+    {
+      "chapter_title": "第一话「斗神的威胁」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26001",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "决战前夜加尔对阵与迦尔遗策铺垫",
+      "source_end_line": 231926,
+      "source_start_line": 231820,
+      "unit_id": "U0441",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第一话「斗神的威胁」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26002",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "人神谋划与鲁迪乌斯队伍集结",
+      "source_end_line": 231996,
+      "source_start_line": 231928,
+      "unit_id": "U0441",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第一话「斗神的威胁」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26003",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "毕黑利尔王国战场部署与鬼神协作",
+      "source_end_line": 232452,
+      "source_start_line": 232342,
+      "unit_id": "U0441",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第一话「斗神的威胁」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26004",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "奥尔斯帝德神刀准备与鲁迪无咏唱待机",
+      "source_end_line": 232734,
+      "source_start_line": 232612,
+      "unit_id": "U0441",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第二话「最后王牌」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26005",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第二话推进与时间争夺",
+      "source_end_line": 233246,
+      "source_start_line": 233128,
+      "unit_id": "U0442",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第二话「最后王牌」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26006",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "巴迪冈迪冲击与希露菲艾莉丝受击细节",
+      "source_end_line": 234200,
+      "source_start_line": 234048,
+      "unit_id": "U0442",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第三话「转折点五」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26007",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "转折僵局与王龙剑交付前奏",
+      "source_end_line": 234356,
+      "source_start_line": 234236,
+      "unit_id": "U0443",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第三话「转折点五」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26008",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "艾莉丝以王龙剑斩切巴迪冈迪手臂",
+      "source_end_line": 234818,
+      "source_start_line": 234644,
+      "unit_id": "U0443",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第三话「转折点五」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26009",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "巴迪冈迪断臂后仍战与艾莉丝补刀",
+      "source_end_line": 234958,
+      "source_start_line": 234820,
+      "unit_id": "U0443",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第三话「转折点五」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26010",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "基斯尸体确认与人神使徒残策",
+      "source_end_line": 235058,
+      "source_start_line": 234960,
+      "unit_id": "U0443",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第三话「转折点五」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26011",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "基斯之死火化与战后处理",
+      "source_end_line": 235164,
+      "source_start_line": 235060,
+      "unit_id": "U0443",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第三话「转折点五」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26012",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "加尔·法利昂被艾莉丝与瑞杰路德斩杀",
+      "source_end_line": 235594,
+      "source_start_line": 235458,
+      "unit_id": "U0443",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第四话「战斗结束」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26013",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第四话战后收束与负伤救治",
+      "source_end_line": 235838,
+      "source_start_line": 235736,
+      "unit_id": "U0444",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第四话「战斗结束」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26014",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "亚历山大借斗神铠残片复生出阵",
+      "source_end_line": 236094,
+      "source_start_line": 235966,
+      "unit_id": "U0444",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第四话「战斗结束」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26015",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "巴迪冈迪封印于地龙谷结界",
+      "source_end_line": 236472,
+      "source_start_line": 236360,
+      "unit_id": "U0444",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第四话「战斗结束」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26016",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "佩尔基乌斯设结界与封印安置",
+      "source_end_line": 236616,
+      "source_start_line": 236474,
+      "unit_id": "U0444",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "最终章 完结篇 第一话「最后的梦」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26017",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "终章日常回归与家庭团聚前奏",
+      "source_end_line": 237042,
+      "source_start_line": 236928,
+      "unit_id": "U0445",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第二话「三十四岁」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26018",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "十年后家族描写与子女成长",
+      "source_end_line": 237500,
+      "source_start_line": 237400,
+      "unit_id": "U0446",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "第二话「三十四岁」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26019",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "莉莉与克莉丝蒂娜出生叙述",
+      "source_end_line": 237578,
+      "source_start_line": 237502,
+      "unit_id": "U0446",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "最终话「死后的世界」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26020",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "鲁迪乌斯临终家人环绕",
+      "source_end_line": 237850,
+      "source_start_line": 237738,
+      "unit_id": "U0447",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "「阿斯拉王国人物录『鲁迪乌斯·格雷拉特』」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26021",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁迪乌斯列七大列强第七位与享年74",
+      "source_end_line": 238160,
+      "source_start_line": 238080,
+      "unit_id": "U0448",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "「阿斯拉王国人物录『鲁迪乌斯·格雷拉特』」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26022",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "人神死后仍谋划利用子孙",
+      "source_end_line": 238354,
+      "source_start_line": 238228,
+      "unit_id": "U0448",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "「后记」（节录自鲁迪乌斯之书第二十六集）",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26023",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "外传式后记与阿托菲盟约回响",
+      "source_end_line": 238626,
+      "source_start_line": 238540,
+      "unit_id": "U0449",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "终章「序章之零」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26024",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "特典家族琐事与齐格日常",
+      "source_end_line": 238846,
+      "source_start_line": 238730,
+      "unit_id": "U0450",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "BW特典《佐尔达特的栖身之处》",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26025",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "BW特典异闻补充",
+      "source_end_line": 239276,
+      "source_start_line": 239194,
+      "unit_id": "U0451",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "特典〈离别之际要给对方的东西〉",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26026",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "恋爱特典与家庭关系侧写",
+      "source_end_line": 239420,
+      "source_start_line": 239316,
+      "unit_id": "U0452",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "虎穴特典 与奥尔斯蒂德",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26027",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "洞穴特典与拉拉守护补充",
+      "source_end_line": 239548,
+      "source_start_line": 239454,
+      "unit_id": "U0454",
+      "volume_no": 26
+    },
+    {
+      "chapter_title": "Melonbooks特典 孩子的心思",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV26028",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "书店特典与希露菲视角",
+      "source_end_line": 239692,
+      "source_start_line": 239562,
+      "unit_id": "U0455",
+      "volume_no": 26
+    }
+  ],
+  "item_instances": [
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 26,
+      "condition": "良好",
+      "definition_id": "IT26001",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV26015"
+      ],
+      "holder_id": "E0021",
+      "instance_id": "IN26001",
+      "location_id": null,
+      "location_name": null,
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0021",
+      "ownership_history": [
+        {
+          "acquired_via": "王龙王处受领",
+          "entry_id": "OH26001",
+          "lost_via": null,
+          "note": "终决中持以斩斗神",
+          "owner_id": "E0021",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "abilities": [
+        "斩切不死身"
+      ],
+      "aliases": [
+        "王龙剑·卡尔"
+      ],
+      "canonical_name": "王龙剑",
+      "category": "WEAPON",
+      "creator": "王龙王",
+      "currency": null,
+      "description": "可斩切不死身与斗神的王龙王遗剑，卷终由艾莉丝持以斩切巴迪冈迪与加尔",
+      "durability": null,
+      "effects": [
+        "重创斗神与不死魔王"
+      ],
+      "evidence_refs": [
+        "EV26005"
+      ],
+      "first_appearance_line": 234234,
+      "first_appearance_volume": 26,
+      "item_id": "IT26001",
+      "limitations": [
+        "需近身斩切"
+      ],
+      "manufacturer": null,
+      "material": "龙材与秘钢",
+      "origin": "王龙王国遗物",
+      "rarity": "传说",
+      "requirements": [
+        "剑王以上驾驭"
+      ],
+      "size": null,
+      "subcategory": "剑",
+      "value_information": null,
+      "visible_from_volume": 26,
+      "weight": null
+    },
+    {
+      "abilities": [],
+      "aliases": [
+        "斗神铠碎片"
+      ],
+      "canonical_name": "斗神铠残片",
+      "category": "ARMOR",
+      "creator": null,
+      "currency": null,
+      "description": "斗神铠崩解后残片，被基斯遗策用于复活亚历山大为斗神",
+      "durability": null,
+      "effects": [
+        "附身着装者为斗神"
+      ],
+      "evidence_refs": [
+        "EV26006"
+      ],
+      "first_appearance_line": 235734,
+      "first_appearance_volume": 26,
+      "item_id": "IT26002",
+      "limitations": [
+        "需人神使徒策动"
+      ],
+      "manufacturer": null,
+      "material": "斗神钢",
+      "origin": "斗神铠崩解",
+      "rarity": "传说",
+      "requirements": [],
+      "size": null,
+      "subcategory": "铠",
+      "value_information": null,
+      "visible_from_volume": 26,
+      "weight": null
+    },
+    {
+      "abilities": [],
+      "aliases": [
+        "地龙谷封印"
+      ],
+      "canonical_name": "地龙谷结界",
+      "category": "MAGIC_ITEM",
+      "creator": "佩尔基乌斯",
+      "currency": null,
+      "description": "佩尔基乌斯设于地龙谷用以长久封印巴迪冈迪的结界",
+      "durability": null,
+      "effects": [
+        "封印斗神巴迪冈迪"
+      ],
+      "evidence_refs": [
+        "EV26007"
+      ],
+      "first_appearance_line": 235734,
+      "first_appearance_volume": 26,
+      "item_id": "IT26003",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "魔力结界",
+      "origin": "佩尔基乌斯布设",
+      "rarity": "稀有",
+      "requirements": [],
+      "size": null,
+      "subcategory": "结界",
+      "value_information": null,
+      "visible_from_volume": 26,
+      "weight": null
+    }
+  ],
+  "locations": [],
+  "organizations": [],
+  "political_states": [],
+  "power_comparisons": [
+    {
+      "actor_id": "E0079",
+      "comparison_id": "PC26001",
+      "confidence": "EXPLICIT",
+      "context": "奥尔斯帝德以神刀劈开斗神铠亚历山大",
+      "dimension": "决战胜负",
+      "evidence_refs": [
+        "EV26007"
+      ],
+      "result": "龙神碾压斗神铠",
+      "target_id": "E0162"
+    },
+    {
+      "actor_id": "E0021",
+      "comparison_id": "PC26002",
+      "confidence": "EXPLICIT",
+      "context": "艾莉丝王龙剑对巴迪冈迪",
+      "dimension": "斩切对不死身",
+      "evidence_refs": [
+        "EV26008"
+      ],
+      "result": "王龙剑可破不死身再生",
+      "target_id": "E0113"
+    }
+  ],
+  "relationship_changes": [
+    {
+      "after": "封印中敌",
+      "at_date": null,
+      "at_volume": 26,
+      "before": "死敌",
+      "change_id": "RC26001",
+      "dimension": "敌对至封印",
+      "evidence_refs": [
+        "EV26027"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0113",
+      "trigger": "王龙剑斩切并地龙谷封印"
+    },
+    {
+      "after": "托付家族的信赖",
+      "at_date": null,
+      "at_volume": 26,
+      "before": "部下",
+      "change_id": "RC26002",
+      "dimension": "主从与信赖",
+      "evidence_refs": [
+        "EV26028"
+      ],
+      "source_id": "E0079",
+      "target_id": "E0001",
+      "trigger": "共同完成最终决战与封印"
+    },
+    {
+      "after": "子孙代际对抗",
+      "at_date": null,
+      "at_volume": 26,
+      "before": "被观测的敌人",
+      "change_id": "RC26003",
+      "dimension": "对抗",
+      "evidence_refs": [
+        "EV26001"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0032",
+      "trigger": "鲁迪逝世而人神转攻子孙"
+    }
+  ],
+  "routes": [],
+  "schema_version": "1.0.0",
+  "source_unit_ids": [
+    "U0441",
+    "U0442",
+    "U0443",
+    "U0444",
+    "U0445",
+    "U0446",
+    "U0447",
+    "U0448",
+    "U0449",
+    "U0450",
+    "U0451",
+    "U0452",
+    "U0453",
+    "U0454",
+    "U0455",
+    "U0456",
+    "U0457"
+  ],
+  "source_volume": 26,
+  "species": [],
+  "speech_profiles": [
+    {
+      "address_habits": "称奥尔斯帝德大人，称艾莉丝、希露菲、洛琪希直呼",
+      "anger_expression": "沉声训斥",
+      "canonical_examples": [
+        "拜托了，奥尔斯帝德大人",
+        "大家，谢谢"
+      ],
+      "character_id": "E0001",
+      "emotion_expression": "平静中带温柔与愧疚",
+      "evidence_refs": [
+        "EV26009"
+      ],
+      "inferior_speech": "提携口吻",
+      "intimate_speech": "对三妻温言安慰",
+      "phase_id": "P26001",
+      "phase_name": "终章·临终期",
+      "politeness": "敬体对奥尔斯帝德，常体对家人",
+      "profile_id": "ST26001",
+      "sentence_length": "中短",
+      "shy_expression": "挠头苦笑",
+      "stranger_speech": "礼貌克制",
+      "superior_speech": "指示简洁",
+      "visible_from_volume": 26
+    },
+    {
+      "address_habits": "称鲁迪乌斯直呼，称对手为家伙",
+      "anger_expression": "怒吼斩击",
+      "canonical_examples": [
+        "鲁迪乌斯，我来砍了",
+        "别挡路"
+      ],
+      "character_id": "E0021",
+      "emotion_expression": "以斩切代言",
+      "evidence_refs": [
+        "EV26010"
+      ],
+      "inferior_speech": "庇护式",
+      "intimate_speech": "对鲁迪乌斯直率告白",
+      "phase_id": "P26002",
+      "phase_name": "终章·狂剑王决战期",
+      "politeness": "常体直言，罕用敬语",
+      "profile_id": "ST26002",
+      "sentence_length": "短促有力",
+      "shy_expression": "罕露，扭头回避",
+      "stranger_speech": "威吓",
+      "superior_speech": "命令式",
+      "visible_from_volume": 26
+    }
+  ],
+  "travel_observations": [],
+  "world_rules": [
+    {
+      "confidence": "EXPLICIT",
+      "domain": "WAR",
+      "evidence_refs": [
+        "EV26010"
+      ],
+      "exceptions": "无王龙剑则无法重创",
+      "rule_id": "WR26001",
+      "scope": "毕黑利尔决战与地龙谷",
+      "statement": "斗神巴迪冈迪具不死身再生，需王龙剑级斩切配合结界才能长久封印，单纯击杀会再生",
+      "visible_from_volume": 26
+    },
+    {
+      "confidence": "STRONG_INFERENCE",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV26011"
+      ],
+      "exceptions": "需基斯式预置策动",
+      "rule_id": "WR26002",
+      "scope": "斗神铠传承",
+      "statement": "斗神铠残片可借人神使徒遗策附身复活着装者为新斗神",
+      "visible_from_volume": 26
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "LAW",
+      "evidence_refs": [
+        "EV26012"
+      ],
+      "exceptions": "无",
+      "rule_id": "WR26003",
+      "scope": "终决战后处理",
+      "statement": "战后使徒尸体须火化以防人神再利用",
+      "visible_from_volume": 26
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "SOCIETY",
+      "evidence_refs": [
+        "EV26013"
+      ],
+      "exceptions": "人神仍存未竟全功",
+      "rule_id": "WR26004",
+      "scope": "七大列强",
+      "statement": "七大列强第七位可由战功与家族延续授予，鲁迪乌斯以毕黑利尔战功列位",
+      "visible_from_volume": 26
+    }
+  ]
+}

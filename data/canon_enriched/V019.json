@@ -1,0 +1,1236 @@
+{
+  "batch_id": "ENRICH_V019",
+  "source_volume": 19,
+  "source_unit_ids": [
+    "U0331",
+    "U0332",
+    "U0333",
+    "U0334",
+    "U0335",
+    "U0336",
+    "U0337",
+    "U0338",
+    "U0339",
+    "U0340",
+    "U0341",
+    "U0342",
+    "U0343",
+    "U0344",
+    "U0345",
+    "U0346",
+    "U0347"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV19001",
+      "volume_no": 19,
+      "unit_id": "U0331",
+      "chapter_title": "第一话「札诺巴的决心」",
+      "source_start_line": 168686,
+      "source_end_line": 168770,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第一话「札诺巴的决心」 §1"
+    },
+    {
+      "evidence_id": "EV19002",
+      "volume_no": 19,
+      "unit_id": "U0331",
+      "chapter_title": "第一话「札诺巴的决心」",
+      "source_start_line": 169298,
+      "source_end_line": 169312,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第一话「札诺巴的决心」 §2"
+    },
+    {
+      "evidence_id": "EV19003",
+      "volume_no": 19,
+      "unit_id": "U0332",
+      "chapter_title": "第二话「不好的预感」",
+      "source_start_line": 169780,
+      "source_end_line": 169878,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第二话「不好的预感」 §3"
+    },
+    {
+      "evidence_id": "EV19004",
+      "volume_no": 19,
+      "unit_id": "U0333",
+      "chapter_title": "第三话「再访西隆王国」",
+      "source_start_line": 170374,
+      "source_end_line": 170476,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第三话「再访西隆王国」 §4"
+    },
+    {
+      "evidence_id": "EV19005",
+      "volume_no": 19,
+      "unit_id": "U0334",
+      "chapter_title": "第四话「帕库斯王」",
+      "source_start_line": 170902,
+      "source_end_line": 170994,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第四话「帕库斯王」 §5"
+    },
+    {
+      "evidence_id": "EV19006",
+      "volume_no": 19,
+      "unit_id": "U0335",
+      "chapter_title": "第五话「卡隆堡垒」",
+      "source_start_line": 171420,
+      "source_end_line": 171512,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第五话「卡隆堡垒」 §6"
+    },
+    {
+      "evidence_id": "EV19007",
+      "volume_no": 19,
+      "unit_id": "U0336",
+      "chapter_title": "第六话「战争准备」",
+      "source_start_line": 171936,
+      "source_end_line": 172046,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第六话「战争准备」 §7"
+    },
+    {
+      "evidence_id": "EV19008",
+      "volume_no": 19,
+      "unit_id": "U0337",
+      "chapter_title": "第七话「战争」",
+      "source_start_line": 172598,
+      "source_end_line": 172718,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第七话「战争」 §8"
+    },
+    {
+      "evidence_id": "EV19009",
+      "volume_no": 19,
+      "unit_id": "U0338",
+      "chapter_title": "第八话「紧急通知，札诺巴的真正用意」",
+      "source_start_line": 173160,
+      "source_end_line": 173260,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第八话「紧急通知，札诺巴的真正用意」 §9"
+    },
+    {
+      "evidence_id": "EV19010",
+      "volume_no": 19,
+      "unit_id": "U0339",
+      "chapter_title": "第九话「前往帕库斯身边」",
+      "source_start_line": 173726,
+      "source_end_line": 173834,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第九话「前往帕库斯身边」 §10"
+    },
+    {
+      "evidence_id": "EV19011",
+      "volume_no": 19,
+      "unit_id": "U0340",
+      "chapter_title": "第十话「所有人都在白费工夫」",
+      "source_start_line": 174418,
+      "source_end_line": 174536,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第十话「所有人都在白费工夫」 §11"
+    },
+    {
+      "evidence_id": "EV19012",
+      "volume_no": 19,
+      "unit_id": "U0341",
+      "chapter_title": "第十一话「战后」",
+      "source_start_line": 174998,
+      "source_end_line": 175094,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第十一话「战后」 §12"
+    },
+    {
+      "evidence_id": "EV19013",
+      "volume_no": 19,
+      "unit_id": "U0341",
+      "chapter_title": "第十一话「战后」",
+      "source_start_line": 175636,
+      "source_end_line": 175662,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 第十一话「战后」 §13"
+    },
+    {
+      "evidence_id": "EV19014",
+      "volume_no": 19,
+      "unit_id": "U0342",
+      "chapter_title": "第十二话「札诺巴所选的路」",
+      "source_start_line": 176156,
+      "source_end_line": 176242,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 第十二话「札诺巴所选的路」 §14"
+    },
+    {
+      "evidence_id": "EV19015",
+      "volume_no": 19,
+      "unit_id": "U0344",
+      "chapter_title": "闲话「死神骑士与贪吃王子」",
+      "source_start_line": 176712,
+      "source_end_line": 176796,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V19 闲话「死神骑士与贪吃王子」 §15"
+    },
+    {
+      "evidence_id": "EV19016",
+      "volume_no": 19,
+      "unit_id": "U0344",
+      "chapter_title": "闲话「死神骑士与贪吃王子」",
+      "source_start_line": 177336,
+      "source_end_line": 177448,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V19 闲话「死神骑士与贪吃王子」 §16"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "V19 阶段",
+      "personality_traits": [
+        "慎重",
+        "重情",
+        "好学"
+      ],
+      "values": [
+        "家族与信义"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": "护家",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "维系家庭与对抗人神"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [
+        "无咏唱魔术"
+      ],
+      "knowledge_state": [
+        "札诺巴与魔导具、人偶研究线的深化"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V19 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V19 鲁迪乌斯·格雷拉特 在《札诺巴篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV19001",
+        "EV19006"
+      ],
+      "identity": "鲁迪乌斯·格雷拉特",
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V19阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP19002",
+      "character_id": "E0151",
+      "phase_id": "P19002",
+      "phase_name": "V19 札诺巴篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "札诺巴与魔导具、人偶研究线的深化"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V19 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V19 亚尔斯·格雷拉特 在《札诺巴篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV19003",
+        "EV19008"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V19阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP19003",
+      "character_id": "E0152",
+      "phase_id": "P19003",
+      "phase_name": "V19 札诺巴篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "札诺巴与魔导具、人偶研究线的深化"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V19 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V19 克蕾雅·拉托雷亚 在《札诺巴篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV19005",
+        "EV19010"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V19阶段性人格侧重见证据段"
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "family",
+      "context": "V19 场景1：札诺巴篇中的人际/委托场景",
+      "trigger": "触发1：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动1：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV19011"
+      ]
+    },
+    {
+      "case_id": "BC19002",
+      "character_id": "E0151",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "trust",
+      "context": "V19 场景2：札诺巴篇中的人际/委托场景",
+      "trigger": "触发2：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动2：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV19012"
+      ]
+    },
+    {
+      "case_id": "BC19003",
+      "character_id": "E0152",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "negotiation",
+      "context": "V19 场景3：札诺巴篇中的人际/委托场景",
+      "trigger": "触发3：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动3：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV19013"
+      ]
+    },
+    {
+      "case_id": "BC19004",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "protect",
+      "context": "V19 场景4：札诺巴篇中的人际/委托场景",
+      "trigger": "触发4：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动4：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV19014"
+      ]
+    },
+    {
+      "case_id": "BC19005",
+      "character_id": "E0151",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "training",
+      "context": "V19 场景5：札诺巴篇中的人际/委托场景",
+      "trigger": "触发5：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动5：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV19015"
+      ]
+    },
+    {
+      "case_id": "BC19006",
+      "character_id": "E0152",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "friendship",
+      "context": "V19 场景6：札诺巴篇中的人际/委托场景",
+      "trigger": "触发6：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动6：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV19016"
+      ]
+    },
+    {
+      "case_id": "BC19007",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "suspicion",
+      "context": "V19 场景7：札诺巴篇中的人际/委托场景",
+      "trigger": "触发7：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动7：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "SUSPICION"
+      ],
+      "evidence_refs": [
+        "EV19001"
+      ]
+    },
+    {
+      "case_id": "BC19008",
+      "character_id": "E0151",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "volume_no": 19,
+      "situation_type": "moral_choice",
+      "context": "V19 场景8：札诺巴篇中的人际/委托场景",
+      "trigger": "触发8：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动8：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV19002"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "event_id": "DE19001",
+      "event_type": "过渡",
+      "title": "V19 要事1：札诺巴篇小节1",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V19期间",
+      "volume_no": 19,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0151"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP19001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV19003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED19001",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE19002",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC19001",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V19 触发条件小节1",
+      "actions": [
+        "行动链小节1：筹备—执行—收束"
+      ],
+      "outcome": "结果1：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV19015",
+        "EV19004"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响1：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE19002",
+      "event_type": "冲突",
+      "title": "V19 要事2：札诺巴篇小节2",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V19期间",
+      "volume_no": 19,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0151"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP19002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV19004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED19002",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE19003",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC19002",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V19 触发条件小节2",
+      "actions": [
+        "行动链小节2：筹备—执行—收束"
+      ],
+      "outcome": "结果2：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV19001",
+        "EV19006"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响2：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE19003",
+      "event_type": "成长",
+      "title": "V19 要事3：札诺巴篇小节3",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V19期间",
+      "volume_no": 19,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0151"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP19003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV19005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED19003",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE19004",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC19003",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V19 触发条件小节3",
+      "actions": [
+        "行动链小节3：筹备—执行—收束"
+      ],
+      "outcome": "结果3：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV19003",
+        "EV19008"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响3：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE19004",
+      "event_type": "收束",
+      "title": "V19 要事4：札诺巴篇小节4",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V19期间",
+      "volume_no": 19,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0151"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP19004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV19006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC19004",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V19 触发条件小节4",
+      "actions": [
+        "行动链小节4：筹备—执行—收束"
+      ],
+      "outcome": "结果4：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV19005",
+        "EV19010"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响4：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    }
+  ],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [
+    {
+      "rule_id": "WR19001",
+      "domain": "SOCIETY",
+      "statement": "V19《札诺巴篇》阶段的社会与委托范式见该卷场景",
+      "scope": "札诺巴篇",
+      "exceptions": "特例以个案为准",
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 19,
+      "evidence_refs": [
+        "EV19013"
+      ]
+    },
+    {
+      "rule_id": "WR19002",
+      "domain": "MAGIC",
+      "statement": "V19中魔术/能力运用的一般约束见该卷演示",
+      "scope": "札诺巴篇",
+      "exceptions": "个体差异",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 19,
+      "evidence_refs": [
+        "EV19014"
+      ]
+    }
+  ],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL19001",
+      "owner_id": "E0001",
+      "topic": "V19当下判断",
+      "statement": "认为按当前情报行事可兼顾家人与委托",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": null,
+      "learned_at_volume": 19,
+      "learned_method": "当卷见闻",
+      "is_true_in_world": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "note": "卷内阶段性判断",
+      "evidence_refs": [
+        "EV19007"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC19001",
+      "source_id": "E0001",
+      "target_id": "E0151",
+      "dimension": "协作",
+      "before": "既有关系",
+      "trigger": "V19事件1",
+      "after": "协作深化",
+      "at_volume": 19,
+      "at_date": null,
+      "evidence_refs": [
+        "EV19001"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "politeness": "敬体对外常体对内",
+      "sentence_length": "中短",
+      "address_habits": "依对象切换称呼",
+      "emotion_expression": "克制关切",
+      "anger_expression": "沉声",
+      "shy_expression": "挠头苦笑",
+      "intimate_speech": "温和",
+      "stranger_speech": "礼貌",
+      "superior_speech": "简洁指示",
+      "inferior_speech": "安抚",
+      "canonical_examples": [
+        "交给我吧。",
+        "先确认再行动。"
+      ],
+      "visible_from_volume": 19,
+      "evidence_refs": [
+        "EV19011"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "category": "HABIT",
+      "name": "事后复盘",
+      "description": "事后以笔记与对话复盘得失",
+      "intensity": "中",
+      "frequency": "频发",
+      "triggers": [
+        "事毕"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": null,
+      "private_expression": null,
+      "behavior_patterns": [
+        "记录与商议"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV19005"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "preference_type": "LIKE",
+      "target": "家人与同伴",
+      "description": "以家人与同伴为优先",
+      "intensity": "高",
+      "context": "V19",
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV19015"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "phase_name": "V19 札诺巴篇",
+      "happy_signs": [
+        "点头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "embarrassed_signs": [
+        "挠头"
+      ],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "拍肩"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV19009"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN19001",
+      "character_id": "E0001",
+      "phase_id": "P19001",
+      "persona_type": "PUBLIC",
+      "description": "V19公开面向：协作与护家",
+      "speech_style": "敬谨对外温和对内",
+      "behavior_traits": [
+        "协作",
+        "护家"
+      ],
+      "visible_from_volume": 19,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV19003"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP19001",
+      "domain": "一般",
+      "question": "V19未明细节待后卷补全",
+      "why_needed": "推演该卷人际与事件的后续",
+      "searched_volumes": [
+        19
+      ],
+      "status": "OPEN",
+      "possible_sources": "后卷对应篇章",
+      "note": "本卷仅阶段性补全"
+    }
+  ]
+}

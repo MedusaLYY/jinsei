@@ -158,6 +158,24 @@ CREATE TABLE IF NOT EXISTS character_profiles (
     summary TEXT NOT NULL,
     visible_from_volume INTEGER NOT NULL,
     visible_to_volume INTEGER,
+    identity TEXT,
+    origin TEXT,
+    origin_location_id TEXT,
+    status_rank TEXT,
+    appearance_traits TEXT NOT NULL DEFAULT '[]',
+    body_traits TEXT NOT NULL DEFAULT '[]',
+    core_personality TEXT NOT NULL DEFAULT '[]',
+    surface_personality TEXT NOT NULL DEFAULT '[]',
+    hidden_personality TEXT NOT NULL DEFAULT '[]',
+    interests TEXT NOT NULL DEFAULT '[]',
+    dislikes TEXT NOT NULL DEFAULT '[]',
+    weaknesses TEXT NOT NULL DEFAULT '[]',
+    obsessions TEXT NOT NULL DEFAULT '[]',
+    habits TEXT NOT NULL DEFAULT '[]',
+    emotional_triggers TEXT NOT NULL DEFAULT '[]',
+    decision_logic TEXT,
+    extreme_choice_note TEXT,
+    phase_personality_note TEXT,
     batch_id TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_profiles_character ON character_profiles(character_id);
@@ -211,6 +229,11 @@ CREATE TABLE IF NOT EXISTS detailed_events (
     actions TEXT NOT NULL,
     outcome TEXT NOT NULL,
     canon_importance TEXT NOT NULL,
+    involved_factions TEXT NOT NULL DEFAULT '[]',
+    long_term_impacts TEXT NOT NULL DEFAULT '[]',
+    political_impacts TEXT NOT NULL DEFAULT '[]',
+    world_impacts TEXT NOT NULL DEFAULT '[]',
+    participant_actions TEXT NOT NULL DEFAULT '[]',
     batch_id TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_de_volume ON detailed_events(volume_no);
@@ -714,9 +737,15 @@ def _insert_profiles(
             "short_term_goals, long_term_goals, obligations, decision_tendencies, "
             "speech_tendencies, social_tendencies, conflict_tendencies, known_skills, "
             "knowledge_state, relationship_tendencies, behavior_changes_note, summary, "
-            "visible_from_volume, visible_to_volume, batch_id) "
+            "visible_from_volume, visible_to_volume, "
+            "identity, origin, origin_location_id, status_rank, "
+            "appearance_traits, body_traits, core_personality, surface_personality, "
+            "hidden_personality, interests, dislikes, weaknesses, obsessions, habits, "
+            "emotional_triggers, decision_logic, extreme_choice_note, phase_personality_note, "
+            "batch_id) "
             "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, "
-            "?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, "
+            "?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 profile.profile_id,
                 profile.character_id,
@@ -762,6 +791,24 @@ def _insert_profiles(
                 profile.summary,
                 profile.visible_from_volume,
                 profile.visible_to_volume,
+                profile.identity,
+                profile.origin,
+                profile.origin_location_id,
+                profile.status_rank,
+                json.dumps(list(profile.appearance_traits), ensure_ascii=False),
+                json.dumps(list(profile.body_traits), ensure_ascii=False),
+                json.dumps(list(profile.core_personality), ensure_ascii=False),
+                json.dumps(list(profile.surface_personality), ensure_ascii=False),
+                json.dumps(list(profile.hidden_personality), ensure_ascii=False),
+                json.dumps(list(profile.interests), ensure_ascii=False),
+                json.dumps(list(profile.dislikes), ensure_ascii=False),
+                json.dumps(list(profile.weaknesses), ensure_ascii=False),
+                json.dumps(list(profile.obsessions), ensure_ascii=False),
+                json.dumps(list(profile.habits), ensure_ascii=False),
+                json.dumps(list(profile.emotional_triggers), ensure_ascii=False),
+                profile.decision_logic,
+                profile.extreme_choice_note,
+                profile.phase_personality_note,
                 batch_id,
             ),
         )
@@ -820,8 +867,10 @@ def _insert_events(
         connection.execute(
             "INSERT INTO detailed_events(event_id, event_type, title, timeline_event_id, "
             "time_date, time_precision, time_note, volume_no, location_id, participants, "
-            "trigger_text, actions, outcome, canon_importance, batch_id) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "trigger_text, actions, outcome, canon_importance, "
+            "involved_factions, long_term_impacts, political_impacts, world_impacts, "
+            "participant_actions, batch_id) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 event.event_id,
                 event.event_type,
@@ -837,6 +886,11 @@ def _insert_events(
                 json.dumps(list(event.actions), ensure_ascii=False),
                 event.outcome,
                 event.canon_importance.value,
+                json.dumps(list(event.involved_factions), ensure_ascii=False),
+                json.dumps(list(event.long_term_impacts), ensure_ascii=False),
+                json.dumps(list(event.political_impacts), ensure_ascii=False),
+                json.dumps(list(event.world_impacts), ensure_ascii=False),
+                json.dumps(list(event.participant_actions), ensure_ascii=False),
                 batch_id,
             ),
         )

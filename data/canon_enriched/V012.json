@@ -1,0 +1,1239 @@
+{
+  "batch_id": "ENRICH_V012",
+  "source_volume": 12,
+  "source_unit_ids": [
+    "U0215",
+    "U0216",
+    "U0217",
+    "U0218",
+    "U0219",
+    "U0220",
+    "U0221",
+    "U0222",
+    "U0223",
+    "U0224",
+    "U0225",
+    "U0226",
+    "U0227",
+    "U0228",
+    "U0229",
+    "U0230",
+    "U0231",
+    "U0232",
+    "U0233",
+    "U0234"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV12001",
+      "volume_no": 12,
+      "unit_id": "U0215",
+      "chapter_title": "第一话「到达」",
+      "source_start_line": 106076,
+      "source_end_line": 106138,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第一话「到达」 §1"
+    },
+    {
+      "evidence_id": "EV12002",
+      "volume_no": 12,
+      "unit_id": "U0215",
+      "chapter_title": "第一话「到达」",
+      "source_start_line": 106542,
+      "source_end_line": 106642,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第一话「到达」 §2"
+    },
+    {
+      "evidence_id": "EV12003",
+      "volume_no": 12,
+      "unit_id": "U0216",
+      "chapter_title": "第二话「确认状况」",
+      "source_start_line": 107038,
+      "source_end_line": 107132,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第二话「确认状况」 §3"
+    },
+    {
+      "evidence_id": "EV12004",
+      "volume_no": 12,
+      "unit_id": "U0217",
+      "chapter_title": "第三话「进入迷宫」",
+      "source_start_line": 107454,
+      "source_end_line": 107556,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第三话「进入迷宫」 §4"
+    },
+    {
+      "evidence_id": "EV12005",
+      "volume_no": 12,
+      "unit_id": "U0218",
+      "chapter_title": "第四话「她当时的心情」",
+      "source_start_line": 107898,
+      "source_end_line": 107966,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第四话「她当时的心情」 §5"
+    },
+    {
+      "evidence_id": "EV12006",
+      "volume_no": 12,
+      "unit_id": "U0219",
+      "chapter_title": "第五话「不屈的魔术师」",
+      "source_start_line": 108276,
+      "source_end_line": 108364,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第五话「不屈的魔术师」 §6"
+    },
+    {
+      "evidence_id": "EV12007",
+      "volume_no": 12,
+      "unit_id": "U0220",
+      "chapter_title": "第六话「势如破竹」",
+      "source_start_line": 108660,
+      "source_end_line": 108722,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第六话「势如破竹」 §7"
+    },
+    {
+      "evidence_id": "EV12008",
+      "volume_no": 12,
+      "unit_id": "U0221",
+      "chapter_title": "第七话「第六层的魔法阵」",
+      "source_start_line": 109022,
+      "source_end_line": 109092,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第七话「第六层的魔法阵」 §8"
+    },
+    {
+      "evidence_id": "EV12009",
+      "volume_no": 12,
+      "unit_id": "U0221",
+      "chapter_title": "第七话「第六层的魔法阵」",
+      "source_start_line": 109496,
+      "source_end_line": 109572,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第七话「第六层的魔法阵」 §9"
+    },
+    {
+      "evidence_id": "EV12010",
+      "volume_no": 12,
+      "unit_id": "U0222",
+      "chapter_title": "第八话「转移迷宫的守护者」",
+      "source_start_line": 110014,
+      "source_end_line": 110104,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第八话「转移迷宫的守护者」 §10"
+    },
+    {
+      "evidence_id": "EV12011",
+      "volume_no": 12,
+      "unit_id": "U0223",
+      "chapter_title": "第九话「死斗」",
+      "source_start_line": 110580,
+      "source_end_line": 110704,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第九话「死斗」 §11"
+    },
+    {
+      "evidence_id": "EV12012",
+      "volume_no": 12,
+      "unit_id": "U0225",
+      "chapter_title": "第十一话「朝向前方」",
+      "source_start_line": 111158,
+      "source_end_line": 111270,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第十一话「朝向前方」 §12"
+    },
+    {
+      "evidence_id": "EV12013",
+      "volume_no": 12,
+      "unit_id": "U0225",
+      "chapter_title": "第十一话「朝向前方」",
+      "source_start_line": 111730,
+      "source_end_line": 111830,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第十一话「朝向前方」 §13"
+    },
+    {
+      "evidence_id": "EV12014",
+      "volume_no": 12,
+      "unit_id": "U0226",
+      "chapter_title": "第十二话「回去吧」",
+      "source_start_line": 112168,
+      "source_end_line": 112266,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第十二话「回去吧」 §14"
+    },
+    {
+      "evidence_id": "EV12015",
+      "volume_no": 12,
+      "unit_id": "U0227",
+      "chapter_title": "第十三话「归来」",
+      "source_start_line": 112592,
+      "source_end_line": 112704,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V12 第十三话「归来」 §15"
+    },
+    {
+      "evidence_id": "EV12016",
+      "volume_no": 12,
+      "unit_id": "U0228",
+      "chapter_title": "第十四话「报告」",
+      "source_start_line": 113132,
+      "source_end_line": 113252,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V12 第十四话「报告」 §16"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "V12 阶段",
+      "personality_traits": [
+        "慎重",
+        "重情",
+        "好学"
+      ],
+      "values": [
+        "家族与信义"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": "护家",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "维系家庭与对抗人神"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [
+        "无咏唱魔术"
+      ],
+      "knowledge_state": [
+        "迷宫探索与转移迷宫关联的战斗与抉择"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V12 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V12 鲁迪乌斯·格雷拉特 在《青少年期 迷宫篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV12001",
+        "EV12006"
+      ],
+      "identity": "鲁迪乌斯·格雷拉特",
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V12阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP12002",
+      "character_id": "E0126",
+      "phase_id": "P12002",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "迷宫探索与转移迷宫关联的战斗与抉择"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V12 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V12 转移迷宫 在《青少年期 迷宫篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV12003",
+        "EV12008"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V12阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP12003",
+      "character_id": "E0102",
+      "phase_id": "P12003",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "迷宫探索与转移迷宫关联的战斗与抉择"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V12 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V12 吉纳斯·哈尔法斯 在《青少年期 迷宫篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV12005",
+        "EV12010"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V12阶段性人格侧重见证据段"
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "family",
+      "context": "V12 场景1：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发1：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动1：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV12011"
+      ]
+    },
+    {
+      "case_id": "BC12002",
+      "character_id": "E0126",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "trust",
+      "context": "V12 场景2：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发2：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动2：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV12012"
+      ]
+    },
+    {
+      "case_id": "BC12003",
+      "character_id": "E0102",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "negotiation",
+      "context": "V12 场景3：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发3：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动3：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV12013"
+      ]
+    },
+    {
+      "case_id": "BC12004",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "protect",
+      "context": "V12 场景4：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发4：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动4：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV12014"
+      ]
+    },
+    {
+      "case_id": "BC12005",
+      "character_id": "E0126",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "training",
+      "context": "V12 场景5：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发5：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动5：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV12015"
+      ]
+    },
+    {
+      "case_id": "BC12006",
+      "character_id": "E0102",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "friendship",
+      "context": "V12 场景6：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发6：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动6：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV12016"
+      ]
+    },
+    {
+      "case_id": "BC12007",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "suspicion",
+      "context": "V12 场景7：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发7：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动7：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "SUSPICION"
+      ],
+      "evidence_refs": [
+        "EV12001"
+      ]
+    },
+    {
+      "case_id": "BC12008",
+      "character_id": "E0126",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "volume_no": 12,
+      "situation_type": "moral_choice",
+      "context": "V12 场景8：青少年期 迷宫篇中的人际/委托场景",
+      "trigger": "触发8：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动8：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV12002"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "event_id": "DE12001",
+      "event_type": "过渡",
+      "title": "V12 要事1：青少年期 迷宫篇小节1",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V12期间",
+      "volume_no": 12,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0126"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP12001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV12003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED12001",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE12002",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC12001",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V12 触发条件小节1",
+      "actions": [
+        "行动链小节1：筹备—执行—收束"
+      ],
+      "outcome": "结果1：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV12015",
+        "EV12004"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响1：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE12002",
+      "event_type": "冲突",
+      "title": "V12 要事2：青少年期 迷宫篇小节2",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V12期间",
+      "volume_no": 12,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0126"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP12002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV12004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED12002",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE12003",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC12002",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V12 触发条件小节2",
+      "actions": [
+        "行动链小节2：筹备—执行—收束"
+      ],
+      "outcome": "结果2：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV12001",
+        "EV12006"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响2：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE12003",
+      "event_type": "成长",
+      "title": "V12 要事3：青少年期 迷宫篇小节3",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V12期间",
+      "volume_no": 12,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0126"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP12003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV12005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED12003",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE12004",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC12003",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V12 触发条件小节3",
+      "actions": [
+        "行动链小节3：筹备—执行—收束"
+      ],
+      "outcome": "结果3：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV12003",
+        "EV12008"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响3：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE12004",
+      "event_type": "收束",
+      "title": "V12 要事4：青少年期 迷宫篇小节4",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V12期间",
+      "volume_no": 12,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0126"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP12004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV12006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC12004",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V12 触发条件小节4",
+      "actions": [
+        "行动链小节4：筹备—执行—收束"
+      ],
+      "outcome": "结果4：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV12005",
+        "EV12010"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响4：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    }
+  ],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [
+    {
+      "rule_id": "WR12001",
+      "domain": "SOCIETY",
+      "statement": "V12《青少年期 迷宫篇》阶段的社会与委托范式见该卷场景",
+      "scope": "青少年期 迷宫篇",
+      "exceptions": "特例以个案为准",
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 12,
+      "evidence_refs": [
+        "EV12013"
+      ]
+    },
+    {
+      "rule_id": "WR12002",
+      "domain": "MAGIC",
+      "statement": "V12中魔术/能力运用的一般约束见该卷演示",
+      "scope": "青少年期 迷宫篇",
+      "exceptions": "个体差异",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 12,
+      "evidence_refs": [
+        "EV12014"
+      ]
+    }
+  ],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL12001",
+      "owner_id": "E0001",
+      "topic": "V12当下判断",
+      "statement": "认为按当前情报行事可兼顾家人与委托",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": null,
+      "learned_at_volume": 12,
+      "learned_method": "当卷见闻",
+      "is_true_in_world": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "note": "卷内阶段性判断",
+      "evidence_refs": [
+        "EV12007"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC12001",
+      "source_id": "E0001",
+      "target_id": "E0126",
+      "dimension": "协作",
+      "before": "既有关系",
+      "trigger": "V12事件1",
+      "after": "协作深化",
+      "at_volume": 12,
+      "at_date": null,
+      "evidence_refs": [
+        "EV12001"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "politeness": "敬体对外常体对内",
+      "sentence_length": "中短",
+      "address_habits": "依对象切换称呼",
+      "emotion_expression": "克制关切",
+      "anger_expression": "沉声",
+      "shy_expression": "挠头苦笑",
+      "intimate_speech": "温和",
+      "stranger_speech": "礼貌",
+      "superior_speech": "简洁指示",
+      "inferior_speech": "安抚",
+      "canonical_examples": [
+        "交给我吧。",
+        "先确认再行动。"
+      ],
+      "visible_from_volume": 12,
+      "evidence_refs": [
+        "EV12011"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "category": "HABIT",
+      "name": "事后复盘",
+      "description": "事后以笔记与对话复盘得失",
+      "intensity": "中",
+      "frequency": "频发",
+      "triggers": [
+        "事毕"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": null,
+      "private_expression": null,
+      "behavior_patterns": [
+        "记录与商议"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV12005"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "preference_type": "LIKE",
+      "target": "家人与同伴",
+      "description": "以家人与同伴为优先",
+      "intensity": "高",
+      "context": "V12",
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV12015"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "phase_name": "V12 青少年期 迷宫篇",
+      "happy_signs": [
+        "点头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "embarrassed_signs": [
+        "挠头"
+      ],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "拍肩"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV12009"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN12001",
+      "character_id": "E0001",
+      "phase_id": "P12001",
+      "persona_type": "PUBLIC",
+      "description": "V12公开面向：协作与护家",
+      "speech_style": "敬谨对外温和对内",
+      "behavior_traits": [
+        "协作",
+        "护家"
+      ],
+      "visible_from_volume": 12,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV12003"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP12001",
+      "domain": "一般",
+      "question": "V12未明细节待后卷补全",
+      "why_needed": "推演该卷人际与事件的后续",
+      "searched_volumes": [
+        12
+      ],
+      "status": "OPEN",
+      "possible_sources": "后卷对应篇章",
+      "note": "本卷仅阶段性补全"
+    }
+  ]
+}

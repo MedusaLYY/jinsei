@@ -290,7 +290,12 @@ class EvidenceRef:
 
 @dataclass(frozen=True)
 class CharacterProfile:
-    """Phase-specific behavioral profile (plan §11-§12, §60)."""
+    """Phase-specific behavioral profile (plan §11-§12, §60).
+
+    World-sim extension (v1.1): deep personality layers, appearance/body,
+    and decision/trigger modeling for GM adjudication. All new fields are
+    optional with defaults so existing batches remain loadable.
+    """
 
     profile_id: str
     character_id: str
@@ -337,6 +342,25 @@ class CharacterProfile:
     visible_from_volume: int
     visible_to_volume: int | None
     evidence_refs: tuple[str, ...]
+    # --- world-sim deep model extensions (v1.1, all optional) ---
+    identity: str | None = None
+    origin: str | None = None
+    origin_location_id: str | None = None
+    status_rank: str | None = None
+    appearance_traits: tuple[str, ...] = ()
+    body_traits: tuple[str, ...] = ()
+    core_personality: tuple[str, ...] = ()
+    surface_personality: tuple[str, ...] = ()
+    hidden_personality: tuple[str, ...] = ()
+    interests: tuple[str, ...] = ()
+    dislikes: tuple[str, ...] = ()
+    weaknesses: tuple[str, ...] = ()
+    obsessions: tuple[str, ...] = ()
+    habits: tuple[str, ...] = ()
+    emotional_triggers: tuple[str, ...] = ()
+    decision_logic: str | None = None
+    extreme_choice_note: str | None = None
+    phase_personality_note: str | None = None
 
     def to_json(self) -> dict[str, Any]:
         return {
@@ -385,6 +409,24 @@ class CharacterProfile:
             "visible_from_volume": self.visible_from_volume,
             "visible_to_volume": self.visible_to_volume,
             "evidence_refs": _to_json_array(self.evidence_refs),
+            "identity": self.identity,
+            "origin": self.origin,
+            "origin_location_id": self.origin_location_id,
+            "status_rank": self.status_rank,
+            "appearance_traits": _to_json_array(self.appearance_traits),
+            "body_traits": _to_json_array(self.body_traits),
+            "core_personality": _to_json_array(self.core_personality),
+            "surface_personality": _to_json_array(self.surface_personality),
+            "hidden_personality": _to_json_array(self.hidden_personality),
+            "interests": _to_json_array(self.interests),
+            "dislikes": _to_json_array(self.dislikes),
+            "weaknesses": _to_json_array(self.weaknesses),
+            "obsessions": _to_json_array(self.obsessions),
+            "habits": _to_json_array(self.habits),
+            "emotional_triggers": _to_json_array(self.emotional_triggers),
+            "decision_logic": self.decision_logic,
+            "extreme_choice_note": self.extreme_choice_note,
+            "phase_personality_note": self.phase_personality_note,
         }
 
     @classmethod
@@ -435,6 +477,24 @@ class CharacterProfile:
             visible_from_volume=document["visible_from_volume"],
             visible_to_volume=document["visible_to_volume"],
             evidence_refs=tuple(document["evidence_refs"]),
+            identity=document.get("identity"),
+            origin=document.get("origin"),
+            origin_location_id=document.get("origin_location_id"),
+            status_rank=document.get("status_rank"),
+            appearance_traits=tuple(document.get("appearance_traits", ())),
+            body_traits=tuple(document.get("body_traits", ())),
+            core_personality=tuple(document.get("core_personality", ())),
+            surface_personality=tuple(document.get("surface_personality", ())),
+            hidden_personality=tuple(document.get("hidden_personality", ())),
+            interests=tuple(document.get("interests", ())),
+            dislikes=tuple(document.get("dislikes", ())),
+            weaknesses=tuple(document.get("weaknesses", ())),
+            obsessions=tuple(document.get("obsessions", ())),
+            habits=tuple(document.get("habits", ())),
+            emotional_triggers=tuple(document.get("emotional_triggers", ())),
+            decision_logic=document.get("decision_logic"),
+            extreme_choice_note=document.get("extreme_choice_note"),
+            phase_personality_note=document.get("phase_personality_note"),
         )
 
 
@@ -599,7 +659,12 @@ class StateChange:
 
 @dataclass(frozen=True)
 class DetailedEvent:
-    """A simulation-relevant event with causality (plan §21-§26)."""
+    """A simulation-relevant event with causality (plan §21-§26).
+
+    World-sim extension (v1.1): world-event model fields — faction
+    involvement, long-term / political / world impacts. All new fields
+    are optional so historic batches remain valid.
+    """
 
     event_id: str
     event_type: str
@@ -621,6 +686,12 @@ class DetailedEvent:
     belief_ids: tuple[str, ...]
     canon_importance: EventImportance
     evidence_refs: tuple[str, ...]
+    # --- world-event extensions (v1.1, optional) ---
+    involved_factions: tuple[str, ...] = ()
+    long_term_impacts: tuple[str, ...] = ()
+    political_impacts: tuple[str, ...] = ()
+    world_impacts: tuple[str, ...] = ()
+    participant_actions: tuple[str, ...] = ()
 
     def to_json(self) -> dict[str, Any]:
         return {
@@ -644,6 +715,11 @@ class DetailedEvent:
             "belief_ids": _to_json_array(self.belief_ids),
             "canon_importance": self.canon_importance.value,
             "evidence_refs": _to_json_array(self.evidence_refs),
+            "involved_factions": _to_json_array(self.involved_factions),
+            "long_term_impacts": _to_json_array(self.long_term_impacts),
+            "political_impacts": _to_json_array(self.political_impacts),
+            "world_impacts": _to_json_array(self.world_impacts),
+            "participant_actions": _to_json_array(self.participant_actions),
         }
 
     @classmethod
@@ -675,6 +751,11 @@ class DetailedEvent:
             belief_ids=tuple(document["belief_ids"]),
             canon_importance=EventImportance(document["canon_importance"]),
             evidence_refs=tuple(document["evidence_refs"]),
+            involved_factions=tuple(document.get("involved_factions", ())),
+            long_term_impacts=tuple(document.get("long_term_impacts", ())),
+            political_impacts=tuple(document.get("political_impacts", ())),
+            world_impacts=tuple(document.get("world_impacts", ())),
+            participant_actions=tuple(document.get("participant_actions", ())),
         )
 
 
