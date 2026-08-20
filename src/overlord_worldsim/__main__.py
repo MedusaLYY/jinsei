@@ -7,6 +7,7 @@ import hashlib
 import sqlite3
 import sys
 from collections.abc import Sequence
+from datetime import UTC
 from pathlib import Path
 from typing import cast
 
@@ -90,6 +91,36 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     apply_parser.add_argument(
         "--candidate", type=Path, required=True, help="path to the extraction batch JSON"
+    )
+    enrich_verify_parser = canon_subcommands.add_parser(
+        "enrich-verify", help="verify the enrichment corpus against source and registry"
+    )
+    enrich_verify_parser.add_argument(
+        "--content", type=Path, required=True, help="enrichment content directory"
+    )
+    enrich_verify_parser.add_argument(
+        "--source", type=Path, required=True, help="path to the raw canon TXT"
+    )
+    enrich_verify_parser.add_argument(
+        "--canon", type=Path, required=True, help="path to the extraction canon batches dir"
+    )
+    enrich_verify_parser.add_argument(
+        "--out", type=Path, required=True, help="path for the verification report JSON"
+    )
+    enrich_apply_parser = canon_subcommands.add_parser(
+        "enrich-apply", help="verify and apply the enrichment corpus into the canon database"
+    )
+    enrich_apply_parser.add_argument(
+        "--db", type=Path, required=True, help="path to the canon SQLite database"
+    )
+    enrich_apply_parser.add_argument(
+        "--content", type=Path, required=True, help="enrichment content directory"
+    )
+    enrich_apply_parser.add_argument(
+        "--source", type=Path, required=True, help="path to the raw canon TXT"
+    )
+    enrich_apply_parser.add_argument(
+        "--canon", type=Path, required=True, help="path to the extraction canon batches dir"
     )
     return parser
 
@@ -275,6 +306,103 @@ def _run_canon_apply(arguments: argparse.Namespace) -> int:
     return 0
 
 
+def _run_canon_enrich_verify(arguments: argparse.Namespace) -> int:
+    from overlord_worldsim.canon.enrich_registry import (
+        load_enrichment_batches,
+        load_entity_registry,
+    )
+    from overlord_worldsim.canon.enrich_verifier import verify_enrichment
+
+    content_dir = cast(Path, arguments.content)
+    source = cast(Path, arguments.source)
+    canon_dir = cast(Path, arguments.canon)
+    out_path = cast(Path, arguments.out)
+    try:
+        text = _read_source(source)
+        batches = load_enrichment_batches(content_dir)
+        registry = load_entity_registry(canon_dir)
+    except (ValueError, FileNotFoundError, OSError) as error:
+        print(f"error: {error}", file=sys.stderr)
+        return 2
+    doc = parse_source(text, source_name=source.name)
+    report = verify_enrichment(batches, doc, registry)
+    payload = {
+        "is_clean": report.is_clean,
+        "batch_count": len(batches),
+        "errors": [error.to_json() for error in report.errors],
+    }
+    try:
+        out_path.write_text(_canonical_json(payload) + "\n", encoding="utf-8")
+    except OSError as error:
+        print(f"error: cannot write report: {error}", file=sys.stderr)
+        return 2
+    print(_canonical_json(payload))
+    if not report.is_clean:
+        print("error: enrichment verification failed", file=sys.stderr)
+        return 1
+    return 0
+
+
+def _run_canon_enrich_apply(arguments: argparse.Namespace) -> int:
+    from datetime import datetime
+
+    from overlord_worldsim.canon.enrich_loader import (
+        apply_enrichment,
+        build_manifest,
+        canonical_content_hash,
+        open_canon_db,
+        write_manifest_json,
+    )
+    from overlord_worldsim.canon.enrich_query import enrichment_summary
+    from overlord_worldsim.canon.enrich_registry import (
+        load_enrichment_batches,
+        load_entity_registry,
+    )
+    from overlord_worldsim.canon.enrich_verifier import verify_enrichment
+
+    db_path = cast(Path, arguments.db)
+    content_dir = cast(Path, arguments.content)
+    source = cast(Path, arguments.source)
+    canon_dir = cast(Path, arguments.canon)
+    try:
+        text = _read_source(source)
+        batches = load_enrichment_batches(content_dir)
+        registry = load_entity_registry(canon_dir)
+    except (ValueError, FileNotFoundError, OSError) as error:
+        print(f"error: {error}", file=sys.stderr)
+        return 2
+    doc = parse_source(text, source_name=source.name)
+    report = verify_enrichment(batches, doc, registry)
+    if not report.is_clean:
+        for issue in report.errors:
+            print(f"error: verification failed: {issue.to_json()}", file=sys.stderr)
+        return 1
+    source_sha256 = hashlib.sha256(source.read_bytes()).hexdigest()
+    content_hash = canonical_content_hash(batches)
+    manifest = build_manifest(
+        content_sha256=content_hash,
+        source_sha256=source_sha256,
+        source_volumes=[batch.source_volume for batch in batches],
+        source_unit_count=len(doc.units),
+        build_tool_version="overlord-worldsim-cli",
+        batch_counts={batch.batch_id: sum(batch.counts().values()) for batch in batches},
+        generated_at=datetime.now(UTC).isoformat(timespec="seconds"),
+    )
+    try:
+        connection = open_canon_db(db_path)
+        try:
+            with connection:
+                apply_enrichment(connection, batches, manifest)
+        finally:
+            connection.close()
+        write_manifest_json(manifest, content_dir / "manifest.json")
+    except (OSError, sqlite3.DatabaseError) as error:
+        print(f"error: cannot apply enrichment: {error}", file=sys.stderr)
+        return 2
+    print(_canonical_json({"manifest": manifest, "summary": enrichment_summary(db_path)}))
+    return 0
+
+
 def _canonical_json(value: object) -> str:
     import json
 
@@ -311,6 +439,10 @@ def main(argv: Sequence[str] | None = None) -> int:
             return _run_canon_verify(arguments)
         if canon_command == "apply":
             return _run_canon_apply(arguments)
+        if canon_command == "enrich-verify":
+            return _run_canon_enrich_verify(arguments)
+        if canon_command == "enrich-apply":
+            return _run_canon_enrich_apply(arguments)
         parser.error(f"unknown canon command: {canon_command}")
 
     parser.error(f"unknown command: {command}")
