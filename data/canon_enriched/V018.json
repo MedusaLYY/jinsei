@@ -1,0 +1,2390 @@
+{
+  "abilities": [
+    {
+      "ability_id": "AB18001",
+      "ability_type": "MAGIC",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": "瞬时",
+      "effects": [
+        "超高速筒状发射爆头"
+      ],
+      "element": "土",
+      "evidence_refs": [
+        "EV18017"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "learning_method": [],
+      "limitations": [],
+      "mana_cost_if_known": null,
+      "name": "岩炮弹",
+      "preconditions": [],
+      "qualitative_power": "高",
+      "range_if_known": "远",
+      "requirements": [],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": "帝级"
+    },
+    {
+      "ability_id": "AB18002",
+      "ability_type": "MAGIC",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "瞬间治愈断脚与瘀青"
+      ],
+      "element": "治愈",
+      "evidence_refs": [
+        "EV18018"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "learning_method": [],
+      "limitations": [],
+      "mana_cost_if_known": null,
+      "name": "治愈魔术",
+      "preconditions": [],
+      "qualitative_power": "中",
+      "range_if_known": "近",
+      "requirements": [],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": null
+    },
+    {
+      "ability_id": "AB18003",
+      "ability_type": "SWORD",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "以最小魔力逼入绝境"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV18019"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "learning_method": [
+        "奥尔斯帝德秘传书"
+      ],
+      "limitations": [],
+      "mana_cost_if_known": "极低",
+      "name": "龙神流型",
+      "preconditions": [],
+      "qualitative_power": "高",
+      "range_if_known": "近战",
+      "requirements": [],
+      "school": "龙神流",
+      "stamina_cost_if_known": null,
+      "tier": null
+    }
+  ],
+  "batch_id": "ENRICH_V018",
+  "behavior_cases": [
+    {
+      "action": "岩炮与火焰",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18001",
+      "character_id": "E0001",
+      "context": "森林击杀伊卜利巨蜥",
+      "emotional_response": "Fear后专注",
+      "evidence_refs": [
+        "EV18021"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "protect",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "安洁法姆濒死",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "报奥尔斯帝德与爱丽儿名号",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18002",
+      "character_id": "E0001",
+      "context": "奴隶商人对峙先礼后兵",
+      "emotional_response": "克制后决断",
+      "evidence_refs": [
+        "EV18022"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "negotiation",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "对方三人上门索要莉妮亚",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "交付两袋魔石约千金",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18003",
+      "character_id": "E0001",
+      "context": "以魔石赎莉妮亚",
+      "emotional_response": "愧疚后坚定",
+      "evidence_refs": [
+        "EV18023"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "money",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "MONEY"
+      ],
+      "trigger": "露西在楼梯不安注视",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "轻信商人致债务滚雪球",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18004",
+      "character_id": "E0148",
+      "context": "行商被骗沦为奴隶",
+      "emotional_response": "恐慌",
+      "evidence_refs": [
+        "EV18024"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "fear",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "FEAR"
+      ],
+      "trigger": "背负二十金币会员贷",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "挺身报裘耶斯之女名",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18005",
+      "character_id": "E0148",
+      "context": "德鲁迪亚再访报族名",
+      "emotional_response": "紧张后自豪",
+      "evidence_refs": [
+        "EV18025"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "authority",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "EMBARRASSMENT"
+      ],
+      "trigger": "战士戒备欲囚人族",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "坚持致词完成",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18006",
+      "character_id": "E0007",
+      "context": "入学典礼会长致词",
+      "emotional_response": "紧张",
+      "evidence_refs": [
+        "EV18026"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "authority",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "AUTHORITY"
+      ],
+      "trigger": "新生鼓噪会长威望不足",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "要求自理",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18007",
+      "character_id": "E0007",
+      "context": "会后训诫兄长勿过度保护",
+      "emotional_response": "要强",
+      "evidence_refs": [
+        "EV18027"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "family",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "FAMILY"
+      ],
+      "trigger": "鲁迪当众低头",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "反复磨平涂装",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18008",
+      "character_id": "E0106",
+      "context": "人偶精微改进",
+      "emotional_response": "专注",
+      "evidence_refs": [
+        "EV18028"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "training",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "TRAINING"
+      ],
+      "trigger": "瑞杰路德人偶色差与缝隙",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "设计出借与替补机制",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18009",
+      "character_id": "E0008",
+      "context": "佣兵团保镳契约定价",
+      "emotional_response": "务实",
+      "evidence_refs": [
+        "EV18029"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "negotiation",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "兽族不良能战不识字",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "闭眼沉思后点头",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18010",
+      "character_id": "E0008",
+      "context": "说服鲁迪再给莉妮亚机会",
+      "emotional_response": "权衡",
+      "evidence_refs": [
+        "EV18030"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "trust",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "TRUST"
+      ],
+      "trigger": "莉妮亚屡次失误不道歉",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "公主抱后扔出走廊",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18011",
+      "character_id": "E0001",
+      "context": "夜拒莉妮亚诱惑关门上锁",
+      "emotional_response": "克制",
+      "evidence_refs": [
+        "EV18031"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "family",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "FAMILY"
+      ],
+      "trigger": "莉妮亚自荐睡眠",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "请七星与希尔瓦莉尔协助",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18012",
+      "character_id": "E0001",
+      "context": "佩尔基乌斯处转移委托",
+      "emotional_response": "敬慎",
+      "evidence_refs": [
+        "EV18032"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "loyalty",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "LOYALTY"
+      ],
+      "trigger": "圣兽失踪需经天空城",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "以金钱与名号截胡",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18013",
+      "character_id": "E0001",
+      "context": "拒绝将莉妮亚交还伯雷亚斯家",
+      "emotional_response": "决断",
+      "evidence_refs": [
+        "EV18001"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "moral_choice",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "REJECTION"
+      ],
+      "trigger": "奴隶商称已找好买家",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "据理对峙",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18014",
+      "character_id": "E0148",
+      "context": "与普露塞娜饥荒重提",
+      "emotional_response": "不甘",
+      "evidence_refs": [
+        "EV18002"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "friendship",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "FRIENDSHIP"
+      ],
+      "trigger": "十年前景被污蔑",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "宣告成为冒险者",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18015",
+      "character_id": "E0007",
+      "context": "毕业后抉择成冒险者",
+      "emotional_response": "决意",
+      "evidence_refs": [
+        "EV18003"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "moral_choice",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "MORAL_CHOICE"
+      ],
+      "trigger": "学业与前途焦虑",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    },
+    {
+      "action": "托付家眷获应允",
+      "available_information": "卷十八当下情境与对话可见",
+      "case_id": "BC18016",
+      "character_id": "E0001",
+      "context": "奥尔斯帝德道谢与护家委托",
+      "emotional_response": "安心",
+      "evidence_refs": [
+        "EV18004"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响后续家庭与组织",
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "relationship_context": "与家人或同伴协作",
+      "situation_type": "trust",
+      "social_context": "夏利亚与德路迪亚社会情境",
+      "tags": [
+        "GRATITUDE"
+      ],
+      "trigger": "需离家赴大森林",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 18
+    }
+  ],
+  "beliefs": [
+    {
+      "belief_id": "BL18001",
+      "belief_state": "FALSE_BELIEF",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV18005"
+      ],
+      "is_true_in_world": false,
+      "learned_at_volume": 18,
+      "learned_from": "商人提议",
+      "learned_method": "被游说",
+      "note": "轻信商会骗局",
+      "owner_id": "E0148",
+      "statement": "以为二十金币会员可降息还清债务",
+      "topic": "债务",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL18002",
+      "belief_state": "INFERRED",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV18006"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 18,
+      "learned_from": "家庭商议",
+      "learned_method": "目击与讨论",
+      "note": "教育爱夏不舍弃他人",
+      "owner_id": "E0001",
+      "statement": "认为应给莉妮亚再一次工作机会而非抛弃",
+      "topic": "莉妮亚处置",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL18003",
+      "belief_state": "INFERRED",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV18007"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 18,
+      "learned_from": "学园与家庭观察",
+      "learned_method": "自省",
+      "note": "卷末抉择",
+      "owner_id": "E0007",
+      "statement": "相信自己能以冒险者自立",
+      "topic": "前途",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "affection_signs": [
+        "摸头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "character_id": "E0001",
+      "embarrassed_signs": [
+        "身子猛震"
+      ],
+      "evidence_refs": [
+        "EV18023"
+      ],
+      "fear_signs": [],
+      "happy_signs": [
+        "轻吐气"
+      ],
+      "hostility_signs": [],
+      "lying_signs": [],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "profile_id": "BY18001",
+      "thinking_signs": [
+        "托腮权衡"
+      ],
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "affection_signs": [
+        "贴靠"
+      ],
+      "angry_signs": [
+        "炸毛"
+      ],
+      "character_id": "E0148",
+      "embarrassed_signs": [
+        "搔头认错"
+      ],
+      "evidence_refs": [
+        "EV18024"
+      ],
+      "fear_signs": [
+        "瑟瑟发抖"
+      ],
+      "happy_signs": [
+        "喵笑"
+      ],
+      "hostility_signs": [
+        "威吓逼近"
+      ],
+      "lying_signs": [],
+      "nervous_signs": [
+        "颤抖躲沙发后"
+      ],
+      "phase_id": "P18004",
+      "phase_name": "奴隶女仆转佣兵团长期",
+      "profile_id": "BY18002",
+      "thinking_signs": [],
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "domain": "经济",
+      "gap_id": "GAP18001",
+      "note": "卷十八仅言出名与人脉，未给价目",
+      "possible_sources": "卷十九后佣兵团运营描写",
+      "question": "鲁德佣兵团保镳租赁的具体费率与骑士团委托单细节为何？",
+      "searched_volumes": [
+        18
+      ],
+      "status": "OPEN",
+      "why_needed": "量化组织营收与推演时资源约束"
+    }
+  ],
+  "character_personas": [
+    {
+      "behavior_traits": [
+        "克制",
+        "决断"
+      ],
+      "character_id": "E0001",
+      "description": "对外为奥尔斯帝德属下兼鲁德会长，对内为克制欲念的家长",
+      "evidence_refs": [
+        "EV18001"
+      ],
+      "persona_id": "PN18001",
+      "persona_type": "PUBLIC",
+      "phase_id": "P18001",
+      "speech_style": "对外敬慎，对家温和",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "behavior_traits": [
+        "张扬",
+        "欺软怕硬"
+      ],
+      "character_id": "E0148",
+      "description": "对外为德路迪亚公主领袖，对内为笨拙女仆",
+      "evidence_refs": [
+        "EV18002"
+      ],
+      "persona_id": "PN18002",
+      "persona_type": "PUBLIC",
+      "phase_id": "P18004",
+      "speech_style": "喵口癖张扬",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "character_preferences": [
+    {
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "context": "归家后",
+      "description": "卷十八中以摸头、便当、夜话为价值锚点",
+      "evidence_refs": [
+        "EV18013"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P18001",
+      "preference_id": "PF18001",
+      "preference_type": "LIKE",
+      "target": "家庭团聚与日常",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "character_id": "E0148",
+      "confidence": "EXPLICIT",
+      "context": "奴隶期",
+      "description": "恐惧被交予伯雷亚斯家作泄欲工具",
+      "evidence_refs": [
+        "EV18014"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P18004",
+      "preference_id": "PF18002",
+      "preference_type": "DISLIKE",
+      "target": "再被当奴隶贩卖",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "character_profiles": [
+    {
+      "age_description": "二十余岁，奥尔斯帝德属下，三妻之夫，多子女之父",
+      "ambition": "MODERATE",
+      "attachment_style": "对希露菲依恋",
+      "authority_attitude": "尊敬奥尔斯帝德",
+      "behavior_changes_note": "从单点任务执行转向组织化用人与伐木式家庭调停",
+      "character_id": "E0001",
+      "conflict_tendencies": [
+        "以谈判与金钱化解，必要时威慑"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "维系家庭和睦",
+        "完成奥尔斯帝德任务"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18001",
+        "EV18008"
+      ],
+      "family_attitude": "以父职为重",
+      "fears": [
+        "家庭崩坏重蹈日记",
+        "失去子女信赖"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓莉妮亚债务一千五百金币",
+        "知晓菈菈受雷欧守护"
+      ],
+      "known_skills": [
+        "无咏唱魔术",
+        "魔导铠运用",
+        "土魔法造筏"
+      ],
+      "long_term_goals": [
+        "维系多妻家庭长久"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": "视千五金币为巨款仍赎人",
+      "obligations": [
+        "奥尔斯帝德属下职责",
+        "父责"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "责任感强",
+        "好色而自制",
+        "谋划周密",
+        "护家"
+      ],
+      "phase_id": "P18001",
+      "phase_name": "奥尔斯帝德属下与家庭期",
+      "pride": "守护家人",
+      "profile_id": "CP18001",
+      "race_attitude": "尊重兽族",
+      "relationship_tendencies": [
+        "护家护妹"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "调和家庭",
+        "推进奥尔斯帝德任务"
+      ],
+      "social_tendencies": [
+        "组织化用人"
+      ],
+      "speech_tendencies": [
+        "敬语对奥尔斯帝德，常体对家人"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "卷十八中鲁迪在奥尔斯帝德麾下兼顾多线任务与家庭裂痕，赎莉妮亚、创业佣兵团并再访德路迪亚。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "家人至上",
+        "对奥尔斯帝德忠诚",
+        "实用主义"
+      ],
+      "violence_attitude": "克制而威慑",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "二十余岁，鲁迪第一妻，露西与后续子女之母，家庭支援核心",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从孕期照护转向家庭关系调停",
+      "character_id": "E0006",
+      "conflict_tendencies": [
+        "理性应对"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "调和丈夫与妹妹女仆矛盾",
+        "守护露西菈菈"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18004",
+        "EV18011"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "家庭气氛恶化"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓莉妮亚未融入",
+        "知晓菈菈安稳"
+      ],
+      "known_skills": [
+        "治愈魔术辅助",
+        "家务统筹"
+      ],
+      "long_term_goals": [
+        "获得认可"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "温柔包容",
+        "善解人意",
+        "坚定"
+      ],
+      "phase_id": "P18002",
+      "phase_name": "家庭支援期",
+      "pride": null,
+      "profile_id": "CP18002",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当前职责"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "speech_tendencies": [
+        "简洁"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "希露菲在卷十八以家庭支援角色出现，为莉妮亚融入与鲁迪修行提供后勤与情感缓冲。",
+      "taboos": [
+        "背叛家人"
+      ],
+      "values": [
+        "家庭和谐",
+        "子女成长"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "十余岁，家中女仆与事务担当，鲁德佣兵团实际经营者",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从家仆执行者成长为组织经营者",
+      "character_id": "E0008",
+      "conflict_tendencies": [
+        "理性应对"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "经营佣兵团证明能力",
+        "管束莉妮亚"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18007",
+        "EV18014"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "被视为苛刻"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓莉妮亚工作失误",
+        "知晓保镳租赁模式"
+      ],
+      "known_skills": [
+        "家务与经营",
+        "人才招揽"
+      ],
+      "long_term_goals": [
+        "获得认可"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": "精打细算",
+      "obligations": [
+        "职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "能干",
+        "严厉",
+        "务实"
+      ],
+      "phase_id": "P18003",
+      "phase_name": "佣兵团经营期",
+      "pride": null,
+      "profile_id": "CP18003",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当前职责"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "speech_tendencies": [
+        "简洁"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "爱夏在卷十八从女仆转向经营者，与莉妮亚搭档创立鲁德佣兵团并主导保镳产业。",
+      "taboos": [
+        "失信"
+      ],
+      "values": [
+        "效率",
+        "责任"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "德路迪亚族裘耶斯之女，奴隶出身，女仆转佣兵团团长",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从独行商人跌为奴隶再转为组织领袖",
+      "character_id": "E0148",
+      "conflict_tendencies": [
+        "理性应对"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "偿还债务重获自由",
+        "在鲁迪麾下上位"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18010",
+        "EV18017"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "再被卖为奴隶",
+        "被普露塞娜压制"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓自身债务处境",
+        "知晓商会骗局"
+      ],
+      "known_skills": [
+        "兽族体术",
+        "纠集不良"
+      ],
+      "long_term_goals": [
+        "获得认可"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "骄傲",
+        "欺软怕硬",
+        "渴望认可",
+        "领袖气质"
+      ],
+      "phase_id": "P18004",
+      "phase_name": "奴隶女仆转佣兵团长期",
+      "pride": null,
+      "profile_id": "CP18004",
+      "race_attitude": "尊重兽族",
+      "relationship_tendencies": [
+        "协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当前职责"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "speech_tendencies": [
+        "简洁"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "莉妮亚在卷十八经历行商破产、沦为奴隶、被赎为女仆到佣兵团团长的转折。",
+      "taboos": [
+        "失信"
+      ],
+      "values": [
+        "面子",
+        "向上爬"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "十余岁，魔法大学学生会会长，学业与前途抉择期",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "从学生领袖向职业抉择过渡",
+      "character_id": "E0007",
+      "conflict_tendencies": [
+        "理性应对"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "胜任学生会会长",
+        "探寻冒险者道路"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18013",
+        "EV18020"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "被与爱夏比较",
+        "辜负兄长期望"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓自身会长职责",
+        "知晓毕业后出路焦虑"
+      ],
+      "known_skills": [
+        "学生会领导",
+        "学业"
+      ],
+      "long_term_goals": [
+        "获得认可"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "认真",
+        "要强",
+        "不服输"
+      ],
+      "phase_id": "P18005",
+      "phase_name": "学生会会长期",
+      "pride": null,
+      "profile_id": "CP18005",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当前职责"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "speech_tendencies": [
+        "简洁"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "诺伦在卷十八以学生会会长身份登台，并在卷末抉择成为冒险者。",
+      "taboos": [
+        "失信"
+      ],
+      "values": [
+        "责任",
+        "自立"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "剑王，鲁迪第三妻，怀孕中，性情直率好战",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "战力担当转为家庭守护",
+      "character_id": "E0021",
+      "conflict_tendencies": [
+        "理性应对"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "保护家庭",
+        "保持剑术"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18016",
+        "EV18023"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "孕期受限"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓莉妮亚处境"
+      ],
+      "known_skills": [
+        "剑王剑术",
+        "威慑"
+      ],
+      "long_term_goals": [
+        "获得认可"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "直率",
+        "好战",
+        "重情义"
+      ],
+      "phase_id": "P18006",
+      "phase_name": "孕期剑士期",
+      "pride": null,
+      "profile_id": "CP18006",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当前职责"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "speech_tendencies": [
+        "简洁"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "艾莉丝卷十八处孕期，以武力威慑奴隶商人并期盼家庭稳定。",
+      "taboos": [
+        "失信"
+      ],
+      "values": [
+        "力量",
+        "忠诚"
+      ],
+      "violence_attitude": null,
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "矿坑族少女，札诺巴奴隶，人偶师技艺精进期",
+      "ambition": "MODERATE",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "behavior_changes_note": "技艺从模仿到自主精修",
+      "character_id": "E0106",
+      "conflict_tendencies": [
+        "理性应对"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "权衡后行动",
+        "先礼后兵"
+      ],
+      "desires": [
+        "完成可售人偶",
+        "获师傅认可"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV18019",
+        "EV18026"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "技艺不足被否定"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对未来不安"
+      ],
+      "knowledge_state": [
+        "知晓瑞杰路德人偶细节"
+      ],
+      "known_skills": [
+        "人偶制作",
+        "涂装"
+      ],
+      "long_term_goals": [
+        "获得认可"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "职责"
+      ],
+      "patience": "MEDIUM",
+      "personality_traits": [
+        "专注",
+        "手巧",
+        "内向而执着"
+      ],
+      "phase_id": "P18007",
+      "phase_name": "人偶师成长期",
+      "pride": null,
+      "profile_id": "CP18007",
+      "race_attitude": null,
+      "relationship_tendencies": [
+        "协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "完成当前职责"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "speech_tendencies": [
+        "简洁"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "茱丽在卷十八人偶制作从冻结到精微改进，最终获认可。",
+      "taboos": [
+        "失信"
+      ],
+      "values": [
+        "技艺",
+        "报恩"
+      ],
+      "violence_attitude": "克制",
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "character_quirks": [
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "搓手靠前",
+        "抓头顶转向"
+      ],
+      "body_language": "搓手",
+      "boundaries": [
+        "不触学生会权威"
+      ],
+      "category": "HABIT",
+      "character_id": "E0148",
+      "confidence": "EXPLICIT",
+      "description": "以喵结尾并以威吓口吻纠缠旧识",
+      "emotional_response": "得意",
+      "emotional_reward": "满足虚荣",
+      "end_date": null,
+      "evidence_refs": [
+        "EV18003"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [
+        "被诺伦瞪视即认错"
+      ],
+      "frequency": "频发",
+      "intensity": "中",
+      "name": "口癖与威吓式搭讪",
+      "phase_id": "P18004",
+      "preferred_targets": [],
+      "private_expression": null,
+      "public_expression": "当众缠上",
+      "quirk_id": "QK18001",
+      "start_date": null,
+      "triggers": [
+        "遇旧识",
+        "欲炫耀"
+      ],
+      "verbal_patterns": [
+        "喵"
+      ],
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    },
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "对内裤吸嗅祈祷"
+      ],
+      "body_language": "贴面吸气",
+      "boundaries": [
+        "不在人前进行"
+      ],
+      "category": "HABIT",
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "description": "以复制圣物进行祭神以克制欲念",
+      "emotional_response": "虔诚",
+      "emotional_reward": "清醒",
+      "end_date": null,
+      "evidence_refs": [
+        "EV18004"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [],
+      "frequency": "偶发",
+      "intensity": "中",
+      "name": "祭神仪式",
+      "phase_id": "P18001",
+      "preferred_targets": [],
+      "private_expression": "独处时进行",
+      "public_expression": null,
+      "quirk_id": "QK18002",
+      "start_date": null,
+      "triggers": [
+        "受魔性女子诱惑"
+      ],
+      "verbal_patterns": [],
+      "visible_from_volume": 18,
+      "visible_to_volume": null
+    }
+  ],
+  "creatures": [],
+  "detailed_events": [
+    {
+      "actions": [
+        "岩炮爆头与火焰焚尸"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED18001",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE18002"
+        }
+      ],
+      "event_id": "DE18001",
+      "event_type": "TI_拯救",
+      "evidence_refs": [
+        "EV18004",
+        "EV18011"
+      ],
+      "location_id": null,
+      "outcome": "获安洁感激与人偶使命",
+      "participants": [
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV18009"
+          ],
+          "prerequisite_id": "EP18001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "后",
+          "before": "前",
+          "change_id": "SC18001",
+          "change_kind": "状态",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "拯救安洁与法姆",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0068",
+      "title": "拯救安洁与法姆",
+      "trigger": "伊卜利巨蜥守护印托花",
+      "volume_no": 18
+    },
+    {
+      "actions": [
+        "交付魔石并立女仆契约"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED18002",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE18003"
+        }
+      ],
+      "event_id": "DE18002",
+      "event_type": "家庭事件",
+      "evidence_refs": [
+        "EV18006",
+        "EV18013"
+      ],
+      "location_id": null,
+      "outcome": "莉妮亚留家，债务一千五百金币",
+      "participants": [
+        "E0001",
+        "E0148",
+        "E0008"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV18010"
+          ],
+          "prerequisite_id": "EP18003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "后",
+          "before": "前",
+          "change_id": "SC18002",
+          "change_kind": "关系",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "赎买莉妮亚与女仆安置",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": null,
+      "title": "赎买莉妮亚与女仆安置",
+      "trigger": "奴隶商上门索人",
+      "volume_no": 18
+    },
+    {
+      "actions": [
+        "诺伦致词与莉妮亚旧识纠葛被劝解"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED18003",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE18004"
+        }
+      ],
+      "event_id": "DE18003",
+      "event_type": "学园事件",
+      "evidence_refs": [
+        "EV18008",
+        "EV18015"
+      ],
+      "location_id": null,
+      "outcome": "确认学生会权威与家庭支持边界",
+      "participants": [
+        "E0007",
+        "E0148"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV18011"
+          ],
+          "prerequisite_id": "EP18005",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0007",
+          "statement": "E0007在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "后",
+          "before": "前",
+          "change_id": "SC18003",
+          "change_kind": "状态",
+          "subject_id": "E0007"
+        }
+      ],
+      "time_date": null,
+      "time_note": "诺伦会长就任与一年级骚动",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0070",
+      "title": "诺伦会长就任与一年级骚动",
+      "trigger": "入学典礼致词",
+      "volume_no": 18
+    },
+    {
+      "actions": [
+        "以保镳租赁与替补机制获骑士团关注"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED18004",
+          "dependency_type": "CAUSES",
+          "statement": "为后事提供前提",
+          "target_event_id": "DE18005"
+        }
+      ],
+      "event_id": "DE18004",
+      "event_type": "创业事件",
+      "evidence_refs": [
+        "EV18010",
+        "EV18017"
+      ],
+      "location_id": null,
+      "outcome": "获首批属下与经费",
+      "participants": [
+        "E0001",
+        "E0008",
+        "E0148"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV18012"
+          ],
+          "prerequisite_id": "EP18007",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "后",
+          "before": "前",
+          "change_id": "SC18004",
+          "change_kind": "状态",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "鲁德佣兵团创业与保镳成名",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0068",
+      "title": "鲁德佣兵团创业与保镳成名",
+      "trigger": "爱夏策划集团化",
+      "volume_no": 18
+    },
+    {
+      "actions": [
+        "经佩尔基乌斯转移雨季抵村自报家门"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "dependencies": [],
+      "event_id": "DE18005",
+      "event_type": "再访事件",
+      "evidence_refs": [
+        "EV18012",
+        "EV18019"
+      ],
+      "location_id": null,
+      "outcome": "澄清雷欧归属与莉妮亚身世",
+      "participants": [
+        "E0001",
+        "E0148",
+        "E0054"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV18013"
+          ],
+          "prerequisite_id": "EP18009",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "后",
+          "before": "前",
+          "change_id": "SC18005",
+          "change_kind": "状态",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "再访德路迪亚与圣兽说明",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0069",
+      "title": "再访德路迪亚与圣兽说明",
+      "trigger": "圣兽失踪来信",
+      "volume_no": 18
+    }
+  ],
+  "economic_observations": [
+    {
+      "amount_description": "约五百枚",
+      "at_date": null,
+      "at_volume": 18,
+      "category": "报酬",
+      "context": "奴隶商人赎价",
+      "currency": "阿斯拉金币",
+      "evidence_refs": [
+        "EV18012"
+      ],
+      "goods_description": "魔石一袋",
+      "item_id": "IT18001",
+      "location_id": null,
+      "location_name": "夏利亚",
+      "observation_id": "EC18001",
+      "price_class": "OBSERVED_PRICE",
+      "quantity": "1袋"
+    },
+    {
+      "amount_description": "十枚作启动资金",
+      "at_date": null,
+      "at_volume": 18,
+      "category": "创业",
+      "context": "不动产店购小屋",
+      "currency": "阿斯拉金币",
+      "evidence_refs": [
+        "EV18013"
+      ],
+      "goods_description": "事务所小屋购入",
+      "item_id": null,
+      "location_id": null,
+      "location_name": "夏利亚",
+      "observation_id": "EC18002",
+      "price_class": "OBSERVED_PRICE",
+      "quantity": "1间"
+    }
+  ],
+  "evidence": [
+    {
+      "chapter_title": "第一话「工作的其中一例」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18001",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "安洁与法姆背景与伊卜利病村落",
+      "source_end_line": 160162,
+      "source_start_line": 160074,
+      "unit_id": "U0316",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第一话「工作的其中一例」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18002",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "印托花丛生地与伊卜利巨蜥出现",
+      "source_end_line": 160382,
+      "source_start_line": 160260,
+      "unit_id": "U0316",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第一话「工作的其中一例」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18003",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁迪乌斯击杀伊卜利巨蜥并自称身份",
+      "source_end_line": 160490,
+      "source_start_line": 160384,
+      "unit_id": "U0316",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第一话「工作的其中一例」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18004",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "内裤祭神仪式与斯佩路德人偶交付",
+      "source_end_line": 160734,
+      "source_start_line": 160604,
+      "unit_id": "U0316",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18005",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "法姆救援回报与鲁迪返家",
+      "source_end_line": 160884,
+      "source_start_line": 160788,
+      "unit_id": "U0317",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18006",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "菈菈·格雷拉特出生与雷欧守护",
+      "source_end_line": 161004,
+      "source_start_line": 160886,
+      "unit_id": "U0317",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18007",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "莉妮亚行商失败与二十枚金币会员骗局",
+      "source_end_line": 161202,
+      "source_start_line": 161114,
+      "unit_id": "U0317",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18008",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "奴隶商人上门与艾莉丝砍人威慑",
+      "source_end_line": 161314,
+      "source_start_line": 161204,
+      "unit_id": "U0317",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第二话「猫咪毕业前后两个样」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18009",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁迪以两袋魔石约一千枚金币赎买莉妮亚",
+      "source_end_line": 161510,
+      "source_start_line": 161400,
+      "unit_id": "U0317",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第三话「入学典礼与学生会会长」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18010",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "莉妮亚以女仆留家与爱夏债务主张",
+      "source_end_line": 161630,
+      "source_start_line": 161550,
+      "unit_id": "U0318",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第三话「入学典礼与学生会会长」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18011",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "入学典礼诺伦学生会会长致词",
+      "source_end_line": 161840,
+      "source_start_line": 161736,
+      "unit_id": "U0318",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第三话「入学典礼与学生会会长」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18012",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "格兰涅尔·阿斯拉王子避难入学",
+      "source_end_line": 162066,
+      "source_start_line": 161956,
+      "unit_id": "U0318",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第三话「入学典礼与学生会会长」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18013",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "莉妮亚与普露塞娜旧识一年级冲突",
+      "source_end_line": 162180,
+      "source_start_line": 162068,
+      "unit_id": "U0318",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第四话「研究进展」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18014",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "奥尔斯帝德试戴三色头盔诅咒研究",
+      "source_end_line": 162478,
+      "source_start_line": 162378,
+      "unit_id": "U0319",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第四话「研究进展」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18015",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "札诺巴魔导铠小型化与茱丽成长",
+      "source_end_line": 162666,
+      "source_start_line": 162586,
+      "unit_id": "U0319",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第四话「研究进展」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18016",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "瑞杰路德人偶绘本制版与版画量产",
+      "source_end_line": 162770,
+      "source_start_line": 162668,
+      "unit_id": "U0319",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第五话「家庭崩坏的前兆」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18017",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "事务所寄宿修行与乌尔佩龙神流",
+      "source_end_line": 162968,
+      "source_start_line": 162902,
+      "unit_id": "U0320",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第五话「家庭崩坏的前兆」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18018",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "爱夏与莉妮亚女仆摩擦与积怨",
+      "source_end_line": 163226,
+      "source_start_line": 163104,
+      "unit_id": "U0320",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第五话「家庭崩坏的前兆」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18019",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "莉妮亚夜袭寝室被关门拒绝",
+      "source_end_line": 163546,
+      "source_start_line": 163440,
+      "unit_id": "U0320",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第六话「创业」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18020",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "莉妮亚工作安置与创业构想",
+      "source_end_line": 163668,
+      "source_start_line": 163572,
+      "unit_id": "U0321",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第六话「创业」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18021",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "不动产小屋购入与十枚金币启动资金",
+      "source_end_line": 164070,
+      "source_start_line": 163968,
+      "unit_id": "U0321",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第六话「创业」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18022",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "爱夏被训诫与再给莉妮亚机会",
+      "source_end_line": 164166,
+      "source_start_line": 164072,
+      "unit_id": "U0321",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第七话「社内投资」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18023",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "鲁迪单访鲁德佣兵团据点闻味识人",
+      "source_end_line": 164686,
+      "source_start_line": 164570,
+      "unit_id": "U0322",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第七话「社内投资」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18024",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁德佣兵团保镳租赁契约与成名",
+      "source_end_line": 164900,
+      "source_start_line": 164810,
+      "unit_id": "U0322",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第七话「社内投资」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18025",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "大森林圣兽失踪来信",
+      "source_end_line": 164974,
+      "source_start_line": 164902,
+      "unit_id": "U0322",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第八话「再度造访德路迪亚村」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18026",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "佩尔基乌斯转移魔法阵雨季传送",
+      "source_end_line": 165322,
+      "source_start_line": 165176,
+      "unit_id": "U0323",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第八话「再度造访德路迪亚村」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18027",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "裘耶斯再会与圣兽菈菈说明",
+      "source_end_line": 165564,
+      "source_start_line": 165458,
+      "unit_id": "U0323",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第九话「肉干窃盗事件」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18028",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "普露塞娜夺食与饥荒缘由",
+      "source_end_line": 165988,
+      "source_start_line": 165872,
+      "unit_id": "U0324",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第十话「另一名奴隶 前篇」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18029",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "爱夏工坊与茱丽人偶精微改进",
+      "source_end_line": 166534,
+      "source_start_line": 166424,
+      "unit_id": "U0325",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第十一话「另一名奴隶 后篇」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18030",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "茱丽人偶最终交出与认可",
+      "source_end_line": 167746,
+      "source_start_line": 167634,
+      "unit_id": "U0326",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第十二话「下一场战役」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18031",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "诺伦冒险者抉择与家庭对话",
+      "source_end_line": 168228,
+      "source_start_line": 168106,
+      "unit_id": "U0327",
+      "volume_no": 18
+    },
+    {
+      "chapter_title": "第十二话「下一场战役」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV18032",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "鲁迪对诺伦决定与佣兵团安排",
+      "source_end_line": 168422,
+      "source_start_line": 168318,
+      "unit_id": "U0327",
+      "volume_no": 18
+    }
+  ],
+  "item_instances": [
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 18,
+      "condition": "良好",
+      "definition_id": "IT18001",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV18007"
+      ],
+      "holder_id": "E0001",
+      "instance_id": "IN18001",
+      "location_id": null,
+      "location_name": null,
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0001",
+      "ownership_history": [
+        {
+          "acquired_via": "奥尔斯帝德薪资",
+          "entry_id": "OH18001",
+          "lost_via": "赎买莉妮亚支付",
+          "note": "两袋魔石用于赎身",
+          "owner_id": "E0001",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "abilities": [],
+      "aliases": [],
+      "canonical_name": "魔石",
+      "category": "MAGIC_ITEM",
+      "creator": null,
+      "currency": "阿斯拉金币",
+      "description": "奥尔斯帝德发放的薪资魔石，可兑换约五百阿斯拉金币一袋，卷十八中用于赎买莉妮亚",
+      "durability": null,
+      "effects": [],
+      "evidence_refs": [
+        "EV18029"
+      ],
+      "first_appearance_line": 160796,
+      "first_appearance_volume": 18,
+      "item_id": "IT18001",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "魔石",
+      "origin": "奥尔斯帝德处",
+      "rarity": "稀有",
+      "requirements": [],
+      "size": null,
+      "subcategory": "魔石",
+      "value_information": "一袋约五百阿斯拉金币",
+      "visible_from_volume": 18,
+      "weight": null
+    },
+    {
+      "abilities": [],
+      "aliases": [
+        "光头战士人偶"
+      ],
+      "canonical_name": "斯佩路德人偶",
+      "category": "CRAFT",
+      "creator": "札诺巴与茱丽",
+      "currency": null,
+      "description": "札诺巴与茱丽制作的瑞杰路德人偶与绘本，卷十八中完善涂装与版画量产",
+      "durability": null,
+      "effects": [
+        "推广斯佩路德正面形象"
+      ],
+      "evidence_refs": [
+        "EV18030"
+      ],
+      "first_appearance_line": 162296,
+      "first_appearance_volume": 18,
+      "item_id": "IT18002",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "木与颜料",
+      "origin": "夏利亚",
+      "rarity": "常见",
+      "requirements": [],
+      "size": null,
+      "subcategory": "人偶",
+      "value_information": null,
+      "visible_from_volume": 18,
+      "weight": null
+    },
+    {
+      "abilities": [],
+      "aliases": [],
+      "canonical_name": "诅咒头盔",
+      "category": "MAGIC_ITEM",
+      "creator": "克里夫",
+      "currency": null,
+      "description": "克里夫为奥尔斯帝德试制的三色全罩头盔，用于遮蔽诅咒",
+      "durability": null,
+      "effects": [
+        "尝试遮蔽诅咒魔力"
+      ],
+      "evidence_refs": [
+        "EV18031"
+      ],
+      "first_appearance_line": 162306,
+      "first_appearance_volume": 18,
+      "item_id": "IT18003",
+      "limitations": [
+        "弗拉克式转换反效果"
+      ],
+      "manufacturer": null,
+      "material": "金属与魔力附加",
+      "origin": "魔法大学研究",
+      "rarity": "稀有",
+      "requirements": [],
+      "size": null,
+      "subcategory": "头盔",
+      "value_information": null,
+      "visible_from_volume": 18,
+      "weight": null
+    }
+  ],
+  "locations": [],
+  "organizations": [],
+  "political_states": [],
+  "power_comparisons": [
+    {
+      "actor_id": "E0001",
+      "comparison_id": "PC18001",
+      "confidence": "EXPLICIT",
+      "context": "卷十八鲁迪对莉妮亚与伊卜利巨蜥战",
+      "dimension": "综合战力",
+      "evidence_refs": [
+        "EV18027"
+      ],
+      "result": "鲁迪碾压巨蜥与震慑莉妮亚",
+      "target_id": "E0148"
+    }
+  ],
+  "relationship_changes": [
+    {
+      "after": "主仆兼团长",
+      "at_date": null,
+      "at_volume": 18,
+      "before": "朋友",
+      "change_id": "RC18001",
+      "dimension": "主仆与信赖",
+      "evidence_refs": [
+        "EV18015"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0148",
+      "trigger": "以魔石赎身并立女仆契约"
+    },
+    {
+      "after": "协作经营",
+      "at_date": null,
+      "at_volume": 18,
+      "before": "不和",
+      "change_id": "RC18002",
+      "dimension": "上下级",
+      "evidence_refs": [
+        "EV18016"
+      ],
+      "source_id": "E0008",
+      "target_id": "E0148",
+      "trigger": "共创佣兵团与再给机会"
+    },
+    {
+      "after": "尊重自立边界",
+      "at_date": null,
+      "at_volume": 18,
+      "before": "兄代父职过度保护",
+      "change_id": "RC18003",
+      "dimension": "兄妹与保护",
+      "evidence_refs": [
+        "EV18017"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0007",
+      "trigger": "诺伦要求自理与会长履职"
+    }
+  ],
+  "routes": [],
+  "schema_version": "1.0.0",
+  "source_unit_ids": [
+    "U0316",
+    "U0317",
+    "U0318",
+    "U0319",
+    "U0320",
+    "U0321",
+    "U0322",
+    "U0323",
+    "U0324",
+    "U0325",
+    "U0326",
+    "U0327",
+    "U0328",
+    "U0329",
+    "U0330"
+  ],
+  "source_volume": 18,
+  "species": [],
+  "speech_profiles": [
+    {
+      "address_habits": "称鲁迪为老大",
+      "anger_expression": "炸毛",
+      "canonical_examples": [
+        "喵哈哈哈，抱歉抱歉喵",
+        "老大，温柔点喵"
+      ],
+      "character_id": "E0148",
+      "emotion_expression": "喵哈哈自嘲",
+      "evidence_refs": [
+        "EV18025"
+      ],
+      "inferior_speech": "威吓",
+      "intimate_speech": "喵喵撒娇",
+      "phase_id": "P18004",
+      "phase_name": "奴隶女仆转佣兵团长期",
+      "politeness": "喵口癖，常体",
+      "profile_id": "ST18001",
+      "sentence_length": "中短",
+      "shy_expression": "搓手",
+      "stranger_speech": "虚张声势",
+      "superior_speech": "谄媚",
+      "visible_from_volume": 18
+    },
+    {
+      "address_habits": "称哥哥",
+      "anger_expression": "皱眉嘟嘴",
+      "canonical_examples": [
+        "请不要在学校里制造问题",
+        "我自己的事自己解决"
+      ],
+      "character_id": "E0007",
+      "emotion_expression": "认真直言",
+      "evidence_refs": [
+        "EV18026"
+      ],
+      "inferior_speech": "指导",
+      "intimate_speech": "依赖",
+      "phase_id": "P18005",
+      "phase_name": "学生会会长期",
+      "politeness": "敬体对师长，常体对兄",
+      "profile_id": "ST18002",
+      "sentence_length": "中",
+      "shy_expression": "回避",
+      "stranger_speech": "礼貌",
+      "superior_speech": "恭敬",
+      "visible_from_volume": 18
+    }
+  ],
+  "travel_observations": [],
+  "world_rules": [
+    {
+      "confidence": "EXPLICIT",
+      "domain": "SLAVERY",
+      "evidence_refs": [
+        "EV18028"
+      ],
+      "exceptions": "奥尔斯帝德与爱丽儿名号可威慑商人",
+      "rule_id": "WR18001",
+      "scope": "拉诺亚与北方大地",
+      "statement": "拉诺亚王国奴隶需挂项圈，买卖需契约与金币结算，德路迪亚族公主亦可为奴",
+      "visible_from_volume": 18
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "EDUCATION",
+      "evidence_refs": [
+        "EV18029"
+      ],
+      "exceptions": "无",
+      "rule_id": "WR18002",
+      "scope": "魔法大学",
+      "statement": "魔法大学生会会长由高年级选出，需在入学典礼致词并维持纪律，对一年级有管束权",
+      "visible_from_volume": 18
+    },
+    {
+      "confidence": "STRONG_INFERENCE",
+      "domain": "MAGIC",
+      "evidence_refs": [
+        "EV18030"
+      ],
+      "exceptions": "克里夫头盔未竟全功",
+      "rule_id": "WR18003",
+      "scope": "诅咒研究",
+      "statement": "奥尔斯帝德诅咒源于魔力本身，进入视野即发动，弗拉克式转换可能反效果",
+      "visible_from_volume": 18
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "SOCIETY",
+      "evidence_refs": [
+        "EV18031"
+      ],
+      "exceptions": "需避免集团暴走",
+      "rule_id": "WR18004",
+      "scope": "鲁德佣兵团",
+      "statement": "保镳租赁需安插头脑清晰领导者，伤亡即替补，非暴力团体但以声势获信赖",
+      "visible_from_volume": 18
+    }
+  ]
+}

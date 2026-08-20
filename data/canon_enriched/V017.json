@@ -1,0 +1,2676 @@
+{
+  "abilities": [
+    {
+      "ability_id": "AB17001",
+      "ability_type": "SPECIAL",
+      "aliases": [
+        "镜铠干扰"
+      ],
+      "counters": [
+        "闭眼听风",
+        "魔术烟幕"
+      ],
+      "duration_if_known": "瞬时",
+      "effects": [
+        "致盲干扰"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV17012"
+      ],
+      "known_users": [
+        "E0146"
+      ],
+      "learning_method": [
+        "骑士定制装备"
+      ],
+      "limitations": [
+        "闭眼或以气息感知可破",
+        "需光源"
+      ],
+      "mana_cost_if_known": null,
+      "name": "镜面反射干扰",
+      "preconditions": [
+        "正面迎光"
+      ],
+      "qualitative_power": "对剑士有奇效、对感知型无效",
+      "range_if_known": "近战",
+      "requirements": [
+        "镜面铠甲",
+        "日光"
+      ],
+      "school": "骑士技",
+      "stamina_cost_if_known": "低",
+      "tier": null
+    },
+    {
+      "ability_id": "AB17002",
+      "ability_type": "SWORD",
+      "aliases": [],
+      "counters": [
+        "剑神流强攻",
+        "魔术控场"
+      ],
+      "duration_if_known": null,
+      "effects": [
+        "以柔克刚、反击斩"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV17013"
+      ],
+      "known_users": [
+        "E0134",
+        "E0133"
+      ],
+      "learning_method": [
+        "水神流道场"
+      ],
+      "limitations": [
+        "需",
+        "近",
+        "身",
+        "、",
+        "被",
+        "刚",
+        "力",
+        "压",
+        "制"
+      ],
+      "mana_cost_if_known": null,
+      "name": "水神流",
+      "preconditions": [],
+      "qualitative_power": "王国顶点之一 水神列妲与伊佐露缇所用",
+      "range_if_known": "近战",
+      "requirements": [
+        "长剑"
+      ],
+      "school": "水神流",
+      "stamina_cost_if_known": "中",
+      "tier": "水神"
+    },
+    {
+      "ability_id": "AB17003",
+      "ability_type": "SWORD",
+      "aliases": [],
+      "counters": [
+        "水神流截击",
+        "魔术牵制"
+      ],
+      "duration_if_known": null,
+      "effects": [
+        "刚猛斩击"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV17014"
+      ],
+      "known_users": [
+        "E0021",
+        "E0022"
+      ],
+      "learning_method": [
+        "剑神流修行"
+      ],
+      "limitations": [
+        "需",
+        "近",
+        "身",
+        "、",
+        "直",
+        "来",
+        "直",
+        "去"
+      ],
+      "mana_cost_if_known": null,
+      "name": "剑神流·狂剑",
+      "preconditions": [],
+      "qualitative_power": "剑王级 艾莉丝与基列奴所用",
+      "range_if_known": "近战",
+      "requirements": [
+        "长剑"
+      ],
+      "school": "剑神流",
+      "stamina_cost_if_known": "高",
+      "tier": "剑王"
+    },
+    {
+      "ability_id": "AB17004",
+      "ability_type": "MAGIC",
+      "aliases": [],
+      "counters": [
+        "高速斩击近身"
+      ],
+      "duration_if_known": "瞬时",
+      "effects": [
+        "炮",
+        "击",
+        "、",
+        "控",
+        "场"
+      ],
+      "element": "土",
+      "evidence_refs": [
+        "EV17015"
+      ],
+      "known_users": [
+        "E0001"
+      ],
+      "learning_method": [
+        "洛琪希与自修"
+      ],
+      "limitations": [
+        "需咏唱或无咏唱技巧",
+        "王宫内需控威力"
+      ],
+      "mana_cost_if_known": "中",
+      "name": "岩炮与泥沼",
+      "preconditions": [],
+      "qualitative_power": "战功级 鲁迪主力魔术",
+      "range_if_known": "中远程",
+      "requirements": [
+        "魔力"
+      ],
+      "school": "土魔术",
+      "stamina_cost_if_known": null,
+      "tier": "上位"
+    }
+  ],
+  "batch_id": "ENRICH_V017",
+  "behavior_cases": [
+    {
+      "action": "提出以朵莉丝指证为核心配合佩尔基乌斯威压",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17001",
+      "character_id": "E0001",
+      "context": "推敲阶段与爱丽儿制定指证方案",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17021"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "negotiation",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "帕普尔荷斯家情报送达",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "拔剑直冲以狂剑斩杀",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17002",
+      "character_id": "E0021",
+      "context": "王宫宴会直面双胞胎纳库尔贾德",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17022"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "combat",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "双胞胎联手突袭",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "闭眼凭气息斩破镜铠继而处决大流士",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17003",
+      "character_id": "E0022",
+      "context": "对维·塔镜面铠甲反射干扰",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17023"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "combat",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "维·塔炫光扰敌",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "当众陈述被性奴役与盗贼团经历",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17004",
+      "character_id": "E0145",
+      "context": "宴会厅众贵族前公开指证大流士",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17024"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "negotiation",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "爱丽儿示意与父倒戈信号",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "当众宣布帕普尔荷斯家改投爱丽儿",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17005",
+      "character_id": "E0144",
+      "context": "弗列塔斯宣布倒戈支持爱丽儿",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17025"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "negotiation",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "女儿指证后风向转变",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "以岩炮与泥沼控场配合艾莉丝基列奴",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17006",
+      "character_id": "E0001",
+      "context": "王宫决战对奥贝尔与水神列妲",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17026"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "combat",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "奥贝尔与列妲联手袭来",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "躬身受命宣布封赏与赦免",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17007",
+      "character_id": "E0044",
+      "context": "战后佩尔基乌斯宣布支持为王",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17027"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "negotiation",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "大流士垮台格拉维尔失势",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "拔剑挟持欲带爱丽儿脱离",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17008",
+      "character_id": "E0045",
+      "context": "王宫回廊受人神低语挟持爱丽儿",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17028"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "betrayal",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "BETRAYAL"
+      ],
+      "trigger": "人神以希露菲为饵",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "当场拒绝直言绝不背叛鲁迪",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17009",
+      "character_id": "E0006",
+      "context": "路克转以希露菲为突破口游说",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17029"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "loyalty",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "LOYALTY"
+      ],
+      "trigger": "称与希露菲共谋",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "不斩不逐当场原谅",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17010",
+      "character_id": "E0044",
+      "context": "内室单独面对跪地路克",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17030"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "trust",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "TRUST"
+      ],
+      "trigger": "路克痛哭坦白受怂恿",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "告知使徒操控与十日必稳",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17011",
+      "character_id": "E0079",
+      "context": "王都十日奥尔斯帝德与鲁迪密谈",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17031"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "negotiation",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "trigger": "鲁迪询问人神关联",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "以镜面反射晃眼并短剑突刺",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17012",
+      "character_id": "E0146",
+      "context": "维·塔持镜铠迎战基列奴",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17032"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "combat",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "COMBAT"
+      ],
+      "trigger": "基列奴逼近大流士",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "全力以狂剑对攻不留手",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17013",
+      "character_id": "E0021",
+      "context": "诀别的训练与基列奴最后对练",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17033"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "training",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "TRAINING"
+      ],
+      "trigger": "王位战后将留王都",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "赞同归家定下归返夏利亚",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17014",
+      "character_id": "E0001",
+      "context": "归乡与决意与希露菲艾莉丝商议",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17034"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "family",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "FAMILY"
+      ],
+      "trigger": "希露菲提出辞职",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "强辩后沉默被基列奴近身",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17015",
+      "character_id": "E0086",
+      "context": "大流士被指证后众叛亲离",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17035"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "failure",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "FAILURE"
+      ],
+      "trigger": "弗列塔斯倒戈佩尔基乌斯发声",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    },
+    {
+      "action": "定幽禁而非处死",
+      "available_information": "卷十七当下情境与对话可见",
+      "case_id": "BC17016",
+      "character_id": "E0044",
+      "context": "特典幽禁的王子处置格拉维尔",
+      "emotional_response": "紧张后专注",
+      "evidence_refs": [
+        "EV17036"
+      ],
+      "goal_at_time": "依当下职责推进",
+      "immediate_outcome": "取得局部结果",
+      "long_term_outcome": "影响王位与后续",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "relationship_context": "与爱丽儿阵营协作",
+      "situation_type": "authority",
+      "social_context": "王宫与王都社会情境",
+      "tags": [
+        "AUTHORITY"
+      ],
+      "trigger": "幽禁议题",
+      "verbal_response": "简短回应或沉默",
+      "volume_no": 17
+    }
+  ],
+  "beliefs": [
+    {
+      "belief_id": "BL17001",
+      "belief_state": "INFERRED",
+      "certainty": "INFERENCE",
+      "evidence_refs": [
+        "EV17023"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 17,
+      "learned_from": "女儿指证与贵族风向",
+      "learned_method": "目击",
+      "note": "弗列塔斯倒戈前的判断",
+      "owner_id": "E0144",
+      "statement": "认为追随大流士已无前途 改投爱丽儿可保家族",
+      "topic": "大流士去留",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL17002",
+      "belief_state": "FALSE_BELIEF",
+      "certainty": "INFERENCE",
+      "evidence_refs": [
+        "EV17024"
+      ],
+      "is_true_in_world": false,
+      "learned_at_volume": 17,
+      "learned_from": "人神托梦",
+      "learned_method": "托梦",
+      "note": "路克被蛊惑时的误信",
+      "owner_id": "E0045",
+      "statement": "一度相信带走爱丽儿可得希露菲与未来",
+      "topic": "人神低语",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL17003",
+      "belief_state": "FACT_KNOWN",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV17025"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 17,
+      "learned_from": "奥尔斯帝德告知",
+      "learned_method": "告知",
+      "note": "奥尔斯帝德揭示真相",
+      "owner_id": "E0001",
+      "statement": "认为人神正通过使徒操控阿斯拉王位争夺",
+      "topic": "人神",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "affection_signs": [],
+      "angry_signs": [
+        "颤抖指认"
+      ],
+      "character_id": "E0145",
+      "embarrassed_signs": [],
+      "evidence_refs": [
+        "EV17001"
+      ],
+      "fear_signs": [
+        "面对大流士时僵直"
+      ],
+      "happy_signs": [],
+      "hostility_signs": [
+        "瞪视大流士"
+      ],
+      "lying_signs": [],
+      "nervous_signs": [
+        "手指紧攥",
+        "声音发颤"
+      ],
+      "phase_id": "P17006",
+      "phase_name": "指证期",
+      "profile_id": "BY17001",
+      "thinking_signs": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "affection_signs": [],
+      "angry_signs": [
+        "拔剑半寸"
+      ],
+      "character_id": "E0022",
+      "embarrassed_signs": [],
+      "evidence_refs": [
+        "EV17002"
+      ],
+      "fear_signs": [],
+      "happy_signs": [],
+      "hostility_signs": [
+        "怒视大流士",
+        "闭眼斩"
+      ],
+      "lying_signs": [],
+      "nervous_signs": [],
+      "phase_id": "P17003",
+      "phase_name": "终身护卫期",
+      "profile_id": "BY17002",
+      "thinking_signs": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "canon_conflicts": [
+    {
+      "claim_a": "王宫宴会当夜众贵族在场却无人先制止大流士",
+      "claim_b": "大流士却能长期以性奴役与盗贼操控贵族而不败露",
+      "conflict_id": "CC17001",
+      "evidence_a_refs": [
+        "EV17005"
+      ],
+      "evidence_b_refs": [
+        "EV17006"
+      ],
+      "note": "权势压制与公开指证的转折",
+      "possible_resolution": "大流士以权势与格拉维尔庇护压制检举，朵莉丝指证与帕普尔荷斯倒戈才打破沉默",
+      "status": "RESOLVED"
+    }
+  ],
+  "canon_gaps": [
+    {
+      "domain": "POLITICS",
+      "gap_id": "GAP17001",
+      "note": "本卷仅定性幽禁，未给年限与待遇",
+      "possible_sources": "后续卷与特典 幽禁的王子",
+      "question": "格拉维尔幽禁后的具体处置与后续王位过渡细节",
+      "searched_volumes": [
+        17
+      ],
+      "status": "PARTIAL",
+      "why_needed": "推演阿斯拉王权平稳过渡"
+    },
+    {
+      "domain": "MAGIC",
+      "gap_id": "GAP17002",
+      "note": "本卷仅记胜负，未给招式名",
+      "possible_sources": "后续外传或设定集",
+      "question": "奥贝尔暗杀术与列妲水神流在王宫内的完整战技细节",
+      "searched_volumes": [
+        17
+      ],
+      "status": "OPEN",
+      "why_needed": "复现王宫决战战力对比"
+    }
+  ],
+  "character_personas": [
+    {
+      "behavior_traits": [
+        "躬身受命",
+        "微笑抚慰"
+      ],
+      "character_id": "E0044",
+      "description": "宴会厅上威仪而仁慈的准女王",
+      "evidence_refs": [
+        "EV17003"
+      ],
+      "persona_id": "PN17001",
+      "persona_type": "PUBLIC",
+      "phase_id": "P17004",
+      "speech_style": "王族敬语",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "behavior_traits": [
+        "轻抚",
+        "低声原谅"
+      ],
+      "character_id": "E0044",
+      "description": "内室中对路克悲悯原谅的爱丽儿",
+      "evidence_refs": [
+        "EV17004"
+      ],
+      "persona_id": "PN17002",
+      "persona_type": "PRIVATE",
+      "phase_id": "P17004",
+      "speech_style": "温和私语",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "character_preferences": [
+    {
+      "character_id": "E0044",
+      "confidence": "EXPLICIT",
+      "context": "王位确立后封赏",
+      "description": "偏好能谏言并守信的近臣",
+      "evidence_refs": [
+        "EV17035"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P17004",
+      "preference_id": "PF17001",
+      "preference_type": "LIKE",
+      "target": "贤臣",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "character_id": "E0021",
+      "confidence": "EXPLICIT",
+      "context": "王宫决战",
+      "description": "偏好正面一决胜负而非阴谋",
+      "evidence_refs": [
+        "EV17036"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P17002",
+      "preference_id": "PF17002",
+      "preference_type": "LIKE",
+      "target": "正面决斗",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "character_profiles": [
+    {
+      "age_description": "约15-16岁 泥沼的鲁迪乌斯 奥尔斯帝德部下",
+      "ambition": "完成王位任务并生还归家",
+      "attachment_style": "以家庭为锚点的安全型",
+      "authority_attitude": "对奥尔斯帝德忠诚、对阿斯拉王权保持距离",
+      "behavior_changes_note": "王都决战期由夏利亚丈夫转为王宫战场指挥，言行更具决断。",
+      "character_id": "E0001",
+      "conflict_tendencies": [
+        "以策略化解、必要时魔术威慑"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "先推敲后出手",
+        "以情报与地形制胜"
+      ],
+      "desires": [
+        "助爱丽儿夺位",
+        "手刃害死绍罗斯元凶",
+        "守护夏利亚家人"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17001",
+        "EV17008"
+      ],
+      "family_attitude": "重家庭，视爱丽儿为妹",
+      "fears": [
+        "同伴在王都丧命",
+        "人神再挑拨"
+      ],
+      "impulsiveness": "MODERATE",
+      "insecurities": [
+        "对王宫权谋的陌生"
+      ],
+      "knowledge_state": [
+        "知大流士为害死绍罗斯元凶",
+        "知人神通过路克挑拨"
+      ],
+      "known_skills": [
+        "无咏唱魔术",
+        "泥沼与岩炮",
+        "战术指挥"
+      ],
+      "long_term_goals": [
+        "回归夏利亚家庭",
+        "稳固奥尔斯帝德阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对奥尔斯帝德的部下义务",
+        "对爱丽儿的助力承诺"
+      ],
+      "patience": "MODERATE",
+      "personality_traits": [
+        "果敢",
+        "理性",
+        "执着",
+        "护家人"
+      ],
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "pride": "作为龙神部下与一家之主的担当",
+      "profile_id": "CP17001",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对爱丽儿由护卫到兄妹",
+        "对基列奴与艾莉丝信赖"
+      ],
+      "religious_attitude": "对米里斯教持批判",
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": "对希露菲等妻子保持忠诚",
+      "self_control": "MODERATE",
+      "short_term_goals": [
+        "协助爱丽儿夺位",
+        "击败奥贝尔与列妲"
+      ],
+      "social_tendencies": [
+        "与爱丽儿阵营协作",
+        "与佩尔基乌斯谨慎往来"
+      ],
+      "speech_tendencies": [
+        "对爱丽儿敬语、对同伴直率"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "鲁迪乌斯在第17卷阿斯拉王宫决战的核心推手与战力。",
+      "taboos": [
+        "背叛奥尔斯帝德"
+      ],
+      "values": [
+        "家族",
+        "信义",
+        "生存",
+        "责任"
+      ],
+      "violence_attitude": "以魔术与战术制敌，回避无谓杀戮",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "成年剑王 鲁迪第三妻 王位争夺主力",
+      "ambition": "以剑护家",
+      "attachment_style": "以羁绊确认的忠诚型",
+      "authority_attitude": "对王权无敬、对强者尊敬",
+      "behavior_changes_note": "王位争夺战中首次以狂剑王身份在王宫斩敌。",
+      "character_id": "E0021",
+      "conflict_tendencies": [
+        "正面迎击"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "直冲敌阵",
+        "以气势压制"
+      ],
+      "desires": [
+        "斩强敌",
+        "守护鲁迪与爱丽儿"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17004",
+        "EV17011"
+      ],
+      "family_attitude": "视鲁迪为夫与主",
+      "fears": [
+        "再因弱小失去重要之人"
+      ],
+      "impulsiveness": "HIGH",
+      "insecurities": [
+        "对权谋不擅"
+      ],
+      "knowledge_state": [
+        "知双胞胎为大流士所雇"
+      ],
+      "known_skills": [
+        "剑神流剑王",
+        "狂剑"
+      ],
+      "long_term_goals": [
+        "与鲁迪共度余生"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对剑神流的传承"
+      ],
+      "patience": "LOW",
+      "personality_traits": [
+        "果敢",
+        "直率",
+        "好胜",
+        "忠诚"
+      ],
+      "phase_id": "P17002",
+      "phase_name": "狂剑王期",
+      "pride": "狂剑王之名",
+      "profile_id": "CP17002",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对鲁迪绝对信赖",
+        "对基列奴亦师亦敌"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": "对鲁迪炽热",
+      "self_control": "LOW",
+      "short_term_goals": [
+        "斩纳库尔贾德",
+        "为鲁迪清场"
+      ],
+      "social_tendencies": [
+        "与基列奴切磋",
+        "在王宫内显眼"
+      ],
+      "speech_tendencies": [
+        "短促、直呼鲁迪"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "艾莉丝在第17卷作为王宫决战的斩击前锋。",
+      "taboos": [
+        "临阵退缩"
+      ],
+      "values": [
+        "剑术",
+        "家族",
+        "胜负"
+      ],
+      "violence_attitude": "以剑决胜、先动手后思",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "成年兽族女剑士 剑王 为绍罗斯复仇",
+      "ambition": "HIGH",
+      "attachment_style": "以护卫关系为羁绊",
+      "authority_attitude": "对爱丽儿绝对服从",
+      "behavior_changes_note": "完成与艾莉丝最后训练后转向终身护卫。",
+      "character_id": "E0022",
+      "conflict_tendencies": [
+        "以气势压人与直接击杀"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "少言、点头或拔剑即为回答"
+      ],
+      "desires": [
+        "手刃大流士",
+        "护爱丽儿登位"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17007",
+        "EV17014"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "再失主君"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "前黑狼之牙过往"
+      ],
+      "knowledge_state": [
+        "知大流士为仇敌"
+      ],
+      "known_skills": [
+        "剑神流剑王",
+        "魔眼（视野）"
+      ],
+      "long_term_goals": [
+        "担任爱丽儿终身护卫"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对绍罗斯的复仇",
+        "保罗旧队友情谊"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "沉默寡言",
+        "忠诚",
+        "以行动示意",
+        "自尊强"
+      ],
+      "phase_id": "P17003",
+      "phase_name": "终身护卫期",
+      "pride": "剑神流剑王、处决大流士的执行者",
+      "profile_id": "CP17003",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对爱丽儿忠诚",
+        "对鲁迪与艾莉丝协作"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "击败维·塔",
+        "处决大流士"
+      ],
+      "social_tendencies": [
+        "独处多、与艾莉丝切磋"
+      ],
+      "speech_tendencies": [
+        "极短句、肯定式"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "基列奴在第17卷完成复仇并确立终身护卫身份。",
+      "taboos": [
+        "轻视剑术"
+      ],
+      "values": [
+        "剑王荣耀",
+        "对爱丽儿的护卫责任",
+        "为绍罗斯复仇"
+      ],
+      "violence_attitude": "以剑与气势决胜、少言即断",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "阿斯拉第二公主 下任女王",
+      "ambition": "HIGH",
+      "attachment_style": "以信赖维系统治",
+      "authority_attitude": "自身即权威、对佩尔基乌斯恭敬",
+      "behavior_changes_note": "本卷由候选公主确立为下任女王，威仪定型。",
+      "character_id": "E0044",
+      "conflict_tendencies": [
+        "以法与大义压制"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "广纳谏言后决断"
+      ],
+      "desires": [
+        "击败格拉维尔派",
+        "让追随者得封"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17010",
+        "EV17017"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "再失路克等近臣",
+        "辜负奥尔斯帝德谋划"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "对王权的自我怀疑（已克服）"
+      ],
+      "knowledge_state": [
+        "知人神挑拨路克"
+      ],
+      "known_skills": [
+        "王族治政",
+        "笼络人心"
+      ],
+      "long_term_goals": [
+        "稳固阿斯拉王权"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对追随者的封赏承诺"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "聪慧",
+        "果决",
+        "威仪",
+        "重情义"
+      ],
+      "phase_id": "P17004",
+      "phase_name": "女王确立期",
+      "pride": "阿斯拉王族与下任女王之位",
+      "profile_id": "CP17004",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对路克由怒到原谅",
+        "对希露菲感激"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "MEDIUM",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "取得贵族倒戈",
+        "获佩尔基乌斯承认"
+      ],
+      "social_tendencies": [
+        "在王宫内绝对主导"
+      ],
+      "speech_tendencies": [
+        "威仪、礼仪完备"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "爱丽儿在第17卷由候选到女王的定局期。",
+      "taboos": [
+        "背弃追随者"
+      ],
+      "values": [
+        "王位正统",
+        "臣下信赖",
+        "国家安定"
+      ],
+      "violence_attitude": "以威仪与法度治乱",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "青年骑士 爱丽儿护卫 受人神蛊惑",
+      "ambition": "HIGH",
+      "attachment_style": "以主从羁绊为锚",
+      "authority_attitude": "对爱丽儿绝对服从、对人神易受蛊",
+      "behavior_changes_note": "本卷经历人神怂恿失控后被原谅，忠诚更坚。",
+      "character_id": "E0045",
+      "conflict_tendencies": [
+        "以自毁式挟持宣泄、后跪求原谅"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "易受低语动摇、事后自责"
+      ],
+      "desires": [
+        "护爱丽儿周全",
+        "摆脱人神阴影"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17013",
+        "EV17020"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "再被操控伤害主君",
+        "失去希露菲等同伴信任"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "对自身意志薄弱的自责"
+      ],
+      "knowledge_state": [
+        "知自身曾受人神怂恿"
+      ],
+      "known_skills": [
+        "护卫剑术"
+      ],
+      "long_term_goals": [
+        "成为配得上爱丽儿的骑士"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对爱丽儿的护卫契约"
+      ],
+      "patience": "LOW",
+      "personality_traits": [
+        "忠诚",
+        "易被蛊惑",
+        "自责",
+        "重荣誉"
+      ],
+      "phase_id": "P17005",
+      "phase_name": "诺托斯当家前期",
+      "pride": "诺托斯家当家的担当",
+      "profile_id": "CP17005",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对爱丽儿由忠到愧到复忠"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "LOW",
+      "romantic_attitude": null,
+      "self_control": "LOW",
+      "short_term_goals": [
+        "求得爱丽儿原谅",
+        "稳住诺托斯家"
+      ],
+      "social_tendencies": [
+        "在护卫中核心但易孤立"
+      ],
+      "speech_tendencies": [
+        "对爱丽儿敬语、对希露菲愧语"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "路克在第17卷受人神挑拨失控后被原谅、立为当家的转折。",
+      "taboos": [
+        "背叛爱丽儿"
+      ],
+      "values": [
+        "对爱丽儿的忠诚",
+        "诺托斯家名"
+      ],
+      "violence_attitude": "以剑护主、失控时挟持",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "帕普尔荷斯家次女 前盗贼团长 受害证人",
+      "ambition": "HIGH",
+      "attachment_style": "以恩义维系",
+      "authority_attitude": "对大流士仇恨、对爱丽儿感恩",
+      "behavior_changes_note": "由隐忍受害者转为公开指证的关键证人。",
+      "character_id": "E0145",
+      "conflict_tendencies": [
+        "以真相揭露对抗权势"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "直言受害经历"
+      ],
+      "desires": [
+        "指证大流士",
+        "让父亲倒戈"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17016",
+        "EV17023"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "再被大流士势力报复"
+      ],
+      "impulsiveness": "MODERATE",
+      "insecurities": [
+        "过往受辱的创伤"
+      ],
+      "knowledge_state": [
+        "知大流士恶行全貌"
+      ],
+      "known_skills": [
+        "盗贼团统领经验"
+      ],
+      "long_term_goals": [
+        "守护爱丽儿阵营"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对爱丽儿的同伴义务"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "坚韧",
+        "果敢",
+        "自尊强",
+        "重恩义"
+      ],
+      "phase_id": "P17006",
+      "phase_name": "指证期",
+      "pride": "以受害者身份指证的勇气",
+      "profile_id": "CP17006",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对父由疏到联手",
+        "对大流士仇敌"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": null,
+      "self_control": "MODERATE",
+      "short_term_goals": [
+        "在宴会指证大流士"
+      ],
+      "social_tendencies": [
+        "在贵族厅内受瞩目"
+      ],
+      "speech_tendencies": [
+        "直率、带颤但坚定"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "朵莉丝堤娜在第17卷以指证让大流士垮台的核心证人。",
+      "taboos": [
+        "再为性奴"
+      ],
+      "values": [
+        "对爱丽儿的报恩",
+        "家族存续"
+      ],
+      "violence_attitude": "以证词为武器",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "青年妻子 鲁迪第一妻 王宫护卫",
+      "ambition": "HIGH",
+      "attachment_style": "安全型",
+      "authority_attitude": "对爱丽儿感恩而后辞别",
+      "behavior_changes_note": "本卷末辞去护卫，转向归家育儿。",
+      "character_id": "E0006",
+      "conflict_tendencies": [
+        "以拒绝化解诱惑"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "以家庭为先决断"
+      ],
+      "desires": [
+        "辞去护卫归家育儿",
+        "守护与鲁迪的家庭"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV17019",
+        "EV17026"
+      ],
+      "family_attitude": null,
+      "fears": [
+        "人神再离间家庭"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "对王宫权谋的不适"
+      ],
+      "knowledge_state": [
+        "知路克曾受怂恿拉拢"
+      ],
+      "known_skills": [
+        "护卫术",
+        "家务"
+      ],
+      "long_term_goals": [
+        "养育孩子、守家"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对爱丽儿的护卫谢辞"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "温柔",
+        "坚定",
+        "护夫",
+        "重家庭"
+      ],
+      "phase_id": "P17007",
+      "phase_name": "辞职归家期",
+      "pride": "作为鲁迪妻子与母的自尊",
+      "profile_id": "CP17007",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对路克由信到拒",
+        "对鲁迪更近"
+      ],
+      "religious_attitude": null,
+      "risk_tolerance": "LOW",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "拒绝路克动摇",
+        "辞职归家"
+      ],
+      "social_tendencies": [
+        "在王宫内低调"
+      ],
+      "speech_tendencies": [
+        "温和、坚定"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "希露菲在第17卷末辞职归家的转身期。",
+      "taboos": [
+        "背叛鲁迪"
+      ],
+      "values": [
+        "家庭",
+        "对鲁迪的忠诚",
+        "孩子"
+      ],
+      "violence_attitude": "回避、必要时拒诱",
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "character_quirks": [
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "不待号令先冲"
+      ],
+      "body_language": "前倾突进",
+      "boundaries": [],
+      "category": "COMBAT",
+      "character_id": "E0021",
+      "confidence": "EXPLICIT",
+      "description": "遇敌必先冲 以狂剑斩开局面",
+      "emotional_response": "兴奋",
+      "emotional_reward": "宣泄",
+      "end_date": null,
+      "evidence_refs": [
+        "EV17033"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [],
+      "frequency": "常见",
+      "intensity": "高",
+      "name": "突进癖",
+      "phase_id": "P17002",
+      "preferred_targets": [],
+      "private_expression": null,
+      "public_expression": "当众拔剑",
+      "quirk_id": "QK17001",
+      "start_date": null,
+      "triggers": [
+        "同伴遇险",
+        "强敌现身"
+      ],
+      "verbal_patterns": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    },
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "闭眼听风",
+        "一刀两断"
+      ],
+      "body_language": "闭眼侧耳",
+      "boundaries": [],
+      "category": "COMBAT",
+      "character_id": "E0022",
+      "confidence": "EXPLICIT",
+      "description": "对光学干扰闭眼以气息斩击",
+      "emotional_response": "专注",
+      "emotional_reward": "克敌",
+      "end_date": null,
+      "evidence_refs": [
+        "EV17034"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [],
+      "frequency": "偶发",
+      "intensity": "中",
+      "name": "闭眼斩",
+      "phase_id": "P17003",
+      "preferred_targets": [],
+      "private_expression": null,
+      "public_expression": "闭眼拔刀",
+      "quirk_id": "QK17002",
+      "start_date": null,
+      "triggers": [
+        "镜面反光",
+        "炫光干扰"
+      ],
+      "verbal_patterns": [],
+      "visible_from_volume": 17,
+      "visible_to_volume": null
+    }
+  ],
+  "creatures": [],
+  "detailed_events": [
+    {
+      "actions": [
+        "朵莉丝当众指证",
+        "弗列塔斯宣布改投爱丽儿",
+        "贵族厅哗然格拉维尔派失势"
+      ],
+      "belief_ids": [
+        "BL17001"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED17001",
+          "dependency_type": "CAUSES",
+          "statement": "指证导致武力摊牌",
+          "target_event_id": "DE17002"
+        }
+      ],
+      "event_id": "DE17001",
+      "event_type": "POLITICAL",
+      "evidence_refs": [
+        "EV17033",
+        "EV17004"
+      ],
+      "location_id": "E0010",
+      "outcome": "大流士在贵族前垮台，帕普尔荷斯家倒戈，爱丽儿获决定性支持",
+      "participants": [
+        "E0145",
+        "E0144",
+        "E0086",
+        "E0044",
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV17031"
+          ],
+          "prerequisite_id": "EP17001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0145",
+          "statement": "朵莉丝在场"
+        },
+        {
+          "evidence_refs": [
+            "EV17032"
+          ],
+          "prerequisite_id": "EP17002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0144",
+          "statement": "弗列塔斯在场"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC17001"
+      ],
+      "state_changes": [
+        {
+          "after": "获关键家名支持的准女王",
+          "before": "候选公主",
+          "change_id": "SC17001",
+          "change_kind": "POLITICAL",
+          "subject_id": "E0044"
+        },
+        {
+          "after": "公开指证者",
+          "before": "隐忍受害者",
+          "change_id": "SC17002",
+          "change_kind": "SOCIAL",
+          "subject_id": "E0145"
+        }
+      ],
+      "time_date": null,
+      "time_note": "王宫宴会当夜",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0064",
+      "title": "朵莉丝指证与帕普尔荷斯倒戈",
+      "trigger": "朵莉丝当众陈述被大流士性奴役并为盗贼团长经历，弗列塔斯随即宣布倒戈",
+      "volume_no": 17
+    },
+    {
+      "actions": [
+        "鲁迪以魔术控场对奥贝尔列妲",
+        "艾莉丝斩杀纳库尔贾德",
+        "基列奴破镜铠败维·塔并处决大流士"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED17002",
+          "dependency_type": "CAUSES",
+          "statement": "决战胜利导致佩尔基乌斯承认",
+          "target_event_id": "DE17003"
+        }
+      ],
+      "event_id": "DE17002",
+      "event_type": "COMBAT",
+      "evidence_refs": [
+        "EV17035",
+        "EV17006"
+      ],
+      "location_id": "E0010",
+      "outcome": "格拉维尔派武力瓦解，水神列妲被斩，双胞胎败亡，维·塔败，大流士伏诛",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022",
+        "E0146",
+        "E0147",
+        "E0134",
+        "E0086"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV17034"
+          ],
+          "prerequisite_id": "EP17003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "鲁迪在场"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC17002"
+      ],
+      "state_changes": [
+        {
+          "after": "被艾莉丝斩杀",
+          "before": "受雇双胞胎剑士",
+          "change_id": "SC17003",
+          "change_kind": "COMBAT",
+          "subject_id": "E0147"
+        },
+        {
+          "after": "被基列奴处决",
+          "before": "权倾朝野上级大臣",
+          "change_id": "SC17004",
+          "change_kind": "COMBAT",
+          "subject_id": "E0086"
+        }
+      ],
+      "time_date": null,
+      "time_note": "同夜宴会会场",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0065",
+      "title": "王宫决战",
+      "trigger": "格拉维尔派以奥贝尔列妲双胞胎与维·塔为战力在宴会发动",
+      "volume_no": 17
+    },
+    {
+      "actions": [
+        "佩尔基乌斯现身",
+        "宣布爱丽儿为下任国王",
+        "格拉维尔派彻底败北"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED17003",
+          "dependency_type": "ENABLES",
+          "statement": "王位确立使路克事件在稳定秩序下处置",
+          "target_event_id": "DE17004"
+        }
+      ],
+      "event_id": "DE17003",
+      "event_type": "POLITICAL",
+      "evidence_refs": [
+        "EV17001",
+        "EV17008"
+      ],
+      "location_id": "E0010",
+      "outcome": "爱丽儿确立为下任阿斯拉女王，王位争夺战落幕",
+      "participants": [
+        "E0029",
+        "E0044",
+        "E0073",
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV17036"
+          ],
+          "prerequisite_id": "EP17004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0029",
+          "statement": "佩尔基乌斯在场"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "下任女王",
+          "before": "准女王",
+          "change_id": "SC17005",
+          "change_kind": "POLITICAL",
+          "subject_id": "E0044"
+        }
+      ],
+      "time_date": null,
+      "time_note": "决战后宴会",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0066",
+      "title": "佩尔基乌斯宣布支持",
+      "trigger": "佩尔基乌斯现身甲龙王威压下宣布爱丽儿为下任国王",
+      "volume_no": 17
+    },
+    {
+      "actions": [
+        "路克挟持爱丽儿",
+        "希露菲拒绝背叛鲁迪",
+        "爱丽儿当场原谅路克"
+      ],
+      "belief_ids": [
+        "BL17002"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED17004",
+          "dependency_type": "INFLUENCES",
+          "statement": "路克事件影响希露菲去留",
+          "target_event_id": "DE17005"
+        }
+      ],
+      "event_id": "DE17004",
+      "event_type": "SOCIAL",
+      "evidence_refs": [
+        "EV17003",
+        "EV17010"
+      ],
+      "location_id": "E0010",
+      "outcome": "人神挑拨失败，路克被原谅并誓死效忠，后成为诺托斯当家",
+      "participants": [
+        "E0045",
+        "E0044",
+        "E0006",
+        "E0001",
+        "E0079"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV17002"
+          ],
+          "prerequisite_id": "EP17005",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0045",
+          "statement": "路克在场"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC17003",
+        "RC17004"
+      ],
+      "state_changes": [
+        {
+          "after": "被原谅戴罪之臣后任诺托斯当家",
+          "before": "爱丽儿近卫",
+          "change_id": "SC17006",
+          "change_kind": "SOCIAL",
+          "subject_id": "E0045"
+        }
+      ],
+      "time_date": null,
+      "time_note": "决战后王宫回廊",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0067",
+      "title": "路克失控与原谅",
+      "trigger": "人神托梦以希露菲为饵蛊惑路克挟持爱丽儿，希露菲当场拒绝",
+      "volume_no": 17
+    },
+    {
+      "actions": [
+        "艾莉丝与基列奴诀别训练",
+        "希露菲辞去护卫",
+        "鲁迪一行归乡爱丽儿留都"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "dependencies": [],
+      "event_id": "DE17005",
+      "event_type": "SOCIAL",
+      "evidence_refs": [
+        "EV17005",
+        "EV17012"
+      ],
+      "location_id": "E0010",
+      "outcome": "希露菲归家育儿基列奴留任终身护卫鲁迪与艾莉丝归夏利亚",
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022",
+        "E0006",
+        "E0044"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [
+            "EV17004"
+          ],
+          "prerequisite_id": "EP17006",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "鲁迪在场"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC17004"
+      ],
+      "state_changes": [
+        {
+          "after": "辞职归家母亲",
+          "before": "爱丽儿护卫",
+          "change_id": "SC17007",
+          "change_kind": "SOCIAL",
+          "subject_id": "E0006"
+        },
+        {
+          "after": "终身护卫",
+          "before": "爱丽儿护卫之一",
+          "change_id": "SC17008",
+          "change_kind": "SOCIAL",
+          "subject_id": "E0022"
+        }
+      ],
+      "time_date": null,
+      "time_note": "王都十日后",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": null,
+      "title": "诀别与归乡",
+      "trigger": "王位已定奥尔斯帝德揭示十日真相后众人议定归去",
+      "volume_no": 17
+    }
+  ],
+  "economic_observations": [
+    {
+      "amount_description": "名匠价 数枚金币",
+      "at_date": null,
+      "at_volume": 17,
+      "category": "WEAPON",
+      "context": "王宫武具与宴会佩剑",
+      "currency": "阿斯拉金币",
+      "evidence_refs": [
+        "EV17026"
+      ],
+      "goods_description": "水神长剑一柄",
+      "item_id": "IT17003",
+      "location_id": "E0010",
+      "location_name": "阿斯拉王国",
+      "observation_id": "EC17001",
+      "price_class": "QUALITATIVE",
+      "quantity": "1"
+    }
+  ],
+  "evidence": [
+    {
+      "chapter_title": "第一话「前往阿斯拉王国」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17001",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "前往阿斯拉王国与转移魔法阵说明",
+      "source_end_line": 151178,
+      "source_start_line": 151064,
+      "unit_id": "U0298",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第一话「前往阿斯拉王国」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17002",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "转移魔法阵魔力结晶供给机制与大流士破坏预测",
+      "source_end_line": 151250,
+      "source_start_line": 151180,
+      "unit_id": "U0298",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第一话「前往阿斯拉王国」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17003",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "夜巡时奥尔斯帝德定期联络与赤龙上颚埋伏预判",
+      "source_end_line": 151452,
+      "source_start_line": 151350,
+      "unit_id": "U0298",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第二话「赤龙上颚」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17004",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "维·塔镜面铠甲登场特性",
+      "source_end_line": 151912,
+      "source_start_line": 151822,
+      "unit_id": "U0299",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第二话「赤龙上颚」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17005",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "王都外伏击混战与希露菲参战前置",
+      "source_end_line": 152018,
+      "source_start_line": 151914,
+      "unit_id": "U0299",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第三话「推敲」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17006",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "袭击后据点推敲与奥尔斯帝德第二次报告",
+      "source_end_line": 152284,
+      "source_start_line": 152176,
+      "unit_id": "U0300",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第三话「推敲」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17007",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "魔法阵与赤龙上颚地形再推敲",
+      "source_end_line": 152652,
+      "source_start_line": 152564,
+      "unit_id": "U0300",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第四话「爱丽儿的选择」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17008",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "爱丽儿的选择 坚持王位争夺",
+      "source_end_line": 152838,
+      "source_start_line": 152752,
+      "unit_id": "U0301",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第四话「爱丽儿的选择」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17009",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "奥尔斯帝德与人神使徒数量说明",
+      "source_end_line": 153172,
+      "source_start_line": 153052,
+      "unit_id": "U0301",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第五话「朵莉丝堤娜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17010",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "朵莉丝堤娜盗贼团据点初现",
+      "source_end_line": 153446,
+      "source_start_line": 153340,
+      "unit_id": "U0302",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第五话「朵莉丝堤娜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17011",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "朵莉丝身世陈述曾为大流士性奴隶",
+      "source_end_line": 153634,
+      "source_start_line": 153538,
+      "unit_id": "U0302",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第五话「朵莉丝堤娜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17012",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "朵莉丝为何沦为盗贼团长与帕普尔荷斯关联",
+      "source_end_line": 153802,
+      "source_start_line": 153746,
+      "unit_id": "U0302",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第六话「路上」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17013",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "路上王都街道行进",
+      "source_end_line": 153908,
+      "source_start_line": 153806,
+      "unit_id": "U0303",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第六话「路上」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17014",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "路克与希露菲王都内互动",
+      "source_end_line": 154172,
+      "source_start_line": 154102,
+      "unit_id": "U0303",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第七话「王都亚尔斯」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17015",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "王都亚尔斯王宫宴会厅格局",
+      "source_end_line": 154706,
+      "source_start_line": 154636,
+      "unit_id": "U0304",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第七话「王都亚尔斯」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17016",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "贵族派阀入场与格拉维尔大流士在场",
+      "source_end_line": 155034,
+      "source_start_line": 154926,
+      "unit_id": "U0304",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第八话「黄昏的死斗」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17017",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "黄昏的死斗前夕 伊佐露缇与水神流布阵",
+      "source_end_line": 155242,
+      "source_start_line": 155170,
+      "unit_id": "U0305",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第八话「黄昏的死斗」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17018",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "双胞胎纳库尔贾德雇佣关系",
+      "source_end_line": 155636,
+      "source_start_line": 155526,
+      "unit_id": "U0305",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17019",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "爱丽儿的战场 派阀言辞交锋",
+      "source_end_line": 155872,
+      "source_start_line": 155780,
+      "unit_id": "U0306",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17020",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "朵莉丝公开指证大流士 帕普尔荷斯倒戈核心",
+      "source_end_line": 155972,
+      "source_start_line": 155874,
+      "unit_id": "U0306",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17021",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "佩尔基乌斯现身宣布爱丽儿为下任女王前兆",
+      "source_end_line": 156396,
+      "source_start_line": 156278,
+      "unit_id": "U0306",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第九话「爱丽儿的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17022",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "佩尔基乌斯宣布支持 爱丽儿王位确立",
+      "source_end_line": 156450,
+      "source_start_line": 156398,
+      "unit_id": "U0306",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17023",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "鲁迪乌斯的战场 对水神列妲迎击",
+      "source_end_line": 156552,
+      "source_start_line": 156454,
+      "unit_id": "U0307",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17024",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "维·塔镜铠对基列奴",
+      "source_end_line": 156984,
+      "source_start_line": 156882,
+      "unit_id": "U0307",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17025",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "双胞胎被艾莉丝斩杀",
+      "source_end_line": 157244,
+      "source_start_line": 157108,
+      "unit_id": "U0307",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十话「鲁迪乌斯的战场」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17026",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "基列奴处决大流士 认定害死绍罗斯",
+      "source_end_line": 157374,
+      "source_start_line": 157246,
+      "unit_id": "U0307",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十一话「路克失控」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17027",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "路克失控前兆 人神低语",
+      "source_end_line": 157474,
+      "source_start_line": 157378,
+      "unit_id": "U0308",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十一话「路克失控」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17028",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "路克挟持爱丽儿现场",
+      "source_end_line": 157912,
+      "source_start_line": 157786,
+      "unit_id": "U0308",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十一话「路克失控」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17029",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "希露菲拒绝背叛与爱丽儿原谅路克",
+      "source_end_line": 157986,
+      "source_start_line": 157914,
+      "unit_id": "U0308",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十二话「奥尔斯帝德的真相以及王都的十天」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17030",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "奥尔斯帝德真相与王都十日说明",
+      "source_end_line": 158082,
+      "source_start_line": 157990,
+      "unit_id": "U0309",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十二话「奥尔斯帝德的真相以及王都的十天」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17031",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "王都十日后续推演",
+      "source_end_line": 158294,
+      "source_start_line": 158192,
+      "unit_id": "U0309",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十三话「诀别的训练和希露菲的变化」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17032",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "诀别的训练 艾莉丝与基列奴最后对练",
+      "source_end_line": 158746,
+      "source_start_line": 158628,
+      "unit_id": "U0310",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十三话「诀别的训练和希露菲的变化」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17033",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "希露菲辞去护卫归家育儿",
+      "source_end_line": 159088,
+      "source_start_line": 158968,
+      "unit_id": "U0310",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "第十四话「归乡与决意」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17034",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "归乡与决意 鲁迪归家行装",
+      "source_end_line": 159298,
+      "source_start_line": 159176,
+      "unit_id": "U0311",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "闲话「？？？」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17035",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "闲话 王都余波补遗",
+      "source_end_line": 159790,
+      "source_start_line": 159690,
+      "unit_id": "U0312",
+      "volume_no": 17
+    },
+    {
+      "chapter_title": "特典〈幽禁的王子〉",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV17036",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "特典 幽禁的王子",
+      "source_end_line": 159932,
+      "source_start_line": 159842,
+      "unit_id": "U0314",
+      "volume_no": 17
+    }
+  ],
+  "item_instances": [
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 17,
+      "condition": "战后破损",
+      "definition_id": "IT17001",
+      "durability_if_known": "中",
+      "evidence_refs": [
+        "EV17010"
+      ],
+      "holder_id": "E0146",
+      "instance_id": "IN17001",
+      "location_id": "E0010",
+      "location_name": "王宫宴会会场",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0146",
+      "ownership_history": [
+        {
+          "acquired_via": "配发",
+          "entry_id": "OH17001",
+          "lost_via": null,
+          "note": "大流士麾下骑士配给",
+          "owner_id": "E0146",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 17,
+      "condition": "遗落",
+      "definition_id": "IT17003",
+      "durability_if_known": "高",
+      "evidence_refs": [
+        "EV17011"
+      ],
+      "holder_id": "E0134",
+      "instance_id": "IN17002",
+      "location_id": "E0010",
+      "location_name": "王宫宴会会场",
+      "lost_at": null,
+      "lost_at_volume": 17,
+      "owner_id": "E0134",
+      "ownership_history": [
+        {
+          "acquired_via": "持有",
+          "entry_id": "OH17002",
+          "lost_via": "战死遗落",
+          "note": "列妲战死后遗落",
+          "owner_id": "E0134",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "abilities": [
+        "反光干扰"
+      ],
+      "aliases": [
+        "镜铠",
+        "镜面铠"
+      ],
+      "canonical_name": "维·塔的镜面铠甲",
+      "category": "ARMOR",
+      "creator": null,
+      "currency": "阿斯拉金币",
+      "description": "维·塔所着短剑配镜面铠，能反射阳光干扰对手视线",
+      "durability": "中",
+      "effects": [
+        "致盲"
+      ],
+      "evidence_refs": [
+        "EV17007"
+      ],
+      "first_appearance_line": 151822,
+      "first_appearance_volume": 17,
+      "item_id": "IT17001",
+      "limitations": [
+        "需正面迎光、被闭眼或气息感知克制"
+      ],
+      "manufacturer": null,
+      "material": "钢与镜面",
+      "origin": "阿斯拉王国",
+      "rarity": "稀有",
+      "requirements": [
+        "日光"
+      ],
+      "size": "中",
+      "subcategory": "铠甲",
+      "value_information": "贵族骑士定制",
+      "visible_from_volume": 17,
+      "weight": "中"
+    },
+    {
+      "abilities": [],
+      "aliases": [],
+      "canonical_name": "朵莉丝的指证信物",
+      "category": "TOOL",
+      "creator": null,
+      "currency": null,
+      "description": "朵莉丝用以佐证受害的信物与疤痕",
+      "durability": null,
+      "effects": [
+        "佐证"
+      ],
+      "evidence_refs": [
+        "EV17008"
+      ],
+      "first_appearance_line": 153538,
+      "first_appearance_volume": 17,
+      "item_id": "IT17002",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "布与旧饰",
+      "origin": "阿斯拉王国",
+      "rarity": "唯一",
+      "requirements": [],
+      "size": null,
+      "subcategory": "信物",
+      "value_information": "无价（证物）",
+      "visible_from_volume": 17,
+      "weight": null
+    },
+    {
+      "abilities": [
+        "水神流斩击"
+      ],
+      "aliases": [],
+      "canonical_name": "水神列妲的长剑",
+      "category": "WEAPON",
+      "creator": null,
+      "currency": "阿斯拉金币",
+      "description": "水神流顶点的长剑 水神列妲所持",
+      "durability": "高",
+      "effects": [
+        "斩击"
+      ],
+      "evidence_refs": [
+        "EV17009"
+      ],
+      "first_appearance_line": 156454,
+      "first_appearance_volume": 17,
+      "item_id": "IT17003",
+      "limitations": [
+        "需近身"
+      ],
+      "manufacturer": null,
+      "material": "钢",
+      "origin": "水神流",
+      "rarity": "稀有",
+      "requirements": [
+        "水神流"
+      ],
+      "size": "长",
+      "subcategory": "长剑",
+      "value_information": "名匠作",
+      "visible_from_volume": 17,
+      "weight": "轻"
+    }
+  ],
+  "locations": [],
+  "organizations": [],
+  "political_states": [],
+  "power_comparisons": [
+    {
+      "actor_id": "E0021",
+      "comparison_id": "PC17001",
+      "confidence": "EXPLICIT",
+      "context": "王宫宴会 艾莉丝对双胞胎纳库尔贾德",
+      "dimension": "剑术",
+      "evidence_refs": [
+        "EV17016"
+      ],
+      "result": "艾莉丝以狂剑王斩杀联手的双胞胎",
+      "target_id": "E0147"
+    },
+    {
+      "actor_id": "E0022",
+      "comparison_id": "PC17002",
+      "confidence": "EXPLICIT",
+      "context": "王宫宴会 基列奴对维·塔镜铠",
+      "dimension": "剑术",
+      "evidence_refs": [
+        "EV17017"
+      ],
+      "result": "基列奴闭眼破镜铠后胜出",
+      "target_id": "E0146"
+    },
+    {
+      "actor_id": "E0001",
+      "comparison_id": "PC17003",
+      "confidence": "INFERENCE",
+      "context": "王宫决战 鲁迪对水神列妲 配合艾莉丝基列奴",
+      "dimension": "综合战力",
+      "evidence_refs": [
+        "EV17018"
+      ],
+      "result": "鲁迪以魔术控场牵制 最终由艾莉丝侧斩列妲",
+      "target_id": "E0134"
+    }
+  ],
+  "relationship_changes": [
+    {
+      "after": "追随爱丽儿",
+      "at_date": null,
+      "at_volume": 17,
+      "before": "格拉维尔派",
+      "change_id": "RC17001",
+      "dimension": "从属",
+      "evidence_refs": [
+        "EV17027"
+      ],
+      "source_id": "E0144",
+      "target_id": "E0044",
+      "trigger": "女儿指证与贵族哗然"
+    },
+    {
+      "after": "处决仇敌",
+      "at_date": null,
+      "at_volume": 17,
+      "before": "追杀与被庇护",
+      "change_id": "RC17002",
+      "dimension": "仇敌",
+      "evidence_refs": [
+        "EV17028"
+      ],
+      "source_id": "E0022",
+      "target_id": "E0086",
+      "trigger": "当众对峙"
+    },
+    {
+      "after": "原谅并更信赖",
+      "at_date": null,
+      "at_volume": 17,
+      "before": "近卫信任",
+      "change_id": "RC17003",
+      "dimension": "信任",
+      "evidence_refs": [
+        "EV17029"
+      ],
+      "source_id": "E0044",
+      "target_id": "E0045",
+      "trigger": "挟持后坦白"
+    },
+    {
+      "after": "辞职归家",
+      "at_date": null,
+      "at_volume": 17,
+      "before": "爱丽儿护卫",
+      "change_id": "RC17004",
+      "dimension": "从属",
+      "evidence_refs": [
+        "EV17030"
+      ],
+      "source_id": "E0006",
+      "target_id": "E0044",
+      "trigger": "王位已定、家庭为先"
+    }
+  ],
+  "routes": [],
+  "schema_version": "1.0.0",
+  "source_unit_ids": [
+    "U0298",
+    "U0299",
+    "U0300",
+    "U0301",
+    "U0302",
+    "U0303",
+    "U0304",
+    "U0305",
+    "U0306",
+    "U0307",
+    "U0308",
+    "U0309",
+    "U0310",
+    "U0311",
+    "U0312",
+    "U0313",
+    "U0314",
+    "U0315"
+  ],
+  "source_volume": 17,
+  "species": [],
+  "speech_profiles": [
+    {
+      "address_habits": "对爱丽儿称殿下、对基列奴直呼",
+      "anger_expression": "低声斥责",
+      "canonical_examples": [
+        "让朵莉丝出面",
+        "这边交给我"
+      ],
+      "character_id": "E0001",
+      "emotion_expression": "紧张时语速加快",
+      "evidence_refs": [
+        "EV17031"
+      ],
+      "inferior_speech": "对奥尔斯帝德恭敬",
+      "intimate_speech": "对希露菲温和",
+      "phase_id": "P17001",
+      "phase_name": "王位争夺期",
+      "politeness": "对爱丽儿敬语、对同伴直率",
+      "profile_id": "ST17001",
+      "sentence_length": "中短",
+      "shy_expression": "回避视线",
+      "stranger_speech": "对贵族谨慎试探",
+      "superior_speech": "对后辈克制",
+      "visible_from_volume": 17
+    },
+    {
+      "address_habits": "对爱丽儿称殿下",
+      "anger_expression": "直斥恶行",
+      "canonical_examples": [
+        "大流士卿，你可还记得我？"
+      ],
+      "character_id": "E0145",
+      "emotion_expression": "颤抖后坚定",
+      "evidence_refs": [
+        "EV17032"
+      ],
+      "inferior_speech": "对父愧语",
+      "intimate_speech": "对父轻声",
+      "phase_id": "P17006",
+      "phase_name": "指证期",
+      "politeness": "对贵族带颤的敬语、对大流士直斥",
+      "profile_id": "ST17002",
+      "sentence_length": "中长",
+      "shy_expression": "低头",
+      "stranger_speech": "对贵族试探",
+      "superior_speech": "对大流士不屈",
+      "visible_from_volume": 17
+    }
+  ],
+  "travel_observations": [],
+  "world_rules": [
+    {
+      "confidence": "EXPLICIT",
+      "domain": "POLITICS",
+      "evidence_refs": [
+        "EV17019"
+      ],
+      "exceptions": "甲龙王一言可定鼎、王族血缘有优先",
+      "rule_id": "WR17001",
+      "scope": "阿斯拉王国",
+      "statement": "阿斯拉王国王位空缺时 贵族以家名与封地为筹码站队 帕普尔荷斯等中等家名的倒戈可决定天平",
+      "visible_from_volume": 17
+    },
+    {
+      "confidence": "INFERENCE",
+      "domain": "NOBILITY",
+      "evidence_refs": [
+        "EV17020"
+      ],
+      "exceptions": "王族直裁可推翻",
+      "rule_id": "WR17002",
+      "scope": "阿斯拉王都亚尔斯",
+      "statement": "王宫宴会为公开的贵族审判场 当众指证与家名倒戈具法律与舆论效力",
+      "visible_from_volume": 17
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "COMBAT",
+      "evidence_refs": [
+        "EV17021"
+      ],
+      "exceptions": "无光环境无效",
+      "rule_id": "WR17003",
+      "scope": "阿斯拉骑士技",
+      "statement": "镜面铠甲在日光下可致盲剑士 但对闭眼以气息感知或魔术烟幕无效",
+      "visible_from_volume": 17
+    },
+    {
+      "confidence": "EXPLICIT",
+      "domain": "RELIGION",
+      "evidence_refs": [
+        "EV17022"
+      ],
+      "exceptions": "意志坚定者可拒绝 如希露菲",
+      "rule_id": "WR17004",
+      "scope": "人神使徒",
+      "statement": "人神可通过托梦低语蛊惑意志薄弱者 煽动其背叛或挟持关键人物",
+      "visible_from_volume": 17
+    }
+  ]
+}
