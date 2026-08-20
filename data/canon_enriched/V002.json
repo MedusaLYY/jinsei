@@ -1,0 +1,3077 @@
+{
+  "batch_id": "ENRICH_V002",
+  "source_volume": 2,
+  "source_unit_ids": [
+    "U0022",
+    "U0023",
+    "U0024",
+    "U0025",
+    "U0026",
+    "U0027",
+    "U0028",
+    "U0029",
+    "U0030",
+    "U0031",
+    "U0032"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV02001",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 9822,
+      "source_end_line": 9852,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "基列奴·泰德鲁帝亚乘坐马车出现，兽族尾巴与剑王气场，鲁迪称其为第二位师父"
+    },
+    {
+      "evidence_id": "EV02002",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 10078,
+      "source_end_line": 10214,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "菲托亚领与长耳族血统说明，罗亚作为菲托亚最大都市"
+    },
+    {
+      "evidence_id": "EV02003",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 10216,
+      "source_end_line": 10390,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾莉丝·伯雷亚斯初见：凶暴任性、菲托亚领主孙女、再从姊弟关系"
+    },
+    {
+      "evidence_id": "EV02004",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 10548,
+      "source_end_line": 10662,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾莉丝剑神流初级考核与基列奴的评价"
+    },
+    {
+      "evidence_id": "EV02005",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 10666,
+      "source_end_line": 10720,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪乌斯列出11项驯服大小姐的完整作战计划"
+    },
+    {
+      "evidence_id": "EV02006",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 11078,
+      "source_end_line": 11218,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "自导自演绑架事件在威汀附近执行"
+    },
+    {
+      "evidence_id": "EV02007",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 11480,
+      "source_end_line": 11628,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "绑架后基列奴击杀绑匪，鲁迪带艾莉丝逃脱"
+    },
+    {
+      "evidence_id": "EV02008",
+      "volume_no": 2,
+      "unit_id": "U0025",
+      "chapter_title": "闲话「后日谈与伯雷亚斯式问候」",
+      "source_start_line": 11698,
+      "source_end_line": 11816,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "管家汤马斯因金钱背叛，伯雷亚斯式问候丑闻"
+    },
+    {
+      "evidence_id": "EV02009",
+      "volume_no": 2,
+      "unit_id": "U0026",
+      "chapter_title": "第三话「凶暴性质尚未衰退」",
+      "source_start_line": 12058,
+      "source_end_line": 12180,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪成为家庭教师一个月，艾莉丝拒读拒写仅愿练剑"
+    },
+    {
+      "evidence_id": "EV02010",
+      "volume_no": 2,
+      "unit_id": "U0026",
+      "chapter_title": "第三话「凶暴性质尚未衰退」",
+      "source_start_line": 12188,
+      "source_end_line": 12304,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "基列奴前黑狼之牙队员经历，与保罗旧队友关系"
+    },
+    {
+      "evidence_id": "EV02011",
+      "volume_no": 2,
+      "unit_id": "U0027",
+      "chapter_title": "第四话「职员会议与星期日」",
+      "source_start_line": 12756,
+      "source_end_line": 12840,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾德娜首次登场，礼仪教师对艾莉丝的严格矫正"
+    },
+    {
+      "evidence_id": "EV02012",
+      "volume_no": 2,
+      "unit_id": "U0028",
+      "chapter_title": "第五话「大小姐十岁」",
+      "source_start_line": 13514,
+      "source_end_line": 13610,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾莉丝晋升剑神流中级"
+    },
+    {
+      "evidence_id": "EV02013",
+      "volume_no": 2,
+      "unit_id": "U0028",
+      "chapter_title": "第五话「大小姐十岁」",
+      "source_start_line": 14024,
+      "source_end_line": 14134,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾莉丝十岁生日宴，鲁迪担任首支舞伴"
+    },
+    {
+      "evidence_id": "EV02014",
+      "volume_no": 2,
+      "unit_id": "U0029",
+      "chapter_title": "第六话「学习语言」",
+      "source_start_line": 14592,
+      "source_end_line": 14700,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾莉丝语言与历史学习进展"
+    },
+    {
+      "evidence_id": "EV02015",
+      "volume_no": 2,
+      "unit_id": "U0030",
+      "chapter_title": "第七话「诺言」",
+      "source_start_line": 15498,
+      "source_end_line": 15620,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "艾莉丝剑神流上级突破"
+    },
+    {
+      "evidence_id": "EV02016",
+      "volume_no": 2,
+      "unit_id": "U0030",
+      "chapter_title": "第七话「诺言」",
+      "source_start_line": 16030,
+      "source_end_line": 16140,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪十岁庆生会，艾莉丝赠魔杖傲慢水龙王"
+    },
+    {
+      "evidence_id": "EV02017",
+      "volume_no": 2,
+      "unit_id": "U0031",
+      "chapter_title": "第八话「转折点」",
+      "source_start_line": 16860,
+      "source_end_line": 17000,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "转折点：天空异变、阿尔曼菲光速现身"
+    },
+    {
+      "evidence_id": "EV02018",
+      "volume_no": 2,
+      "unit_id": "U0031",
+      "chapter_title": "第八话「转折点」",
+      "source_start_line": 17096,
+      "source_end_line": 17250,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "光辉的阿尔曼菲自我介绍，十二使魔之一"
+    },
+    {
+      "evidence_id": "EV02019",
+      "volume_no": 2,
+      "unit_id": "U0031",
+      "chapter_title": "第八话「转折点」",
+      "source_start_line": 17252,
+      "source_end_line": 17354,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "基列奴魔眼能力伏笔"
+    },
+    {
+      "evidence_id": "EV02020",
+      "volume_no": 2,
+      "unit_id": "U0031",
+      "chapter_title": "第八话「转折点」",
+      "source_start_line": 17520,
+      "source_end_line": 17634,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "转移事件发动：菲托亚领大规模传送"
+    },
+    {
+      "evidence_id": "EV02021",
+      "volume_no": 2,
+      "unit_id": "U0032",
+      "chapter_title": "终章",
+      "source_start_line": 17648,
+      "source_end_line": 17720,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "终章：转移后分散，鲁迪与艾莉丝同被传送"
+    },
+    {
+      "evidence_id": "EV02022",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 9950,
+      "source_end_line": 10076,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "绍罗斯领主与菲利普市长父子身份"
+    },
+    {
+      "evidence_id": "EV02023",
+      "volume_no": 2,
+      "unit_id": "U0027",
+      "chapter_title": "第四话「职员会议与星期日」",
+      "source_start_line": 12754,
+      "source_end_line": 12820,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "罗亚城与伯雷亚斯宅邸据点描写"
+    },
+    {
+      "evidence_id": "EV02024",
+      "volume_no": 2,
+      "unit_id": "U0029",
+      "chapter_title": "第六话「学习语言」",
+      "source_start_line": 14956,
+      "source_end_line": 15078,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "基列奴被评为剑神流第四强"
+    },
+    {
+      "evidence_id": "EV02025",
+      "volume_no": 2,
+      "unit_id": "U0026",
+      "chapter_title": "第三话「凶暴性质尚未衰退」",
+      "source_start_line": 12522,
+      "source_end_line": 12654,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "水圣级位阶在罗亚的评价语境"
+    },
+    {
+      "evidence_id": "EV02026",
+      "volume_no": 2,
+      "unit_id": "U0023",
+      "chapter_title": "第一话「大小姐的暴力」",
+      "source_start_line": 9852,
+      "source_end_line": 9948,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪与基列奴初遇马车，师徒关系建立契机"
+    },
+    {
+      "evidence_id": "EV02027",
+      "volume_no": 2,
+      "unit_id": "U0024",
+      "chapter_title": "第二话「自导自演」",
+      "source_start_line": 11630,
+      "source_end_line": 11694,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪被任命为艾莉丝家庭教师"
+    },
+    {
+      "evidence_id": "EV02028",
+      "volume_no": 2,
+      "unit_id": "U0032",
+      "chapter_title": "终章",
+      "source_start_line": 17798,
+      "source_end_line": 17944,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "莉莉雅相关家庭侧写在终章对照"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP0201",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "7-8岁，罗亚伯雷亚斯家家庭教师",
+      "personality_traits": [
+        "谨慎",
+        "好色但克制",
+        "计划性强",
+        "重视羁绊"
+      ],
+      "values": [
+        "认真生活",
+        "守护重要之人",
+        "履行师者责任"
+      ],
+      "desires": [
+        "驯服艾莉丝完成家教契约",
+        "变强以兑现对希露菲的承诺"
+      ],
+      "fears": [
+        "艾莉丝暴力失控",
+        "契约失败失去学费与信任"
+      ],
+      "taboos": [
+        "对雇主之女出手过重"
+      ],
+      "insecurities": [
+        "七岁身体与成人心智错位",
+        "无咏唱被误解"
+      ],
+      "pride": "无咏唱与水圣级潜力",
+      "impulsiveness": "LOW",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": "对希露菲执着、对艾莉丝责任式羁绊",
+      "authority_attitude": "对绍罗斯恭敬、对菲利普务实配合",
+      "family_attitude": "把艾莉丝视作再从妹般的责任对象",
+      "romantic_attitude": "对艾莉丝无恋爱意图、保持师者距离",
+      "violence_attitude": "回避正面、以智取胜",
+      "money_attitude": "在意五年学费报酬",
+      "status_attitude": "不以领主威压自居、务实沟通",
+      "race_attitude": "不歧视兽族、尊敬基列奴",
+      "religious_attitude": "无",
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "让艾莉丝能读写与算术",
+        "通过伯雷亚斯式问候考核"
+      ],
+      "long_term_goals": [
+        "完成五年家教换取魔法大学学费"
+      ],
+      "obligations": [
+        "菲利普的家教契约",
+        "绍罗斯的领主期许"
+      ],
+      "decision_tendencies": [
+        "先观察再设局",
+        "自导自演式引导"
+      ],
+      "speech_tendencies": [
+        "对艾莉丝温和引导、对菲利普敬语、对基列奴请教口吻"
+      ],
+      "social_tendencies": [
+        "在罗亚宅邸内谨慎行事"
+      ],
+      "conflict_tendencies": [
+        "以计谋化解暴力、必要时请基列奴威慑"
+      ],
+      "known_skills": [
+        "无咏唱水魔法",
+        "算术与读写教学"
+      ],
+      "knowledge_state": [
+        "知道艾莉丝凶暴成因",
+        "知道伯雷亚斯家等级"
+      ],
+      "relationship_tendencies": [
+        "对艾莉丝由畏到师、对基列奴尊师"
+      ],
+      "behavior_changes_note": "从被追杀的慌乱到主动设局的教育者",
+      "summary": "七岁家教鲁迪乌斯在罗亚的成长：从被艾莉丝追杀到以自导自演建立师生信任。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02005",
+        "EV02006",
+        "EV02009"
+      ]
+    },
+    {
+      "profile_id": "CP0202",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "8-9岁，罗亚伯雷亚斯家大小姐",
+      "personality_traits": [
+        "凶暴",
+        "任性",
+        "自尊强",
+        "直率",
+        "好胜"
+      ],
+      "values": [
+        "伯雷亚斯家的荣耀",
+        "剑术即价值"
+      ],
+      "desires": [
+        "被认可为合格的伯雷亚斯",
+        "在剑术上不输任何人"
+      ],
+      "fears": [
+        "被当作无能大小姐",
+        "在祖父面前丢脸"
+      ],
+      "taboos": [
+        "被怜悯"
+      ],
+      "insecurities": [
+        "读写算术极差",
+        "曾赶走多任家庭教师"
+      ],
+      "pride": "红发与伯雷亚斯血统",
+      "impulsiveness": "HIGH",
+      "patience": "LOW",
+      "risk_tolerance": "HIGH",
+      "self_control": "LOW",
+      "attachment_style": "以拳头确认关系后才信任",
+      "authority_attitude": "对绍罗斯畏惧、对菲利普依赖、对下人不服",
+      "family_attitude": "对祖父又惧又敬、对父亲希尔达有距离",
+      "romantic_attitude": "无（本卷）",
+      "violence_attitude": "先动手后说话",
+      "money_attitude": "无概念",
+      "status_attitude": "以领主孙女自居",
+      "race_attitude": "对兽族无特别偏见（接受基列奴）",
+      "religious_attitude": "无",
+      "loyalty": "MEDIUM",
+      "ambition": "HIGH",
+      "short_term_goals": [
+        "赶走新家庭教师",
+        "证明剑比读书重要"
+      ],
+      "long_term_goals": [
+        "成为不丢伯雷亚斯脸的剑士"
+      ],
+      "obligations": [
+        "伯雷亚斯式问候的家族礼仪"
+      ],
+      "decision_tendencies": [
+        "情绪驱动、动手先行"
+      ],
+      "speech_tendencies": [
+        "短促、命令式、直呼鲁迪喂"
+      ],
+      "social_tendencies": [
+        "在宅邸内横行、在生人前更暴躁"
+      ],
+      "conflict_tendencies": [
+        "以暴力宣泄、失败后反而听得进道理"
+      ],
+      "known_skills": [
+        "剑神流初级"
+      ],
+      "knowledge_state": [
+        "知道伯雷亚斯家等级",
+        "不知鲁迪的计谋"
+      ],
+      "relationship_tendencies": [
+        "对鲁迪从敌视到半信赖"
+      ],
+      "behavior_changes_note": "绑架获救后对鲁迪与基列奴的暴力阈值下降，开始接受学习",
+      "summary": "凶暴大小姐在鲁迪自导自演与基列奴威慑下的初步驯化期，凶性未衰但裂缝已现。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02003",
+        "EV02004",
+        "EV02007"
+      ]
+    },
+    {
+      "profile_id": "CP0203",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "phase_name": "罗亚护卫期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "成年兽族女剑士",
+      "personality_traits": [
+        "沉默寡言",
+        "忠诚",
+        "以行动示意",
+        "剑术自尊强"
+      ],
+      "values": [
+        "剑王荣耀",
+        "对伯雷亚斯家的护卫责任"
+      ],
+      "desires": [
+        "守护艾莉丝",
+        "与强者切磋"
+      ],
+      "fears": [
+        "失职致主家受害"
+      ],
+      "taboos": [
+        "轻视剑术"
+      ],
+      "insecurities": [
+        "前黑狼之牙的过往"
+      ],
+      "pride": "剑神流第四强、剑王位阶",
+      "impulsiveness": "LOW",
+      "patience": "HIGH",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "HIGH",
+      "attachment_style": "以护卫关系羁绊",
+      "authority_attitude": "对绍罗斯绝对服从、对菲利普配合",
+      "family_attitude": "无",
+      "romantic_attitude": "无（本卷）",
+      "violence_attitude": "以剑与气势威慑，少言即断",
+      "money_attitude": "无",
+      "status_attitude": "以实力而非爵位论人",
+      "race_attitude": "泰德鲁帝亚族自认",
+      "religious_attitude": "无",
+      "loyalty": "HIGH",
+      "ambition": "HIGH",
+      "short_term_goals": [
+        "护卫艾莉丝",
+        "考察鲁迪是否为合格家教"
+      ],
+      "long_term_goals": [
+        "维持剑王修为"
+      ],
+      "obligations": [
+        "保罗旧队友的情谊、伯雷亚斯护卫契约"
+      ],
+      "decision_tendencies": [
+        "少言、点头或拔剑即为回答"
+      ],
+      "speech_tendencies": [
+        "极短句、肯定式"
+      ],
+      "social_tendencies": [
+        "独处多、与鲁迪点头交流"
+      ],
+      "conflict_tendencies": [
+        "以气势压人、直接击杀威胁"
+      ],
+      "known_skills": [
+        "剑神流剑王",
+        "魔眼"
+      ],
+      "knowledge_state": [
+        "知道艾莉丝的凶暴成因"
+      ],
+      "relationship_tendencies": [
+        "对鲁迪从审视到认同"
+      ],
+      "behavior_changes_note": "从审视鲁迪到在绑架事件中配合其计划",
+      "summary": "沉默的剑王护卫，以气势与少言支撑罗亚宅邸的武力威慑。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02001",
+        "EV02010",
+        "EV02024"
+      ]
+    },
+    {
+      "profile_id": "CP0204",
+      "character_id": "E0023",
+      "phase_id": "P0002",
+      "phase_name": "领主期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "老年领主",
+      "personality_traits": [
+        "威仪",
+        "严厉",
+        "护短",
+        "重血缘"
+      ],
+      "values": [
+        "伯雷亚斯家荣耀",
+        "领主权威"
+      ],
+      "desires": [
+        "艾莉丝成材、家族延续"
+      ],
+      "fears": [
+        "家族蒙羞"
+      ],
+      "taboos": [
+        "对伯雷亚斯血脉不敬"
+      ],
+      "insecurities": [
+        "对孙女教育的无力感"
+      ],
+      "pride": "菲托亚领主之位",
+      "impulsiveness": "MEDIUM",
+      "patience": "LOW",
+      "risk_tolerance": "LOW",
+      "self_control": "MEDIUM",
+      "attachment_style": "以权威维系亲情",
+      "authority_attitude": "自身即权威",
+      "family_attitude": "对艾莉丝又惧又爱、对菲利普托付",
+      "romantic_attitude": "无",
+      "violence_attitude": "以威压与家法管束",
+      "money_attitude": "领地财政视角",
+      "status_attitude": "极重爵位与血统",
+      "race_attitude": "接纳兽族护卫",
+      "religious_attitude": "无",
+      "loyalty": "HIGH",
+      "ambition": "LOW",
+      "short_term_goals": [
+        "为艾莉丝找到合格家教"
+      ],
+      "long_term_goals": [
+        "伯雷亚斯家在菲托亚的稳固"
+      ],
+      "obligations": [
+        "领主义务"
+      ],
+      "decision_tendencies": [
+        "以领主威仪直接下令"
+      ],
+      "speech_tendencies": [
+        "命令式、威严"
+      ],
+      "social_tendencies": [
+        "在罗亚宅邸内绝对主导"
+      ],
+      "conflict_tendencies": [
+        "以权威压制、必要时家法"
+      ],
+      "known_skills": [
+        "领主治政"
+      ],
+      "knowledge_state": [
+        "知艾莉丝劣迹全貌"
+      ],
+      "relationship_tendencies": [
+        "对艾莉丝严中带宠"
+      ],
+      "behavior_changes_note": "从失望到对鲁迪的期许",
+      "summary": "菲托亚领主，在孙女教育上一筹莫展的老领主。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "profile_id": "CP0205",
+      "character_id": "E0024",
+      "phase_id": "P0002",
+      "phase_name": "市长期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "壮年官僚",
+      "personality_traits": [
+        "圆滑",
+        "务实",
+        "护女心切",
+        "谨慎"
+      ],
+      "values": [
+        "家族体面",
+        "罗亚治安"
+      ],
+      "desires": [
+        "女儿能读写算术、通过问候礼仪"
+      ],
+      "fears": [
+        "艾莉丝再赶走家教、家族丑闻扩大"
+      ],
+      "taboos": [
+        "家族丑闻公开"
+      ],
+      "insecurities": [
+        "对女儿教育的失败感"
+      ],
+      "pride": "罗亚市长之位",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "以委托与报酬维系关系",
+      "authority_attitude": "对绍罗斯恭顺、对下属务实",
+      "family_attitude": "对艾莉丝焦虑而宠溺",
+      "romantic_attitude": "无",
+      "violence_attitude": "回避、以金钱与人脉摆平",
+      "money_attitude": "以报酬换教育成果",
+      "status_attitude": "重视伯雷亚斯市长体面",
+      "race_attitude": "接纳兽族护卫",
+      "religious_attitude": "无",
+      "loyalty": "HIGH",
+      "ambition": "LOW",
+      "short_term_goals": [
+        "聘到能驯服艾莉丝的家教"
+      ],
+      "long_term_goals": [
+        "艾莉丝能出席十岁生日宴不丢脸"
+      ],
+      "obligations": [
+        "市长与父亲双重责任"
+      ],
+      "decision_tendencies": [
+        "以利害与报酬权衡"
+      ],
+      "speech_tendencies": [
+        "客气、试探、带报酬暗示"
+      ],
+      "social_tendencies": [
+        "在宅邸内协调家臣"
+      ],
+      "conflict_tendencies": [
+        "以利诱与人情化解"
+      ],
+      "known_skills": [
+        "市政治理"
+      ],
+      "knowledge_state": [
+        "知艾莉丝全部劣迹与前任家教下场"
+      ],
+      "relationship_tendencies": [
+        "对鲁迪从试探到托付"
+      ],
+      "behavior_changes_note": "从广撒网招家教到认定鲁迪",
+      "summary": "焦虑的市长父亲，以报酬与体面为筹码为女儿求师。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02022",
+        "EV02027"
+      ]
+    },
+    {
+      "profile_id": "CP0206",
+      "character_id": "E0025",
+      "phase_id": "P0002",
+      "phase_name": "罗亚母亲期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "壮年贵妇，艾莉丝生母",
+      "personality_traits": [
+        "温柔",
+        "担忧",
+        "护女"
+      ],
+      "values": [
+        "女儿的体面",
+        "伯雷亚斯家安稳"
+      ],
+      "desires": [
+        "女儿能通过礼仪考核"
+      ],
+      "fears": [
+        "女儿再赶走家教"
+      ],
+      "taboos": [],
+      "insecurities": [
+        "对女儿教育的无力"
+      ],
+      "pride": "伯雷亚斯血统",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "担忧型",
+      "authority_attitude": "对绍罗斯顺从",
+      "family_attitude": "对艾莉丝溺爱而焦虑",
+      "romantic_attitude": "无",
+      "violence_attitude": "回避",
+      "money_attitude": "无",
+      "status_attitude": "重体面",
+      "race_attitude": "接纳兽族",
+      "religious_attitude": "无",
+      "loyalty": "HIGH",
+      "ambition": "LOW",
+      "short_term_goals": [
+        "女儿能完成问候与读写"
+      ],
+      "long_term_goals": [
+        "女儿体面出席生日宴"
+      ],
+      "obligations": [
+        "母亲职责"
+      ],
+      "decision_tendencies": [
+        "托付专业教师"
+      ],
+      "speech_tendencies": [
+        "温和、带恳求"
+      ],
+      "social_tendencies": [
+        "在宅邸内辅助菲利普"
+      ],
+      "conflict_tendencies": [
+        "以恳求化解"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "知女儿劣迹"
+      ],
+      "relationship_tendencies": [
+        "对艾莉丝过度担忧"
+      ],
+      "behavior_changes_note": "从焦虑到对鲁迪的托付",
+      "summary": "担忧女儿的母亲，将希望寄托于新家教。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "profile_id": "CP0207",
+      "character_id": "E0026",
+      "phase_id": "P0002",
+      "phase_name": "礼仪教师期",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "成年教师",
+      "personality_traits": [
+        "严格",
+        "认真",
+        "重礼仪"
+      ],
+      "values": [
+        "礼仪与读写为贵族根基"
+      ],
+      "desires": [
+        "矫正艾莉丝的礼仪"
+      ],
+      "fears": [
+        "被大小姐赶走"
+      ],
+      "taboos": [],
+      "insecurities": [
+        "对凶暴学生的畏惧"
+      ],
+      "pride": "礼仪教师资格",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "师者",
+      "authority_attitude": "对菲利普恭敬",
+      "family_attitude": "无",
+      "romantic_attitude": "无",
+      "violence_attitude": "回避",
+      "money_attitude": "无",
+      "status_attitude": "重礼仪等级",
+      "race_attitude": "无",
+      "religious_attitude": "无",
+      "loyalty": "MEDIUM",
+      "ambition": "LOW",
+      "short_term_goals": [
+        "让艾莉丝学会问候与读写"
+      ],
+      "long_term_goals": [],
+      "obligations": [
+        "家教契约"
+      ],
+      "decision_tendencies": [
+        "严格按规程"
+      ],
+      "speech_tendencies": [
+        "严厉、规范"
+      ],
+      "social_tendencies": [
+        "在宅邸内与鲁迪分工"
+      ],
+      "conflict_tendencies": [
+        "以规程压制"
+      ],
+      "known_skills": [
+        "礼仪与读写教学"
+      ],
+      "knowledge_state": [],
+      "relationship_tendencies": [
+        "对艾莉丝严格"
+      ],
+      "behavior_changes_note": "首登场即以严格矫正艾莉丝",
+      "summary": "严格的礼仪教师，艾莉丝问候与读写课程的执行者。",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02011"
+      ]
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC02001",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "初见与示威",
+      "context": "罗亚宅邸会客厅，艾莉丝初见七岁的鲁迪乌斯，将其视为又一个会被赶走的家庭教师",
+      "trigger": "鲁迪鞠躬行礼并自称家庭教师",
+      "available_information": "知道鲁迪是菲利普新聘的家教，不知其无咏唱与计谋能力",
+      "action": "抬脚踹向鲁迪面门，以暴力立威",
+      "verbal_response": "无，以动作代替语言",
+      "emotional_response": "轻蔑、试探",
+      "goal_at_time": "赶走新家教以维持不学习的状态",
+      "relationship_context": "艾莉丝对鲁迪：敌视的师生初见，地位上艾莉丝为大小姐占优",
+      "social_context": "公开的宅邸会客，菲利普与基列奴在场见证",
+      "immediate_outcome": "鲁迪侧身避开，未被踹中",
+      "long_term_outcome": "暴力未奏效，为后续自导自演的信任建立埋下对照",
+      "tags": [
+        "ANGER",
+        "AUTHORITY"
+      ],
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "case_id": "BC02002",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "应对暴力",
+      "context": "同上初见场面，面对艾莉丝的踹击",
+      "trigger": "艾莉丝的踹击来袭",
+      "available_information": "知道艾莉丝凶暴成因与伯雷亚斯式等级，不知其具体拳脚路数",
+      "action": "侧身闪避，不还手，以示弱与观察为主",
+      "verbal_response": "不回击，仅以敬语自报身份",
+      "emotional_response": "内心慌乱、表面克制",
+      "goal_at_time": "不激化冲突、争取观察期",
+      "relationship_context": "鲁迪对艾莉丝：弱势家教对大小姐，靠基列奴在场制衡",
+      "social_context": "公开会客，领主与市长权威在场",
+      "immediate_outcome": "未受伤，暂时稳住场面",
+      "long_term_outcome": "为后续设局争取时间",
+      "tags": [
+        "FEAR",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV02003",
+        "EV02026"
+      ]
+    },
+    {
+      "case_id": "BC02003",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "设局与欺骗",
+      "context": "宅邸书房，鲁迪为驯服艾莉丝策划十一项计划，最终选定自导自演绑架",
+      "trigger": "艾莉丝连续拒学、暴力赶走前任的情报",
+      "available_information": "知道艾莉丝剑神流初级、厌学、好胜；不知绑架是否会真的失控",
+      "action": "雇无赖在威汀附近绑架艾莉丝，安排基列奴偶然击杀以制造英雄救美",
+      "verbal_response": "对无赖以金钱利诱，对基列奴以偶然路过为托词",
+      "emotional_response": "紧张、计算",
+      "goal_at_time": "让艾莉丝体验恐惧后对鲁迪产生依赖与感激",
+      "relationship_context": "鲁迪对艾莉丝：利用师生落差设局",
+      "social_context": "私下策划，仅基列奴知情",
+      "immediate_outcome": "绑架按计划发生",
+      "long_term_outcome": "艾莉丝获救后对鲁迪的敌意首次松动",
+      "tags": [
+        "LIE",
+        "NEGOTIATION",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV02005",
+        "EV02006"
+      ]
+    },
+    {
+      "case_id": "BC02004",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "恐惧与受救",
+      "context": "威汀郊外，无赖将艾莉丝绑上马车",
+      "trigger": "被无赖抓住、马车疾驰、求救无门",
+      "available_information": "不知这是鲁迪的局，以为真实绑架；不知基列奴会赶到",
+      "action": "尖叫、挣扎、踹打无赖未果，陷入恐惧",
+      "verbal_response": "呼救与哭喊",
+      "emotional_response": "极度恐惧、绝望",
+      "goal_at_time": "逃脱",
+      "relationship_context": "艾莉丝对无赖：绝对弱势的被害者",
+      "social_context": "野外、无人见证的私密受害",
+      "immediate_outcome": "被鲁迪与基列奴救出",
+      "long_term_outcome": "对鲁迪从敌视转为半信赖",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV02006",
+        "EV02007"
+      ]
+    },
+    {
+      "case_id": "BC02005",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "phase_name": "罗亚护卫期",
+      "volume_no": 2,
+      "situation_type": "以剑救人",
+      "context": "威汀郊外，基列奴按鲁迪计划偶然赶到",
+      "trigger": "无赖劫持艾莉丝的现场",
+      "available_information": "知鲁迪的计划轮廓，不知艾莉丝的具体恐惧程度",
+      "action": "拔剑击杀无赖，以剑王气场威慑",
+      "verbal_response": "极少，仅以拔剑与点头示意",
+      "emotional_response": "冷静、执行",
+      "goal_at_time": "救出艾莉丝并让鲁迪立功",
+      "relationship_context": "基列奴对艾莉丝：护卫对大小姐；对鲁迪：配合的师徒",
+      "social_context": "野外执行，无外人见证",
+      "immediate_outcome": "绑匪死，艾莉丝获救",
+      "long_term_outcome": "艾莉丝对基列奴与鲁迪的信任上升",
+      "tags": [
+        "PROTECT",
+        "COMBAT"
+      ],
+      "evidence_refs": [
+        "EV02007",
+        "EV02024"
+      ]
+    },
+    {
+      "case_id": "BC02006",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "获救后依赖",
+      "context": "获救后返程，艾莉丝仍在惊惧中",
+      "trigger": "鲁迪抱起或牵手带其逃离现场",
+      "available_information": "不知绑架是局，以为鲁迪是真的救命恩人",
+      "action": "紧抓鲁迪不放，首次顺从其引导",
+      "verbal_response": "低声道谢或沉默紧跟",
+      "emotional_response": "后怕、依赖",
+      "goal_at_time": "寻求安全感",
+      "relationship_context": "艾莉丝对鲁迪：从敌视转为依赖的临界点",
+      "social_context": "二人私密返程",
+      "immediate_outcome": "顺从回宅",
+      "long_term_outcome": "愿意接受鲁迪的读写课程",
+      "tags": [
+        "TRUST",
+        "GRATITUDE"
+      ],
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "case_id": "BC02007",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "厌学抗拒",
+      "context": "成为家教一个月后的书房，鲁迪教授读写与算术",
+      "trigger": "鲁迪拿出课本与习字板",
+      "available_information": "知道鲁迪是家教，不知其会以剑术课作为交换",
+      "action": "推开课本、拒写、仅愿练剑",
+      "verbal_response": "才不要学这种东西",
+      "emotional_response": "烦躁、抗拒",
+      "goal_at_time": "逃避学习、维护剑即价值的自尊",
+      "relationship_context": "艾莉丝对鲁迪：师生拉锯，艾莉丝以暴力与消极抵抗",
+      "social_context": "宅邸书房，私密授课",
+      "immediate_outcome": "读写课停滞",
+      "long_term_outcome": "鲁迪改为以剑术为奖励的交换教学",
+      "tags": [
+        "REJECTION",
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "case_id": "BC02008",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "教学妥协",
+      "context": "同上书房，面对艾莉丝的拒学",
+      "trigger": "艾莉丝推开课本的反复",
+      "available_information": "知道艾莉丝好胜与剑术执念",
+      "action": "提出学会一页就练一小时剑的交换条件",
+      "verbal_response": "温和劝说，以剑术为饵",
+      "emotional_response": "耐心、计算",
+      "goal_at_time": "让艾莉丝完成最低限度的读写",
+      "relationship_context": "鲁迪对艾莉丝：以学生好恶为杠杆的引导者",
+      "social_context": "私密授课",
+      "immediate_outcome": "艾莉丝勉强接受交换",
+      "long_term_outcome": "读写与剑术并行的教学模式确立",
+      "tags": [
+        "TEACHING",
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "case_id": "BC02009",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "phase_name": "罗亚护卫期",
+      "volume_no": 2,
+      "situation_type": "威慑",
+      "context": "宅邸走廊，艾莉丝再次踹向鲁迪时基列奴在场",
+      "trigger": "艾莉丝抬腿",
+      "available_information": "知道艾莉丝必会再犯，知道鲁迪不还手",
+      "action": "以剑气外放一步踏前，无言威慑",
+      "verbal_response": "无",
+      "emotional_response": "冷静威慑",
+      "goal_at_time": "让艾莉丝收腿",
+      "relationship_context": "基列奴对艾莉丝：护卫对大小姐的武力制衡",
+      "social_context": "宅邸公开走廊",
+      "immediate_outcome": "艾莉丝收腿、瞪视后退",
+      "long_term_outcome": "暴力阈值短暂降低",
+      "tags": [
+        "AUTHORITY",
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "case_id": "BC02010",
+      "character_id": "E0024",
+      "phase_id": "P0002",
+      "phase_name": "市长期",
+      "volume_no": 2,
+      "situation_type": "委托与试探",
+      "context": "书房面谈，菲利普首次面试鲁迪",
+      "trigger": "鲁迪自称能教读写与算术",
+      "available_information": "知道前任家教皆被赶走，不知鲁迪的无咏唱与计谋",
+      "action": "以五年学费报酬为饵试探鲁迪的决心",
+      "verbal_response": "客气中带报酬暗示",
+      "emotional_response": "谨慎期待",
+      "goal_at_time": "确认鲁迪是否值得托付",
+      "relationship_context": "菲利普对鲁迪：雇主对家教的试探",
+      "social_context": "私密书房面谈",
+      "immediate_outcome": "鲁迪接受挑战",
+      "long_term_outcome": "家教契约确立",
+      "tags": [
+        "NEGOTIATION",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV02027"
+      ]
+    },
+    {
+      "case_id": "BC02011",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "应对问候礼仪",
+      "context": "SIDE篇伯雷亚斯式问候的家族丑闻说明会",
+      "trigger": "汤马斯背叛与问候礼仪被提及",
+      "available_information": "知道伯雷亚斯家等级与丑闻，不知问候细节会如何考核",
+      "action": "认真听取问候规程，将其纳入对艾莉丝的考核",
+      "verbal_response": "向菲利普请教问候细节",
+      "emotional_response": "认真",
+      "goal_at_time": "让艾莉丝通过礼仪考核",
+      "relationship_context": "鲁迪对菲利普：请教者",
+      "social_context": "宅邸说明会",
+      "immediate_outcome": "掌握问候规程",
+      "long_term_outcome": "纳入后续读写与礼仪并行的教学",
+      "tags": [
+        "TEACHING",
+        "NOBILITY"
+      ],
+      "evidence_refs": [
+        "EV02008"
+      ]
+    },
+    {
+      "case_id": "BC02012",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "剑术考核",
+      "context": "道场，艾莉丝剑神流初级考核",
+      "trigger": "基列奴的考题",
+      "available_information": "知道基列奴为剑王，不知其评价标准",
+      "action": "全力挥剑应考",
+      "verbal_response": "以剑代言",
+      "emotional_response": "好胜、紧张",
+      "goal_at_time": "通过初级考核",
+      "relationship_context": "艾莉丝对基列奴：弟子对师的考核",
+      "social_context": "道场公开考核",
+      "immediate_outcome": "通过初级",
+      "long_term_outcome": "为中级晋升铺路",
+      "tags": [
+        "TRAINING",
+        "SUCCESS"
+      ],
+      "evidence_refs": [
+        "EV02004"
+      ]
+    },
+    {
+      "case_id": "BC02013",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "生日宴亮相",
+      "context": "罗亚宅邸大厅，艾莉丝十岁生日宴",
+      "trigger": "绍罗斯宣布艾莉丝与鲁迪共舞首支舞",
+      "available_information": "知道这是贵族亮相，不知舞步是否会出错",
+      "action": "与鲁迪共舞首支舞，强作镇定",
+      "verbal_response": "少言、以舞步回应",
+      "emotional_response": "紧张后释然",
+      "goal_at_time": "不丢伯雷亚斯脸面",
+      "relationship_context": "艾莉丝对鲁迪：舞伴关系，短暂的托付",
+      "social_context": "公开贵族宴会",
+      "immediate_outcome": "首舞完成",
+      "long_term_outcome": "贵族社交亮相成功",
+      "tags": [
+        "NOBILITY",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "case_id": "BC02014",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "寿宴回赠",
+      "context": "鲁迪十岁庆生会前，艾莉丝挑选礼物",
+      "trigger": "鲁迪的十岁生辰将至",
+      "available_information": "知道鲁迪常用魔杖，不知何款最合",
+      "action": "选定魔杖傲慢水龙王作为回礼",
+      "verbal_response": "简短祝贺：生日快乐",
+      "emotional_response": "认真、期待被认可",
+      "goal_at_time": "回报道师之恩",
+      "relationship_context": "艾莉丝对鲁迪：弟子对师的感激",
+      "social_context": "宅邸私密庆生",
+      "immediate_outcome": "鲁迪收下并珍视",
+      "long_term_outcome": "魔杖成为鲁迪长期装备",
+      "tags": [
+        "GRATITUDE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV02016"
+      ]
+    },
+    {
+      "case_id": "BC02015",
+      "character_id": "E0026",
+      "phase_id": "P0002",
+      "phase_name": "礼仪教师期",
+      "volume_no": 2,
+      "situation_type": "严格矫正",
+      "context": "书房，艾德娜教授伯雷亚斯式问候",
+      "trigger": "艾莉丝问候姿势错误",
+      "available_information": "知道艾莉丝厌学且会动手",
+      "action": "严厉纠正姿势与用语，不退让",
+      "verbal_response": "厉声纠正：重来",
+      "emotional_response": "严肃",
+      "goal_at_time": "让艾莉丝通过礼仪考核",
+      "relationship_context": "艾德娜对艾莉丝：严师对大小姐",
+      "social_context": "宅邸书房公开授课",
+      "immediate_outcome": "艾莉丝勉强改正",
+      "long_term_outcome": "问候礼仪渐趋规范",
+      "tags": [
+        "AUTHORITY",
+        "TEACHING"
+      ],
+      "evidence_refs": [
+        "EV02011"
+      ]
+    },
+    {
+      "case_id": "BC02016",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "对严师的抗拒",
+      "context": "同上礼仪课，面对艾德娜的严格",
+      "trigger": "被要求重做问候十余次",
+      "available_information": "知道艾德娜为菲利普所聘，不敢直接动手",
+      "action": "瞪视、推书但未动手，勉强重做",
+      "verbal_response": "低声抱怨",
+      "emotional_response": "烦躁而克制",
+      "goal_at_time": "尽快结束课程",
+      "relationship_context": "艾莉丝对艾德娜：大小姐对严师的克制抗拒",
+      "social_context": "书房",
+      "immediate_outcome": "课程继续",
+      "long_term_outcome": "礼仪有所进步",
+      "tags": [
+        "ANGER",
+        "EMBARRASSMENT"
+      ],
+      "evidence_refs": [
+        "EV02011"
+      ]
+    },
+    {
+      "case_id": "BC02017",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "转折点应对",
+      "context": "第八话转折点，天空异变与阿尔曼菲现身",
+      "trigger": "天空变色、光之使魔光速现身传话",
+      "available_information": "不知佩尔基乌斯召见意图，不知转移将至",
+      "action": "护住艾莉丝、向阿尔曼菲询问来意",
+      "verbal_response": "询问召见缘由",
+      "emotional_response": "震惊、警惕",
+      "goal_at_time": "弄清异变与召见意图",
+      "relationship_context": "鲁迪对阿尔曼菲：被召见者对使魔",
+      "social_context": "宅邸庭院公开异变",
+      "immediate_outcome": "得知佩尔基乌斯召见",
+      "long_term_outcome": "为转移事件的认知铺垫",
+      "tags": [
+        "DANGER",
+        "SUSPICION"
+      ],
+      "evidence_refs": [
+        "EV02017",
+        "EV02018"
+      ]
+    },
+    {
+      "case_id": "BC02018",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "异变恐慌",
+      "context": "同上转折点，艾莉丝目睹天空异变",
+      "trigger": "天空异变与使魔现身",
+      "available_information": "不知异变为何",
+      "action": "紧抓鲁迪或基列奴，惊呼",
+      "verbal_response": "怎么回事！",
+      "emotional_response": "恐慌",
+      "goal_at_time": "寻求保护",
+      "relationship_context": "艾莉丝对鲁迪：依赖",
+      "social_context": "公开异变",
+      "immediate_outcome": "被护住",
+      "long_term_outcome": "转移前的最后集体记忆",
+      "tags": [
+        "FEAR",
+        "DANGER"
+      ],
+      "evidence_refs": [
+        "EV02017"
+      ]
+    },
+    {
+      "case_id": "BC02019",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "寿宴紧张",
+      "context": "十岁生日宴前夜，艾莉丝为首舞焦虑",
+      "trigger": "绍罗斯宣布首舞安排",
+      "available_information": "知道要与鲁迪共舞，不知是否会踩脚",
+      "action": "反复练习舞步，强作镇定",
+      "verbal_response": "少言、点头",
+      "emotional_response": "紧张、期待",
+      "goal_at_time": "不丢脸",
+      "relationship_context": "艾莉丝对鲁迪：舞伴的短暂托付",
+      "social_context": "宅邸私密练习",
+      "immediate_outcome": "舞步勉强记住",
+      "long_term_outcome": "首舞成功",
+      "tags": [
+        "EMBARRASSMENT",
+        "NOBILITY"
+      ],
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "case_id": "BC02020",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "寿宴后羞怯",
+      "context": "十岁生日宴后，艾莉丝被众人注目",
+      "trigger": "宾客的祝贺与注视",
+      "available_information": "知道宴会已成，不知他人评价",
+      "action": "扭头、脸红、少言",
+      "verbal_response": "低声道谢",
+      "emotional_response": "害羞",
+      "goal_at_time": "维持体面",
+      "relationship_context": "艾莉丝对宾客：被注视的大小姐",
+      "social_context": "公开宴会后",
+      "immediate_outcome": "被认为体面",
+      "long_term_outcome": "贵族亮相成功",
+      "tags": [
+        "EMBARRASSMENT",
+        "SUCCESS"
+      ],
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "case_id": "BC02021",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "舞伴责任",
+      "context": "十岁生日宴大厅，鲁迪作为艾莉丝首支舞伴",
+      "trigger": "绍罗斯点名鲁迪共舞",
+      "available_information": "知道舞步与礼仪规程，不知艾莉丝是否会出错",
+      "action": "引导艾莉丝完成首舞，控制节奏",
+      "verbal_response": "轻声引导舞步",
+      "emotional_response": "紧张而克制",
+      "goal_at_time": "让艾莉丝体面完成亮相",
+      "relationship_context": "鲁迪对艾莉丝：舞伴对大小姐的引导者",
+      "social_context": "公开贵族宴会",
+      "immediate_outcome": "首舞无失误",
+      "long_term_outcome": "获得菲利普与绍罗斯认可",
+      "tags": [
+        "NOBILITY",
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "case_id": "BC02022",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "volume_no": 2,
+      "situation_type": "寿宴回赠二",
+      "context": "鲁迪十岁庆生会前，艾莉丝挑选礼物",
+      "trigger": "鲁迪的十岁生辰将至",
+      "available_information": "知道鲁迪常用魔杖，不知何款最合",
+      "action": "选定魔杖傲慢水龙王作为回礼",
+      "verbal_response": "简短祝贺：生日快乐",
+      "emotional_response": "认真、期待被认可",
+      "goal_at_time": "回报道师之恩",
+      "relationship_context": "艾莉丝对鲁迪：弟子对师的感激",
+      "social_context": "宅邸私密庆生",
+      "immediate_outcome": "鲁迪收下并珍视",
+      "long_term_outcome": "魔杖成为鲁迪长期装备",
+      "tags": [
+        "GRATITUDE",
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV02016"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "event_id": "DE02001",
+      "event_type": "绑架与救出",
+      "title": "自导自演绑架及救出",
+      "timeline_event_id": "T0005",
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第二卷中段",
+      "volume_no": 2,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP02001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0021",
+          "statement": "艾莉丝在罗亚",
+          "evidence_refs": [
+            "EV02003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED02001",
+          "dependency_type": "ENABLES",
+          "target_event_id": "T0005",
+          "statement": "为T0005绑架事件提供富化细节"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC02001",
+          "change_kind": "关系",
+          "subject_id": "E0021",
+          "before": "敌视鲁迪",
+          "after": "半信赖鲁迪"
+        }
+      ],
+      "trigger": "鲁迪为驯服艾莉丝设局",
+      "actions": [
+        "雇无赖",
+        "威汀附近绑架",
+        "基列奴击杀",
+        "鲁迪带艾莉丝逃脱"
+      ],
+      "outcome": "艾莉丝获救并对鲁迪产生依赖",
+      "relationship_change_ids": [
+        "RC02001",
+        "RC02002"
+      ],
+      "belief_ids": [
+        "BL02002"
+      ],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV02005",
+        "EV02006",
+        "EV02007"
+      ]
+    },
+    {
+      "event_id": "DE02002",
+      "event_type": "寿宴",
+      "title": "艾莉丝十岁生日宴与首舞",
+      "timeline_event_id": "T0006",
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "第二卷后半",
+      "volume_no": 2,
+      "location_id": null,
+      "participants": [
+        "E0021",
+        "E0001",
+        "E0023"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP02002",
+          "prerequisite_type": "PERSON_ALIVE",
+          "ref_id": "E0021",
+          "statement": "艾莉丝在世且为伯雷亚斯血脉",
+          "evidence_refs": []
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC02002",
+          "change_kind": "地位",
+          "subject_id": "E0021",
+          "before": "未行成人礼",
+          "after": "完成十岁生日的贵族亮相"
+        }
+      ],
+      "trigger": "伯雷亚斯家为艾莉丝举办十岁宴",
+      "actions": [
+        "绍罗斯主办",
+        "鲁迪担任首支舞伴"
+      ],
+      "outcome": "艾莉丝在贵族社交中亮相",
+      "relationship_change_ids": [
+        "RC02005"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "event_id": "DE02003",
+      "event_type": "转移",
+      "title": "菲托亚转移事件",
+      "timeline_event_id": "T0008",
+      "time_date": "417-1",
+      "time_precision": "YEAR_ONLY",
+      "time_note": "第二卷终章前后",
+      "volume_no": 2,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0021",
+        "E0022",
+        "E0023"
+      ],
+      "prerequisites": [],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC02003",
+          "change_kind": "位置",
+          "subject_id": "E0001",
+          "before": "罗亚",
+          "after": "魔大陆（与艾莉丝同落）"
+        },
+        {
+          "change_id": "SC02004",
+          "change_kind": "位置",
+          "subject_id": "E0021",
+          "before": "罗亚",
+          "after": "魔大陆"
+        }
+      ],
+      "trigger": "天空异变与魔力灾害",
+      "actions": [
+        "阿尔曼菲传话",
+        "大规模传送"
+      ],
+      "outcome": "菲托亚领消失，众人分散",
+      "relationship_change_ids": [],
+      "belief_ids": [
+        "BL02007"
+      ],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV02017",
+        "EV02020",
+        "EV02021"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "item_id": "IT02001",
+      "canonical_name": "傲慢水龙王",
+      "aliases": [
+        "傲慢的水龙王魔杖"
+      ],
+      "category": "武器",
+      "subcategory": "魔杖",
+      "description": "艾莉丝在鲁迪十岁时所赠的魔杖，后成为其常用魔杖",
+      "material": "魔木与魔石",
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": "贵重",
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "伯雷亚斯家赠礼",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [
+        "增幅水魔法"
+      ],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 16030,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02016"
+      ]
+    },
+    {
+      "item_id": "IT02002",
+      "canonical_name": "伯雷亚斯式问候礼仪规程",
+      "aliases": [],
+      "category": "知识",
+      "subcategory": "礼仪",
+      "description": "伯雷亚斯家特有的问候礼仪，因汤马斯背叛而被说明",
+      "material": null,
+      "size": null,
+      "weight": null,
+      "durability": null,
+      "rarity": null,
+      "value_information": null,
+      "currency": null,
+      "creator": null,
+      "origin": "伯雷亚斯家",
+      "manufacturer": null,
+      "abilities": [],
+      "effects": [],
+      "requirements": [],
+      "limitations": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 11698,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02008"
+      ]
+    }
+  ],
+  "item_instances": [
+    {
+      "instance_id": "IN02001",
+      "definition_id": "IT02001",
+      "owner_id": "E0001",
+      "holder_id": "E0001",
+      "location_id": null,
+      "location_name": "罗亚",
+      "condition": "新品",
+      "durability_if_known": null,
+      "acquired_at": null,
+      "lost_at": null,
+      "acquired_at_volume": 2,
+      "lost_at_volume": null,
+      "ownership_history": [
+        {
+          "entry_id": "OH02001",
+          "owner_id": "E0021",
+          "period_start": null,
+          "period_end": null,
+          "acquired_via": "伯雷亚斯家准备",
+          "lost_via": "赠予",
+          "note": "由艾莉丝赠予鲁迪"
+        }
+      ],
+      "evidence_refs": [
+        "EV02016"
+      ]
+    }
+  ],
+  "abilities": [
+    {
+      "ability_id": "AB02001",
+      "name": "剑神流初级",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "剑神流",
+      "element": null,
+      "tier": "初级",
+      "requirements": [],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "初级剑术"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "艾莉丝当前位阶",
+      "learning_method": [
+        "基列奴指导"
+      ],
+      "known_users": [
+        "E0021"
+      ],
+      "evidence_refs": [
+        "EV02004"
+      ]
+    },
+    {
+      "ability_id": "AB02002",
+      "name": "剑王级剑术",
+      "aliases": [],
+      "ability_type": "SWORD",
+      "school": "剑神流",
+      "element": null,
+      "tier": "剑王",
+      "requirements": [],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "剑王级斩击"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "剑神流第四强",
+      "learning_method": [],
+      "known_users": [
+        "E0022"
+      ],
+      "evidence_refs": [
+        "EV02024",
+        "EV02026"
+      ]
+    },
+    {
+      "ability_id": "AB02003",
+      "name": "魔眼",
+      "aliases": [],
+      "ability_type": "MAGIC_EYE",
+      "school": null,
+      "element": null,
+      "tier": null,
+      "requirements": [],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "特殊视觉"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "基列奴持有",
+      "learning_method": [],
+      "known_users": [
+        "E0022"
+      ],
+      "evidence_refs": [
+        "EV02019"
+      ]
+    },
+    {
+      "ability_id": "AB02004",
+      "name": "光速移动",
+      "aliases": [],
+      "ability_type": "SPECIAL",
+      "school": null,
+      "element": null,
+      "tier": null,
+      "requirements": [],
+      "preconditions": [],
+      "mana_cost_if_known": null,
+      "stamina_cost_if_known": null,
+      "range_if_known": null,
+      "duration_if_known": null,
+      "effects": [
+        "光速位移"
+      ],
+      "limitations": [],
+      "counters": [],
+      "qualitative_power": "十二使魔阿尔曼菲特有",
+      "learning_method": [],
+      "known_users": [
+        "E0028"
+      ],
+      "evidence_refs": [
+        "EV02018"
+      ]
+    }
+  ],
+  "power_comparisons": [
+    {
+      "comparison_id": "PC02001",
+      "actor_id": "E0022",
+      "target_id": "E0021",
+      "dimension": "剑术",
+      "context": "道场考核",
+      "result": "基列奴远强于艾莉丝",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02004"
+      ]
+    }
+  ],
+  "world_rules": [
+    {
+      "rule_id": "WR02001",
+      "domain": "NOBILITY",
+      "statement": "伯雷亚斯家等级森严，伯雷亚斯式问候为家族礼仪规程，违之被视为丑闻",
+      "scope": "菲托亚伯雷亚斯家",
+      "exceptions": "无",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02008"
+      ]
+    },
+    {
+      "rule_id": "WR02002",
+      "domain": "SWORD",
+      "statement": "剑神流位阶分明，剑王为高位阶，第四强为其中佼佼者",
+      "scope": "剑神流",
+      "exceptions": "无",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02024"
+      ]
+    },
+    {
+      "rule_id": "WR02003",
+      "domain": "NOBILITY",
+      "statement": "菲托亚伯雷亚斯家等级森严，家臣对领主绝对服从，汤马斯背叛被视为重丑闻",
+      "scope": "伯雷亚斯家",
+      "exceptions": "无",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02008"
+      ]
+    },
+    {
+      "rule_id": "WR02004",
+      "domain": "SWORD",
+      "statement": "剑神流以实战考核定级，初级至中级需通过道场考核",
+      "scope": "剑神流",
+      "exceptions": "无",
+      "confidence": "EXPLICIT",
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02004",
+        "EV02012"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "E0030",
+      "name": "威汀",
+      "aliases": [],
+      "location_type": "TOWN",
+      "parent_location_id": null,
+      "political_control": [
+        "伯雷亚斯家"
+      ],
+      "population_info": null,
+      "race_distribution": null,
+      "climate": null,
+      "terrain": "距罗亚两城镇的郊外",
+      "danger": "郊外有无赖出没",
+      "economy": null,
+      "services": null,
+      "known_routes": [],
+      "nearby_locations": [],
+      "organizations": [],
+      "important_people": [],
+      "first_appearance_volume": 2,
+      "first_appearance_line": 11078,
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02006"
+      ]
+    }
+  ],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL02001",
+      "owner_id": "E0021",
+      "topic": "鲁迪的实力",
+      "statement": "鲁迪只是个会被赶走的瘦弱家教",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": null,
+      "learned_at_volume": 2,
+      "learned_method": "初见印象",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "艾莉丝初见时误判鲁迪为可欺对象",
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "belief_id": "BL02002",
+      "owner_id": "E0021",
+      "topic": "绑架真相",
+      "statement": "绑架是真实的无赖作案",
+      "certainty": "EXPLICIT",
+      "belief_state": "FALSE_BELIEF",
+      "learned_from": null,
+      "learned_at_volume": 2,
+      "learned_method": "亲历绑架",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "艾莉丝不知绑架为鲁迪自导自演",
+      "evidence_refs": [
+        "EV02006"
+      ]
+    },
+    {
+      "belief_id": "BL02003",
+      "owner_id": "E0001",
+      "topic": "驯服方法",
+      "statement": "让艾莉丝经历恐惧后会产生依赖",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": "E0001",
+      "learned_at_volume": 2,
+      "learned_method": "推演",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "鲁迪的推演在后续获救依赖中被证实",
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "belief_id": "BL02004",
+      "owner_id": "E0022",
+      "topic": "鲁迪的可信度",
+      "statement": "鲁迪的计划可控、不会让艾莉丝真的受伤",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": "E0001",
+      "learned_at_volume": 2,
+      "learned_method": "鲁迪说明",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "基列奴配合的前提信任",
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "belief_id": "BL02005",
+      "owner_id": "E0024",
+      "topic": "家教聘用",
+      "statement": "鲁迪能驯服艾莉丝",
+      "certainty": "INFERENCE",
+      "belief_state": "SUSPECTED",
+      "learned_from": null,
+      "learned_at_volume": 2,
+      "learned_method": "面试观察",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "菲利普的期待",
+      "evidence_refs": [
+        "EV02027"
+      ]
+    },
+    {
+      "belief_id": "BL02006",
+      "owner_id": "E0021",
+      "topic": "剑术价值",
+      "statement": "剑比读书重要",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": null,
+      "learned_at_volume": 2,
+      "learned_method": "伯雷亚斯家训与基列奴影响",
+      "is_true_in_world": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "艾莉丝的价值判断",
+      "evidence_refs": [
+        "EV02004"
+      ]
+    },
+    {
+      "belief_id": "BL02007",
+      "owner_id": "E0001",
+      "topic": "转移事件",
+      "statement": "菲托亚领的异变会导致大规模传送",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0028",
+      "learned_at_volume": 2,
+      "learned_method": "阿尔曼菲传话与天空异变目击",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "转折点后的认知",
+      "evidence_refs": [
+        "EV02017",
+        "EV02020"
+      ]
+    },
+    {
+      "belief_id": "BL02008",
+      "owner_id": "E0021",
+      "topic": "读写无用",
+      "statement": "读写算术不如剑术重要",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": null,
+      "learned_at_volume": 2,
+      "learned_method": "伯雷亚斯家训与个人好恶",
+      "is_true_in_world": false,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "艾莉丝的错误价值判断，后被鲁迪纠正",
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "belief_id": "BL02009",
+      "owner_id": "E0001",
+      "topic": "艾莉丝的可教性",
+      "statement": "艾莉丝可通过交换条件被驯服",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": "E0001",
+      "learned_at_volume": 2,
+      "learned_method": "观察与设局验证",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "鲁迪的推演被后续读写进步证实",
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "belief_id": "BL02010",
+      "owner_id": "E0024",
+      "topic": "问候礼仪",
+      "statement": "伯雷亚斯式问候必须掌握否则丢家族脸面",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": null,
+      "learned_at_volume": 2,
+      "learned_method": "家族传统",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "菲利普对问候的执念",
+      "evidence_refs": [
+        "EV02008"
+      ]
+    },
+    {
+      "belief_id": "BL02011",
+      "owner_id": "E0022",
+      "topic": "佩尔基乌斯",
+      "statement": "佩尔基乌斯为传说召唤师，十二使魔可光速传讯",
+      "certainty": "EXPLICIT",
+      "belief_state": "FACT_KNOWN",
+      "learned_from": "E0028",
+      "learned_at_volume": 2,
+      "learned_method": "阿尔曼菲现身",
+      "is_true_in_world": true,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "note": "转折点后的新认知",
+      "evidence_refs": [
+        "EV02018"
+      ]
+    }
+  ],
+  "economic_observations": [
+    {
+      "observation_id": "EC02001",
+      "location_id": "E0030",
+      "location_name": "威汀",
+      "at_date": null,
+      "at_volume": 2,
+      "category": "雇佣",
+      "item_id": null,
+      "goods_description": "雇无赖绑架的报酬（金钱）",
+      "quantity": null,
+      "currency": "阿斯拉金币",
+      "amount_description": "未明示具体数额，仅知以金钱利诱",
+      "price_class": "QUALITATIVE",
+      "context": "鲁迪为自导自演支付给无赖的报酬",
+      "evidence_refs": [
+        "EV02006"
+      ]
+    }
+  ],
+  "relationship_changes": [
+    {
+      "change_id": "RC02001",
+      "source_id": "E0021",
+      "target_id": "E0001",
+      "dimension": "trust",
+      "before": "敌视、欲赶走",
+      "trigger": "绑架获救，误以为鲁迪舍身相救",
+      "after": "半信赖、愿接受其课程",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "change_id": "RC02002",
+      "source_id": "E0001",
+      "target_id": "E0021",
+      "dimension": "trust",
+      "before": "审视、视其为难驯对象",
+      "trigger": "艾莉丝获救后顺从跟随",
+      "after": "认定可教、投入更多耐心",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "change_id": "RC02003",
+      "source_id": "E0021",
+      "target_id": "E0022",
+      "dimension": "respect",
+      "before": "表面服从的护卫关系",
+      "trigger": "基列奴击杀绑匪的剑王实力展示",
+      "after": "对基列奴的剑术尊重加深",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02007",
+        "EV02024"
+      ]
+    },
+    {
+      "change_id": "RC02004",
+      "source_id": "E0022",
+      "target_id": "E0001",
+      "dimension": "respect",
+      "before": "审视新家教",
+      "trigger": "鲁迪设局周密且不让艾莉丝真受伤",
+      "after": "认可鲁迪为可配合的师者",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "change_id": "RC02005",
+      "source_id": "E0024",
+      "target_id": "E0001",
+      "dimension": "trust",
+      "before": "试探性聘用",
+      "trigger": "艾莉丝开始接受读写与问候礼仪",
+      "after": "认定鲁迪为合格家教、愿付五年报酬",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02027",
+        "EV02013"
+      ]
+    },
+    {
+      "change_id": "RC02006",
+      "source_id": "E0001",
+      "target_id": "E0028",
+      "dimension": "trust",
+      "before": "未知",
+      "trigger": "阿尔曼菲光速现身传达佩尔基乌斯召见",
+      "after": "建立对十二使魔体系的初步认知与警惕",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02018"
+      ]
+    },
+    {
+      "change_id": "RC02007",
+      "source_id": "E0021",
+      "target_id": "E0024",
+      "dimension": "trust",
+      "before": "对父亲的任性对抗",
+      "trigger": "鲁迪的教学让艾莉丝在生日宴上体面亮相",
+      "after": "对父亲的焦虑有所缓解、愿听其安排",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "change_id": "RC02008",
+      "source_id": "E0001",
+      "target_id": "E0026",
+      "dimension": "respect",
+      "before": "未共事",
+      "trigger": "与艾德娜分工教授艾莉丝",
+      "after": "认可其礼仪专业",
+      "at_volume": 2,
+      "at_date": null,
+      "evidence_refs": [
+        "EV02011"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST02001",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "politeness": "对下人粗鲁、对祖父带敬意",
+      "sentence_length": "短促",
+      "address_habits": "直呼鲁迪喂、对基列奴直称",
+      "emotion_expression": "以动作宣泄",
+      "anger_expression": "踹、吼闭嘴",
+      "shy_expression": "扭头不看",
+      "intimate_speech": "（本卷无亲密对象）",
+      "stranger_speech": "更凶",
+      "superior_speech": "对绍罗斯收敛",
+      "inferior_speech": "命令式",
+      "canonical_examples": [
+        "才不要学这种东西"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02003",
+        "EV02009"
+      ]
+    },
+    {
+      "profile_id": "ST02002",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "politeness": "对菲利普与绍罗斯敬语、对艾莉丝温和",
+      "sentence_length": "中等",
+      "address_habits": "称艾莉丝大小姐、称基列奴师父",
+      "emotion_expression": "以劝说包裹计谋",
+      "anger_expression": "不直接发怒、以计化解",
+      "shy_expression": "（本卷不显著）",
+      "intimate_speech": "（对艾莉丝保持师者距离）",
+      "stranger_speech": "客气",
+      "superior_speech": "敬语",
+      "inferior_speech": "温和引导",
+      "canonical_examples": [
+        "学会一页就练一小时剑"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02009",
+        "EV02027"
+      ]
+    },
+    {
+      "profile_id": "ST02003",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "phase_name": "罗亚护卫期",
+      "politeness": "对领主恭敬、其余少言",
+      "sentence_length": "极短",
+      "address_habits": "直呼鲁迪名字、称艾莉丝大小姐",
+      "emotion_expression": "以行动代替语言",
+      "anger_expression": "拔剑、气势外放",
+      "shy_expression": "无",
+      "intimate_speech": "无",
+      "stranger_speech": "少言",
+      "superior_speech": "对绍罗斯简洁应答",
+      "inferior_speech": "点头示意",
+      "canonical_examples": [
+        "嗯"
+      ],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    },
+    {
+      "profile_id": "ST02004",
+      "character_id": "E0023",
+      "phase_id": "P0002",
+      "phase_name": "领主期",
+      "politeness": "领主威仪",
+      "sentence_length": "短促命令",
+      "address_habits": "直呼菲利普、称艾莉丝孙女",
+      "emotion_expression": "以威压表达",
+      "anger_expression": "拍桌、瞪视",
+      "shy_expression": "无",
+      "intimate_speech": "无",
+      "stranger_speech": "威严",
+      "superior_speech": "自身即权威",
+      "inferior_speech": "命令式",
+      "canonical_examples": [],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "profile_id": "ST02005",
+      "character_id": "E0024",
+      "phase_id": "P0002",
+      "phase_name": "市长期",
+      "politeness": "圆滑客气、带试探",
+      "sentence_length": "中等",
+      "address_habits": "称鲁迪为先生、称艾莉丝女儿",
+      "emotion_expression": "以报酬与体面为说辞",
+      "anger_expression": "隐忍、转以利诱",
+      "shy_expression": "无",
+      "intimate_speech": "无",
+      "stranger_speech": "客气",
+      "superior_speech": "对绍罗斯恭顺",
+      "inferior_speech": "对下属务实",
+      "canonical_examples": [],
+      "visible_from_volume": 2,
+      "evidence_refs": [
+        "EV02027"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK02001",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "category": "暴力癖",
+      "name": "以拳脚代替语言",
+      "description": "遇不顺先动手，踹、抓、推为常用起手",
+      "intensity": "HIGH",
+      "frequency": "频繁",
+      "triggers": [
+        "被说教",
+        "被要求学习"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [
+        "E0023",
+        "E0022"
+      ],
+      "public_expression": "在宅邸内公开踹人",
+      "private_expression": "私下也以拳头确认关系",
+      "behavior_patterns": [
+        "抬脚踹面",
+        "抓衣领"
+      ],
+      "verbal_patterns": [
+        "闭嘴！"
+      ],
+      "body_language": "握拳、抬腿、瞪视",
+      "emotional_reward": "宣泄后短暂平静",
+      "emotional_response": "动手后反而更易听话",
+      "boundaries": [
+        "对祖父不敢动手"
+      ],
+      "exceptions": [
+        "获救后短暂收敛"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "quirk_id": "QK02002",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "category": "厌学",
+      "name": "拒读拒写",
+      "description": "一见课本即烦躁，推开习字板",
+      "intensity": "HIGH",
+      "frequency": "每课皆现",
+      "triggers": [
+        "课本出现"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开推开课本",
+      "private_expression": "私下也以才不要回应",
+      "behavior_patterns": [
+        "推书、扭头"
+      ],
+      "verbal_patterns": [
+        "才不要学这种东西"
+      ],
+      "body_language": "扭头、抱臂",
+      "emotional_reward": "逃避成功时的得意",
+      "emotional_response": "烦躁",
+      "boundaries": [],
+      "exceptions": [
+        "以剑术为交换时勉强接受"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "quirk_id": "QK02003",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "category": "谋划",
+      "name": "自导自演式引导",
+      "description": "为驯服对象设计可控危机以建立信任",
+      "intensity": "MEDIUM",
+      "frequency": "本卷一次关键使用",
+      "triggers": [
+        "对象极度抗拒"
+      ],
+      "preferred_targets": [
+        "E0021"
+      ],
+      "avoided_targets": [],
+      "public_expression": "表面为偶然英雄",
+      "private_expression": "私下与基列奴密谋",
+      "behavior_patterns": [
+        "列计划、雇人、安排偶遇"
+      ],
+      "verbal_patterns": [],
+      "body_language": "书房内踱步计算",
+      "emotional_reward": "计划奏效时的安心",
+      "emotional_response": "紧张后释然",
+      "boundaries": [
+        "不让对象真的受伤"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02005",
+        "EV02006"
+      ]
+    },
+    {
+      "quirk_id": "QK02004",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "category": "沉默",
+      "name": "以点头与拔剑代替回答",
+      "description": "少言，点头或拔剑即表态",
+      "intensity": "HIGH",
+      "frequency": "日常",
+      "triggers": [
+        "被问及意见"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开场合亦少言",
+      "private_expression": "私下亦然",
+      "behavior_patterns": [
+        "点头、拔剑示意"
+      ],
+      "verbal_patterns": [
+        "嗯"
+      ],
+      "body_language": "尾巴轻摆、耳动",
+      "emotional_reward": "保持威严",
+      "emotional_response": "平静",
+      "boundaries": [],
+      "exceptions": [
+        "对绍罗斯会多说一句"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02001",
+        "EV02024"
+      ]
+    },
+    {
+      "quirk_id": "QK02005",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "category": "好胜",
+      "name": "以剑术证明价值",
+      "description": "认为剑比读书重要，愿为剑术考核全力以赴",
+      "intensity": "HIGH",
+      "frequency": "每次考核",
+      "triggers": [
+        "剑术考核"
+      ],
+      "preferred_targets": [
+        "E0022"
+      ],
+      "avoided_targets": [],
+      "public_expression": "道场公开全力挥剑",
+      "private_expression": "私下也以剑术为荣",
+      "behavior_patterns": [
+        "全力挥剑"
+      ],
+      "verbal_patterns": [],
+      "body_language": "握剑、瞪视",
+      "emotional_reward": "通过考核的成就感",
+      "emotional_response": "好胜",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02004",
+        "EV02012"
+      ]
+    },
+    {
+      "quirk_id": "QK02006",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "category": "依赖",
+      "name": "获救后紧跟鲁迪",
+      "description": "绑架获救后紧抓鲁迪不放，首次显露依赖",
+      "intensity": "MEDIUM",
+      "frequency": "获救后",
+      "triggers": [
+        "恐惧后"
+      ],
+      "preferred_targets": [
+        "E0001"
+      ],
+      "avoided_targets": [],
+      "public_expression": "返程紧跟",
+      "private_expression": "私下亦紧抓衣袖",
+      "behavior_patterns": [
+        "紧跟、抓袖"
+      ],
+      "verbal_patterns": [],
+      "body_language": "抓袖、低头",
+      "emotional_reward": "安全感",
+      "emotional_response": "后怕转依赖",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "quirk_id": "QK02007",
+      "character_id": "E0023",
+      "phase_id": "P0002",
+      "category": "威仪",
+      "name": "以威压治家",
+      "description": "以领主威仪与瞪视压制家臣与孙女",
+      "intensity": "MEDIUM",
+      "frequency": "家内",
+      "triggers": [
+        "家臣失仪、孙女任性"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": "公开拍桌瞪视",
+      "private_expression": "私下亦以威压管束",
+      "behavior_patterns": [
+        "拍桌、瞪视"
+      ],
+      "verbal_patterns": [],
+      "body_language": "瞪视、拍桌",
+      "emotional_reward": "权威维持",
+      "emotional_response": "威严",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "quirk_id": "QK02008",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "category": "算计",
+      "name": "以交换条件教学",
+      "description": "以剑术奖励换取艾莉丝的读写配合",
+      "intensity": "MEDIUM",
+      "frequency": "每课",
+      "triggers": [
+        "艾莉丝拒学"
+      ],
+      "preferred_targets": [
+        "E0021"
+      ],
+      "avoided_targets": [],
+      "public_expression": "公开提出交换",
+      "private_expression": "私下亦以此为杠杆",
+      "behavior_patterns": [
+        "提交换条件"
+      ],
+      "verbal_patterns": [
+        "学会一页就练一小时剑"
+      ],
+      "body_language": "温和劝说手势",
+      "emotional_reward": "学生配合时的成就感",
+      "emotional_response": "耐心",
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02009"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF02001",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "preference_type": "LIKE",
+      "target": "剑术训练",
+      "description": "只要是练剑就愿意投入，读写则相反",
+      "intensity": "HIGH",
+      "context": "宅邸道场与书房对比",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02004",
+        "EV02012"
+      ]
+    },
+    {
+      "preference_id": "PF02002",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "preference_type": "DISLIKE",
+      "target": "读写与算术",
+      "description": "一见课本即推开，认为无用",
+      "intensity": "HIGH",
+      "context": "书房授课",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02009"
+      ]
+    },
+    {
+      "preference_id": "PF02003",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "preference_type": "LIKE",
+      "target": "以计谋达成教育",
+      "description": "偏好用可控危机而非说教来改变对象",
+      "intensity": "MEDIUM",
+      "context": "私下策划",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "preference_id": "PF02004",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "preference_type": "LIKE",
+      "target": "与强者对峙",
+      "description": "对剑王位阶与实战切磋有执念",
+      "intensity": "MEDIUM",
+      "context": "道场与护卫",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02024"
+      ]
+    },
+    {
+      "preference_id": "PF02005",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "preference_type": "LIKE",
+      "target": "生日宴亮相",
+      "description": "在众人面前体面亮相获得认可",
+      "intensity": "MEDIUM",
+      "context": "公开宴会",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02013"
+      ]
+    },
+    {
+      "preference_id": "PF02006",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "preference_type": "LIKE",
+      "target": "魔杖傲慢水龙王",
+      "description": "获赠后珍视并长期使用",
+      "intensity": "HIGH",
+      "context": "私下与战斗均携带",
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV02016"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY02001",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "happy_signs": [
+        "红发晃动、抬下巴"
+      ],
+      "angry_signs": [
+        "握拳、瞪视、抬腿欲踹"
+      ],
+      "nervous_signs": [
+        "抓衣角"
+      ],
+      "embarrassed_signs": [
+        "扭头、脸红"
+      ],
+      "lying_signs": [],
+      "fear_signs": [
+        "紧抓鲁迪衣袖、哭喊"
+      ],
+      "thinking_signs": [
+        "抱臂"
+      ],
+      "affection_signs": [
+        "获救后紧跟鲁迪"
+      ],
+      "hostility_signs": [
+        "踹击起手"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02003",
+        "EV02007"
+      ]
+    },
+    {
+      "profile_id": "BY02002",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "phase_name": "家庭教师期",
+      "happy_signs": [],
+      "angry_signs": [],
+      "nervous_signs": [
+        "书房踱步"
+      ],
+      "embarrassed_signs": [],
+      "lying_signs": [
+        "以偶然为托词时的眼神回避"
+      ],
+      "fear_signs": [
+        "侧身闪避"
+      ],
+      "thinking_signs": [
+        "列计划时的沉思"
+      ],
+      "affection_signs": [],
+      "hostility_signs": [],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "profile_id": "BY02003",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "phase_name": "罗亚护卫期",
+      "happy_signs": [],
+      "angry_signs": [
+        "尾巴炸毛、拔剑"
+      ],
+      "nervous_signs": [],
+      "embarrassed_signs": [],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "沉默点头"
+      ],
+      "affection_signs": [],
+      "hostility_signs": [
+        "剑气外放"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN02001",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "persona_type": "PUBLIC",
+      "description": "在罗亚宅邸与外人面前以凶暴立威的大小姐",
+      "speech_style": "命令式短句",
+      "behavior_traits": [
+        "踹击示威",
+        "推开课本"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02003"
+      ]
+    },
+    {
+      "persona_id": "PN02002",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "persona_type": "PRIVATE",
+      "description": "获救后在鲁迪面前短暂流露的依赖与后怕",
+      "speech_style": "低声、少言",
+      "behavior_traits": [
+        "紧抓衣袖",
+        "顺从跟随"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02007"
+      ]
+    },
+    {
+      "persona_id": "PN02003",
+      "character_id": "E0021",
+      "phase_id": "P0002",
+      "persona_type": "FAMILY",
+      "description": "在绍罗斯面前收敛凶性、试图表现得体",
+      "speech_style": "带敬意的短句",
+      "behavior_traits": [
+        "站姿收敛"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02022"
+      ]
+    },
+    {
+      "persona_id": "PN02004",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "persona_type": "PUBLIC",
+      "description": "在菲利普与绍罗斯面前的恭敬家教",
+      "speech_style": "敬语、请教口吻",
+      "behavior_traits": [
+        "鞠躬、侧避"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02003",
+        "EV02027"
+      ]
+    },
+    {
+      "persona_id": "PN02005",
+      "character_id": "E0001",
+      "phase_id": "P0002",
+      "persona_type": "PRIVATE",
+      "description": "与基列奴密谋时的计算者",
+      "speech_style": "低声密议",
+      "behavior_traits": [
+        "列计划、雇人"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02005"
+      ]
+    },
+    {
+      "persona_id": "PN02006",
+      "character_id": "E0022",
+      "phase_id": "P0002",
+      "persona_type": "PUBLIC",
+      "description": "在罗亚宅邸的沉默护卫，少言多做",
+      "speech_style": "极短句",
+      "behavior_traits": [
+        "点头、拔剑"
+      ],
+      "visible_from_volume": 2,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV02001"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP02001",
+      "domain": "魔法",
+      "question": "鲁迪在第二卷是否已掌握中级治愈以外的位阶？",
+      "why_needed": "影响对其战力与教学能力的判定",
+      "searched_volumes": [
+        2
+      ],
+      "status": "NO_CANON_ANSWER",
+      "possible_sources": "后续卷",
+      "note": "第二卷未明确除已知位阶外的其余系位阶"
+    }
+  ]
+}
