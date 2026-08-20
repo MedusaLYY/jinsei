@@ -1,0 +1,2528 @@
+{
+  "abilities": [
+    {
+      "ability_id": "AB21000",
+      "ability_type": "BLESSING",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "神子特有能力"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV21019"
+      ],
+      "known_users": [
+        "E0153"
+      ],
+      "learning_method": [],
+      "limitations": [
+        "受教团管控"
+      ],
+      "mana_cost_if_known": null,
+      "name": "神子能力",
+      "preconditions": [],
+      "qualitative_power": "在米里斯被视为神迹",
+      "range_if_known": null,
+      "requirements": [],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": null
+    },
+    {
+      "ability_id": "AB21001",
+      "ability_type": "KNOWLEDGE",
+      "aliases": [],
+      "counters": [],
+      "duration_if_known": null,
+      "effects": [
+        "教团审议与裁决"
+      ],
+      "element": null,
+      "evidence_refs": [
+        "EV21020"
+      ],
+      "known_users": [
+        "E0152"
+      ],
+      "learning_method": [],
+      "limitations": [],
+      "mana_cost_if_known": null,
+      "name": "米里斯审议术",
+      "preconditions": [],
+      "qualitative_power": "以教义与家名裁决去留",
+      "range_if_known": null,
+      "requirements": [],
+      "school": null,
+      "stamina_cost_if_known": null,
+      "tier": null
+    }
+  ],
+  "batch_id": "ENRICH_V021",
+  "behavior_cases": [
+    {
+      "action": "自称远亲、装失忆家属，以塞妮丝旧物为信物试探",
+      "available_information": "知晓拉托雷亚家为塞妮丝娘家、克蕾雅为当家，不知塞妮丝当前精神状态",
+      "case_id": "BC21000",
+      "character_id": "E0001",
+      "context": "潜入米里斯：鲁迪与爱夏乔装潜入拉托雷亚家外围，装蒜试探门房与仆人（U0364）",
+      "emotional_response": "紧张中强作镇定",
+      "evidence_refs": [
+        "EV21020"
+      ],
+      "goal_at_time": "确认塞妮丝是否在宅内且状态如何",
+      "immediate_outcome": "获准短暂入宅，得见塞妮丝",
+      "long_term_outcome": "为后续审议埋下潜入依据",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与爱夏搭档，爱夏在旁补话",
+      "situation_type": "investigation",
+      "social_context": "拉托雷亚宅门前，众目下试探",
+      "tags": [
+        "SUSPICION",
+        "FAMILY"
+      ],
+      "trigger": "门房盘问来意",
+      "verbal_response": "我们是来探望塞妮丝的远亲。",
+      "volume_no": 21
+    },
+    {
+      "action": "以恭敬语调补充家系与来意，递上信物",
+      "available_information": "知晓贵族宅邸应对礼仪，知晓塞妮丝旧事",
+      "case_id": "BC21001",
+      "character_id": "E0008",
+      "context": "同上潜入：爱夏在鲁迪被盘问时补话圆场（U0364）",
+      "emotional_response": "冷静",
+      "evidence_refs": [
+        "EV21021"
+      ],
+      "goal_at_time": "让鲁迪的潜入不被识破",
+      "immediate_outcome": "门房放行",
+      "long_term_outcome": "潜入成功",
+      "phase_id": "P21004",
+      "phase_name": "智囊潜入期",
+      "relationship_context": "与鲁迪的兄妹协作",
+      "situation_type": "negotiation",
+      "social_context": "门房前",
+      "tags": [
+        "NEGOTIATION",
+        "FAMILY"
+      ],
+      "trigger": "鲁迪言辞露怯",
+      "verbal_response": "兄长远道而来，冒昧打扰。",
+      "volume_no": 21
+    },
+    {
+      "action": "以家主威仪拒绝，称塞妮丝已在此安居、不宜再颠沛",
+      "available_information": "知晓鲁迪为塞妮丝之子，知晓塞妮丝失忆需庇护，知晓米里斯教规",
+      "case_id": "BC21002",
+      "character_id": "E0152",
+      "context": "初见：克蕾雅在客厅接见鲁迪与爱夏，塞妮丝在侧茫然（U0364-U0365）",
+      "emotional_response": "威严中带护女之情",
+      "evidence_refs": [
+        "EV21022"
+      ],
+      "goal_at_time": "将塞妮丝留在拉托雷亚家",
+      "immediate_outcome": "鲁迪被禁足待审议",
+      "long_term_outcome": "冲突升级至审议庭",
+      "phase_id": "P21002",
+      "phase_name": "拉托雷亚当家期",
+      "relationship_context": "与鲁迪的祖孙对峙",
+      "situation_type": "family",
+      "social_context": "拉托雷亚宅客厅",
+      "tags": [
+        "FAMILY",
+        "AUTHORITY"
+      ],
+      "trigger": "鲁迪直言要带回塞妮丝",
+      "verbal_response": "她在这里很好，不必跟你回去。",
+      "volume_no": 21
+    },
+    {
+      "action": "强压怒火，决定改走审议庭与神子路线",
+      "available_information": "知晓宅邸武装与米里斯教团关系，知晓神子为教团核心",
+      "case_id": "BC21003",
+      "character_id": "E0001",
+      "context": "将死棋局：被克蕾雅禁足后，鲁迪在居室内与爱夏商议（U0365）",
+      "emotional_response": "愤怒后克制",
+      "evidence_refs": [
+        "EV21023"
+      ],
+      "goal_at_time": "在不触发武装冲突下带回母亲",
+      "immediate_outcome": "定下审议与挟持神子的双轨计",
+      "long_term_outcome": "为后续强硬交涉定策",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与爱夏的智囊商议",
+      "situation_type": "anger",
+      "social_context": "禁足居室私议",
+      "tags": [
+        "ANGER",
+        "NEGOTIATION"
+      ],
+      "trigger": "爱夏指出硬闯会触发教团武装",
+      "verbal_response": "不能硬来，走正路。",
+      "volume_no": 21
+    },
+    {
+      "action": "假意关切鲁迪，实则将情报递予教团执事",
+      "available_information": "知晓鲁迪计划与拉托雷亚家防备，知晓人神指令",
+      "case_id": "BC21004",
+      "character_id": "E0057",
+      "context": "同居室外：基斯在走廊偷听并向教团密报鲁迪动向（U0365）",
+      "emotional_response": "油滑中带怯懦",
+      "evidence_refs": [
+        "EV21024"
+      ],
+      "goal_at_time": "完成人神挑拨任务",
+      "immediate_outcome": "教团对鲁迪戒备升级",
+      "long_term_outcome": "基斯使徒身份为后续暴露埋因",
+      "phase_id": "P21005",
+      "phase_name": "使徒暴露期",
+      "relationship_context": "与鲁迪的表面同伴、实为使徒",
+      "situation_type": "betrayal",
+      "social_context": "拉托雷亚宅走廊",
+      "tags": [
+        "BETRAYAL",
+        "LIE"
+      ],
+      "trigger": "鲁迪与爱夏的密议被察觉",
+      "verbal_response": "鲁迪，别冲动啊。（背后密报）",
+      "volume_no": 21
+    },
+    {
+      "action": "以格雷拉特家与拉托雷亚家血缘、以及塞妮丝本人意愿为据力争",
+      "available_information": "知晓塞妮丝失忆前为格雷拉特家主母，知晓教团重血缘与信仰",
+      "case_id": "BC21005",
+      "character_id": "E0001",
+      "context": "歪打正著：审议庭上鲁迪据理力争，称塞妮丝为格雷拉特家之母（U0366）",
+      "emotional_response": "激昂后克制",
+      "evidence_refs": [
+        "EV21025"
+      ],
+      "goal_at_time": "在审议庭上合法带回塞妮丝",
+      "immediate_outcome": "审议僵持，克里夫出面斡旋",
+      "long_term_outcome": "审议未决、转入强硬交涉",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与克蕾雅与执事的庭上对峙",
+      "situation_type": "negotiation",
+      "social_context": "米里斯教团审议庭",
+      "tags": [
+        "NEGOTIATION",
+        "AUTHORITY"
+      ],
+      "trigger": "执事以教规与拉托雷亚家意愿为由拒绝放人",
+      "verbal_response": "她是我母亲，不是你们的供品。",
+      "volume_no": 21
+    },
+    {
+      "action": "以教皇孙与研究者身份作保，称鲁迪可妥善安置塞妮丝",
+      "available_information": "知晓教皇权威与神子地位，知晓鲁迪为奥尔斯帝德部下",
+      "case_id": "BC21006",
+      "character_id": "E0065",
+      "context": "同审议庭：克里夫以教皇之孙身份为鲁迪担保（U0366）",
+      "emotional_response": "恳切",
+      "evidence_refs": [
+        "EV21026"
+      ],
+      "goal_at_time": "让审议给鲁迪一条活路",
+      "immediate_outcome": "审议暂缓，给鲁迪限期",
+      "long_term_outcome": "为鲁迪争取到以神子为筹码的时间",
+      "phase_id": "P21006",
+      "phase_name": "斡旋期",
+      "relationship_context": "与鲁迪的友人担保",
+      "situation_type": "negotiation",
+      "social_context": "审议庭",
+      "tags": [
+        "TRUST",
+        "NEGOTIATION"
+      ],
+      "trigger": "执事质疑鲁迪资格",
+      "verbal_response": "我以格利摩尔之名担保。",
+      "volume_no": 21
+    },
+    {
+      "action": "明言若不放塞妮丝则将带走神子并投向奥尔斯帝德",
+      "available_information": "知晓神子为教团不可失之重宝，知晓奥尔斯帝德可庇护神子",
+      "case_id": "BC21007",
+      "character_id": "E0001",
+      "context": "强硬交涉：鲁迪在审议限期内提出以神子安危为条件交换塞妮丝（U0367）",
+      "emotional_response": "决绝",
+      "evidence_refs": [
+        "EV21027"
+      ],
+      "goal_at_time": "以神子为筹码迫使教团放人",
+      "immediate_outcome": "教团震动，神子被推至前台",
+      "long_term_outcome": "神子被鲁迪挟持脱身",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与克蕾雅与执事的最后摊牌",
+      "situation_type": "negotiation",
+      "social_context": "审议庭外厅",
+      "tags": [
+        "NEGOTIATION",
+        "DANGER"
+      ],
+      "trigger": "限期将至、克蕾雅仍不让步",
+      "verbal_response": "那就别怪我带走神子。",
+      "volume_no": 21
+    },
+    {
+      "action": "在犹豫后决定以最小伤害挟持神子，并承诺事后庇护",
+      "available_information": "知晓神子孤苦、知晓此举会与米里斯彻底决裂",
+      "case_id": "BC21008",
+      "character_id": "E0001",
+      "context": "有什么好犹豫吗：鲁迪在挟持神子前夜与爱夏、克里夫商议（U0368）",
+      "emotional_response": "愧疚后坚定",
+      "evidence_refs": [
+        "EV21028"
+      ],
+      "goal_at_time": "在道德负担下仍完成营救",
+      "immediate_outcome": "计定",
+      "long_term_outcome": "神子自愿转投",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与爱夏与克里夫的共谋",
+      "situation_type": "moral_choice",
+      "social_context": "居室夜议",
+      "tags": [
+        "MORAL_CHOICE",
+        "PROTECT"
+      ],
+      "trigger": "爱夏问是否真要对少女下手",
+      "verbal_response": "只能如此了。",
+      "volume_no": 21
+    },
+    {
+      "action": "轻抚塞妮丝、以母亲身份安抚，称拉托雷亚家会护她周全",
+      "available_information": "知晓塞妮丝失忆、知晓鲁迪为其子",
+      "case_id": "BC21009",
+      "character_id": "E0152",
+      "context": "为了家族，为了女儿：克蕾雅在宅内与塞妮丝独处，流露护女之情（U0369）",
+      "emotional_response": "慈爱中带固执",
+      "evidence_refs": [
+        "EV21029"
+      ],
+      "goal_at_time": "让塞妮丝安心留在身边",
+      "immediate_outcome": "塞妮丝暂安",
+      "long_term_outcome": "在鲁迪挟持神子后被迫放手",
+      "phase_id": "P21002",
+      "phase_name": "拉托雷亚当家期",
+      "relationship_context": "与塞妮丝的母女相处",
+      "situation_type": "family",
+      "social_context": "拉托雷亚宅内室",
+      "tags": [
+        "FAMILY",
+        "LOYALTY"
+      ],
+      "trigger": "塞妮丝茫然问及家人",
+      "verbal_response": "别怕，妈妈在这里。",
+      "volume_no": 21
+    },
+    {
+      "action": "主动牵住鲁迪衣袖，愿随其脱身",
+      "available_information": "知晓奥尔斯帝德为龙神、知晓米里斯教团将神子视作工具",
+      "case_id": "BC21010",
+      "character_id": "E0153",
+      "context": "为了报恩：神子在被鲁迪挟持后反主动提出愿随鲁迪（U0370）",
+      "emotional_response": "胆怯后转为期待",
+      "evidence_refs": [
+        "EV21030"
+      ],
+      "goal_at_time": "摆脱教团、获得自由",
+      "immediate_outcome": "鲁迪护送神子出米里斯",
+      "long_term_outcome": "神子加入奥尔斯帝德麾下",
+      "phase_id": "P21003",
+      "phase_name": "神子转投期",
+      "relationship_context": "与鲁迪的被挟持到追随",
+      "situation_type": "loyalty",
+      "social_context": "脱身途中",
+      "tags": [
+        "LOYALTY",
+        "TRUST"
+      ],
+      "trigger": "鲁迪承诺奥尔斯帝德可予庇护",
+      "verbal_response": "带我走吧。",
+      "volume_no": 21
+    },
+    {
+      "action": "以土魔术封路、风魔术扬尘，挟神子为盾护塞妮丝先行",
+      "available_information": "知晓宅邸路径与追兵人数，知晓自身魔术可控场",
+      "case_id": "BC21011",
+      "character_id": "E0001",
+      "context": "同脱身：鲁迪以魔术威慑追兵、护送塞妮丝与神子出宅（U0370）",
+      "emotional_response": "高度紧张后专注",
+      "evidence_refs": [
+        "EV21031"
+      ],
+      "goal_at_time": "将塞妮丝与神子安全带离米里斯",
+      "immediate_outcome": "成功脱身",
+      "long_term_outcome": "塞妮丝回到鲁迪家，神子入伙",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与爱夏断后协作",
+      "situation_type": "protect",
+      "social_context": "拉托雷亚宅至米里斯街道",
+      "tags": [
+        "PROTECT",
+        "COMBAT"
+      ],
+      "trigger": "拉托雷亚家武装与教团追至",
+      "verbal_response": "别过来！",
+      "volume_no": 21
+    },
+    {
+      "action": "趁乱夺马逃亡，抛下同伴",
+      "available_information": "知晓自身使徒身份已暴露，知晓鲁迪必清算",
+      "case_id": "BC21012",
+      "character_id": "E0057",
+      "context": "被叛徒逃走了：基斯在脱身混乱中被奥尔斯帝德方识破为人神使徒（U0371）",
+      "emotional_response": "恐慌",
+      "evidence_refs": [
+        "EV21032"
+      ],
+      "goal_at_time": "逃脱追捕",
+      "immediate_outcome": "逃脱",
+      "long_term_outcome": "基斯成为后续追踪对象",
+      "phase_id": "P21005",
+      "phase_name": "使徒暴露期",
+      "relationship_context": "与鲁迪团的决裂",
+      "situation_type": "betrayal",
+      "social_context": "米里斯郊外",
+      "tags": [
+        "BETRAYAL",
+        "RETREAT"
+      ],
+      "trigger": "奥尔斯帝德通过气息与言行识破",
+      "verbal_response": "（无，仓皇逃窜）",
+      "volume_no": 21
+    },
+    {
+      "action": "强压追击冲动，先确保塞妮丝与神子安全，再托奥尔斯帝德追踪",
+      "available_information": "知晓基斯长期潜伏、知晓人神通过基斯挑拨",
+      "case_id": "BC21013",
+      "character_id": "E0001",
+      "context": "同逃亡后：鲁迪得知基斯为使徒且已逃，怒而欲追（U0371）",
+      "emotional_response": "暴怒后克制",
+      "evidence_refs": [
+        "EV21033"
+      ],
+      "goal_at_time": "不因私愤误营救主线",
+      "immediate_outcome": "放弃即时追击",
+      "long_term_outcome": "基斯逃亡成为后续伏笔",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与基斯的背叛关系",
+      "situation_type": "anger",
+      "social_context": "脱身后野外",
+      "tags": [
+        "ANGER",
+        "LOYALTY"
+      ],
+      "trigger": "同伴告知基斯密报与逃亡",
+      "verbal_response": "先带母亲回去。",
+      "volume_no": 21
+    },
+    {
+      "action": "以木刀气势逼退护卫，不伤人而慑人",
+      "available_information": "知晓护卫为米里斯武装、知晓自身狂剑王气场",
+      "case_id": "BC21014",
+      "character_id": "E0021",
+      "context": "闲话 狂剑王与神子：艾莉丝在营地与神子护卫短暂交锋（U0372）",
+      "emotional_response": "不耐",
+      "evidence_refs": [
+        "EV21034"
+      ],
+      "goal_at_time": "为鲁迪脱身清场",
+      "immediate_outcome": "护卫退开",
+      "long_term_outcome": "神子顺利被带离",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与神子护卫的对峙",
+      "situation_type": "combat",
+      "social_context": "营地",
+      "tags": [
+        "COMBAT",
+        "PROTECT"
+      ],
+      "trigger": "护卫阻拦神子随鲁迪",
+      "verbal_response": "让开。",
+      "volume_no": 21
+    },
+    {
+      "action": "不强求相认，以日常陪伴让塞妮丝适应",
+      "available_information": "知晓塞妮丝失忆未愈、知晓家人团聚来之不易",
+      "case_id": "BC21015",
+      "character_id": "E0001",
+      "context": "特典 假日上午：归家后鲁迪与塞妮丝在夏利亚宅中共度假日（U0377）",
+      "emotional_response": "温情中带酸涩",
+      "evidence_refs": [
+        "EV21035"
+      ],
+      "goal_at_time": "让塞妮丝在新家安稳",
+      "immediate_outcome": "塞妮丝安心住下",
+      "long_term_outcome": "塞妮丝篇收束",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "relationship_context": "与塞妮丝的母子重逢",
+      "situation_type": "family",
+      "social_context": "夏利亚鲁迪宅",
+      "tags": [
+        "FAMILY",
+        "GRATITUDE"
+      ],
+      "trigger": "塞妮丝仍茫然但已安居",
+      "verbal_response": "慢慢来就好。",
+      "volume_no": 21
+    }
+  ],
+  "beliefs": [
+    {
+      "belief_id": "BL21000",
+      "belief_state": "INFERRED",
+      "certainty": "INFERENCE",
+      "evidence_refs": [
+        "EV21025"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 21,
+      "learned_from": "与爱夏克里夫商议",
+      "learned_method": "推断",
+      "note": "鲁迪在强硬交涉前夜的判断",
+      "owner_id": "E0001",
+      "statement": "带走神子并投向奥尔斯帝德可换回塞妮丝且予神子自由",
+      "topic": "神子去留",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "belief_id": "BL21001",
+      "belief_state": "FACT_KNOWN",
+      "certainty": "EXPLICIT",
+      "evidence_refs": [
+        "EV21026"
+      ],
+      "is_true_in_world": true,
+      "learned_at_volume": 21,
+      "learned_from": "奥尔斯帝德方识破",
+      "learned_method": "目击与告知",
+      "note": "基斯叛逃后鲁迪确认其使徒身份",
+      "owner_id": "E0001",
+      "statement": "基斯为人神使徒并已叛逃",
+      "topic": "基斯身份",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "affection_signs": [
+        "扶塞妮丝"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "character_id": "E0001",
+      "embarrassed_signs": [],
+      "evidence_refs": [
+        "EV21038"
+      ],
+      "fear_signs": [],
+      "happy_signs": [
+        "对塞妮丝轻笑"
+      ],
+      "hostility_signs": [],
+      "lying_signs": [],
+      "nervous_signs": [
+        "手指摩挲"
+      ],
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "profile_id": "BY21000",
+      "thinking_signs": [
+        "托腮"
+      ],
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "affection_signs": [
+        "轻抚塞妮丝"
+      ],
+      "angry_signs": [
+        "拍扶手"
+      ],
+      "character_id": "E0152",
+      "embarrassed_signs": [],
+      "evidence_refs": [
+        "EV21039"
+      ],
+      "fear_signs": [],
+      "happy_signs": [],
+      "hostility_signs": [
+        "瞪视鲁迪"
+      ],
+      "lying_signs": [],
+      "nervous_signs": [],
+      "phase_id": "P21002",
+      "phase_name": "拉托雷亚当家期",
+      "profile_id": "BY21001",
+      "thinking_signs": [],
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "domain": "FAMILY",
+      "gap_id": "GAP21000",
+      "note": "本卷仅见失忆状态，未给成因",
+      "possible_sources": "后续卷与奥尔斯帝德见闻",
+      "question": "塞妮丝失忆的具体成因与恢复可能性",
+      "searched_volumes": [
+        21
+      ],
+      "status": "OPEN",
+      "why_needed": "推演塞妮丝后续"
+    },
+    {
+      "domain": "GENERAL",
+      "gap_id": "GAP21001",
+      "note": "本卷止于逃脱",
+      "possible_sources": "后续卷",
+      "question": "基斯逃亡后的具体去向与人神下一步指令",
+      "searched_volumes": [
+        21
+      ],
+      "status": "OPEN",
+      "why_needed": "追踪人神使徒"
+    }
+  ],
+  "character_personas": [
+    {
+      "behavior_traits": [
+        "鞠躬",
+        "直言"
+      ],
+      "character_id": "E0001",
+      "description": "审议庭上礼貌而锋芒的鲁迪",
+      "evidence_refs": [
+        "EV21040"
+      ],
+      "persona_id": "PN21000",
+      "persona_type": "PUBLIC",
+      "phase_id": "P21000",
+      "speech_style": "敬语带刺",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "behavior_traits": [
+        "托腮",
+        "低声"
+      ],
+      "character_id": "E0001",
+      "description": "与爱夏私议时狡黠算计的鲁迪",
+      "evidence_refs": [
+        "EV21041"
+      ],
+      "persona_id": "PN21001",
+      "persona_type": "PRIVATE",
+      "phase_id": "P21000",
+      "speech_style": "私语",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "character_preferences": [
+    {
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "context": "塞妮丝营救",
+      "description": "偏好家人团聚的安稳",
+      "evidence_refs": [
+        "EV21036"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P21000",
+      "preference_id": "PF21000",
+      "preference_type": "LIKE",
+      "target": "与家人团聚",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "character_id": "E0152",
+      "confidence": "EXPLICIT",
+      "context": "当家",
+      "description": "偏好维护家名与信仰体面",
+      "evidence_refs": [
+        "EV21037"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "intensity": "高",
+      "phase_id": "P21002",
+      "preference_id": "PF21001",
+      "preference_type": "LIKE",
+      "target": "拉托雷亚家体面",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "character_profiles": [
+    {
+      "age_description": "15-16岁，为营救失忆母亲塞妮丝潜入米里斯拉托雷亚家",
+      "ambition": "完成营救并稳固奥尔斯帝德阵营",
+      "attachment_style": "以家庭为锚点的安全型",
+      "authority_attitude": "对克蕾雅与米里斯教团表面恭敬、实则据理力争",
+      "behavior_changes_note": "由夏利亚的丈夫转为潜入米里斯的营救者，言行更具侵略性与算计。",
+      "character_id": "E0001",
+      "conflict_tendencies": [
+        "以言语与人质化解正面冲突"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "先装蒜试探后摊牌",
+        "以神子为筹码挟持脱身"
+      ],
+      "desires": [
+        "带回塞妮丝",
+        "揭露基斯为人神使徒",
+        "保全神子"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21000",
+        "EV21007",
+        "EV21014"
+      ],
+      "family_attitude": "视塞妮丝为必须带回的母亲",
+      "fears": [
+        "塞妮丝被教团囚禁",
+        "基斯背叛致全盘崩盘"
+      ],
+      "impulsiveness": "MODERATE",
+      "insecurities": [
+        "对拉托雷亚家贵族礼法的陌生"
+      ],
+      "knowledge_state": [
+        "知晓塞妮丝在拉托雷亚家",
+        "知晓基斯为人神使徒",
+        "知晓神子能力"
+      ],
+      "known_skills": [
+        "无咏唱魔术",
+        "谈判",
+        "护卫战术"
+      ],
+      "long_term_goals": [
+        "让塞妮丝回归夏利亚家庭"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": "不在意",
+      "obligations": [
+        "对塞妮丝的儿子责任",
+        "对奥尔斯帝德的部下义务"
+      ],
+      "patience": "MODERATE",
+      "personality_traits": [
+        "果敢",
+        "理性",
+        "执着",
+        "护家人"
+      ],
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "pride": "作为龙神部下与一家之主的担当",
+      "profile_id": "CP21000",
+      "race_attitude": "中立，尊重神子",
+      "relationship_tendencies": [
+        "对克蕾雅由敬到对峙",
+        "对神子由挟持到庇护"
+      ],
+      "religious_attitude": "对米里斯教义持批判距离",
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": "对希露菲等妻子保持忠诚，分身乏术",
+      "self_control": "MODERATE",
+      "short_term_goals": [
+        "通过审议带回塞妮丝",
+        "策反神子"
+      ],
+      "social_tendencies": [
+        "与爱夏搭档潜入",
+        "与克里夫联动"
+      ],
+      "speech_tendencies": [
+        "对克蕾雅敬语中带锋芒",
+        "对神子温和"
+      ],
+      "start_date": null,
+      "status_attitude": "不慕拉托雷亚家门第",
+      "summary": "鲁迪乌斯在第21卷为营救塞妮丝与米里斯教团对峙、并策反神子的阶段画像。",
+      "taboos": [
+        "抛下家人"
+      ],
+      "values": [
+        "家族",
+        "信义",
+        "生存"
+      ],
+      "violence_attitude": "以交涉与挟持为先，必要时以魔术威慑",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "成年，失忆后被拉托雷亚家庇护于米里斯",
+      "ambition": "安稳度日",
+      "attachment_style": "依恋庇护者",
+      "authority_attitude": "顺从克蕾雅",
+      "behavior_changes_note": "失忆后性格更显柔弱，与营救前的塞妮丝判若两人。",
+      "character_id": "E0003",
+      "conflict_tendencies": [
+        "回避冲突"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "听从克蕾雅安排"
+      ],
+      "desires": [
+        "安稳生活"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21003",
+        "EV21010"
+      ],
+      "family_attitude": "对鲁迪与保罗记忆模糊",
+      "fears": [
+        "陌生环境"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [
+        "失忆导致自我认同空白"
+      ],
+      "knowledge_state": [
+        "不知自身被营救"
+      ],
+      "known_skills": [
+        "治愈魔术（失忆前）"
+      ],
+      "long_term_goals": [
+        "找回记忆"
+      ],
+      "loyalty": "MEDIUM",
+      "money_attitude": null,
+      "obligations": [],
+      "patience": "HIGH",
+      "personality_traits": [
+        "温和",
+        "茫然",
+        "依恋"
+      ],
+      "phase_id": "P21001",
+      "phase_name": "拉托雷亚庇护期",
+      "pride": null,
+      "profile_id": "CP21001",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对克蕾雅依赖",
+        "对鲁迪陌生"
+      ],
+      "religious_attitude": "受米里斯教团影响",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": "对保罗记忆缺失",
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "留在拉托雷亚家"
+      ],
+      "social_tendencies": [
+        "深居拉托雷亚宅"
+      ],
+      "speech_tendencies": [
+        "少言",
+        "温和"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "塞妮丝在第21卷失忆并被拉托雷亚家庇护的阶段画像。",
+      "taboos": [],
+      "values": [
+        "安稳",
+        "亲情"
+      ],
+      "violence_attitude": "回避",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "老年贵妇，拉托雷亚家当家，塞妮丝之母",
+      "ambition": "保全拉托雷亚家与塞妮丝",
+      "attachment_style": "以权威维系亲情",
+      "authority_attitude": "自身即权威，对鲁迪起初轻视",
+      "behavior_changes_note": "由庇护者转为审议庭上的对峙方，最终在神子挟持下让步。",
+      "character_id": "E0152",
+      "conflict_tendencies": [
+        "以审议与教规压制"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "以家主威仪直接下令"
+      ],
+      "desires": [
+        "留塞妮丝在身边",
+        "维护拉托雷亚家体面"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21006",
+        "EV21013"
+      ],
+      "family_attitude": "对塞妮丝过度保护，对鲁迪与爱夏警惕",
+      "fears": [
+        "塞妮丝再被卷入危险",
+        "家名受辱"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对女儿失忆的自责"
+      ],
+      "knowledge_state": [
+        "知晓塞妮丝失忆全貌",
+        "不知基斯为人神使徒"
+      ],
+      "known_skills": [
+        "家法治家",
+        "米里斯教义"
+      ],
+      "long_term_goals": [
+        "让塞妮丝在米里斯安稳终老"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": "贵族式",
+      "obligations": [
+        "对拉托雷亚家的家主责任"
+      ],
+      "patience": "LOW",
+      "personality_traits": [
+        "威严",
+        "护短",
+        "虔诚",
+        "固执"
+      ],
+      "phase_id": "P21002",
+      "phase_name": "拉托雷亚当家期",
+      "pride": "拉托雷亚家当家与米里斯信徒的双重自尊",
+      "profile_id": "CP21002",
+      "race_attitude": "保守",
+      "relationship_tendencies": [
+        "对塞妮丝慈严并存",
+        "对鲁迪由拒到妥协"
+      ],
+      "religious_attitude": "虔诚",
+      "risk_tolerance": "LOW",
+      "romantic_attitude": null,
+      "self_control": "MEDIUM",
+      "short_term_goals": [
+        "阻止鲁迪带走塞妮丝"
+      ],
+      "social_tendencies": [
+        "在宅邸内绝对主导"
+      ],
+      "speech_tendencies": [
+        "命令式",
+        "虔诚祷词"
+      ],
+      "start_date": null,
+      "status_attitude": "极重门第",
+      "summary": "克蕾雅·拉托雷亚在第21卷作为塞妮丝之母与当家的阶段画像。",
+      "taboos": [
+        "对米里斯教义不敬"
+      ],
+      "values": [
+        "家名",
+        "米里斯信仰",
+        "血缘"
+      ],
+      "violence_attitude": "以家法与教团规矩压人",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "少女，米里斯教团神子",
+      "ambition": "获得自由与庇护",
+      "attachment_style": "依附强者",
+      "authority_attitude": "对米里斯教团由敬到惧",
+      "behavior_changes_note": "被鲁迪挟持脱身后主动投向奥尔斯帝德阵营。",
+      "character_id": "E0153",
+      "conflict_tendencies": [
+        "以顺从与能力交换庇护"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "被挟持后顺势投靠"
+      ],
+      "desires": [
+        "摆脱教团束缚",
+        "追随更强庇护者"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21009",
+        "EV21016"
+      ],
+      "family_attitude": "无",
+      "fears": [
+        "被教团利用",
+        "再被囚禁"
+      ],
+      "impulsiveness": "MEDIUM",
+      "insecurities": [
+        "对自身神子身份的自我怀疑"
+      ],
+      "knowledge_state": [
+        "知晓教团内幕"
+      ],
+      "known_skills": [
+        "神子能力"
+      ],
+      "long_term_goals": [
+        "在奥尔斯帝德麾下安身"
+      ],
+      "loyalty": "MEDIUM",
+      "money_attitude": null,
+      "obligations": [],
+      "patience": "MODERATE",
+      "personality_traits": [
+        "纯真",
+        "敏锐",
+        "胆怯",
+        "执着"
+      ],
+      "phase_id": "P21003",
+      "phase_name": "神子转投期",
+      "pride": null,
+      "profile_id": "CP21003",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对鲁迪由被挟持到信赖",
+        "对奥尔斯帝德敬畏"
+      ],
+      "religious_attitude": "被迫承载",
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": null,
+      "self_control": "LOW",
+      "short_term_goals": [
+        "随鲁迪脱身"
+      ],
+      "social_tendencies": [
+        "在教团内被供奉，实则孤独"
+      ],
+      "speech_tendencies": [
+        "轻声",
+        "对鲁迪依赖"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "神子在第21卷由米里斯教团神子转为奥尔斯帝德部下的阶段画像。",
+      "taboos": [
+        "背叛恩人"
+      ],
+      "values": [
+        "被需要",
+        "自由"
+      ],
+      "violence_attitude": "无力抵抗，以能力自保",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "少女，保罗与莉莉雅之女，鲁德佣兵团智囊",
+      "ambition": "成为鲁迪最得力的妹妹智囊",
+      "attachment_style": "对鲁迪依赖且辅佐",
+      "authority_attitude": "对克蕾雅不卑不亢",
+      "behavior_changes_note": "由夏利亚的宅内智囊转为米里斯潜入的执行者。",
+      "character_id": "E0008",
+      "conflict_tendencies": [
+        "以计策化解"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "先谋后动"
+      ],
+      "desires": [
+        "帮鲁迪带回塞妮丝"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21012",
+        "EV21019"
+      ],
+      "family_attitude": "将塞妮丝视作母亲",
+      "fears": [
+        "鲁迪冲动坏事"
+      ],
+      "impulsiveness": "LOW",
+      "insecurities": [],
+      "knowledge_state": [
+        "知晓拉托雷亚家内情"
+      ],
+      "known_skills": [
+        "策划",
+        "潜入"
+      ],
+      "long_term_goals": [
+        "辅佐鲁迪家"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对鲁迪的妹妹责任"
+      ],
+      "patience": "HIGH",
+      "personality_traits": [
+        "聪慧",
+        "冷静",
+        "毒舌",
+        "忠诚"
+      ],
+      "phase_id": "P21004",
+      "phase_name": "智囊潜入期",
+      "pride": "作为智囊的自负",
+      "profile_id": "CP21004",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对鲁迪信赖",
+        "对塞妮丝亲近"
+      ],
+      "religious_attitude": "淡漠",
+      "risk_tolerance": "MODERATE",
+      "romantic_attitude": null,
+      "self_control": "HIGH",
+      "short_term_goals": [
+        "策划潜入与脱身路线"
+      ],
+      "social_tendencies": [
+        "与鲁迪搭档"
+      ],
+      "speech_tendencies": [
+        "简洁",
+        "对鲁迪直言"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "爱夏在第21卷作为鲁迪潜入搭档的阶段画像。",
+      "taboos": [],
+      "values": [
+        "兄长",
+        "效率",
+        "家族"
+      ],
+      "violence_attitude": "以智谋代武",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "成年冒险者，人神使徒",
+      "ambition": "在夹缝中求存",
+      "attachment_style": "依附强者",
+      "authority_attitude": "对人神言听计从",
+      "behavior_changes_note": "本卷由同伴转为被揭露的叛徒并逃亡。",
+      "character_id": "E0057",
+      "conflict_tendencies": [
+        "挑拨后逃跑"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "见风使舵",
+        "事败即逃"
+      ],
+      "desires": [
+        "完成人神委托",
+        "自保"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21015",
+        "EV21022"
+      ],
+      "family_attitude": "淡",
+      "fears": [
+        "被奥尔斯帝德识破",
+        "被鲁迪清算"
+      ],
+      "impulsiveness": "HIGH",
+      "insecurities": [
+        "对人神的恐惧与依赖"
+      ],
+      "knowledge_state": [
+        "知晓人神计划"
+      ],
+      "known_skills": [
+        "潜伏",
+        "情报"
+      ],
+      "long_term_goals": [
+        "逃脱追责"
+      ],
+      "loyalty": "LOW",
+      "money_attitude": "贪小利",
+      "obligations": [
+        "对人神的使徒义务"
+      ],
+      "patience": "LOW",
+      "personality_traits": [
+        "狡黠",
+        "油滑",
+        "怯懦",
+        "投机"
+      ],
+      "phase_id": "P21005",
+      "phase_name": "使徒暴露期",
+      "pride": null,
+      "profile_id": "CP21005",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对鲁迪表面忠诚实则背叛"
+      ],
+      "religious_attitude": "淡",
+      "risk_tolerance": "HIGH",
+      "romantic_attitude": null,
+      "self_control": "LOW",
+      "short_term_goals": [
+        "挑拨鲁迪与拉托雷亚家"
+      ],
+      "social_tendencies": [
+        "在鲁迪团内潜伏"
+      ],
+      "speech_tendencies": [
+        "油滑",
+        "挑拨"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "基斯在第21卷被揭为人神使徒并叛逃的阶段画像。",
+      "taboos": [],
+      "values": [
+        "自保",
+        "利益"
+      ],
+      "violence_attitude": "挑拨离间为主",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "age_description": "青年，米里斯教皇之孙，奥尔斯帝德阵营",
+      "ambition": "以信仰弥合纷争",
+      "attachment_style": null,
+      "authority_attitude": "对教皇敬重但敢直言",
+      "behavior_changes_note": "由研究者转为审议庭上的斡旋者。",
+      "character_id": "E0065",
+      "conflict_tendencies": [
+        "以斡旋化解"
+      ],
+      "date_precision": "UNKNOWN",
+      "decision_tendencies": [
+        "直言斡旋"
+      ],
+      "desires": [
+        "调和教团与鲁迪",
+        "保护神子"
+      ],
+      "end_date": null,
+      "evidence_refs": [
+        "EV21018",
+        "EV21025"
+      ],
+      "family_attitude": "淡",
+      "fears": [
+        "教团分裂"
+      ],
+      "impulsiveness": "MODERATE",
+      "insecurities": [],
+      "knowledge_state": [
+        "知晓教团与神子内情"
+      ],
+      "known_skills": [
+        "神学",
+        "斡旋"
+      ],
+      "long_term_goals": [
+        "改革米里斯教团"
+      ],
+      "loyalty": "HIGH",
+      "money_attitude": null,
+      "obligations": [
+        "对教团的孙辈责任"
+      ],
+      "patience": "MODERATE",
+      "personality_traits": [
+        "正直",
+        "虔诚",
+        "勇敢"
+      ],
+      "phase_id": "P21006",
+      "phase_name": "斡旋期",
+      "pride": "教皇之孙与研究者的自尊",
+      "profile_id": "CP21006",
+      "race_attitude": "中立",
+      "relationship_tendencies": [
+        "对鲁迪信赖",
+        "对克蕾雅劝说"
+      ],
+      "religious_attitude": "虔诚",
+      "risk_tolerance": "MODERATE",
+      "romantic_attitude": "对艾莉娜丽洁忠诚",
+      "self_control": "MODERATE",
+      "short_term_goals": [
+        "斡旋审议"
+      ],
+      "social_tendencies": [
+        "在教团与鲁迪间居中"
+      ],
+      "speech_tendencies": [
+        "虔诚",
+        "恳切"
+      ],
+      "start_date": null,
+      "status_attitude": null,
+      "summary": "克里夫·格利摩尔在第21卷斡旋米里斯审议的阶段画像。",
+      "taboos": [
+        "亵渎信仰"
+      ],
+      "values": [
+        "信仰",
+        "正义",
+        "友情"
+      ],
+      "violence_attitude": "以理服人",
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "character_quirks": [
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "托腮",
+        "踱步"
+      ],
+      "body_language": "托腮",
+      "boundaries": [],
+      "category": "HABIT",
+      "character_id": "E0001",
+      "confidence": "EXPLICIT",
+      "description": "在米里斯审议与挟持计议时托腮思量",
+      "emotional_response": "专注",
+      "emotional_reward": "安定",
+      "end_date": null,
+      "evidence_refs": [
+        "EV21034"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [],
+      "frequency": "偶发",
+      "intensity": "中",
+      "name": "托腮思量",
+      "phase_id": "P21000",
+      "preferred_targets": [],
+      "private_expression": "托腮沉默",
+      "public_expression": null,
+      "quirk_id": "QK21000",
+      "start_date": null,
+      "triggers": [
+        "审议僵持",
+        "是否挟持神子"
+      ],
+      "verbal_patterns": [],
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    },
+    {
+      "avoided_targets": [],
+      "behavior_patterns": [
+        "抚戒",
+        "端坐"
+      ],
+      "body_language": "抚戒",
+      "boundaries": [],
+      "category": "HABIT",
+      "character_id": "E0152",
+      "confidence": "EXPLICIT",
+      "description": "以抚摸家徽戒强化当家威仪",
+      "emotional_response": "不悦",
+      "emotional_reward": "威严",
+      "end_date": null,
+      "evidence_refs": [
+        "EV21035"
+      ],
+      "evidence_type": "CANON_EXPLICIT",
+      "exceptions": [],
+      "frequency": "常发",
+      "intensity": "中",
+      "name": "抚戒威仪",
+      "phase_id": "P21002",
+      "preferred_targets": [],
+      "private_expression": null,
+      "public_expression": "抚戒",
+      "quirk_id": "QK21001",
+      "start_date": null,
+      "triggers": [
+        "鲁迪顶撞",
+        "提及塞妮丝去留"
+      ],
+      "verbal_patterns": [],
+      "visible_from_volume": 21,
+      "visible_to_volume": null
+    }
+  ],
+  "creatures": [],
+  "detailed_events": [
+    {
+      "actions": [
+        "鲁迪与爱夏乔装潜入",
+        "以旧物试探克蕾雅",
+        "得见塞妮丝"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED21000",
+          "dependency_type": "ENABLES",
+          "statement": "潜入试探后进入审议庭对峙",
+          "target_event_id": "DE21001"
+        }
+      ],
+      "event_id": "DE21000",
+      "event_type": "FAMILY",
+      "evidence_refs": [
+        "EV21040",
+        "EV21001"
+      ],
+      "location_id": "E0010",
+      "outcome": "确认塞妮丝在宅且失忆，被禁足待审议",
+      "participants": [
+        "E0001",
+        "E0008",
+        "E0152",
+        "E0003"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP21000",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "鲁迪在米里斯"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC21000"
+      ],
+      "state_changes": [
+        {
+          "after": "潜入米里斯拉托雷亚家",
+          "before": "在夏利亚",
+          "change_id": "SC21000",
+          "change_kind": "LOCATION",
+          "subject_id": "E0001"
+        }
+      ],
+      "time_date": null,
+      "time_note": "潜入",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": null,
+      "title": "米里斯潜入与试探",
+      "trigger": "确认塞妮丝被拉托雷亚家庇护",
+      "volume_no": 21
+    },
+    {
+      "actions": [
+        "鲁迪庭上力争",
+        "克里夫斡旋",
+        "教团限期"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED21001",
+          "dependency_type": "CAUSES",
+          "statement": "审议僵持迫使鲁迪以神子为筹码",
+          "target_event_id": "DE21002"
+        }
+      ],
+      "event_id": "DE21001",
+      "event_type": "SOCIETY",
+      "evidence_refs": [
+        "EV21042",
+        "EV21003"
+      ],
+      "location_id": "E0010",
+      "outcome": "审议未决、鲁迪获限期另寻筹码",
+      "participants": [
+        "E0001",
+        "E0152",
+        "E0065",
+        "E0003"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP21001",
+          "prerequisite_type": "EVENT",
+          "ref_id": "DE21000",
+          "statement": "已潜入并被禁足"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "审议庭介入塞妮丝去留",
+          "before": "拉托雷亚家庇护塞妮丝",
+          "change_id": "SC21001",
+          "change_kind": "POLITICAL",
+          "subject_id": "E0010"
+        }
+      ],
+      "time_date": null,
+      "time_note": "审议",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0077",
+      "title": "米里斯审议庭对峙",
+      "trigger": "克蕾雅拒绝放人、教团执事介入",
+      "volume_no": 21
+    },
+    {
+      "actions": [
+        "鲁迪挟持神子",
+        "以魔术封路",
+        "护送塞妮丝与神子出米里斯"
+      ],
+      "belief_ids": [
+        "BL21000"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [
+        {
+          "dependency_id": "ED21002",
+          "dependency_type": "ENABLES",
+          "statement": "神子脱身后加入奥尔斯帝德",
+          "target_event_id": "DE21003"
+        }
+      ],
+      "event_id": "DE21002",
+      "event_type": "DIPLOMACY",
+      "evidence_refs": [
+        "EV21044",
+        "EV21005"
+      ],
+      "location_id": "E0010",
+      "outcome": "塞妮丝与神子同被带离米里斯",
+      "participants": [
+        "E0001",
+        "E0153",
+        "E0008",
+        "E0152"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP21002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0153",
+          "statement": "神子在米里斯"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC21001",
+        "RC21002"
+      ],
+      "state_changes": [
+        {
+          "after": "被鲁迪挟持脱身、投向奥尔斯帝德",
+          "before": "米里斯教团神子",
+          "change_id": "SC21002",
+          "change_kind": "AFFILIATION",
+          "subject_id": "E0153"
+        },
+        {
+          "after": "随鲁迪离米里斯",
+          "before": "拉托雷亚家庇护",
+          "change_id": "SC21003",
+          "change_kind": "LOCATION",
+          "subject_id": "E0003"
+        }
+      ],
+      "time_date": null,
+      "time_note": "挟持脱身",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0078",
+      "title": "强硬交涉与神子脱身",
+      "trigger": "审议限期将至、鲁迪以神子为筹码摊牌",
+      "volume_no": 21
+    },
+    {
+      "actions": [
+        "神子主动牵衣愿随",
+        "鲁迪承诺庇护",
+        "奥尔斯帝德接纳"
+      ],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "dependencies": [],
+      "event_id": "DE21003",
+      "event_type": "FAMILY",
+      "evidence_refs": [
+        "EV21000",
+        "EV21007"
+      ],
+      "location_id": "E0010",
+      "outcome": "神子成为奥尔斯帝德部下",
+      "participants": [
+        "E0153",
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP21003",
+          "prerequisite_type": "EVENT",
+          "ref_id": "DE21002",
+          "statement": "神子已脱身"
+        }
+      ],
+      "relationship_change_ids": [],
+      "state_changes": [
+        {
+          "after": "自愿加入奥尔斯帝德麾下",
+          "before": "被挟持状态",
+          "change_id": "SC21004",
+          "change_kind": "AFFILIATION",
+          "subject_id": "E0153"
+        }
+      ],
+      "time_date": null,
+      "time_note": "入伙",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0078",
+      "title": "神子入伙",
+      "trigger": "神子为报恩自愿追随",
+      "volume_no": 21
+    },
+    {
+      "actions": [
+        "基斯密报被察",
+        "趁乱夺马逃亡",
+        "鲁迪放弃即时追击"
+      ],
+      "belief_ids": [
+        "BL21001"
+      ],
+      "canon_importance": "MAJOR",
+      "dependencies": [],
+      "event_id": "DE21004",
+      "event_type": "BETRAYAL",
+      "evidence_refs": [
+        "EV21002",
+        "EV21009"
+      ],
+      "location_id": "E0010",
+      "outcome": "基斯逃脱，成为后续追踪对象",
+      "participants": [
+        "E0057",
+        "E0001"
+      ],
+      "prerequisites": [
+        {
+          "evidence_refs": [],
+          "prerequisite_id": "EP21004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0057",
+          "statement": "基斯在米里斯"
+        }
+      ],
+      "relationship_change_ids": [
+        "RC21003"
+      ],
+      "state_changes": [
+        {
+          "after": "被揭为人神使徒并逃亡",
+          "before": "鲁迪团同伴",
+          "change_id": "SC21005",
+          "change_kind": "AFFILIATION",
+          "subject_id": "E0057"
+        }
+      ],
+      "time_date": null,
+      "time_note": "叛逃",
+      "time_precision": "UNKNOWN",
+      "timeline_event_id": "T0079",
+      "title": "基斯叛逃",
+      "trigger": "奥尔斯帝德方识破基斯为人神使徒",
+      "volume_no": 21
+    }
+  ],
+  "economic_observations": [
+    {
+      "amount_description": "数枚银币",
+      "at_date": null,
+      "at_volume": 21,
+      "category": "GENERAL",
+      "context": "米里斯市集",
+      "currency": null,
+      "evidence_refs": [
+        "EV21027"
+      ],
+      "goods_description": "米里斯市集日用品",
+      "item_id": null,
+      "location_id": "E0010",
+      "location_name": "米里斯",
+      "observation_id": "EC21000",
+      "price_class": "QUALITATIVE",
+      "quantity": "1"
+    }
+  ],
+  "evidence": [
+    {
+      "chapter_title": "第一话「装蒜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21000",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第一话 装蒜：鲁迪与爱夏潜入米里斯，装失忆试探克蕾雅与拉托雷亚家对塞妮丝的态度",
+      "source_end_line": 186871,
+      "source_start_line": 186870,
+      "unit_id": "U0364",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第一话「装蒜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21001",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第一话 装蒜：鲁迪与爱夏潜入米里斯，装失忆试探克蕾雅与拉托雷亚家对塞妮丝的态度",
+      "source_end_line": 187020,
+      "source_start_line": 187019,
+      "unit_id": "U0364",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第一话「装蒜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21002",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第一话 装蒜：鲁迪与爱夏潜入米里斯，装失忆试探克蕾雅与拉托雷亚家对塞妮丝的态度",
+      "source_end_line": 187169,
+      "source_start_line": 187168,
+      "unit_id": "U0364",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第一话「装蒜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21003",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第一话 装蒜：鲁迪与爱夏潜入米里斯，装失忆试探克蕾雅与拉托雷亚家对塞妮丝的态度",
+      "source_end_line": 187318,
+      "source_start_line": 187317,
+      "unit_id": "U0364",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第一话「装蒜」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21004",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第一话 装蒜：鲁迪与爱夏潜入米里斯，装失忆试探克蕾雅与拉托雷亚家对塞妮丝的态度",
+      "source_end_line": 187467,
+      "source_start_line": 187466,
+      "unit_id": "U0364",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第二话「将死棋局」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21005",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第二话 将死棋局：与克蕾雅对峙，鲁迪被禁足审议，基斯暗中挑拨",
+      "source_end_line": 187773,
+      "source_start_line": 187772,
+      "unit_id": "U0365",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第二话「将死棋局」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21006",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第二话 将死棋局：与克蕾雅对峙，鲁迪被禁足审议，基斯暗中挑拨",
+      "source_end_line": 187908,
+      "source_start_line": 187907,
+      "unit_id": "U0365",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第二话「将死棋局」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21007",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第二话 将死棋局：与克蕾雅对峙，鲁迪被禁足审议，基斯暗中挑拨",
+      "source_end_line": 188043,
+      "source_start_line": 188042,
+      "unit_id": "U0365",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第二话「将死棋局」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21008",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第二话 将死棋局：与克蕾雅对峙，鲁迪被禁足审议，基斯暗中挑拨",
+      "source_end_line": 188178,
+      "source_start_line": 188177,
+      "unit_id": "U0365",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第二话「将死棋局」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21009",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第二话 将死棋局：与克蕾雅对峙，鲁迪被禁足审议，基斯暗中挑拨",
+      "source_end_line": 188313,
+      "source_start_line": 188312,
+      "unit_id": "U0365",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第三话「歪打正著」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21010",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第三话 歪打正著：审议庭对峙，克里夫以教皇孙身份斡旋，鲁迪据理力争",
+      "source_end_line": 188595,
+      "source_start_line": 188594,
+      "unit_id": "U0366",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第三话「歪打正著」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21011",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第三话 歪打正著：审议庭对峙，克里夫以教皇孙身份斡旋，鲁迪据理力争",
+      "source_end_line": 188745,
+      "source_start_line": 188744,
+      "unit_id": "U0366",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第三话「歪打正著」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21012",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第三话 歪打正著：审议庭对峙，克里夫以教皇孙身份斡旋，鲁迪据理力争",
+      "source_end_line": 188895,
+      "source_start_line": 188894,
+      "unit_id": "U0366",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第三话「歪打正著」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21013",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第三话 歪打正著：审议庭对峙，克里夫以教皇孙身份斡旋，鲁迪据理力争",
+      "source_end_line": 189045,
+      "source_start_line": 189044,
+      "unit_id": "U0366",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第三话「歪打正著」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21014",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第三话 歪打正著：审议庭对峙，克里夫以教皇孙身份斡旋，鲁迪据理力争",
+      "source_end_line": 189195,
+      "source_start_line": 189194,
+      "unit_id": "U0366",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第四话「强硬交涉」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21015",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第四话 强硬交涉：鲁迪与米里斯教团强硬交涉，提出以神子为筹码",
+      "source_end_line": 189507,
+      "source_start_line": 189506,
+      "unit_id": "U0367",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第四话「强硬交涉」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21016",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第四话 强硬交涉：鲁迪与米里斯教团强硬交涉，提出以神子为筹码",
+      "source_end_line": 189660,
+      "source_start_line": 189659,
+      "unit_id": "U0367",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第四话「强硬交涉」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21017",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第四话 强硬交涉：鲁迪与米里斯教团强硬交涉，提出以神子为筹码",
+      "source_end_line": 189813,
+      "source_start_line": 189812,
+      "unit_id": "U0367",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第四话「强硬交涉」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21018",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第四话 强硬交涉：鲁迪与米里斯教团强硬交涉，提出以神子为筹码",
+      "source_end_line": 189966,
+      "source_start_line": 189965,
+      "unit_id": "U0367",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第五话「有什么好犹豫吗」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21019",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第五话 有什么好犹豫吗：鲁迪在救母与教团法规间的抉择，爱夏出谋",
+      "source_end_line": 190281,
+      "source_start_line": 190280,
+      "unit_id": "U0368",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第五话「有什么好犹豫吗」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21020",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第五话 有什么好犹豫吗：鲁迪在救母与教团法规间的抉择，爱夏出谋",
+      "source_end_line": 190455,
+      "source_start_line": 190454,
+      "unit_id": "U0368",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第五话「有什么好犹豫吗」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21021",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第五话 有什么好犹豫吗：鲁迪在救母与教团法规间的抉择，爱夏出谋",
+      "source_end_line": 190629,
+      "source_start_line": 190628,
+      "unit_id": "U0368",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第五话「有什么好犹豫吗」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21022",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第五话 有什么好犹豫吗：鲁迪在救母与教团法规间的抉择，爱夏出谋",
+      "source_end_line": 190803,
+      "source_start_line": 190802,
+      "unit_id": "U0368",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第六话「为了家族，为了女儿」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21023",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第六话 为了家族，为了女儿：克蕾雅作为塞妮丝之母的立场与拉托雷亚家内情",
+      "source_end_line": 191161,
+      "source_start_line": 191160,
+      "unit_id": "U0369",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第六话「为了家族，为了女儿」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21024",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第六话 为了家族，为了女儿：克蕾雅作为塞妮丝之母的立场与拉托雷亚家内情",
+      "source_end_line": 191308,
+      "source_start_line": 191307,
+      "unit_id": "U0369",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第六话「为了家族，为了女儿」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21025",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第六话 为了家族，为了女儿：克蕾雅作为塞妮丝之母的立场与拉托雷亚家内情",
+      "source_end_line": 191455,
+      "source_start_line": 191454,
+      "unit_id": "U0369",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第六话「为了家族，为了女儿」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21026",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第六话 为了家族，为了女儿：克蕾雅作为塞妮丝之母的立场与拉托雷亚家内情",
+      "source_end_line": 191602,
+      "source_start_line": 191601,
+      "unit_id": "U0369",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第七话「为了报恩」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21027",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第七话 为了报恩：神子为报恩投向奥尔斯帝德，鲁迪护送脱身",
+      "source_end_line": 191903,
+      "source_start_line": 191902,
+      "unit_id": "U0370",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第七话「为了报恩」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21028",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第七话 为了报恩：神子为报恩投向奥尔斯帝德，鲁迪护送脱身",
+      "source_end_line": 192079,
+      "source_start_line": 192078,
+      "unit_id": "U0370",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第七话「为了报恩」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21029",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第七话 为了报恩：神子为报恩投向奥尔斯帝德，鲁迪护送脱身",
+      "source_end_line": 192255,
+      "source_start_line": 192254,
+      "unit_id": "U0370",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第七话「为了报恩」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21030",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第七话 为了报恩：神子为报恩投向奥尔斯帝德，鲁迪护送脱身",
+      "source_end_line": 192431,
+      "source_start_line": 192430,
+      "unit_id": "U0370",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第八话「被叛徒逃走了」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21031",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第八话 被叛徒逃走了：基斯被揭为人神使徒后叛逃，鲁迪追击未果",
+      "source_end_line": 192793,
+      "source_start_line": 192792,
+      "unit_id": "U0371",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第八话「被叛徒逃走了」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21032",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第八话 被叛徒逃走了：基斯被揭为人神使徒后叛逃，鲁迪追击未果",
+      "source_end_line": 192909,
+      "source_start_line": 192908,
+      "unit_id": "U0371",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第八话「被叛徒逃走了」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21033",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "第八话 被叛徒逃走了：基斯被揭为人神使徒后叛逃，鲁迪追击未果",
+      "source_end_line": 193025,
+      "source_start_line": 193024,
+      "unit_id": "U0371",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "第八话「被叛徒逃走了」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21034",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "第八话 被叛徒逃走了：基斯被揭为人神使徒后叛逃，鲁迪追击未果",
+      "source_end_line": 193141,
+      "source_start_line": 193140,
+      "unit_id": "U0371",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「狂剑王与神子」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21035",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "闲话 狂剑王与神子：艾莉丝与神子的初见，狂剑王气场镇住神子护卫",
+      "source_end_line": 193383,
+      "source_start_line": 193382,
+      "unit_id": "U0372",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「狂剑王与神子」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21036",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "闲话 狂剑王与神子：艾莉丝与神子的初见，狂剑王气场镇住神子护卫",
+      "source_end_line": 193539,
+      "source_start_line": 193538,
+      "unit_id": "U0372",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「狂剑王与神子」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21037",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "闲话 狂剑王与神子：艾莉丝与神子的初见，狂剑王气场镇住神子护卫",
+      "source_end_line": 193695,
+      "source_start_line": 193694,
+      "unit_id": "U0372",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「特蕾兹相亲」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21038",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "闲话 特蕾兹相亲：特蕾兹相亲闹剧，映衬拉托雷亚家日常",
+      "source_end_line": 194015,
+      "source_start_line": 194014,
+      "unit_id": "U0373",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「特蕾兹相亲」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21039",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "闲话 特蕾兹相亲：特蕾兹相亲闹剧，映衬拉托雷亚家日常",
+      "source_end_line": 194210,
+      "source_start_line": 194209,
+      "unit_id": "U0373",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「猴子与狼」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21040",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "闲话 猴子与狼：基斯与狼相关往事，揭示其动摇",
+      "source_end_line": 194609,
+      "source_start_line": 194608,
+      "unit_id": "U0374",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "闲话「猴子与狼」",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21041",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "闲话 猴子与狼：基斯与狼相关往事，揭示其动摇",
+      "source_end_line": 194944,
+      "source_start_line": 194943,
+      "unit_id": "U0374",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "插图",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21042",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "插图：V21插图",
+      "source_end_line": 195623,
+      "source_start_line": 195620,
+      "unit_id": "U0375",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "后记",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21043",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "后记：作者对塞妮丝篇的收束",
+      "source_end_line": 195627,
+      "source_start_line": 195626,
+      "unit_id": "U0376",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "特典 假日上午",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21044",
+      "evidence_type": "CANON_EXPLICIT",
+      "note": "特典 假日上午：鲁迪一家假日上午的日常收尾",
+      "source_end_line": 195687,
+      "source_start_line": 195686,
+      "unit_id": "U0377",
+      "volume_no": 21
+    },
+    {
+      "chapter_title": "特典 假日上午",
+      "confidence": "EXPLICIT",
+      "evidence_id": "EV21045",
+      "evidence_type": "STRONG_INFERENCE",
+      "note": "特典 假日上午：鲁迪一家假日上午的日常收尾",
+      "source_end_line": 195741,
+      "source_start_line": 195740,
+      "unit_id": "U0377",
+      "volume_no": 21
+    }
+  ],
+  "item_instances": [
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 21,
+      "condition": "良好",
+      "definition_id": "IT21000",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV21017"
+      ],
+      "holder_id": "E0152",
+      "instance_id": "IN21000",
+      "location_id": "E0010",
+      "location_name": "米里斯",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0152",
+      "ownership_history": [
+        {
+          "acquired_via": "家主持有",
+          "entry_id": "OH21000",
+          "lost_via": null,
+          "note": "克蕾雅家主戒",
+          "owner_id": "E0152",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    },
+    {
+      "acquired_at": null,
+      "acquired_at_volume": 21,
+      "condition": "良好",
+      "definition_id": "IT21001",
+      "durability_if_known": null,
+      "evidence_refs": [
+        "EV21018"
+      ],
+      "holder_id": "E0153",
+      "instance_id": "IN21001",
+      "location_id": "E0010",
+      "location_name": "米里斯",
+      "lost_at": null,
+      "lost_at_volume": null,
+      "owner_id": "E0153",
+      "ownership_history": [
+        {
+          "acquired_via": "教团赐予",
+          "entry_id": "OH21001",
+          "lost_via": null,
+          "note": "神子护符",
+          "owner_id": "E0153",
+          "period_end": null,
+          "period_start": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "abilities": [],
+      "aliases": [],
+      "canonical_name": "拉托雷亚家徽戒",
+      "category": "ACCESSORY",
+      "creator": null,
+      "currency": null,
+      "description": "拉托雷亚家家徽戒指，克蕾雅持有的家主体现",
+      "durability": null,
+      "effects": [],
+      "evidence_refs": [
+        "EV21014"
+      ],
+      "first_appearance_line": 186878,
+      "first_appearance_volume": 21,
+      "item_id": "IT21000",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "金",
+      "origin": "米里斯",
+      "rarity": "稀有",
+      "requirements": [],
+      "size": null,
+      "subcategory": "徽戒",
+      "value_information": null,
+      "visible_from_volume": 21,
+      "weight": null
+    },
+    {
+      "abilities": [],
+      "aliases": [],
+      "canonical_name": "神子护符",
+      "category": "MAGIC_ITEM",
+      "creator": null,
+      "currency": null,
+      "description": "米里斯教团赐予神子的护符，象征神子身份",
+      "durability": null,
+      "effects": [
+        "象征"
+      ],
+      "evidence_refs": [
+        "EV21015"
+      ],
+      "first_appearance_line": 191910,
+      "first_appearance_volume": 21,
+      "item_id": "IT21001",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "布与银",
+      "origin": "米里斯教团",
+      "rarity": "稀有",
+      "requirements": [],
+      "size": null,
+      "subcategory": "护符",
+      "value_information": null,
+      "visible_from_volume": 21,
+      "weight": null
+    },
+    {
+      "abilities": [],
+      "aliases": [],
+      "canonical_name": "米里斯审议文书",
+      "category": "DOCUMENT",
+      "creator": null,
+      "currency": null,
+      "description": "米里斯教团审议庭关于塞妮丝去留的文书",
+      "durability": null,
+      "effects": [],
+      "evidence_refs": [
+        "EV21016"
+      ],
+      "first_appearance_line": 188602,
+      "first_appearance_volume": 21,
+      "item_id": "IT21002",
+      "limitations": [],
+      "manufacturer": null,
+      "material": "羊皮纸",
+      "origin": "米里斯教团",
+      "rarity": "常见",
+      "requirements": [],
+      "size": null,
+      "subcategory": "文书",
+      "value_information": null,
+      "visible_from_volume": 21,
+      "weight": null
+    }
+  ],
+  "locations": [],
+  "organizations": [],
+  "political_states": [],
+  "power_comparisons": [
+    {
+      "actor_id": "E0001",
+      "comparison_id": "PC21000",
+      "confidence": "INFERENCE",
+      "context": "米里斯审议庭对峙",
+      "dimension": "交涉",
+      "evidence_refs": [
+        "EV21021"
+      ],
+      "result": "鲁迪以神子为筹码迫使克蕾雅让步",
+      "target_id": "E0152"
+    }
+  ],
+  "relationship_changes": [
+    {
+      "after": "对峙",
+      "at_date": null,
+      "at_volume": 21,
+      "before": "陌生祖孙",
+      "change_id": "RC21000",
+      "dimension": "信任",
+      "evidence_refs": [
+        "EV21028"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0152",
+      "trigger": "潜入试探"
+    },
+    {
+      "after": "信赖",
+      "at_date": null,
+      "at_volume": 21,
+      "before": "陌生",
+      "change_id": "RC21001",
+      "dimension": "信任",
+      "evidence_refs": [
+        "EV21029"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0153",
+      "trigger": "挟持后护送"
+    },
+    {
+      "after": "同住",
+      "at_date": null,
+      "at_volume": 21,
+      "before": "分离",
+      "change_id": "RC21002",
+      "dimension": "亲情",
+      "evidence_refs": [
+        "EV21030"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0003",
+      "trigger": "脱身带回"
+    },
+    {
+      "after": "敌对并逃亡",
+      "at_date": null,
+      "at_volume": 21,
+      "before": "同伴",
+      "change_id": "RC21003",
+      "dimension": "信任",
+      "evidence_refs": [
+        "EV21031"
+      ],
+      "source_id": "E0001",
+      "target_id": "E0057",
+      "trigger": "被揭为使徒"
+    }
+  ],
+  "routes": [],
+  "schema_version": "1.0.0",
+  "source_unit_ids": [
+    "U0364",
+    "U0365",
+    "U0366",
+    "U0367",
+    "U0368",
+    "U0369",
+    "U0370",
+    "U0371",
+    "U0372",
+    "U0373",
+    "U0374",
+    "U0375",
+    "U0376",
+    "U0377"
+  ],
+  "source_volume": 21,
+  "species": [],
+  "speech_profiles": [
+    {
+      "address_habits": "对克蕾雅称夫人，对神子直呼",
+      "anger_expression": "低声斥责",
+      "canonical_examples": [
+        "她是我母亲，不是你们的供品。",
+        "那就别怪我带走神子。"
+      ],
+      "character_id": "E0001",
+      "emotion_expression": "激昂时语速加快",
+      "evidence_refs": [
+        "EV21032"
+      ],
+      "inferior_speech": "对爱夏直接",
+      "intimate_speech": "对塞妮丝温和",
+      "phase_id": "P21000",
+      "phase_name": "塞妮丝营救期",
+      "politeness": "对克蕾雅敬语中带锋芒，对神子温和",
+      "profile_id": "ST21000",
+      "sentence_length": "中",
+      "shy_expression": "回避",
+      "stranger_speech": "谨慎试探",
+      "superior_speech": "对奥尔斯帝德敬语",
+      "visible_from_volume": 21
+    },
+    {
+      "address_habits": "对鲁迪直呼小子，对塞妮丝称女儿",
+      "anger_expression": "厉声",
+      "canonical_examples": [
+        "她在这里很好，不必跟你回去。",
+        "别怕，妈妈在这里。"
+      ],
+      "character_id": "E0152",
+      "emotion_expression": "威严",
+      "evidence_refs": [
+        "EV21033"
+      ],
+      "inferior_speech": "对仆人命令",
+      "intimate_speech": "对塞妮丝温柔",
+      "phase_id": "P21002",
+      "phase_name": "拉托雷亚当家期",
+      "politeness": "对鲁迪以家主威仪，对塞妮丝慈爱",
+      "profile_id": "ST21001",
+      "sentence_length": "短促",
+      "shy_expression": "无",
+      "stranger_speech": "审视",
+      "superior_speech": "对教团执事平等",
+      "visible_from_volume": 21
+    }
+  ],
+  "travel_observations": [],
+  "world_rules": [
+    {
+      "confidence": "INFERENCE",
+      "domain": "RELIGION",
+      "evidence_refs": [
+        "EV21022"
+      ],
+      "exceptions": "奥尔斯帝德介入可打破常规",
+      "rule_id": "WR21000",
+      "scope": "米里斯",
+      "statement": "米里斯教团以神子为信仰核心，神子安危高于单一家族庇护，教团不得轻易失去神子",
+      "visible_from_volume": 21
+    },
+    {
+      "confidence": "INFERENCE",
+      "domain": "SOCIETY",
+      "evidence_refs": [
+        "EV21023"
+      ],
+      "exceptions": "格雷拉特家血缘可作为带回依据",
+      "rule_id": "WR21001",
+      "scope": "米里斯拉托雷亚家",
+      "statement": "拉托雷亚家以家主克蕾雅为权威，庇护失忆的塞妮丝需经家族与教团双重认可",
+      "visible_from_volume": 21
+    },
+    {
+      "confidence": "INFERENCE",
+      "domain": "POLITICS",
+      "evidence_refs": [
+        "EV21024"
+      ],
+      "exceptions": "奥尔斯帝德可识破使徒",
+      "rule_id": "WR21002",
+      "scope": "米里斯",
+      "statement": "人神可通过使徒在米里斯挑拨离间，基斯即为人神使徒",
+      "visible_from_volume": 21
+    }
+  ]
+}

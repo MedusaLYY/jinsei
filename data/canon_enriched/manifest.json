@@ -1,12 +1,12 @@
 {
-  "batch_counts": "{\"ENRICH_V001\":465,\"ENRICH_V002\":122}",
+  "batch_counts": "{\"ENRICH_V001\":465,\"ENRICH_V002\":122,\"ENRICH_V021\":104}",
   "build_tool_version": "overlord-worldsim-cli",
-  "content_sha256": "42aa6f554b62d6d347b2092518f1d82b77168780cd5922c8d6a8aa0c9985a8a2",
+  "content_sha256": "beff845b6815b7d895d8f5592b9b6de13e4d50751b7a0981a4059f9e7f5c3693",
   "content_version": "1",
   "entity_registry_version": "1",
-  "generated_at": "2026-08-20T11:59:30+00:00",
+  "generated_at": "2026-08-20T13:01:18+00:00",
   "schema_version": "1.0.0",
   "source_scope": "V001-V026 mainline",
   "source_sha256": "eb9cc724ba815cba424bea935a5105047546c199944c88c413a2bed414fd1355",
-  "source_volumes": "[1,2]"
+  "source_volumes": "[1,2,21]"
 }
