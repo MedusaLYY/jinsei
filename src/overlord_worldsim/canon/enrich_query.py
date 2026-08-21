@@ -842,6 +842,65 @@ def get_enrichment_manifest(
         connection.close()
 
 
+def get_behavior_rules(
+    db_path: Path,
+    character_id: str,
+    *,
+    at_volume: int | None = None,
+    tag: str | None = None,
+) -> list[dict[str, object]]:
+    """Character behavior rules (if-X-then-Y) for GM counterfactual retrieval.
+
+    Filters by character and visibility window (at_volume); when tag is given,
+    only rules carrying that BehaviorTag are returned.
+    """
+    connection = _open_canon_db(db_path)
+    try:
+        # tolerate old DBs without the new table
+        try:
+            rows = connection.execute(
+                "SELECT * FROM character_behavior_rules WHERE character_id = ? ORDER BY rule_id",
+                (character_id,),
+            ).fetchall()
+        except sqlite3.OperationalError:
+            return []
+        rules: list[dict[str, object]] = []
+        for row in rows:
+            rule = dict(row)
+            # hydrate tags from side table
+            try:
+                tags = [
+                    r["tag"]
+                    for r in connection.execute(
+                        "SELECT tag FROM character_behavior_rule_tags WHERE rule_id = ? ORDER BY tag",
+                        (rule["rule_id"],),
+                    ).fetchall()
+                ]
+            except sqlite3.OperationalError:
+                tags = []
+            rule["tags"] = tags
+            # evidence
+            rule["evidence"] = _evidence_for(
+                connection, "character_behavior_rules", str(rule["rule_id"])
+            )
+            rules.append(rule)
+        if at_volume is not None:
+            rules = [
+                r
+                for r in rules
+                if int(cast(int, r["visible_from_volume"])) <= at_volume
+                and (
+                    r["visible_to_volume"] is None
+                    or int(cast(int, r["visible_to_volume"])) >= at_volume
+                )
+            ]
+        if tag is not None:
+            rules = [r for r in rules if tag in cast(list[str], r["tags"])]
+        return rules
+    finally:
+        connection.close()
+
+
 def enrichment_summary(db_path: Path) -> dict[str, int]:
     """Counts per enrichment collection for coverage reporting."""
     counts: dict[str, int] = {}
@@ -869,8 +928,18 @@ def enrichment_summary(db_path: Path) -> dict[str, int]:
             "speech_profiles",
             "canon_conflicts",
             "canon_gaps",
+            "character_quirks",
+            "character_preferences",
+            "body_language_profiles",
+            "character_personas",
+            "character_behavior_rules",
         ):
-            counts[table] = int(connection.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0])
+            try:
+                counts[table] = int(
+                    connection.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+                )
+            except sqlite3.OperationalError:
+                counts[table] = 0
         counts["evidence"] = int(
             connection.execute("SELECT COUNT(*) FROM enrichment_evidence").fetchone()[0]
         )

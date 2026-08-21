@@ -571,6 +571,82 @@ class BehaviorCase:
 
 
 @dataclass(frozen=True)
+class CharacterBehaviorRule:
+    """Generalized if-X-then-Y tendency for GM counterfactual adjudication.
+
+    Unlike ``BehaviorCase`` (one historical instance), a rule is a
+    generalized tendency the GM uses when the player does something
+    the novel never did. Every rule is evidence-bound and carries
+    anti-overplay metadata so private tendencies are not turned into
+    primary plot drivers.
+    """
+
+    rule_id: str
+    character_id: str
+    phase_id: str
+    condition: str
+    trigger_event: str
+    response: str
+    psychological_reason: str
+    known_at_time: str
+    unknown_at_time: str
+    public_vs_private: str
+    simulation_weight: str
+    overplay_warning: str | None
+    tags: tuple[BehaviorTag, ...]
+    visible_from_volume: int
+    visible_to_volume: int | None
+    evidence_type: EvidenceType
+    confidence: Confidence
+    evidence_refs: tuple[str, ...]
+
+    def to_json(self) -> dict[str, Any]:
+        return {
+            "rule_id": self.rule_id,
+            "character_id": self.character_id,
+            "phase_id": self.phase_id,
+            "condition": self.condition,
+            "trigger_event": self.trigger_event,
+            "response": self.response,
+            "psychological_reason": self.psychological_reason,
+            "known_at_time": self.known_at_time,
+            "unknown_at_time": self.unknown_at_time,
+            "public_vs_private": self.public_vs_private,
+            "simulation_weight": self.simulation_weight,
+            "overplay_warning": self.overplay_warning,
+            "tags": [tag.value for tag in self.tags],
+            "visible_from_volume": self.visible_from_volume,
+            "visible_to_volume": self.visible_to_volume,
+            "evidence_type": self.evidence_type.value,
+            "confidence": self.confidence.value,
+            "evidence_refs": _to_json_array(self.evidence_refs),
+        }
+
+    @classmethod
+    def from_json(cls, document: dict[str, Any]) -> CharacterBehaviorRule:
+        return cls(
+            rule_id=document["rule_id"],
+            character_id=document["character_id"],
+            phase_id=document["phase_id"],
+            condition=document["condition"],
+            trigger_event=document["trigger_event"],
+            response=document["response"],
+            psychological_reason=document["psychological_reason"],
+            known_at_time=document["known_at_time"],
+            unknown_at_time=document["unknown_at_time"],
+            public_vs_private=document["public_vs_private"],
+            simulation_weight=document["simulation_weight"],
+            overplay_warning=document.get("overplay_warning"),
+            tags=tuple(BehaviorTag(tag) for tag in document["tags"]),
+            visible_from_volume=document["visible_from_volume"],
+            visible_to_volume=document.get("visible_to_volume"),
+            evidence_type=EvidenceType(document["evidence_type"]),
+            confidence=Confidence(document["confidence"]),
+            evidence_refs=tuple(document["evidence_refs"]),
+        )
+
+
+@dataclass(frozen=True)
 class EventPrerequisite:
     """Why a detailed event happens; one condition (plan §25)."""
 
@@ -1760,6 +1836,9 @@ class CharacterQuirk:
     evidence_type: EvidenceType = EvidenceType.CANON_EXPLICIT
     confidence: Confidence = Confidence.EXPLICIT
     evidence_refs: tuple[str, ...] = ()
+    simulation_weight: str | None = None
+    overplay_warning: str | None = None
+    is_private_tendency: bool = False
 
     def to_json(self) -> dict[str, Any]:
         return {
@@ -1790,6 +1869,9 @@ class CharacterQuirk:
             "evidence_type": self.evidence_type.value,
             "confidence": self.confidence.value,
             "evidence_refs": _to_json_array(self.evidence_refs),
+            "simulation_weight": self.simulation_weight,
+            "overplay_warning": self.overplay_warning,
+            "is_private_tendency": self.is_private_tendency,
         }
 
     @classmethod
@@ -1822,6 +1904,9 @@ class CharacterQuirk:
             evidence_type=EvidenceType(document.get("evidence_type", "CANON_EXPLICIT")),
             confidence=Confidence(document.get("confidence", "EXPLICIT")),
             evidence_refs=tuple(document.get("evidence_refs", ())),
+            simulation_weight=document.get("simulation_weight"),
+            overplay_warning=document.get("overplay_warning"),
+            is_private_tendency=bool(document.get("is_private_tendency", False)),
         )
 
 
@@ -2099,6 +2184,7 @@ class EnrichmentBatch:
     character_personas: tuple[CharacterPersona, ...] = ()
     canon_conflicts: tuple[CanonConflict, ...] = ()
     canon_gaps: tuple[CanonGap, ...] = ()
+    behavior_rules: tuple[CharacterBehaviorRule, ...] = ()
 
     ENRICHMENT_SCHEMA_VERSION: ClassVar[str] = "1.0.0"
 
@@ -2134,6 +2220,7 @@ class EnrichmentBatch:
             "character_personas": [e.to_json() for e in self.character_personas],
             "canon_conflicts": [e.to_json() for e in self.canon_conflicts],
             "canon_gaps": [e.to_json() for e in self.canon_gaps],
+            "behavior_rules": [e.to_json() for e in self.behavior_rules],
         }
 
     @classmethod
@@ -2204,6 +2291,10 @@ class EnrichmentBatch:
                 CanonConflict.from_json(entry) for entry in document.get("canon_conflicts", ())
             ),
             canon_gaps=tuple(CanonGap.from_json(entry) for entry in document.get("canon_gaps", ())),
+            behavior_rules=tuple(
+                CharacterBehaviorRule.from_json(entry)
+                for entry in document.get("behavior_rules", ())
+            ),
         )
 
     def counts(self) -> dict[str, int]:
@@ -2234,4 +2325,5 @@ class EnrichmentBatch:
             "character_personas": len(self.character_personas),
             "canon_conflicts": len(self.canon_conflicts),
             "canon_gaps": len(self.canon_gaps),
+            "behavior_rules": len(self.behavior_rules),
         }

@@ -305,6 +305,28 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "note": "Pre-expedition boys meet: barrier tale, low-cost armor for future fight"
+    },
+    {
+      "evidence_id": "EV16027",
+      "volume_no": 16,
+      "unit_id": "U0287",
+      "chapter_title": "第五话「协助体制」",
+      "source_start_line": 144466,
+      "source_end_line": 144475,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "爱丽儿在空要庭园茶会讨论奥尔斯帝德诅咒时笑着自述在别人面前失禁非常舒服，希露菲喝止，鲁迪装作没听见；阿斯拉贵族大多是变态的叙述"
+    },
+    {
+      "evidence_id": "EV16028",
+      "volume_no": 16,
+      "unit_id": "U0287",
+      "chapter_title": "第五话「协助体制」",
+      "source_start_line": 144478,
+      "source_end_line": 144484,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "鲁迪承认为变态但只想看喜欢女孩失禁，佐证私密羞耻话题的语境与界限"
     }
   ],
   "character_profiles": [
@@ -408,17 +430,37 @@
         "EV16008",
         "EV16012",
         "EV16022"
-      ]
+      ],
+      "core_personality": [
+        "以protect family为核心价值",
+        "secure home"
+      ],
+      "surface_personality": [
+        "report register to lord"
+      ],
+      "hidden_personality": [
+        "misspeak to Orsted"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "profile_id": "CP16002",
       "character_id": "E0044",
       "phase_id": "P16002",
-      "phase_name": "Fort waiting",
+      "phase_name": "空要待机期",
       "start_date": null,
       "end_date": null,
       "date_precision": "UNKNOWN",
-      "age_description": "~16-17, second princess in exile",
+      "age_description": "约十九至二十岁，青年期阿斯拉王国篇前段（以V008十七岁为锚点推算）",
       "personality_traits": [
         "resilient",
         "clever",
@@ -507,7 +549,52 @@
         "EV16017",
         "EV16022",
         "EV16024"
-      ]
+      ],
+      "identity": "人类·阿斯拉王族 第二公主",
+      "origin": "阿斯拉王国王都·王宫，第二公主派最弱",
+      "status_rank": "第二公主（流亡夏利亚）",
+      "appearance_traits": [
+        "宛如美术课本的美貌",
+        "金发碧眼",
+        "王族礼装",
+        "庭园茶会从容仪态"
+      ],
+      "body_traits": [
+        "王族体态端庄",
+        "庭园茶会微笑"
+      ],
+      "core_personality": [
+        "责任驱动的统治者自觉",
+        "视王位为国家责任而非虚荣",
+        "保护国家与派阀下的人",
+        "以挚友定义王"
+      ],
+      "surface_personality": [
+        "王族礼仪、从容、外交、情绪控制、茶会与敬语",
+        "以自身外表和传言作为掩护"
+      ],
+      "hidden_personality": [
+        "好奇心强、观察特殊的人、测试他人反应、隐藏的任性",
+        "阿斯拉贵族式超过限度的性癖好之一员，私人倾向"
+      ],
+      "obsessions": [
+        "王应继承无名者遗志与挚友同行——卡瓦尼斯答案",
+        "对路克君臣共谋的宫廷搭档执念"
+      ],
+      "interests": [
+        "观察有潜力者",
+        "人才网罗"
+      ],
+      "emotional_triggers": [
+        "被质疑不适合为王",
+        "提及十三旧部",
+        "提及奥尔斯帝德的恐怖与失态话题"
+      ],
+      "decision_logic": "王位/国家 > 私人羞耻兴趣；挚友与能成事的人才 > 血统傲慢；公开场合绝不把私人癖好当政治工具",
+      "phase_personality_note": "公开端庄、私下会自嘲与拍脸伸懒腰切换；对特殊才能者主动接近观察",
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": []
     },
     {
       "profile_id": "CP16003",
@@ -603,7 +690,27 @@
         "EV16013",
         "EV16017",
         "EV16023"
-      ]
+      ],
+      "core_personality": [
+        "以both friends and family为核心价值",
+        "help Ariel safe"
+      ],
+      "surface_personality": [
+        "short echo to Rudeus"
+      ],
+      "hidden_personality": [
+        "torn between camps"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "profile_id": "CP16004",
@@ -695,7 +802,27 @@
         "EV16018",
         "EV16022",
         "EV16024"
-      ]
+      ],
+      "core_personality": [
+        "以friends and faith为核心价值",
+        "find worthy king"
+      ],
+      "surface_personality": [
+        "proclaiming archaic"
+      ],
+      "hidden_personality": [
+        "not yielding even to Orsted"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "profile_id": "CP16005",
@@ -787,7 +914,27 @@
       "evidence_refs": [
         "EV16019",
         "EV16020"
-      ]
+      ],
+      "core_personality": [
+        "以guard with sword为核心价值",
+        "guard in expedition"
+      ],
+      "surface_personality": [
+        "short challenge calling Rudeus"
+      ],
+      "hidden_personality": [
+        "distance from ideal"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "profile_id": "CP16006",
@@ -883,7 +1030,27 @@
         "EV16010",
         "EV16011",
         "EV16023"
-      ]
+      ],
+      "core_personality": [
+        "以Ariel kingship is mission为核心价值",
+        "win via dragon king"
+      ],
+      "surface_personality": [
+        "earnest plea to Rudeus"
+      ],
+      "hidden_personality": [
+        "sword only decent, risks book"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "profile_id": "CP16007",
@@ -970,7 +1137,27 @@
       "visible_to_volume": null,
       "evidence_refs": [
         "EV16019"
-      ]
+      ],
+      "core_personality": [
+        "以guard with sword为核心价值",
+        "swat sparks by Ariel"
+      ],
+      "surface_personality": [
+        "short affirmatives"
+      ],
+      "hidden_personality": [
+        "poor speech"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     }
   ],
   "behavior_cases": [
@@ -2068,7 +2255,10 @@
       "evidence_refs": [
         "EV16001",
         "EV16006"
-      ]
+      ],
+      "simulation_weight": null,
+      "overplay_warning": null,
+      "is_private_tendency": false
     },
     {
       "quirk_id": "QK16002",
@@ -2105,7 +2295,63 @@
       "evidence_refs": [
         "EV16016",
         "EV16017"
-      ]
+      ],
+      "simulation_weight": null,
+      "overplay_warning": null,
+      "is_private_tendency": false
+    },
+    {
+      "quirk_id": "QK16003",
+      "character_id": "E0044",
+      "phase_id": "P16002",
+      "category": "private_fetish",
+      "name": "当众失禁的羞耻快感",
+      "description": "爱丽儿在空要庭园茶会讨论奥尔斯帝德诅咒时笑着自述在别人面前失禁实在是非常舒服。这是她主动用语言披露的私人性快感来源：被看见的失禁/失态本身带来舒适与兴奋，与公开的美术课本式美貌形成反差。原文没有描写她在该场茶会实际失禁；只有口头承认+希露菲喝止+鲁迪选择装作没听见。",
+      "intensity": "HIGH（私人感官偏好）/ LOW（政治行动驱动）",
+      "frequency": "口头披露罕见；实际当众实行在1-26卷无直接场景（canon_gap）",
+      "triggers": [
+        "提到恐惧/失态",
+        "与可信内圈闲谈",
+        "阿斯拉贵族式荤话氛围",
+        "提及奥尔斯帝德恐怖"
+      ],
+      "preferred_targets": [
+        "路克",
+        "希露菲在场的内圈"
+      ],
+      "avoided_targets": [
+        "佩尔基乌斯",
+        "奥尔斯帝德",
+        "朝堂公开场合"
+      ],
+      "public_expression": "公开场合维持王族礼仪；被希露菲以护卫身份喝止时立即收住",
+      "private_expression": "对内圈（路克、有时鲁迪）会突然把失禁/羞耻话题说成舒服的事，脸上仍笑",
+      "behavior_patterns": [
+        "以轻佻话掩盖真恐惧"
+      ],
+      "verbal_patterns": [
+        "在别人面前失禁实在是非常舒服"
+      ],
+      "body_language": "脸上笑咪咪地说",
+      "emotional_reward": "被看见的羞耻本身",
+      "emotional_response": "羞耻快感与轻佻掩饰",
+      "boundaries": [
+        "不在佩尔基乌斯/龙神/朝堂用此事做交易",
+        "不因此放弃王位目标"
+      ],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV16027"
+      ],
+      "simulation_weight": "COLOR",
+      "overplay_warning": "禁止把当众失禁写成爱丽儿的主要行动目标、谈判手段或每场社交的默认行为。这是私人倾向。王位、派阀、挚友、生存优先。GM仅在私密闲谈、压力下的失言、或玩家主动把话题引向羞耻时才可启用。不得无证据生成她当众尿湿朝堂。",
+      "is_private_tendency": true
     }
   ],
   "character_preferences": [
@@ -2198,6 +2444,43 @@
         "EV16003",
         "EV16025"
       ]
+    },
+    {
+      "persona_id": "PN16002",
+      "character_id": "E0044",
+      "phase_id": "P16002",
+      "persona_type": "PUBLIC",
+      "description": "王族礼仪、从容、外交、情绪控制、茶会与敬语。以自身外表和传言作为掩护。",
+      "speech_style": "超正式、不慌、长句、敬语",
+      "behavior_traits": [
+        "王族礼仪",
+        "外交",
+        "茶会主持",
+        "情绪控制"
+      ],
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV16027"
+      ]
+    },
+    {
+      "persona_id": "PN16003",
+      "character_id": "E0044",
+      "phase_id": "P16002",
+      "persona_type": "PRIVATE",
+      "description": "好奇心、观察特殊的人、测试他人反应、隐藏的任性。阿斯拉贵族式超过限度的性癖好之一员，私下会突然把失禁/羞耻说成舒服。",
+      "speech_style": "更直接、会自嘲、拍脸伸懒腰切换、突然说少女/低俗的话",
+      "behavior_traits": [
+        "观察特殊人才",
+        "试探反应",
+        "私密荤话"
+      ],
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV16027"
+      ]
     }
   ],
   "canon_conflicts": [],
@@ -2213,6 +2496,88 @@
       "status": "OPEN",
       "possible_sources": "deeper maze or dragon archives",
       "note": "only dead rumor in this volume"
+    }
+  ],
+  "behavior_rules": [
+    {
+      "rule_id": "BR16001",
+      "character_id": "E0044",
+      "phase_id": "P16002",
+      "condition": "内圈闲谈且话题触及恐惧/身体失态，氛围为阿斯拉贵族式荤话",
+      "trigger_event": "有人提到奥尔斯帝德的恐怖或诅咒",
+      "response": "可能笑着把失禁说成舒服：因为我远远看他就害怕到全身发抖，或许会忍不住失禁呢；不过在别人面前失禁实在是非常舒服",
+      "psychological_reason": "私人羞耻快感+用轻佻话掩盖真恐惧，与美术课本式美貌形成反差",
+      "known_at_time": "知道奥尔斯帝德因诅咒被厌恶，知晓自己恐惧",
+      "unknown_at_time": "不知道人神是否可操控自己（鲁迪推测，奥尔斯帝德未暗示）",
+      "public_vs_private": "PRIVATE",
+      "simulation_weight": "COLOR",
+      "overplay_warning": "禁止把此反应写成每场社交默认；仅在私密闲谈或玩家主动引向羞耻时启用",
+      "tags": [
+        "SHAME",
+        "EMBARRASSMENT",
+        "FEAR",
+        "PRIVATE_SCENE"
+      ],
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV16027"
+      ]
+    },
+    {
+      "rule_id": "BR16002",
+      "character_id": "E0044",
+      "phase_id": "P16002",
+      "condition": "希露菲在场且爱丽儿开始说性癖/失禁话题",
+      "trigger_event": "希露菲以爱丽儿大人不行喔喝止",
+      "response": "立即收住，切回正题，不再展开羞耻话题",
+      "psychological_reason": "接受希露菲作为礼仪刹车，维护公开王族形象；王位优先于私人兴趣",
+      "known_at_time": "知道希露菲是挚友级护卫与礼仪刹车",
+      "unknown_at_time": "不知道玩家是否会继续追问羞耻",
+      "public_vs_private": "MIXED",
+      "simulation_weight": "SECONDARY",
+      "overplay_warning": "不得让爱丽儿无视喝止继续失禁话题",
+      "tags": [
+        "SHAME",
+        "LOYALTY",
+        "NOBILITY"
+      ],
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV16027"
+      ]
+    },
+    {
+      "rule_id": "BR16003",
+      "character_id": "E0044",
+      "phase_id": "P16002",
+      "condition": "公开朝堂/龙王试炼/政变等高压政治场合",
+      "trigger_event": "任何压力或挑衅",
+      "response": "不用失禁癖好行动，改用礼仪、问答、人才、史料、派阀手段应对；以身边有众多挚友等答案通过试炼",
+      "psychological_reason": "王位与国家是主驱动力，私人羞耻兴趣为COLOR级不能覆盖PRIMARY目标",
+      "known_at_time": "知道成王要素为挚友环绕继承无名者遗志",
+      "unknown_at_time": "不知道转移阵已全坏等后续变故",
+      "public_vs_private": "PUBLIC",
+      "simulation_weight": "PRIMARY",
+      "overplay_warning": "禁止在朝堂/龙王试炼生成当众失禁场景；该场合必须走政治/礼仪路径",
+      "tags": [
+        "AUTHORITY",
+        "NOBILITY",
+        "NEGOTIATION",
+        "PUBLIC_SCENE"
+      ],
+      "visible_from_volume": 16,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV16027"
+      ]
     }
   ]
 }

@@ -904,7 +904,27 @@
       ],
       "violence_attitude": "以魔术与战术制敌，回避无谓杀戮",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "core_personality": [
+        "以家族为核心价值",
+        "助爱丽儿夺位"
+      ],
+      "surface_personality": [
+        "对爱丽儿敬语、对同伴直率"
+      ],
+      "hidden_personality": [
+        "对王宫权谋的陌生"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "age_description": "成年剑王 鲁迪第三妻 王位争夺主力",
@@ -997,7 +1017,27 @@
       ],
       "violence_attitude": "以剑决胜、先动手后思",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "core_personality": [
+        "以剑术为核心价值",
+        "斩强敌"
+      ],
+      "surface_personality": [
+        "短促、直呼鲁迪"
+      ],
+      "hidden_personality": [
+        "对权谋不擅"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "age_description": "成年兽族女剑士 剑王 为绍罗斯复仇",
@@ -1089,10 +1129,30 @@
       ],
       "violence_attitude": "以剑与气势决胜、少言即断",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "core_personality": [
+        "以剑王荣耀为核心价值",
+        "手刃大流士"
+      ],
+      "surface_personality": [
+        "极短句、肯定式"
+      ],
+      "hidden_personality": [
+        "前黑狼之牙过往"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
-      "age_description": "阿斯拉第二公主 下任女王",
+      "age_description": "约二十岁，青年期阿斯拉王国篇后段、即位前后（以V008十七岁为锚点推算）",
       "ambition": "HIGH",
       "attachment_style": "以信赖维系统治",
       "authority_attitude": "自身即权威、对佩尔基乌斯恭敬",
@@ -1181,7 +1241,51 @@
       ],
       "violence_attitude": "以威仪与法度治乱",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "identity": "人类·阿斯拉王族 第二公主→女王",
+      "origin": "阿斯拉王国王都·王宫，第二公主派",
+      "status_rank": "第二公主→即位女王",
+      "appearance_traits": [
+        "美术课本式美貌",
+        "金发碧眼",
+        "王族礼装",
+        "威仪与微笑并存"
+      ],
+      "body_traits": [
+        "端庄王族仪态",
+        "内室中轻抚安慰的柔和体态"
+      ],
+      "core_personality": [
+        "责任驱动的统治者自觉",
+        "王位为国家责任",
+        "挚友与能成事的人才 > 血统傲慢",
+        "继承无名者遗志"
+      ],
+      "surface_personality": [
+        "威仪、礼仪完备、躬身受命、公开敬语",
+        "以王族礼仪压场"
+      ],
+      "hidden_personality": [
+        "对亲信悲悯原谅、会低声安慰",
+        "阿斯拉贵族式超过限度的性癖好仍为私人倾向，不作政治工具"
+      ],
+      "obsessions": [
+        "王应继承无名者遗志与挚友同行",
+        "对路克君臣共谋后的原谅执念"
+      ],
+      "interests": [
+        "笼络人心",
+        "择贤臣"
+      ],
+      "emotional_triggers": [
+        "路克背叛与忏悔",
+        "追随者封赏承诺"
+      ],
+      "decision_logic": "王位/国家 > 私人羞耻兴趣；法与大义 > 私情；公开场合不用私癖",
+      "phase_personality_note": "公开威仪、内室悲悯；对路克跪地坦白选择不斩不逐、当场原谅",
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": []
     },
     {
       "age_description": "青年骑士 爱丽儿护卫 受人神蛊惑",
@@ -1270,7 +1374,27 @@
       ],
       "violence_attitude": "以剑护主、失控时挟持",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "core_personality": [
+        "以对爱丽儿的忠诚为核心价值",
+        "护爱丽儿周全"
+      ],
+      "surface_personality": [
+        "对爱丽儿敬语、对希露菲愧语"
+      ],
+      "hidden_personality": [
+        "对自身意志薄弱的自责"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "age_description": "帕普尔荷斯家次女 前盗贼团长 受害证人",
@@ -1358,7 +1482,27 @@
       ],
       "violence_attitude": "以证词为武器",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "core_personality": [
+        "以对爱丽儿的报恩为核心价值",
+        "指证大流士"
+      ],
+      "surface_personality": [
+        "直率、带颤但坚定"
+      ],
+      "hidden_personality": [
+        "过往受辱的创伤"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     },
     {
       "age_description": "青年妻子 鲁迪第一妻 王宫护卫",
@@ -1449,7 +1593,27 @@
       ],
       "violence_attitude": "回避、必要时拒诱",
       "visible_from_volume": 17,
-      "visible_to_volume": null
+      "visible_to_volume": null,
+      "core_personality": [
+        "以家庭为核心价值",
+        "辞去护卫归家育儿"
+      ],
+      "surface_personality": [
+        "温和、坚定"
+      ],
+      "hidden_personality": [
+        "对王宫权谋的不适"
+      ],
+      "appearance_traits": [
+        "外貌见文本描述"
+      ],
+      "body_traits": [],
+      "obsessions": [],
+      "interests": [],
+      "dislikes": [],
+      "weaknesses": [],
+      "habits": [],
+      "emotional_triggers": []
     }
   ],
   "character_quirks": [
@@ -2671,6 +2835,60 @@
       "scope": "人神使徒",
       "statement": "人神可通过托梦低语蛊惑意志薄弱者 煽动其背叛或挟持关键人物",
       "visible_from_volume": 17
+    }
+  ],
+  "behavior_rules": [
+    {
+      "rule_id": "BR17001",
+      "character_id": "E0044",
+      "phase_id": "P17004",
+      "condition": "公开朝堂/王宫宴会等高压政治场合，面临指控、倒戈与决斗压力",
+      "trigger_event": "任何压力或挑衅，包括大流士强辩、贵族风向转变、路克挟持",
+      "response": "不用当众失禁等私人癖好行动，改用法与大义、封赏、幽禁裁决与礼仪问答应对",
+      "psychological_reason": "王位与国家安定是主驱动力，私人羞耻兴趣为COLOR级不能覆盖PRIMARY目标；公开场合维持王族礼仪是希露菲等礼仪刹车的延伸",
+      "known_at_time": "已获佩尔基乌斯背书与贵族倒戈，知人神通过路克作梗",
+      "unknown_at_time": "不知道后续幽禁年限与王权过渡细节（canon_gap）",
+      "public_vs_private": "PUBLIC",
+      "simulation_weight": "PRIMARY",
+      "overplay_warning": "禁止在朝堂/宴会生成当众失禁场景；该场合必须走政治/礼仪/封赏路径",
+      "tags": [
+        "AUTHORITY",
+        "NOBILITY",
+        "PUBLIC_SCENE"
+      ],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV17006"
+      ]
+    },
+    {
+      "rule_id": "BR17002",
+      "character_id": "E0044",
+      "phase_id": "P17004",
+      "condition": "内室单独面对跪地忏悔的路克，人神低语已败露",
+      "trigger_event": "路克痛哭坦白受人神以希露菲为饵的怂恿并挟持未遂",
+      "response": "不斩不逐当场原谅，轻抚低声安慰，保留其近臣身份",
+      "psychological_reason": "君臣+共谋的宫廷搭档超越单纯恋爱标签；挚友环绕的王道与对十三旧部的执念使宽恕成为统治示范",
+      "known_at_time": "知路克六年经营人脉与人神可控三人的风险",
+      "unknown_at_time": "不知道路克是否仍会被人神再次利用",
+      "public_vs_private": "PRIVATE",
+      "simulation_weight": "SECONDARY",
+      "overplay_warning": null,
+      "tags": [
+        "TRUST",
+        "LOYALTY",
+        "GRATITUDE"
+      ],
+      "visible_from_volume": 17,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV17006"
+      ]
     }
   ]
 }

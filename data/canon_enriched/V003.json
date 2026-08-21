@@ -2,1019 +2,514 @@
   "batch_id": "ENRICH_V003",
   "source_volume": 3,
   "source_unit_ids": [
-    "U0040",
-    "U0041",
-    "U0042",
-    "U0043",
-    "U0044",
-    "U0045",
-    "U0046",
-    "U0047",
-    "U0048",
-    "U0049",
-    "U0050",
-    "U0051",
-    "U0052",
-    "U0053",
-    "U0054",
-    "U0055",
-    "U0056",
-    "U0057",
-    "U0058",
-    "U0059",
-    "U0060",
-    "U0061",
-    "U0062"
+    "U0054"
   ],
   "schema_version": "1.0.0",
   "evidence": [
     {
       "evidence_id": "EV03001",
       "volume_no": 3,
-      "unit_id": "U0040",
-      "chapter_title": "第一话「自称神的骗子」",
-      "source_start_line": 19624,
-      "source_end_line": 19752,
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28342,
+      "source_end_line": 28343,
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第一话「自称神的骗子」 §1"
+      "note": "爱丽儿·阿涅摩伊·阿斯拉在王宫庭园现身，王族身份确定"
     },
     {
       "evidence_id": "EV03002",
       "volume_no": 3,
-      "unit_id": "U0041",
-      "chapter_title": "第二话「斯佩路德族」",
-      "source_start_line": 20314,
-      "source_end_line": 20410,
-      "evidence_type": "STRONG_INFERENCE",
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28450,
+      "source_end_line": 28451,
+      "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第二话「斯佩路德族」 §2"
+      "note": "爱丽儿是同性也照吃的极度虐待狂，王宫内一部分人清楚的事实"
     },
     {
       "evidence_id": "EV03003",
       "volume_no": 3,
-      "unit_id": "U0042",
-      "chapter_title": "第三话「师父的秘密」",
-      "source_start_line": 20940,
-      "source_end_line": 21056,
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28452,
+      "source_end_line": 28453,
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第三话「师父的秘密」 §3"
+      "note": "许多阿斯拉贵族王族都拥有超过限度的性癖好，爱丽儿也不例外"
     },
     {
       "evidence_id": "EV03004",
       "volume_no": 3,
-      "unit_id": "U0044",
-      "chapter_title": "第五话「到最靠近城镇的三天」",
-      "source_start_line": 21482,
-      "source_end_line": 21572,
-      "evidence_type": "STRONG_INFERENCE",
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28462,
+      "source_end_line": 28463,
+      "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第五话「到最靠近城镇的三天」 §4"
+      "note": "在历史四百年无战无饥的阿斯拉，有很多人认为把异于他人的行为当成兴趣正代表一种社会地位"
     },
     {
       "evidence_id": "EV03005",
       "volume_no": 3,
-      "unit_id": "U0045",
-      "chapter_title": "第六话「入侵和乔装」",
-      "source_start_line": 22118,
-      "source_end_line": 22236,
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28456,
+      "source_end_line": 28457,
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第六话「入侵和乔装」 §5"
+      "note": "爱丽儿以自身的外表和传言作为掩护"
     },
     {
       "evidence_id": "EV03006",
       "volume_no": 3,
-      "unit_id": "U0046",
-      "chapter_title": "第七话「冒险者公会」",
-      "source_start_line": 22750,
-      "source_end_line": 22846,
-      "evidence_type": "STRONG_INFERENCE",
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28366,
+      "source_end_line": 28367,
+      "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第七话「冒险者公会」 §6"
+      "note": "名为路克·诺托斯·格雷拉特，王宫护卫登场"
     },
     {
       "evidence_id": "EV03007",
       "volume_no": 3,
-      "unit_id": "U0047",
-      "chapter_title": "第八话「冒险者的旅店」",
-      "source_start_line": 23428,
-      "source_end_line": 23520,
+      "unit_id": "U0054",
+      "chapter_title": "外传「阿斯拉公主与奇迹天使」",
+      "source_start_line": 28382,
+      "source_end_line": 28383,
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 第八话「冒险者的旅店」 §7"
+      "note": "守护术师迪利克·雷特巴特具备独特气质，衬托三人难以亲近氛围"
     },
     {
       "evidence_id": "EV03008",
       "volume_no": 3,
-      "unit_id": "U0047",
-      "chapter_title": "第八话「冒险者的旅店」",
-      "source_start_line": 24038,
-      "source_end_line": 24114,
-      "evidence_type": "STRONG_INFERENCE",
-      "confidence": "EXPLICIT",
-      "note": "V03 第八话「冒险者的旅店」 §8"
-    },
-    {
-      "evidence_id": "EV03009",
-      "volume_no": 3,
-      "unit_id": "U0048",
-      "chapter_title": "第九话「人命和第一个工作」",
-      "source_start_line": 24650,
-      "source_end_line": 24734,
-      "evidence_type": "CANON_EXPLICIT",
-      "confidence": "EXPLICIT",
-      "note": "V03 第九话「人命和第一个工作」 §9"
-    },
-    {
-      "evidence_id": "EV03010",
-      "volume_no": 3,
-      "unit_id": "U0049",
-      "chapter_title": "第十话「第一个工作结束」",
-      "source_start_line": 25260,
-      "source_end_line": 25396,
-      "evidence_type": "STRONG_INFERENCE",
-      "confidence": "EXPLICIT",
-      "note": "V03 第十话「第一个工作结束」 §10"
-    },
-    {
-      "evidence_id": "EV03011",
-      "volume_no": 3,
-      "unit_id": "U0050",
-      "chapter_title": "第十一话「顺利的起头」",
-      "source_start_line": 25892,
-      "source_end_line": 25984,
-      "evidence_type": "CANON_EXPLICIT",
-      "confidence": "EXPLICIT",
-      "note": "V03 第十一话「顺利的起头」 §11"
-    },
-    {
-      "evidence_id": "EV03012",
-      "volume_no": 3,
-      "unit_id": "U0051",
-      "chapter_title": "第十二话「小孩和战士」",
-      "source_start_line": 26410,
-      "source_end_line": 26518,
-      "evidence_type": "STRONG_INFERENCE",
-      "confidence": "EXPLICIT",
-      "note": "V03 第十二话「小孩和战士」 §12"
-    },
-    {
-      "evidence_id": "EV03013",
-      "volume_no": 3,
-      "unit_id": "U0052",
-      "chapter_title": "第十三话「失败与混乱与决心」",
-      "source_start_line": 26972,
-      "source_end_line": 27078,
-      "evidence_type": "CANON_EXPLICIT",
-      "confidence": "EXPLICIT",
-      "note": "V03 第十三话「失败与混乱与决心」 §13"
-    },
-    {
-      "evidence_id": "EV03014",
-      "volume_no": 3,
-      "unit_id": "U0052",
-      "chapter_title": "第十三话「失败与混乱与决心」",
-      "source_start_line": 27580,
-      "source_end_line": 27584,
-      "evidence_type": "STRONG_INFERENCE",
-      "confidence": "EXPLICIT",
-      "note": "V03 第十三话「失败与混乱与决心」 §14"
-    },
-    {
-      "evidence_id": "EV03015",
-      "volume_no": 3,
-      "unit_id": "U0053",
-      "chapter_title": "第十四话「踏上旅程」",
-      "source_start_line": 28068,
-      "source_end_line": 28182,
-      "evidence_type": "CANON_EXPLICIT",
-      "confidence": "EXPLICIT",
-      "note": "V03 第十四话「踏上旅程」 §15"
-    },
-    {
-      "evidence_id": "EV03016",
-      "volume_no": 3,
       "unit_id": "U0054",
       "chapter_title": "外传「阿斯拉公主与奇迹天使」",
-      "source_start_line": 28584,
-      "source_end_line": 28662,
-      "evidence_type": "STRONG_INFERENCE",
+      "source_start_line": 28800,
+      "source_end_line": 28810,
+      "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
-      "note": "V03 外传「阿斯拉公主与奇迹天使」 §16"
+      "note": "迪利克劝诫爱丽儿与路克不要因低俗传闻与过于任性树敌，提醒王位风险"
     }
   ],
   "character_profiles": [
     {
       "profile_id": "CP03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "phase_name": "王宫期",
       "start_date": null,
       "end_date": null,
       "date_precision": "UNKNOWN",
-      "age_description": "V03 阶段",
+      "age_description": "少女期，王宫生活（外传；早于V008十七岁）",
       "personality_traits": [
-        "慎重",
-        "重情",
-        "好学"
+        "高贵",
+        "机敏",
+        "从容",
+        "善于演绎"
       ],
       "values": [
-        "家族与信义"
+        "王族礼仪与从容",
+        "以才华与人脉立身"
       ],
       "desires": [
-        "安稳与成长"
+        "维持王宫内的优雅享乐生活",
+        "在派阀夹缝中自保"
       ],
       "fears": [
-        "再失重要之人"
+        "因低俗传闻树敌",
+        "被判不适合为王"
       ],
       "taboos": [
-        "背叛"
+        "在部下面前久露软弱"
       ],
       "insecurities": [
-        "过度自责"
+        "对自身王适合性尚无定论"
       ],
-      "pride": "护家",
-      "impulsiveness": "LOW",
+      "pride": "王族礼法与看人眼光",
+      "impulsiveness": "MEDIUM",
       "patience": "MEDIUM",
       "risk_tolerance": "MEDIUM",
-      "self_control": "MEDIUM",
-      "attachment_style": null,
-      "authority_attitude": null,
-      "family_attitude": null,
-      "romantic_attitude": null,
-      "violence_attitude": null,
-      "money_attitude": null,
-      "status_attitude": null,
-      "race_attitude": null,
+      "self_control": "HIGH",
+      "attachment_style": "对路克与迪利克为宫廷共谋搭档",
+      "authority_attitude": "对王兄们保持距离，对佩尔基乌斯尚未接触",
+      "family_attitude": "与两位王兄对立，第二公主派最弱",
+      "romantic_attitude": "与路克为君臣共谋，非单纯恋爱标签",
+      "violence_attitude": "委于护卫",
+      "money_attitude": "以礼遇换支持",
+      "status_attitude": "视王权为责任而非虚荣的萌芽",
+      "race_attitude": "接纳精灵等",
       "religious_attitude": null,
       "loyalty": "HIGH",
-      "ambition": "MODERATE",
+      "ambition": "HIGH",
       "short_term_goals": [
-        "完成本卷委托与人际维系"
+        "以庭园茶会维持人际",
+        "以传言与外表掩护生存"
       ],
       "long_term_goals": [
-        "维系家庭与对抗人神"
+        "成为能打破停滞的王（迪利克期待）"
       ],
       "obligations": [
-        "家庭与部属之责"
+        "对十三旧部与派阀下的人的潜在责任"
       ],
       "decision_tendencies": [
-        "权衡后行动"
+        "先听完整经历再抉择",
+        "以优雅维系形象"
       ],
       "speech_tendencies": [
-        "敬体对外常体对内"
+        "公开端庄敬语",
+        "私下仍保持王族口吻"
       ],
       "social_tendencies": [
-        "协作"
+        "庭园茶会维系人际",
+        "与路克讨论宫中女孩以作掩护"
       ],
       "conflict_tendencies": [
-        "以谈判优先"
+        "以问答与礼仪应对"
       ],
       "known_skills": [
-        "无咏唱魔术"
+        "政略洞察",
+        "人才观察"
       ],
       "knowledge_state": [
-        "鲁迪乌斯与艾莉丝·瑞杰路德途经魔大陆展开冒险入门"
+        "知阿斯拉贵族以异癖为地位符号",
+        "知第二公主派最弱"
       ],
       "relationship_tendencies": [
-        "护伴"
+        "对路克君臣共谋",
+        "对迪利克受其常识刹车"
       ],
-      "behavior_changes_note": "V03 依该卷事件推进人物状态演进（证据见该卷证据段）。",
-      "summary": "V03 鲁迪乌斯·格雷拉特 在《少年期 冒险者入门篇》中的阶段侧写，见证据段。",
+      "behavior_changes_note": "王宫内以外表与传言作掩护，享乐表象下已有勤勉社交一面",
+      "summary": "王宫期的爱丽儿以优雅与传言为掩护，在路克与迪利克陪伴下度日的第二公主。",
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
         "EV03001",
-        "EV03006"
+        "EV03003",
+        "EV03005"
       ],
-      "identity": "鲁迪乌斯·格雷拉特",
-      "origin": null,
+      "identity": "人类·阿斯拉王族 第二公主",
+      "origin": "阿斯拉王国王都·王宫，第二公主派",
       "origin_location_id": null,
-      "status_rank": null,
-      "appearance_traits": [],
-      "body_traits": [],
+      "status_rank": "第二公主（王宫期）",
+      "appearance_traits": [
+        "金发碧眼",
+        "宛如美术课本的美貌",
+        "王族礼装",
+        "庭园中的从容仪态"
+      ],
+      "body_traits": [
+        "端庄王族仪态"
+      ],
       "core_personality": [
-        "慎重",
-        "重情"
+        "视王位为责任的萌芽",
+        "以优雅维系统治形象",
+        "才华即人脉的雏形"
       ],
       "surface_personality": [
-        "温和而好色克制"
+        "王族礼仪、从容、外交、情绪控制、茶会与敬语",
+        "以自身外表和传言作为掩护"
       ],
       "hidden_personality": [
-        "自责与逞强"
+        "好奇心、观察特殊的人、测试他人反应、隐藏的任性",
+        "同性也照吃的极度虐待狂等超过限度的性癖好之一员，私人倾向"
       ],
       "interests": [
-        "魔术与家族"
+        "观察有潜力者",
+        "宫廷社交"
       ],
       "dislikes": [
-        "离别与失控"
+        "被说教低俗传闻树敌"
       ],
       "weaknesses": [
-        "过度自责",
-        "对家人安危敏感"
+        "派阀实力最弱"
       ],
-      "obsessions": [],
+      "obsessions": [
+        "以传言与外表掩护生存"
+      ],
       "habits": [
-        "事后复盘与笔记"
+        "庭园茶会",
+        "与路克谈论宫中女孩"
       ],
       "emotional_triggers": [
-        "家人遇险",
-        "人神低语"
+        "被指责过于任性",
+        "提及王位无望论"
       ],
-      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
-      "extreme_choice_note": "极端时会以自伤为代价保全家人",
-      "phase_personality_note": "V03阶段性人格侧重见证据段"
+      "decision_logic": "享乐表象下仍保留打破停滞的可能性；公开场合不用私癖作政治工具",
+      "extreme_choice_note": null,
+      "phase_personality_note": "公开端庄、私下享乐与试探并存；对迪利克的常识刹车会耸肩反驳但未决裂"
     },
     {
       "profile_id": "CP03002",
-      "character_id": "E0031",
-      "phase_id": "P3002",
-      "phase_name": "V03 少年期 冒险者入门篇",
+      "character_id": "E0045",
+      "phase_id": "P03002",
+      "phase_name": "王宫护卫期",
       "start_date": null,
       "end_date": null,
       "date_precision": "UNKNOWN",
-      "age_description": "见该卷时年与身份",
+      "age_description": "青年骑士，王宫期",
       "personality_traits": [
-        "坚定"
+        "忠诚",
+        "好色",
+        "直言",
+        "轻佻"
       ],
       "values": [
-        "职责"
+        "爱丽儿成王为使命"
       ],
       "desires": [
-        "安稳与成长"
+        "护卫爱丽儿并维持宫廷享乐"
       ],
       "fears": [
-        "再失重要之人"
+        "因好色传闻致主树敌"
       ],
       "taboos": [
-        "背叛"
+        "背离爱丽儿"
       ],
       "insecurities": [
-        "过度自责"
+        "剑术与谋略尚不足以独当一面"
       ],
-      "pride": null,
-      "impulsiveness": "LOW",
-      "patience": "MEDIUM",
+      "pride": "护卫礼仪与知遇",
+      "impulsiveness": "MEDIUM",
+      "patience": "LOW",
       "risk_tolerance": "MEDIUM",
       "self_control": "MEDIUM",
-      "attachment_style": null,
-      "authority_attitude": null,
-      "family_attitude": null,
-      "romantic_attitude": null,
-      "violence_attitude": null,
+      "attachment_style": "对爱丽儿君臣共谋",
+      "authority_attitude": "对王家保持服从",
+      "family_attitude": "诺托斯家责任",
+      "romantic_attitude": "好色，喜巨乳，与路克讨论宫中女孩",
+      "violence_attitude": "持剑护卫为先",
       "money_attitude": null,
-      "status_attitude": null,
+      "status_attitude": "重王统",
       "race_attitude": null,
       "religious_attitude": null,
       "loyalty": "HIGH",
-      "ambition": "MODERATE",
+      "ambition": "HIGH",
       "short_term_goals": [
-        "完成本卷委托与人际维系"
+        "与爱丽儿以传言掩护在宫中生存"
       ],
       "long_term_goals": [
-        "完成职责"
+        "见证登基"
       ],
       "obligations": [
-        "家庭与部属之责"
+        "护卫爱丽儿"
       ],
       "decision_tendencies": [
-        "权衡后行动"
+        "直言陈情",
+        "以轻佻掩护"
       ],
       "speech_tendencies": [
-        "敬体对外常体对内"
+        "对爱丽儿调侃式讨论",
+        "对迪利克耸肩反驳"
       ],
       "social_tendencies": [
-        "协作"
+        "往返庭园"
       ],
       "conflict_tendencies": [
-        "以谈判优先"
+        "以身挡敌"
       ],
-      "known_skills": [],
+      "known_skills": [
+        "宫廷剑术",
+        "人脉斡旋"
+      ],
       "knowledge_state": [
-        "鲁迪乌斯与艾莉丝·瑞杰路德途经魔大陆展开冒险入门"
+        "知第二公主派最弱",
+        "知宫中女孩传闻"
       ],
       "relationship_tendencies": [
-        "护伴"
+        "对爱丽儿共谋",
+        "对迪利克被其劝诫"
       ],
-      "behavior_changes_note": "V03 依该卷事件推进人物状态演进（证据见该卷证据段）。",
-      "summary": "V03 瑞杰路德·斯佩路迪亚 在《少年期 冒险者入门篇》中的阶段侧写，见证据段。",
+      "behavior_changes_note": "与爱丽儿一同用享乐作掩护",
+      "summary": "王宫期的路克，忠诚而好色，与爱丽儿共谋的宫廷搭档。",
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV03003",
-        "EV03008"
+        "EV03006",
+        "EV03002"
       ],
-      "identity": null,
-      "origin": null,
+      "identity": "人类·阿斯拉贵族 诺托斯家",
+      "origin": "阿斯拉王国",
       "origin_location_id": null,
-      "status_rank": null,
-      "appearance_traits": [],
+      "status_rank": "王宫护卫（爱丽儿侧近）",
+      "appearance_traits": [
+        "帅哥",
+        "讨人喜欢的长相"
+      ],
       "body_traits": [],
       "core_personality": [
-        "慎重",
-        "重情"
+        "忠于爱丽儿",
+        "好色"
       ],
       "surface_personality": [
-        "温和而好色克制"
+        "清澄应对",
+        "宫廷礼仪"
       ],
       "hidden_personality": [
-        "自责与逞强"
+        "好色，喜巨乳",
+        "与爱丽儿一同享乐掩护"
       ],
       "interests": [
-        "魔术与家族"
+        "宫中女孩"
       ],
       "dislikes": [
-        "离别与失控"
+        "迪利克的说教"
       ],
       "weaknesses": [
-        "过度自责",
-        "对家人安危敏感"
+        "易被利用"
       ],
       "obsessions": [],
       "habits": [
-        "事后复盘与笔记"
+        "与爱丽儿讨论乳头颜色"
       ],
       "emotional_triggers": [
-        "家人遇险",
-        "人神低语"
+        "被指不解风情"
       ],
-      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
-      "extreme_choice_note": "极端时会以自伤为代价保全家人",
-      "phase_personality_note": "V03阶段性人格侧重见证据段"
+      "decision_logic": "忠诚与享乐并存；未将私癖作政治工具",
+      "extreme_choice_note": null,
+      "phase_personality_note": "与爱丽儿互为掩护，迪利克为常识刹车"
     },
     {
       "profile_id": "CP03003",
-      "character_id": "E0032",
-      "phase_id": "P3003",
-      "phase_name": "V03 少年期 冒险者入门篇",
+      "character_id": "E0046",
+      "phase_id": "P03003",
+      "phase_name": "守护术师期",
       "start_date": null,
       "end_date": null,
       "date_precision": "UNKNOWN",
-      "age_description": "见该卷时年与身份",
+      "age_description": "青年术师，王宫期",
       "personality_traits": [
-        "坚定"
+        "常识",
+        "克制",
+        "忠直",
+        "忧虑"
       ],
       "values": [
-        "职责"
+        "常识与国家安定",
+        "爱丽儿应成为能打破停滞的王"
       ],
       "desires": [
-        "安稳与成长"
+        "爱丽儿能登基增强国力",
+        "避免因低俗传闻树敌"
       ],
       "fears": [
-        "再失重要之人"
+        "爱丽儿因享乐放弃王位",
+        "刺客与政争"
       ],
       "taboos": [
-        "背叛"
+        "临阵抛下主君"
       ],
       "insecurities": [
-        "过度自责"
+        "自认只是水平不算罕见的魔术师"
       ],
-      "pride": null,
+      "pride": "优秀成绩毕业的魔术师团术师",
       "impulsiveness": "LOW",
-      "patience": "MEDIUM",
-      "risk_tolerance": "MEDIUM",
-      "self_control": "MEDIUM",
-      "attachment_style": null,
-      "authority_attitude": null,
-      "family_attitude": null,
+      "patience": "HIGH",
+      "risk_tolerance": "LOW",
+      "self_control": "HIGH",
+      "attachment_style": "以守护誓言维系",
+      "authority_attitude": "对王家与魔术师团服从",
+      "family_attitude": "受父亲推举就任守护术师",
       "romantic_attitude": null,
-      "violence_attitude": null,
+      "violence_attitude": "以术护主",
       "money_attitude": null,
-      "status_attitude": null,
+      "status_attitude": "重王统",
       "race_attitude": null,
       "religious_attitude": null,
       "loyalty": "HIGH",
       "ambition": "MODERATE",
       "short_term_goals": [
-        "完成本卷委托与人际维系"
+        "劝爱丽儿与路克勿因低俗树敌"
       ],
       "long_term_goals": [
-        "完成职责"
+        "助爱丽儿成能征服中央大陆的明君"
       ],
       "obligations": [
-        "家庭与部属之责"
+        "守护术师之责"
       ],
       "decision_tendencies": [
-        "权衡后行动"
+        "以常识直谏",
+        "独自思考国家未来"
       ],
       "speech_tendencies": [
-        "敬体对外常体对内"
+        "直言劝诫体",
+        "叹气"
       ],
       "social_tendencies": [
-        "协作"
+        "与路克轮值如厕",
+        "退场后独自思考"
       ],
       "conflict_tendencies": [
-        "以谈判优先"
+        "以身挡刺客"
       ],
-      "known_skills": [],
+      "known_skills": [
+        "魔术",
+        "守护术"
+      ],
       "knowledge_state": [
-        "鲁迪乌斯与艾莉丝·瑞杰路德途经魔大陆展开冒险入门"
+        "知第二公主派最弱但有超凡魅力",
+        "知爱丽儿勤勉社交一面"
       ],
       "relationship_tendencies": [
-        "护伴"
+        "对爱丽儿由推举到舍命追随",
+        "对路克共担护卫"
       ],
-      "behavior_changes_note": "V03 依该卷事件推进人物状态演进（证据见该卷证据段）。",
-      "summary": "V03 人神 在《少年期 冒险者入门篇》中的阶段侧写，见证据段。",
+      "behavior_changes_note": "从被耸肩反驳到在厕所中坚定追随",
+      "summary": "王宫期的迪利克，常识的刹车与最坚定的追随者。",
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_refs": [
-        "EV03005",
-        "EV03010"
-      ],
-      "identity": null,
-      "origin": null,
-      "origin_location_id": null,
-      "status_rank": null,
-      "appearance_traits": [],
-      "body_traits": [],
-      "core_personality": [
-        "慎重",
-        "重情"
-      ],
-      "surface_personality": [
-        "温和而好色克制"
-      ],
-      "hidden_personality": [
-        "自责与逞强"
-      ],
-      "interests": [
-        "魔术与家族"
-      ],
-      "dislikes": [
-        "离别与失控"
-      ],
-      "weaknesses": [
-        "过度自责",
-        "对家人安危敏感"
-      ],
-      "obsessions": [],
-      "habits": [
-        "事后复盘与笔记"
-      ],
-      "emotional_triggers": [
-        "家人遇险",
-        "人神低语"
-      ],
-      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
-      "extreme_choice_note": "极端时会以自伤为代价保全家人",
-      "phase_personality_note": "V03阶段性人格侧重见证据段"
-    }
-  ],
-  "behavior_cases": [
-    {
-      "case_id": "BC03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "family",
-      "context": "V03 场景1：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发1：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动1：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "FAMILY"
-      ],
-      "evidence_refs": [
-        "EV03011"
-      ]
-    },
-    {
-      "case_id": "BC03002",
-      "character_id": "E0031",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "trust",
-      "context": "V03 场景2：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发2：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动2：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "TRUST"
-      ],
-      "evidence_refs": [
-        "EV03012"
-      ]
-    },
-    {
-      "case_id": "BC03003",
-      "character_id": "E0032",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "negotiation",
-      "context": "V03 场景3：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发3：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动3：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "NEGOTIATION"
-      ],
-      "evidence_refs": [
-        "EV03013"
-      ]
-    },
-    {
-      "case_id": "BC03004",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "protect",
-      "context": "V03 场景4：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发4：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动4：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "PROTECT"
-      ],
-      "evidence_refs": [
-        "EV03014"
-      ]
-    },
-    {
-      "case_id": "BC03005",
-      "character_id": "E0031",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "training",
-      "context": "V03 场景5：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发5：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动5：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "TRAINING"
-      ],
-      "evidence_refs": [
-        "EV03015"
-      ]
-    },
-    {
-      "case_id": "BC03006",
-      "character_id": "E0032",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "friendship",
-      "context": "V03 场景6：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发6：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动6：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "FRIENDSHIP"
-      ],
-      "evidence_refs": [
-        "EV03016"
-      ]
-    },
-    {
-      "case_id": "BC03007",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "suspicion",
-      "context": "V03 场景7：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发7：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动7：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "SUSPICION"
-      ],
-      "evidence_refs": [
-        "EV03001"
-      ]
-    },
-    {
-      "case_id": "BC03008",
-      "character_id": "E0031",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "volume_no": 3,
-      "situation_type": "moral_choice",
-      "context": "V03 场景8：少年期 冒险者入门篇中的人际/委托场景",
-      "trigger": "触发8：对方请求或突发事件",
-      "available_information": "当卷可见的对话与场景信息",
-      "action": "行动8：权衡后协作或应对",
-      "verbal_response": "依对象切换敬体/常体简短回应",
-      "emotional_response": "克制而关切",
-      "goal_at_time": "完成当下职责并维系关系",
-      "relationship_context": "与同伴/家人协作",
-      "social_context": "学园或冒险者公会/家庭场合",
-      "immediate_outcome": "取得局部进展",
-      "long_term_outcome": "为人际与后续事件奠基",
-      "tags": [
-        "MORAL_CHOICE"
-      ],
-      "evidence_refs": [
-        "EV03002"
-      ]
-    }
-  ],
-  "detailed_events": [
-    {
-      "event_id": "DE03001",
-      "event_type": "过渡",
-      "title": "V03 要事1：少年期 冒险者入门篇小节1",
-      "timeline_event_id": null,
-      "time_date": null,
-      "time_precision": "UNKNOWN",
-      "time_note": "V03期间",
-      "volume_no": 3,
-      "location_id": null,
-      "participants": [
-        "E0001",
-        "E0031"
-      ],
-      "prerequisites": [
-        {
-          "prerequisite_id": "EP03001",
-          "prerequisite_type": "PERSON_PRESENT",
-          "ref_id": "E0001",
-          "statement": "E0001在场",
-          "evidence_refs": [
-            "EV03003"
-          ]
-        }
-      ],
-      "dependencies": [
-        {
-          "dependency_id": "ED03001",
-          "dependency_type": "CAUSES",
-          "target_event_id": "DE03002",
-          "statement": "为后事提供前提"
-        }
-      ],
-      "state_changes": [
-        {
-          "change_id": "SC03001",
-          "change_kind": "关系",
-          "subject_id": "E0001",
-          "before": "未定",
-          "after": "推进"
-        }
-      ],
-      "trigger": "V03 触发条件小节1",
-      "actions": [
-        "行动链小节1：筹备—执行—收束"
-      ],
-      "outcome": "结果1：阶段性收束并为后事铺垫",
-      "relationship_change_ids": [],
-      "belief_ids": [],
-      "canon_importance": "MAJOR",
-      "evidence_refs": [
-        "EV03015",
-        "EV03004"
-      ],
-      "involved_factions": [],
-      "long_term_impacts": [
-        "长期影响1：形塑后卷人际与立场"
-      ],
-      "political_impacts": [],
-      "world_impacts": [],
-      "participant_actions": [
-        "E0001主导推进"
-      ]
-    },
-    {
-      "event_id": "DE03002",
-      "event_type": "冲突",
-      "title": "V03 要事2：少年期 冒险者入门篇小节2",
-      "timeline_event_id": null,
-      "time_date": null,
-      "time_precision": "UNKNOWN",
-      "time_note": "V03期间",
-      "volume_no": 3,
-      "location_id": null,
-      "participants": [
-        "E0001",
-        "E0031"
-      ],
-      "prerequisites": [
-        {
-          "prerequisite_id": "EP03002",
-          "prerequisite_type": "PERSON_PRESENT",
-          "ref_id": "E0001",
-          "statement": "E0001在场",
-          "evidence_refs": [
-            "EV03004"
-          ]
-        }
-      ],
-      "dependencies": [
-        {
-          "dependency_id": "ED03002",
-          "dependency_type": "CAUSES",
-          "target_event_id": "DE03003",
-          "statement": "为后事提供前提"
-        }
-      ],
-      "state_changes": [
-        {
-          "change_id": "SC03002",
-          "change_kind": "认知",
-          "subject_id": "E0001",
-          "before": "未定",
-          "after": "推进"
-        }
-      ],
-      "trigger": "V03 触发条件小节2",
-      "actions": [
-        "行动链小节2：筹备—执行—收束"
-      ],
-      "outcome": "结果2：阶段性收束并为后事铺垫",
-      "relationship_change_ids": [],
-      "belief_ids": [],
-      "canon_importance": "MAJOR",
-      "evidence_refs": [
-        "EV03001",
-        "EV03006"
-      ],
-      "involved_factions": [],
-      "long_term_impacts": [
-        "长期影响2：形塑后卷人际与立场"
-      ],
-      "political_impacts": [],
-      "world_impacts": [],
-      "participant_actions": [
-        "E0001主导推进"
-      ]
-    },
-    {
-      "event_id": "DE03003",
-      "event_type": "成长",
-      "title": "V03 要事3：少年期 冒险者入门篇小节3",
-      "timeline_event_id": null,
-      "time_date": null,
-      "time_precision": "UNKNOWN",
-      "time_note": "V03期间",
-      "volume_no": 3,
-      "location_id": null,
-      "participants": [
-        "E0001",
-        "E0031"
-      ],
-      "prerequisites": [
-        {
-          "prerequisite_id": "EP03003",
-          "prerequisite_type": "PERSON_PRESENT",
-          "ref_id": "E0001",
-          "statement": "E0001在场",
-          "evidence_refs": [
-            "EV03005"
-          ]
-        }
-      ],
-      "dependencies": [
-        {
-          "dependency_id": "ED03003",
-          "dependency_type": "CAUSES",
-          "target_event_id": "DE03004",
-          "statement": "为后事提供前提"
-        }
-      ],
-      "state_changes": [
-        {
-          "change_id": "SC03003",
-          "change_kind": "关系",
-          "subject_id": "E0001",
-          "before": "未定",
-          "after": "推进"
-        }
-      ],
-      "trigger": "V03 触发条件小节3",
-      "actions": [
-        "行动链小节3：筹备—执行—收束"
-      ],
-      "outcome": "结果3：阶段性收束并为后事铺垫",
-      "relationship_change_ids": [],
-      "belief_ids": [],
-      "canon_importance": "MAJOR",
-      "evidence_refs": [
-        "EV03003",
+        "EV03007",
         "EV03008"
       ],
-      "involved_factions": [],
-      "long_term_impacts": [
-        "长期影响3：形塑后卷人际与立场"
+      "identity": "人类·魔术师团 守护术师",
+      "origin": "阿斯拉王国",
+      "origin_location_id": null,
+      "status_rank": "守护术师（爱丽儿侧近）",
+      "appearance_traits": [
+        "偏瘦",
+        "讨人喜欢的长相",
+        "具独特气质"
       ],
-      "political_impacts": [],
-      "world_impacts": [],
-      "participant_actions": [
-        "E0001主导推进"
-      ]
-    },
-    {
-      "event_id": "DE03004",
-      "event_type": "收束",
-      "title": "V03 要事4：少年期 冒险者入门篇小节4",
-      "timeline_event_id": null,
-      "time_date": null,
-      "time_precision": "UNKNOWN",
-      "time_note": "V03期间",
-      "volume_no": 3,
-      "location_id": null,
-      "participants": [
-        "E0001",
-        "E0031"
+      "body_traits": [],
+      "core_personality": [
+        "常识",
+        "忠直",
+        "愿为爱丽儿舍命"
       ],
-      "prerequisites": [
-        {
-          "prerequisite_id": "EP03004",
-          "prerequisite_type": "PERSON_PRESENT",
-          "ref_id": "E0001",
-          "statement": "E0001在场",
-          "evidence_refs": [
-            "EV03006"
-          ]
-        }
+      "surface_personality": [
+        "默默听对话",
+        "直言劝诫"
       ],
-      "dependencies": [],
-      "state_changes": [
-        {
-          "change_id": "SC03004",
-          "change_kind": "认知",
-          "subject_id": "E0001",
-          "before": "未定",
-          "after": "推进"
-        }
+      "hidden_personality": [
+        "在厕所中坚定认为爱丽儿能打破停滞"
       ],
-      "trigger": "V03 触发条件小节4",
-      "actions": [
-        "行动链小节4：筹备—执行—收束"
+      "interests": [],
+      "dislikes": [
+        "过于任性与低俗树敌"
       ],
-      "outcome": "结果4：阶段性收束并为后事铺垫",
-      "relationship_change_ids": [],
-      "belief_ids": [],
-      "canon_importance": "MINOR",
-      "evidence_refs": [
-        "EV03005",
-        "EV03010"
+      "weaknesses": [
+        "言语不擅被耸肩"
       ],
-      "involved_factions": [],
-      "long_term_impacts": [
-        "长期影响4：形塑后卷人际与立场"
+      "obsessions": [
+        "爱丽儿应成王打破四百年停滞"
       ],
-      "political_impacts": [],
-      "world_impacts": [],
-      "participant_actions": [
-        "E0001主导推进"
-      ]
+      "habits": [
+        "如厕前告知路克"
+      ],
+      "emotional_triggers": [
+        "爱丽儿自称满足于喝茶享乐"
+      ],
+      "decision_logic": "王位>享乐；国家安定>私人传闻",
+      "extreme_choice_note": "即使与刺客交战丧命也在所不惜",
+      "phase_personality_note": "常识刹车，常被反驳但不离弃"
     }
   ],
+  "behavior_cases": [],
+  "detailed_events": [],
   "items": [],
   "item_instances": [],
   "abilities": [],
@@ -1023,25 +518,26 @@
     {
       "rule_id": "WR03001",
       "domain": "SOCIETY",
-      "statement": "V03《少年期 冒险者入门篇》阶段的社会与委托范式见该卷场景",
-      "scope": "少年期 冒险者入门篇",
-      "exceptions": "特例以个案为准",
-      "confidence": "STRONG_INFERENCE",
+      "statement": "在阿斯拉王国，有很多人认为把异于他人的行为当成兴趣正代表一种社会地位；历史四百年无战无饥使贵族以超过限度的性癖好等异癖为地位符号",
+      "scope": "阿斯拉王国贵族与王族",
+      "exceptions": "迪利克等常识派反对因低俗传闻树敌",
+      "confidence": "EXPLICIT",
       "visible_from_volume": 3,
       "evidence_refs": [
-        "EV03013"
+        "EV03003",
+        "EV03004"
       ]
     },
     {
       "rule_id": "WR03002",
-      "domain": "GENERAL",
-      "statement": "V03中魔术/能力运用的一般约束见该卷演示",
-      "scope": "少年期 冒险者入门篇",
-      "exceptions": "个体差异",
-      "confidence": "INFERENCE",
+      "domain": "NOBILITY",
+      "statement": "阿斯拉王位继承中第二公主派在王宫期最弱，年龄与同伴数量均输两位兄长，直接对抗胜算低",
+      "scope": "阿斯拉王位继承",
+      "exceptions": "爱丽儿具备超凡魅力与勤勉社交潜力可打破停滞",
+      "confidence": "EXPLICIT",
       "visible_from_volume": 3,
       "evidence_refs": [
-        "EV03014"
+        "EV03008"
       ]
     }
   ],
@@ -1052,94 +548,41 @@
   "political_states": [],
   "species": [],
   "creatures": [],
-  "beliefs": [
-    {
-      "belief_id": "BL03001",
-      "owner_id": "E0001",
-      "topic": "V03当下判断",
-      "statement": "认为按当前情报行事可兼顾家人与委托",
-      "certainty": "INFERENCE",
-      "belief_state": "INFERRED",
-      "learned_from": null,
-      "learned_at_volume": 3,
-      "learned_method": "当卷见闻",
-      "is_true_in_world": null,
-      "visible_from_volume": 3,
-      "visible_to_volume": null,
-      "note": "卷内阶段性判断",
-      "evidence_refs": [
-        "EV03007"
-      ]
-    }
-  ],
+  "beliefs": [],
   "economic_observations": [],
-  "relationship_changes": [
-    {
-      "change_id": "RC03001",
-      "source_id": "E0001",
-      "target_id": "E0031",
-      "dimension": "协作",
-      "before": "既有关系",
-      "trigger": "V03事件1",
-      "after": "协作深化",
-      "at_volume": 3,
-      "at_date": null,
-      "evidence_refs": [
-        "EV03001"
-      ]
-    }
-  ],
-  "speech_profiles": [
-    {
-      "profile_id": "ST03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "politeness": "敬体对外常体对内",
-      "sentence_length": "中短",
-      "address_habits": "依对象切换称呼",
-      "emotion_expression": "克制关切",
-      "anger_expression": "沉声",
-      "shy_expression": "挠头苦笑",
-      "intimate_speech": "温和",
-      "stranger_speech": "礼貌",
-      "superior_speech": "简洁指示",
-      "inferior_speech": "安抚",
-      "canonical_examples": [
-        "交给我吧。",
-        "先确认再行动。"
-      ],
-      "visible_from_volume": 3,
-      "evidence_refs": [
-        "EV03011"
-      ]
-    }
-  ],
+  "relationship_changes": [],
+  "speech_profiles": [],
   "character_quirks": [
     {
       "quirk_id": "QK03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "category": "HABIT",
-      "name": "事后复盘",
-      "description": "事后以笔记与对话复盘得失",
-      "intensity": "中",
-      "frequency": "频发",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "category": "private_fetish",
+      "name": "极度虐待狂与性癖好",
+      "description": "王宫期爱丽儿是同性也照吃的极度虐待狂；许多阿斯拉贵族王族都拥有超过限度的性癖好，爱丽儿也不例外。与路克讨论宫中女孩乳头颜色等享乐是宫廷掩护与贵族地位符号，不是登基后的施政目标。",
+      "intensity": "HIGH（私人倾向）/ LOW（政治行动驱动）",
+      "frequency": "王宫庭园闲谈中偶发",
       "triggers": [
-        "事毕"
+        "庭园茶会",
+        "与路克私下闲谈",
+        "阿斯拉贵族式荤话氛围"
       ],
       "preferred_targets": [],
       "avoided_targets": [],
-      "public_expression": null,
-      "private_expression": null,
+      "public_expression": "公开场合维持王族礼仪",
+      "private_expression": "与路克私下讨论宫中女孩等享乐话题",
       "behavior_patterns": [
-        "记录与商议"
+        "以享乐与传言作掩护"
       ],
       "verbal_patterns": [],
       "body_language": null,
-      "emotional_reward": null,
+      "emotional_reward": "享乐与掩护",
       "emotional_response": null,
-      "boundaries": [],
+      "boundaries": [
+        "不在朝堂用此事做交易",
+        "不因此放弃王位目标",
+        "迪利克反对因低俗传闻树敌"
+      ],
       "exceptions": [],
       "start_date": null,
       "end_date": null,
@@ -1148,95 +591,131 @@
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
+        "EV03002",
+        "EV03003"
+      ],
+      "simulation_weight": "COLOR",
+      "overplay_warning": "禁止把虐待狂/性癖写成爱丽儿的主要行动目标或每场社交的默认行为；这是王宫期私人倾向，登基后施政目标为王权安定，GM仅在私密宫廷闲谈或玩家主动引向时启用。",
+      "is_private_tendency": true
+    }
+  ],
+  "character_preferences": [],
+  "body_language_profiles": [],
+  "character_personas": [
+    {
+      "persona_id": "PN03001",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "persona_type": "PUBLIC",
+      "description": "王族礼仪、从容，庭园中威仪的第二公主",
+      "speech_style": "端庄敬语",
+      "behavior_traits": [
+        "王族礼仪",
+        "从容",
+        "茶会"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
         "EV03005"
+      ]
+    },
+    {
+      "persona_id": "PN03002",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "persona_type": "PRIVATE",
+      "description": "私下与路克享乐、讨论宫中女孩、极度虐待狂等私人倾向",
+      "speech_style": "更直接、与路克调侃",
+      "behavior_traits": [
+        "与路克共谋",
+        "享乐掩护"
+      ],
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV03002"
       ]
     }
   ],
-  "character_preferences": [
+  "canon_conflicts": [],
+  "canon_gaps": [],
+  "behavior_rules": [
     {
-      "preference_id": "PF03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "preference_type": "LIKE",
-      "target": "家人与同伴",
-      "description": "以家人与同伴为优先",
-      "intensity": "高",
-      "context": "V03",
+      "rule_id": "BR03001",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "condition": "王宫庭园私下与路克闲谈，氛围为阿斯拉贵族式荤话",
+      "trigger_event": "路克提起宫中女孩或传闻",
+      "response": "可能与路克一同讨论宫中女孩等享乐话题，以此作掩护与地位符号",
+      "psychological_reason": "以享乐与传言作掩护，维持难以亲近的氛围；私人倾向非政治目标",
+      "known_at_time": "知第二公主派最弱，直接对抗无胜算",
+      "unknown_at_time": "不知道未来迪利克会坚定追随至舍命",
+      "public_vs_private": "PRIVATE",
+      "simulation_weight": "COLOR",
+      "overplay_warning": "禁止把此反应写成每场社交默认或登基后施政手段；仅宫廷私下启用",
+      "tags": [
+        "PRIVATE_SCENE",
+        "NOBILITY"
+      ],
       "visible_from_volume": 3,
       "visible_to_volume": null,
       "evidence_type": "CANON_EXPLICIT",
       "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV03015"
+        "EV03002"
       ]
-    }
-  ],
-  "body_language_profiles": [
+    },
     {
-      "profile_id": "BY03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "phase_name": "V03 少年期 冒险者入门篇",
-      "happy_signs": [
-        "点头"
-      ],
-      "angry_signs": [
-        "皱眉"
-      ],
-      "nervous_signs": [
-        "视线漂移"
-      ],
-      "embarrassed_signs": [
-        "挠头"
-      ],
-      "lying_signs": [],
-      "fear_signs": [],
-      "thinking_signs": [
-        "托腮"
-      ],
-      "affection_signs": [
-        "拍肩"
-      ],
-      "hostility_signs": [],
-      "visible_from_volume": 3,
-      "visible_to_volume": null,
-      "evidence_refs": [
-        "EV03009"
-      ]
-    }
-  ],
-  "character_personas": [
-    {
-      "persona_id": "PN03001",
-      "character_id": "E0001",
-      "phase_id": "P3001",
-      "persona_type": "PUBLIC",
-      "description": "V03公开面向：协作与护家",
-      "speech_style": "敬谨对外温和对内",
-      "behavior_traits": [
-        "协作",
-        "护家"
+      "rule_id": "BR03002",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "condition": "迪利克以常识直谏不要因低俗传闻树敌",
+      "trigger_event": "迪利克劝诫过于任性",
+      "response": "与路克一同耸肩反驳，称迪利克不解风情、需学会察言观色",
+      "psychological_reason": "以耸肩维持享乐表象与掩护，私下仍受其守护",
+      "known_at_time": "知迪利克是具备常识的刹车",
+      "unknown_at_time": "不知道迪利克在厕所中已坚定追随",
+      "public_vs_private": "MIXED",
+      "simulation_weight": "SECONDARY",
+      "overplay_warning": null,
+      "tags": [
+        "NOBILITY",
+        "TRUST"
       ],
       "visible_from_volume": 3,
       "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
       "evidence_refs": [
-        "EV03003"
+        "EV03008"
       ]
-    }
-  ],
-  "canon_conflicts": [],
-  "canon_gaps": [
+    },
     {
-      "gap_id": "GAP03001",
-      "domain": "一般",
-      "question": "V03未明细节待后卷补全",
-      "why_needed": "推演该卷人际与事件的后续",
-      "searched_volumes": [
-        3
+      "rule_id": "BR03003",
+      "character_id": "E0044",
+      "phase_id": "P03001",
+      "condition": "公开朝堂或涉及王位存亡的抉择",
+      "trigger_event": "任何王位压力",
+      "response": "不以性癖好行动，改以礼仪、笼络、或迪利克所期待的勤勉经营应对",
+      "psychological_reason": "王位与国家>私人羞耻兴趣；享乐仅为掩护",
+      "known_at_time": "知自身为第二公主，派阀最弱",
+      "unknown_at_time": "不知道未来将取得佩尔基乌斯后盾",
+      "public_vs_private": "PUBLIC",
+      "simulation_weight": "PRIMARY",
+      "overplay_warning": "禁止在朝堂生成性癖场景；该场合必须走政治/礼仪路径",
+      "tags": [
+        "AUTHORITY",
+        "NOBILITY",
+        "PUBLIC_SCENE"
       ],
-      "status": "OPEN",
-      "possible_sources": "后卷对应篇章",
-      "note": "本卷仅阶段性补全"
+      "visible_from_volume": 3,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV03008"
+      ]
     }
   ]
 }

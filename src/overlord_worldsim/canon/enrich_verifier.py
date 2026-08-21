@@ -64,6 +64,7 @@ BODY_PREFIX = "BY"
 PERSONA_PREFIX = "PN"
 CONFLICT_PREFIX = "CC"
 GAP_PREFIX = "GAP"
+BEHAVIOR_RULE_PREFIX = "BR"
 
 
 @dataclass(frozen=True)
@@ -793,6 +794,40 @@ class _Checker:
             _check_evidence_set(self.errors, path, persona.evidence_refs, self.batch_evidence)
             _check_single_char_array(self.errors, path, "behavior_traits", persona.behavior_traits)
 
+    def check_behavior_rules(self, batch: EnrichmentBatch) -> None:
+        for rule in batch.behavior_rules:
+            path = f"behavior_rules.{rule.rule_id}"
+            _check_id_prefix(self.errors, "behavior_rules", rule.rule_id, BEHAVIOR_RULE_PREFIX)
+            self._check_entity_ref(path, rule.character_id)
+            _check_visible_window(
+                self.errors, path, rule.visible_from_volume, rule.visible_to_volume
+            )
+            _check_evidence_set(self.errors, path, rule.evidence_refs, self.batch_evidence)
+            if rule.public_vs_private not in ("PUBLIC", "PRIVATE", "MIXED"):
+                self.errors.append(
+                    VerificationError(
+                        "behavior_rule_public_vs_private",
+                        path,
+                        f"invalid public_vs_private {rule.public_vs_private!r}",
+                    )
+                )
+            if rule.simulation_weight not in ("PRIMARY", "SECONDARY", "COLOR"):
+                self.errors.append(
+                    VerificationError(
+                        "behavior_rule_weight",
+                        path,
+                        f"invalid simulation_weight {rule.simulation_weight!r}",
+                    )
+                )
+            # tags must be valid BehaviorTag vocabulary — from_json already validates,
+            # but tolerate legacy strings by checking non-empty
+            if not rule.tags:
+                self.errors.append(
+                    VerificationError(
+                        "behavior_rule_tags", path, "rule should have at least one tag"
+                    )
+                )
+
     def check_conflicts(self, batch: EnrichmentBatch) -> None:
         for conflict in batch.canon_conflicts:
             path = f"conflicts.{conflict.conflict_id}"
@@ -925,6 +960,7 @@ def verify_enrichment(
         checker.check_preferences(batch)
         checker.check_body_language(batch)
         checker.check_personas(batch)
+        checker.check_behavior_rules(batch)
         checker.check_conflicts(batch)
         checker.check_gaps(batch)
 
@@ -968,6 +1004,7 @@ def _check_unique_ids(errors: list[VerificationError], batches: list[EnrichmentB
         "personas": {},
         "conflicts": {},
         "gaps": {},
+        "behavior_rules": {},
     }
 
     def register(collection: str, record_id: str, batch_id: str) -> None:
@@ -1005,8 +1042,8 @@ def _check_unique_ids(errors: list[VerificationError], batches: list[EnrichmentB
             register("abilities", ability.ability_id, batch.batch_id)
         for comparison in batch.power_comparisons:
             register("comparisons", comparison.comparison_id, batch.batch_id)
-        for rule in batch.world_rules:
-            register("rules", rule.rule_id, batch.batch_id)
+        for world_rule in batch.world_rules:
+            register("rules", world_rule.rule_id, batch.batch_id)
         for location in batch.locations:
             register("locations", location.location_id, batch.batch_id)
         for route in batch.routes:
@@ -1041,3 +1078,5 @@ def _check_unique_ids(errors: list[VerificationError], batches: list[EnrichmentB
             register("conflicts", conflict.conflict_id, batch.batch_id)
         for gap in batch.canon_gaps:
             register("gaps", gap.gap_id, batch.batch_id)
+        for rule in batch.behavior_rules:
+            register("behavior_rules", rule.rule_id, batch.batch_id)

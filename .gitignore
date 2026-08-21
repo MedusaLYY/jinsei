@@ -38,8 +38,16 @@ data/indexes/*
 data/db/*
 !data/db/.gitkeep
 
+# Phase artifacts: quarantine and quality scores are generated but tracked for audit trail
+# data/canon_quarantine/ is intentionally tracked
+# CANON_QUALITY_SCORE.json is tracked
+
+# Local volumes_txt are derived splits of raw (not canonical) — ignored
+data/volumes_txt/*.txt
+
 # Verification reports are generated; extraction candidates stay versioned
 data/canon/*.report.json
+data/canon_enriched/report.json
 
 # Local editor and operating-system files
 .idea/

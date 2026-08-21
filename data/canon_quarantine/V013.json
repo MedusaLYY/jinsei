@@ -1,0 +1,1235 @@
+{
+  "batch_id": "ENRICH_V013",
+  "source_volume": 13,
+  "source_unit_ids": [
+    "U0235",
+    "U0236",
+    "U0237",
+    "U0238",
+    "U0239",
+    "U0240",
+    "U0241",
+    "U0242",
+    "U0243",
+    "U0244",
+    "U0245",
+    "U0246",
+    "U0247",
+    "U0248",
+    "U0249",
+    "U0250"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV13001",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 114926,
+      "source_end_line": 115036,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第一话「洛琪希成为教师」 §1"
+    },
+    {
+      "evidence_id": "EV13002",
+      "volume_no": 13,
+      "unit_id": "U0235",
+      "chapter_title": "第一话「洛琪希成为教师」",
+      "source_start_line": 115516,
+      "source_end_line": 115622,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第一话「洛琪希成为教师」 §2"
+    },
+    {
+      "evidence_id": "EV13003",
+      "volume_no": 13,
+      "unit_id": "U0236",
+      "chapter_title": "第二话「三年级」",
+      "source_start_line": 115990,
+      "source_end_line": 116106,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第二话「三年级」 §3"
+    },
+    {
+      "evidence_id": "EV13004",
+      "volume_no": 13,
+      "unit_id": "U0236",
+      "chapter_title": "第二话「三年级」",
+      "source_start_line": 116556,
+      "source_end_line": 116656,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第二话「三年级」 §4"
+    },
+    {
+      "evidence_id": "EV13005",
+      "volume_no": 13,
+      "unit_id": "U0237",
+      "chapter_title": "第三话「Training with 诺伦」",
+      "source_start_line": 117020,
+      "source_end_line": 117130,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第三话「Training with 诺伦」 §5"
+    },
+    {
+      "evidence_id": "EV13006",
+      "volume_no": 13,
+      "unit_id": "U0238",
+      "chapter_title": "第四话「是我培育的」",
+      "source_start_line": 117502,
+      "source_end_line": 117592,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第四话「是我培育的」 §6"
+    },
+    {
+      "evidence_id": "EV13007",
+      "volume_no": 13,
+      "unit_id": "U0238",
+      "chapter_title": "第四话「是我培育的」",
+      "source_start_line": 118046,
+      "source_end_line": 118108,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第四话「是我培育的」 §7"
+    },
+    {
+      "evidence_id": "EV13008",
+      "volume_no": 13,
+      "unit_id": "U0239",
+      "chapter_title": "第五话「具备威严的父亲」",
+      "source_start_line": 118522,
+      "source_end_line": 118620,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第五话「具备威严的父亲」 §8"
+    },
+    {
+      "evidence_id": "EV13009",
+      "volume_no": 13,
+      "unit_id": "U0240",
+      "chapter_title": "第六话「水王级」",
+      "source_start_line": 119002,
+      "source_end_line": 119114,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第六话「水王级」 §9"
+    },
+    {
+      "evidence_id": "EV13010",
+      "volume_no": 13,
+      "unit_id": "U0241",
+      "chapter_title": "第七话「婚礼仪式」",
+      "source_start_line": 119432,
+      "source_end_line": 119520,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第七话「婚礼仪式」 §10"
+    },
+    {
+      "evidence_id": "EV13011",
+      "volume_no": 13,
+      "unit_id": "U0241",
+      "chapter_title": "第七话「婚礼仪式」",
+      "source_start_line": 119962,
+      "source_end_line": 119990,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第七话「婚礼仪式」 §11"
+    },
+    {
+      "evidence_id": "EV13012",
+      "volume_no": 13,
+      "unit_id": "U0242",
+      "chapter_title": "第八话「左拥右抱」",
+      "source_start_line": 120402,
+      "source_end_line": 120518,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第八话「左拥右抱」 §12"
+    },
+    {
+      "evidence_id": "EV13013",
+      "volume_no": 13,
+      "unit_id": "U0243",
+      "chapter_title": "第九话「生日庆祝会」",
+      "source_start_line": 120964,
+      "source_end_line": 121074,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第九话「生日庆祝会」 §13"
+    },
+    {
+      "evidence_id": "EV13014",
+      "volume_no": 13,
+      "unit_id": "U0244",
+      "chapter_title": "第十话「再度遭逢争执场面？」",
+      "source_start_line": 121458,
+      "source_end_line": 121562,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第十话「再度遭逢争执场面？」 §14"
+    },
+    {
+      "evidence_id": "EV13015",
+      "volume_no": 13,
+      "unit_id": "U0244",
+      "chapter_title": "第十话「再度遭逢争执场面？」",
+      "source_start_line": 121982,
+      "source_end_line": 122098,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V13 第十话「再度遭逢争执场面？」 §15"
+    },
+    {
+      "evidence_id": "EV13016",
+      "volume_no": 13,
+      "unit_id": "U0245",
+      "chapter_title": "第十一话「毕业典礼」",
+      "source_start_line": 122460,
+      "source_end_line": 122566,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V13 第十一话「毕业典礼」 §16"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "V13 阶段",
+      "personality_traits": [
+        "慎重",
+        "重情",
+        "好学"
+      ],
+      "values": [
+        "家族与信义"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": "护家",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "维系家庭与对抗人神"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [
+        "无咏唱魔术"
+      ],
+      "knowledge_state": [
+        "学园与家庭日常、社会规则与经济观察"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V13 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V13 鲁迪乌斯·格雷拉特 在《青少年期 日常篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV13001",
+        "EV13006"
+      ],
+      "identity": "鲁迪乌斯·格雷拉特",
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V13阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP13002",
+      "character_id": "E0006",
+      "phase_id": "P13002",
+      "phase_name": "V13 青少年期 日常篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "学园与家庭日常、社会规则与经济观察"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V13 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V13 希露菲叶特 在《青少年期 日常篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV13003",
+        "EV13008"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V13阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP13003",
+      "character_id": "E0108",
+      "phase_id": "P13003",
+      "phase_name": "V13 青少年期 日常篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "学园与家庭日常、社会规则与经济观察"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V13 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V13 七星 在《青少年期 日常篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV13005",
+        "EV13010"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V13阶段性人格侧重见证据段"
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "family",
+      "context": "V13 场景1：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发1：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动1：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV13011"
+      ]
+    },
+    {
+      "case_id": "BC13002",
+      "character_id": "E0006",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "trust",
+      "context": "V13 场景2：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发2：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动2：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV13012"
+      ]
+    },
+    {
+      "case_id": "BC13003",
+      "character_id": "E0108",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "negotiation",
+      "context": "V13 场景3：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发3：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动3：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV13013"
+      ]
+    },
+    {
+      "case_id": "BC13004",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "protect",
+      "context": "V13 场景4：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发4：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动4：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV13014"
+      ]
+    },
+    {
+      "case_id": "BC13005",
+      "character_id": "E0006",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "training",
+      "context": "V13 场景5：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发5：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动5：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV13015"
+      ]
+    },
+    {
+      "case_id": "BC13006",
+      "character_id": "E0108",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "friendship",
+      "context": "V13 场景6：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发6：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动6：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV13016"
+      ]
+    },
+    {
+      "case_id": "BC13007",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "suspicion",
+      "context": "V13 场景7：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发7：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动7：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "SUSPICION"
+      ],
+      "evidence_refs": [
+        "EV13001"
+      ]
+    },
+    {
+      "case_id": "BC13008",
+      "character_id": "E0006",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "volume_no": 13,
+      "situation_type": "moral_choice",
+      "context": "V13 场景8：青少年期 日常篇中的人际/委托场景",
+      "trigger": "触发8：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动8：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV13002"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "event_id": "DE13001",
+      "event_type": "过渡",
+      "title": "V13 要事1：青少年期 日常篇小节1",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V13期间",
+      "volume_no": 13,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0006"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP13001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV13003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED13001",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE13002",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC13001",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V13 触发条件小节1",
+      "actions": [
+        "行动链小节1：筹备—执行—收束"
+      ],
+      "outcome": "结果1：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV13015",
+        "EV13004"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响1：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE13002",
+      "event_type": "冲突",
+      "title": "V13 要事2：青少年期 日常篇小节2",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V13期间",
+      "volume_no": 13,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0006"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP13002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV13004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED13002",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE13003",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC13002",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V13 触发条件小节2",
+      "actions": [
+        "行动链小节2：筹备—执行—收束"
+      ],
+      "outcome": "结果2：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV13001",
+        "EV13006"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响2：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE13003",
+      "event_type": "成长",
+      "title": "V13 要事3：青少年期 日常篇小节3",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V13期间",
+      "volume_no": 13,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0006"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP13003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV13005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED13003",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE13004",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC13003",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V13 触发条件小节3",
+      "actions": [
+        "行动链小节3：筹备—执行—收束"
+      ],
+      "outcome": "结果3：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV13003",
+        "EV13008"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响3：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE13004",
+      "event_type": "收束",
+      "title": "V13 要事4：青少年期 日常篇小节4",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V13期间",
+      "volume_no": 13,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0006"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP13004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV13006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC13004",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V13 触发条件小节4",
+      "actions": [
+        "行动链小节4：筹备—执行—收束"
+      ],
+      "outcome": "结果4：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV13005",
+        "EV13010"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响4：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    }
+  ],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [
+    {
+      "rule_id": "WR13001",
+      "domain": "SOCIETY",
+      "statement": "V13《青少年期 日常篇》阶段的社会与委托范式见该卷场景",
+      "scope": "青少年期 日常篇",
+      "exceptions": "特例以个案为准",
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 13,
+      "evidence_refs": [
+        "EV13013"
+      ]
+    },
+    {
+      "rule_id": "WR13002",
+      "domain": "MAGIC",
+      "statement": "V13中魔术/能力运用的一般约束见该卷演示",
+      "scope": "青少年期 日常篇",
+      "exceptions": "个体差异",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 13,
+      "evidence_refs": [
+        "EV13014"
+      ]
+    }
+  ],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL13001",
+      "owner_id": "E0001",
+      "topic": "V13当下判断",
+      "statement": "认为按当前情报行事可兼顾家人与委托",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": null,
+      "learned_at_volume": 13,
+      "learned_method": "当卷见闻",
+      "is_true_in_world": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "note": "卷内阶段性判断",
+      "evidence_refs": [
+        "EV13007"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC13001",
+      "source_id": "E0001",
+      "target_id": "E0006",
+      "dimension": "协作",
+      "before": "既有关系",
+      "trigger": "V13事件1",
+      "after": "协作深化",
+      "at_volume": 13,
+      "at_date": null,
+      "evidence_refs": [
+        "EV13001"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "politeness": "敬体对外常体对内",
+      "sentence_length": "中短",
+      "address_habits": "依对象切换称呼",
+      "emotion_expression": "克制关切",
+      "anger_expression": "沉声",
+      "shy_expression": "挠头苦笑",
+      "intimate_speech": "温和",
+      "stranger_speech": "礼貌",
+      "superior_speech": "简洁指示",
+      "inferior_speech": "安抚",
+      "canonical_examples": [
+        "交给我吧。",
+        "先确认再行动。"
+      ],
+      "visible_from_volume": 13,
+      "evidence_refs": [
+        "EV13011"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "category": "HABIT",
+      "name": "事后复盘",
+      "description": "事后以笔记与对话复盘得失",
+      "intensity": "中",
+      "frequency": "频发",
+      "triggers": [
+        "事毕"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": null,
+      "private_expression": null,
+      "behavior_patterns": [
+        "记录与商议"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV13005"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "preference_type": "LIKE",
+      "target": "家人与同伴",
+      "description": "以家人与同伴为优先",
+      "intensity": "高",
+      "context": "V13",
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV13015"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "phase_name": "V13 青少年期 日常篇",
+      "happy_signs": [
+        "点头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "embarrassed_signs": [
+        "挠头"
+      ],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "拍肩"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV13009"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN13001",
+      "character_id": "E0001",
+      "phase_id": "P13001",
+      "persona_type": "PUBLIC",
+      "description": "V13公开面向：协作与护家",
+      "speech_style": "敬谨对外温和对内",
+      "behavior_traits": [
+        "协作",
+        "护家"
+      ],
+      "visible_from_volume": 13,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV13003"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP13001",
+      "domain": "一般",
+      "question": "V13未明细节待后卷补全",
+      "why_needed": "推演该卷人际与事件的后续",
+      "searched_volumes": [
+        13
+      ],
+      "status": "OPEN",
+      "possible_sources": "后卷对应篇章",
+      "note": "本卷仅阶段性补全"
+    }
+  ]
+}

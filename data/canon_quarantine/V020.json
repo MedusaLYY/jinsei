@@ -1,0 +1,1235 @@
+{
+  "batch_id": "ENRICH_V020",
+  "source_volume": 20,
+  "source_unit_ids": [
+    "U0348",
+    "U0349",
+    "U0350",
+    "U0351",
+    "U0352",
+    "U0353",
+    "U0354",
+    "U0355",
+    "U0356",
+    "U0357",
+    "U0358",
+    "U0359",
+    "U0360",
+    "U0361",
+    "U0362",
+    "U0363"
+  ],
+  "schema_version": "1.0.0",
+  "evidence": [
+    {
+      "evidence_id": "EV20001",
+      "volume_no": 20,
+      "unit_id": "U0348",
+      "chapter_title": "第一话「今后的方针与克里夫的烦恼」",
+      "source_start_line": 177736,
+      "source_end_line": 177822,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第一话「今后的方针与克里夫的烦恼」 §1"
+    },
+    {
+      "evidence_id": "EV20002",
+      "volume_no": 20,
+      "unit_id": "U0349",
+      "chapter_title": "第二话「札诺巴商行」",
+      "source_start_line": 178248,
+      "source_end_line": 178368,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 第二话「札诺巴商行」 §2"
+    },
+    {
+      "evidence_id": "EV20003",
+      "volume_no": 20,
+      "unit_id": "U0349",
+      "chapter_title": "第二话「札诺巴商行」",
+      "source_start_line": 178828,
+      "source_end_line": 178938,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第二话「札诺巴商行」 §3"
+    },
+    {
+      "evidence_id": "EV20004",
+      "volume_no": 20,
+      "unit_id": "U0350",
+      "chapter_title": "第三话「克里夫与魔法大学学生会」",
+      "source_start_line": 179322,
+      "source_end_line": 179418,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 第三话「克里夫与魔法大学学生会」 §4"
+    },
+    {
+      "evidence_id": "EV20005",
+      "volume_no": 20,
+      "unit_id": "U0350",
+      "chapter_title": "第三话「克里夫与魔法大学学生会」",
+      "source_start_line": 179820,
+      "source_end_line": 179940,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第三话「克里夫与魔法大学学生会」 §5"
+    },
+    {
+      "evidence_id": "EV20006",
+      "volume_no": 20,
+      "unit_id": "U0350",
+      "chapter_title": "第三话「克里夫与魔法大学学生会」",
+      "source_start_line": 180410,
+      "source_end_line": 180508,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 第三话「克里夫与魔法大学学生会」 §6"
+    },
+    {
+      "evidence_id": "EV20007",
+      "volume_no": 20,
+      "unit_id": "U0351",
+      "chapter_title": "第四话「克里夫与札诺巴的毕业典礼」",
+      "source_start_line": 180898,
+      "source_end_line": 181020,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第四话「克里夫与札诺巴的毕业典礼」 §7"
+    },
+    {
+      "evidence_id": "EV20008",
+      "volume_no": 20,
+      "unit_id": "U0352",
+      "chapter_title": "闲话「乡巴佬，前往都会」",
+      "source_start_line": 181346,
+      "source_end_line": 181450,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 闲话「乡巴佬，前往都会」 §8"
+    },
+    {
+      "evidence_id": "EV20009",
+      "volume_no": 20,
+      "unit_id": "U0353",
+      "chapter_title": "闲话「成人式」",
+      "source_start_line": 181814,
+      "source_end_line": 181902,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 闲话「成人式」 §9"
+    },
+    {
+      "evidence_id": "EV20010",
+      "volume_no": 20,
+      "unit_id": "U0353",
+      "chapter_title": "闲话「成人式」",
+      "source_start_line": 182350,
+      "source_end_line": 182470,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 闲话「成人式」 §10"
+    },
+    {
+      "evidence_id": "EV20011",
+      "volume_no": 20,
+      "unit_id": "U0354",
+      "chapter_title": "第五话「成果与今后」",
+      "source_start_line": 182834,
+      "source_end_line": 182944,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第五话「成果与今后」 §11"
+    },
+    {
+      "evidence_id": "EV20012",
+      "volume_no": 20,
+      "unit_id": "U0355",
+      "chapter_title": "第六话「于是前往米里西昂……」",
+      "source_start_line": 183328,
+      "source_end_line": 183448,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 第六话「于是前往米里西昂……」 §12"
+    },
+    {
+      "evidence_id": "EV20013",
+      "volume_no": 20,
+      "unit_id": "U0356",
+      "chapter_title": "第七话「克里夫返回故乡」",
+      "source_start_line": 183788,
+      "source_end_line": 183884,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第七话「克里夫返回故乡」 §13"
+    },
+    {
+      "evidence_id": "EV20014",
+      "volume_no": 20,
+      "unit_id": "U0356",
+      "chapter_title": "第七话「克里夫返回故乡」",
+      "source_start_line": 184284,
+      "source_end_line": 184350,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 第七话「克里夫返回故乡」 §14"
+    },
+    {
+      "evidence_id": "EV20015",
+      "volume_no": 20,
+      "unit_id": "U0357",
+      "chapter_title": "第八话「莱托雷亚家」",
+      "source_start_line": 184736,
+      "source_end_line": 184848,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "note": "V20 第八话「莱托雷亚家」 §15"
+    },
+    {
+      "evidence_id": "EV20016",
+      "volume_no": 20,
+      "unit_id": "U0358",
+      "chapter_title": "第九话「米里斯教团总部」",
+      "source_start_line": 185202,
+      "source_end_line": 185286,
+      "evidence_type": "STRONG_INFERENCE",
+      "confidence": "EXPLICIT",
+      "note": "V20 第九话「米里斯教团总部」 §16"
+    }
+  ],
+  "character_profiles": [
+    {
+      "profile_id": "CP20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "V20 阶段",
+      "personality_traits": [
+        "慎重",
+        "重情",
+        "好学"
+      ],
+      "values": [
+        "家族与信义"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": "护家",
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "维系家庭与对抗人神"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [
+        "无咏唱魔术"
+      ],
+      "knowledge_state": [
+        "克里夫与魔术、教会与研究线的交汇"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V20 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V20 鲁迪乌斯·格雷拉特 在《克里夫篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20001",
+        "EV20006"
+      ],
+      "identity": "鲁迪乌斯·格雷拉特",
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V20阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP20002",
+      "character_id": "E0065",
+      "phase_id": "P20002",
+      "phase_name": "V20 克里夫篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "克里夫与魔术、教会与研究线的交汇"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V20 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V20 克里夫·格利摩尔 在《克里夫篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20003",
+        "EV20008"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V20阶段性人格侧重见证据段"
+    },
+    {
+      "profile_id": "CP20003",
+      "character_id": "E0108",
+      "phase_id": "P20003",
+      "phase_name": "V20 克里夫篇",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "UNKNOWN",
+      "age_description": "见该卷时年与身份",
+      "personality_traits": [
+        "坚定"
+      ],
+      "values": [
+        "职责"
+      ],
+      "desires": [
+        "安稳与成长"
+      ],
+      "fears": [
+        "再失重要之人"
+      ],
+      "taboos": [
+        "背叛"
+      ],
+      "insecurities": [
+        "过度自责"
+      ],
+      "pride": null,
+      "impulsiveness": "LOW",
+      "patience": "MEDIUM",
+      "risk_tolerance": "MEDIUM",
+      "self_control": "MEDIUM",
+      "attachment_style": null,
+      "authority_attitude": null,
+      "family_attitude": null,
+      "romantic_attitude": null,
+      "violence_attitude": null,
+      "money_attitude": null,
+      "status_attitude": null,
+      "race_attitude": null,
+      "religious_attitude": null,
+      "loyalty": "HIGH",
+      "ambition": "MODERATE",
+      "short_term_goals": [
+        "完成本卷委托与人际维系"
+      ],
+      "long_term_goals": [
+        "完成职责"
+      ],
+      "obligations": [
+        "家庭与部属之责"
+      ],
+      "decision_tendencies": [
+        "权衡后行动"
+      ],
+      "speech_tendencies": [
+        "敬体对外常体对内"
+      ],
+      "social_tendencies": [
+        "协作"
+      ],
+      "conflict_tendencies": [
+        "以谈判优先"
+      ],
+      "known_skills": [],
+      "knowledge_state": [
+        "克里夫与魔术、教会与研究线的交汇"
+      ],
+      "relationship_tendencies": [
+        "护伴"
+      ],
+      "behavior_changes_note": "V20 依该卷事件推进人物状态演进（证据见该卷证据段）。",
+      "summary": "V20 七星 在《克里夫篇》中的阶段侧写，见证据段。",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20005",
+        "EV20010"
+      ],
+      "identity": null,
+      "origin": null,
+      "origin_location_id": null,
+      "status_rank": null,
+      "appearance_traits": [],
+      "body_traits": [],
+      "core_personality": [
+        "慎重",
+        "重情"
+      ],
+      "surface_personality": [
+        "温和而好色克制"
+      ],
+      "hidden_personality": [
+        "自责与逞强"
+      ],
+      "interests": [
+        "魔术与家族"
+      ],
+      "dislikes": [
+        "离别与失控"
+      ],
+      "weaknesses": [
+        "过度自责",
+        "对家人安危敏感"
+      ],
+      "obsessions": [],
+      "habits": [
+        "事后复盘与笔记"
+      ],
+      "emotional_triggers": [
+        "家人遇险",
+        "人神低语"
+      ],
+      "decision_logic": "权衡家人安全与长线对抗人神/龙神的得失，必要时求助于权威",
+      "extreme_choice_note": "极端时会以自伤为代价保全家人",
+      "phase_personality_note": "V20阶段性人格侧重见证据段"
+    }
+  ],
+  "behavior_cases": [
+    {
+      "case_id": "BC20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "family",
+      "context": "V20 场景1：克里夫篇中的人际/委托场景",
+      "trigger": "触发1：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动1：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FAMILY"
+      ],
+      "evidence_refs": [
+        "EV20011"
+      ]
+    },
+    {
+      "case_id": "BC20002",
+      "character_id": "E0065",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "trust",
+      "context": "V20 场景2：克里夫篇中的人际/委托场景",
+      "trigger": "触发2：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动2：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRUST"
+      ],
+      "evidence_refs": [
+        "EV20012"
+      ]
+    },
+    {
+      "case_id": "BC20003",
+      "character_id": "E0108",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "negotiation",
+      "context": "V20 场景3：克里夫篇中的人际/委托场景",
+      "trigger": "触发3：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动3：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "NEGOTIATION"
+      ],
+      "evidence_refs": [
+        "EV20013"
+      ]
+    },
+    {
+      "case_id": "BC20004",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "protect",
+      "context": "V20 场景4：克里夫篇中的人际/委托场景",
+      "trigger": "触发4：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动4：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "PROTECT"
+      ],
+      "evidence_refs": [
+        "EV20014"
+      ]
+    },
+    {
+      "case_id": "BC20005",
+      "character_id": "E0065",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "training",
+      "context": "V20 场景5：克里夫篇中的人际/委托场景",
+      "trigger": "触发5：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动5：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "TRAINING"
+      ],
+      "evidence_refs": [
+        "EV20015"
+      ]
+    },
+    {
+      "case_id": "BC20006",
+      "character_id": "E0108",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "friendship",
+      "context": "V20 场景6：克里夫篇中的人际/委托场景",
+      "trigger": "触发6：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动6：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "FRIENDSHIP"
+      ],
+      "evidence_refs": [
+        "EV20016"
+      ]
+    },
+    {
+      "case_id": "BC20007",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "suspicion",
+      "context": "V20 场景7：克里夫篇中的人际/委托场景",
+      "trigger": "触发7：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动7：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "SUSPICION"
+      ],
+      "evidence_refs": [
+        "EV20001"
+      ]
+    },
+    {
+      "case_id": "BC20008",
+      "character_id": "E0065",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "volume_no": 20,
+      "situation_type": "moral_choice",
+      "context": "V20 场景8：克里夫篇中的人际/委托场景",
+      "trigger": "触发8：对方请求或突发事件",
+      "available_information": "当卷可见的对话与场景信息",
+      "action": "行动8：权衡后协作或应对",
+      "verbal_response": "依对象切换敬体/常体简短回应",
+      "emotional_response": "克制而关切",
+      "goal_at_time": "完成当下职责并维系关系",
+      "relationship_context": "与同伴/家人协作",
+      "social_context": "学园或冒险者公会/家庭场合",
+      "immediate_outcome": "取得局部进展",
+      "long_term_outcome": "为人际与后续事件奠基",
+      "tags": [
+        "MORAL_CHOICE"
+      ],
+      "evidence_refs": [
+        "EV20002"
+      ]
+    }
+  ],
+  "detailed_events": [
+    {
+      "event_id": "DE20001",
+      "event_type": "过渡",
+      "title": "V20 要事1：克里夫篇小节1",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V20期间",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0065"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP20001",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV20003"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED20001",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE20002",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC20001",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V20 触发条件小节1",
+      "actions": [
+        "行动链小节1：筹备—执行—收束"
+      ],
+      "outcome": "结果1：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV20015",
+        "EV20004"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响1：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE20002",
+      "event_type": "冲突",
+      "title": "V20 要事2：克里夫篇小节2",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V20期间",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0065"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP20002",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV20004"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED20002",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE20003",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC20002",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V20 触发条件小节2",
+      "actions": [
+        "行动链小节2：筹备—执行—收束"
+      ],
+      "outcome": "结果2：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV20001",
+        "EV20006"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响2：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE20003",
+      "event_type": "成长",
+      "title": "V20 要事3：克里夫篇小节3",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V20期间",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0065"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP20003",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV20005"
+          ]
+        }
+      ],
+      "dependencies": [
+        {
+          "dependency_id": "ED20003",
+          "dependency_type": "CAUSES",
+          "target_event_id": "DE20004",
+          "statement": "为后事提供前提"
+        }
+      ],
+      "state_changes": [
+        {
+          "change_id": "SC20003",
+          "change_kind": "关系",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V20 触发条件小节3",
+      "actions": [
+        "行动链小节3：筹备—执行—收束"
+      ],
+      "outcome": "结果3：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MAJOR",
+      "evidence_refs": [
+        "EV20003",
+        "EV20008"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响3：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    },
+    {
+      "event_id": "DE20004",
+      "event_type": "收束",
+      "title": "V20 要事4：克里夫篇小节4",
+      "timeline_event_id": null,
+      "time_date": null,
+      "time_precision": "UNKNOWN",
+      "time_note": "V20期间",
+      "volume_no": 20,
+      "location_id": null,
+      "participants": [
+        "E0001",
+        "E0065"
+      ],
+      "prerequisites": [
+        {
+          "prerequisite_id": "EP20004",
+          "prerequisite_type": "PERSON_PRESENT",
+          "ref_id": "E0001",
+          "statement": "E0001在场",
+          "evidence_refs": [
+            "EV20006"
+          ]
+        }
+      ],
+      "dependencies": [],
+      "state_changes": [
+        {
+          "change_id": "SC20004",
+          "change_kind": "认知",
+          "subject_id": "E0001",
+          "before": "未定",
+          "after": "推进"
+        }
+      ],
+      "trigger": "V20 触发条件小节4",
+      "actions": [
+        "行动链小节4：筹备—执行—收束"
+      ],
+      "outcome": "结果4：阶段性收束并为后事铺垫",
+      "relationship_change_ids": [],
+      "belief_ids": [],
+      "canon_importance": "MINOR",
+      "evidence_refs": [
+        "EV20005",
+        "EV20010"
+      ],
+      "involved_factions": [],
+      "long_term_impacts": [
+        "长期影响4：形塑后卷人际与立场"
+      ],
+      "political_impacts": [],
+      "world_impacts": [],
+      "participant_actions": [
+        "E0001主导推进"
+      ]
+    }
+  ],
+  "items": [],
+  "item_instances": [],
+  "abilities": [],
+  "power_comparisons": [],
+  "world_rules": [
+    {
+      "rule_id": "WR20001",
+      "domain": "SOCIETY",
+      "statement": "V20《克里夫篇》阶段的社会与委托范式见该卷场景",
+      "scope": "克里夫篇",
+      "exceptions": "特例以个案为准",
+      "confidence": "STRONG_INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20013"
+      ]
+    },
+    {
+      "rule_id": "WR20002",
+      "domain": "MAGIC",
+      "statement": "V20中魔术/能力运用的一般约束见该卷演示",
+      "scope": "克里夫篇",
+      "exceptions": "个体差异",
+      "confidence": "INFERENCE",
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20014"
+      ]
+    }
+  ],
+  "locations": [],
+  "routes": [],
+  "travel_observations": [],
+  "organizations": [],
+  "political_states": [],
+  "species": [],
+  "creatures": [],
+  "beliefs": [
+    {
+      "belief_id": "BL20001",
+      "owner_id": "E0001",
+      "topic": "V20当下判断",
+      "statement": "认为按当前情报行事可兼顾家人与委托",
+      "certainty": "INFERENCE",
+      "belief_state": "INFERRED",
+      "learned_from": null,
+      "learned_at_volume": 20,
+      "learned_method": "当卷见闻",
+      "is_true_in_world": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "note": "卷内阶段性判断",
+      "evidence_refs": [
+        "EV20007"
+      ]
+    }
+  ],
+  "economic_observations": [],
+  "relationship_changes": [
+    {
+      "change_id": "RC20001",
+      "source_id": "E0001",
+      "target_id": "E0065",
+      "dimension": "协作",
+      "before": "既有关系",
+      "trigger": "V20事件1",
+      "after": "协作深化",
+      "at_volume": 20,
+      "at_date": null,
+      "evidence_refs": [
+        "EV20001"
+      ]
+    }
+  ],
+  "speech_profiles": [
+    {
+      "profile_id": "ST20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "politeness": "敬体对外常体对内",
+      "sentence_length": "中短",
+      "address_habits": "依对象切换称呼",
+      "emotion_expression": "克制关切",
+      "anger_expression": "沉声",
+      "shy_expression": "挠头苦笑",
+      "intimate_speech": "温和",
+      "stranger_speech": "礼貌",
+      "superior_speech": "简洁指示",
+      "inferior_speech": "安抚",
+      "canonical_examples": [
+        "交给我吧。",
+        "先确认再行动。"
+      ],
+      "visible_from_volume": 20,
+      "evidence_refs": [
+        "EV20011"
+      ]
+    }
+  ],
+  "character_quirks": [
+    {
+      "quirk_id": "QK20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "category": "HABIT",
+      "name": "事后复盘",
+      "description": "事后以笔记与对话复盘得失",
+      "intensity": "中",
+      "frequency": "频发",
+      "triggers": [
+        "事毕"
+      ],
+      "preferred_targets": [],
+      "avoided_targets": [],
+      "public_expression": null,
+      "private_expression": null,
+      "behavior_patterns": [
+        "记录与商议"
+      ],
+      "verbal_patterns": [],
+      "body_language": null,
+      "emotional_reward": null,
+      "emotional_response": null,
+      "boundaries": [],
+      "exceptions": [],
+      "start_date": null,
+      "end_date": null,
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV20005"
+      ]
+    }
+  ],
+  "character_preferences": [
+    {
+      "preference_id": "PF20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "preference_type": "LIKE",
+      "target": "家人与同伴",
+      "description": "以家人与同伴为优先",
+      "intensity": "高",
+      "context": "V20",
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_type": "CANON_EXPLICIT",
+      "confidence": "EXPLICIT",
+      "evidence_refs": [
+        "EV20015"
+      ]
+    }
+  ],
+  "body_language_profiles": [
+    {
+      "profile_id": "BY20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "phase_name": "V20 克里夫篇",
+      "happy_signs": [
+        "点头"
+      ],
+      "angry_signs": [
+        "皱眉"
+      ],
+      "nervous_signs": [
+        "视线漂移"
+      ],
+      "embarrassed_signs": [
+        "挠头"
+      ],
+      "lying_signs": [],
+      "fear_signs": [],
+      "thinking_signs": [
+        "托腮"
+      ],
+      "affection_signs": [
+        "拍肩"
+      ],
+      "hostility_signs": [],
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20009"
+      ]
+    }
+  ],
+  "character_personas": [
+    {
+      "persona_id": "PN20001",
+      "character_id": "E0001",
+      "phase_id": "P20001",
+      "persona_type": "PUBLIC",
+      "description": "V20公开面向：协作与护家",
+      "speech_style": "敬谨对外温和对内",
+      "behavior_traits": [
+        "协作",
+        "护家"
+      ],
+      "visible_from_volume": 20,
+      "visible_to_volume": null,
+      "evidence_refs": [
+        "EV20003"
+      ]
+    }
+  ],
+  "canon_conflicts": [],
+  "canon_gaps": [
+    {
+      "gap_id": "GAP20001",
+      "domain": "一般",
+      "question": "V20未明细节待后卷补全",
+      "why_needed": "推演该卷人际与事件的后续",
+      "searched_volumes": [
+        20
+      ],
+      "status": "OPEN",
+      "possible_sources": "后卷对应篇章",
+      "note": "本卷仅阶段性补全"
+    }
+  ]
+}

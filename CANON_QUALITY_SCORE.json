@@ -1,0 +1,579 @@
+{
+  "generated_at": "2026-08-21T02:15:25.076824+00:00",
+  "tool": "tools/canon_quality_check.py",
+  "schema_version": "1.0.0",
+  "volumes": [
+    {
+      "volume": "V001",
+      "score": 83,
+      "total_records": 465,
+      "counts_by_score": {
+        "100": 281,
+        "60": 176,
+        "0": 8
+      },
+      "issues": [
+        "duplicate_templates",
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V002",
+      "score": 80,
+      "total_records": 122,
+      "counts_by_score": {
+        "100": 63,
+        "60": 58,
+        "0": 1
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V003",
+      "score": 94,
+      "total_records": 19,
+      "counts_by_score": {
+        "100": 16,
+        "60": 3,
+        "0": 0
+      },
+      "issues": [],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V004",
+      "score": 88,
+      "total_records": 72,
+      "counts_by_score": {
+        "100": 52,
+        "60": 19,
+        "0": 1
+      },
+      "issues": [
+        "low_quality_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V005",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V006",
+      "score": 89,
+      "total_records": 72,
+      "counts_by_score": {
+        "100": 53,
+        "60": 18,
+        "0": 1
+      },
+      "issues": [
+        "low_quality_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V007",
+      "score": 45,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 15,
+        "60": 6,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V008",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V009",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V010",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V011",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V012",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V013",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V014",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V015",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V016",
+      "score": 95,
+      "total_records": 82,
+      "counts_by_score": {
+        "100": 73,
+        "60": 8,
+        "0": 1
+      },
+      "issues": [
+        "low_quality_entries"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V017",
+      "score": 76,
+      "total_records": 103,
+      "counts_by_score": {
+        "100": 46,
+        "60": 54,
+        "0": 3
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V018",
+      "score": 81,
+      "total_records": 91,
+      "counts_by_score": {
+        "100": 49,
+        "60": 41,
+        "0": 1
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V019",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V020",
+      "score": 46,
+      "total_records": 41,
+      "counts_by_score": {
+        "100": 16,
+        "60": 5,
+        "0": 20
+      },
+      "issues": [
+        "template_entries"
+      ],
+      "quarantine_recommended": true
+    },
+    {
+      "volume": "V021",
+      "score": 88,
+      "total_records": 104,
+      "counts_by_score": {
+        "100": 76,
+        "60": 26,
+        "0": 2
+      },
+      "issues": [
+        "low_quality_entries"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V022",
+      "score": 82,
+      "total_records": 65,
+      "counts_by_score": {
+        "100": 38,
+        "60": 25,
+        "0": 2
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V023",
+      "score": 83,
+      "total_records": 91,
+      "counts_by_score": {
+        "100": 55,
+        "60": 34,
+        "0": 2
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V024",
+      "score": 80,
+      "total_records": 88,
+      "counts_by_score": {
+        "100": 48,
+        "60": 38,
+        "0": 2
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V025",
+      "score": 93,
+      "total_records": 77,
+      "counts_by_score": {
+        "100": 65,
+        "60": 11,
+        "0": 1
+      },
+      "issues": [
+        "low_quality_entries"
+      ],
+      "quarantine_recommended": false
+    },
+    {
+      "volume": "V026",
+      "score": 81,
+      "total_records": 86,
+      "counts_by_score": {
+        "100": 48,
+        "60": 36,
+        "0": 2
+      },
+      "issues": [
+        "low_quality_entries",
+        "thin_content"
+      ],
+      "quarantine_recommended": false
+    }
+  ],
+  "manifest": {
+    "manifest_path": "data\\canon_enriched\\manifest.json",
+    "batch_counts": {
+      "ENRICH_V001": 465,
+      "ENRICH_V002": 122,
+      "ENRICH_V003": 19,
+      "ENRICH_V004": 72,
+      "ENRICH_V005": 41,
+      "ENRICH_V006": 72,
+      "ENRICH_V007": 41,
+      "ENRICH_V008": 41,
+      "ENRICH_V009": 41,
+      "ENRICH_V010": 41,
+      "ENRICH_V011": 41,
+      "ENRICH_V012": 41,
+      "ENRICH_V013": 41,
+      "ENRICH_V014": 41,
+      "ENRICH_V015": 41,
+      "ENRICH_V016": 82,
+      "ENRICH_V017": 103,
+      "ENRICH_V018": 91,
+      "ENRICH_V019": 41,
+      "ENRICH_V020": 41,
+      "ENRICH_V021": 104,
+      "ENRICH_V022": 65,
+      "ENRICH_V023": 91,
+      "ENRICH_V024": 88,
+      "ENRICH_V025": 77,
+      "ENRICH_V026": 86
+    },
+    "distribution": {
+      "465": 1,
+      "122": 1,
+      "19": 1,
+      "72": 2,
+      "41": 12,
+      "82": 1,
+      "103": 1,
+      "91": 2,
+      "104": 1,
+      "65": 1,
+      "88": 1,
+      "77": 1,
+      "86": 1
+    },
+    "generic_generation_probability": true,
+    "fixed_41_volumes": [
+      "ENRICH_V005",
+      "ENRICH_V007",
+      "ENRICH_V008",
+      "ENRICH_V009",
+      "ENRICH_V010",
+      "ENRICH_V011",
+      "ENRICH_V012",
+      "ENRICH_V013",
+      "ENRICH_V014",
+      "ENRICH_V015",
+      "ENRICH_V019",
+      "ENRICH_V020"
+    ],
+    "fixed_41_count": 12,
+    "verdict": "HIGH generic risk"
+  },
+  "quarantine": {
+    "quarantine_dir": "data\\canon_quarantine",
+    "invalid_entries_path": "data\\canon_quarantine\\invalid_entries.json",
+    "exists": true,
+    "invalid_entries_count": 615,
+    "by_reason": {
+      "template_pollution": 615
+    },
+    "by_type": {
+      "evidence": 240,
+      "character_profiles": 45,
+      "behavior_cases": 120,
+      "detailed_events": 60,
+      "world_rules": 30,
+      "beliefs": 15,
+      "relationship_changes": 15,
+      "speech_profiles": 15,
+      "character_quirks": 15,
+      "character_preferences": 15,
+      "body_language_profiles": 15,
+      "character_personas": 15,
+      "canon_gaps": 15
+    },
+    "by_source_file": {
+      "data/canon_enriched/V003.json": 41,
+      "data/canon_enriched/V004.json": 41,
+      "data/canon_enriched/V005.json": 41,
+      "data/canon_enriched/V006.json": 41,
+      "data/canon_enriched/V007.json": 41,
+      "data/canon_enriched/V008.json": 41,
+      "data/canon_enriched/V009.json": 41,
+      "data/canon_enriched/V010.json": 41,
+      "data/canon_enriched/V011.json": 41,
+      "data/canon_enriched/V012.json": 41,
+      "data/canon_enriched/V013.json": 41,
+      "data/canon_enriched/V014.json": 41,
+      "data/canon_enriched/V015.json": 41,
+      "data/canon_enriched/V019.json": 41,
+      "data/canon_enriched/V020.json": 41
+    },
+    "manifest_analysis": {
+      "manifest_path": "data/canon_enriched/manifest.json",
+      "batch_counts": {
+        "ENRICH_V001": 465,
+        "ENRICH_V002": 122,
+        "ENRICH_V003": 41,
+        "ENRICH_V004": 41,
+        "ENRICH_V005": 41,
+        "ENRICH_V006": 41,
+        "ENRICH_V007": 41,
+        "ENRICH_V008": 41,
+        "ENRICH_V009": 41,
+        "ENRICH_V010": 41,
+        "ENRICH_V011": 41,
+        "ENRICH_V012": 41,
+        "ENRICH_V013": 41,
+        "ENRICH_V014": 41,
+        "ENRICH_V015": 41,
+        "ENRICH_V016": 74,
+        "ENRICH_V017": 101,
+        "ENRICH_V018": 91,
+        "ENRICH_V019": 41,
+        "ENRICH_V020": 41,
+        "ENRICH_V021": 104,
+        "ENRICH_V022": 65,
+        "ENRICH_V023": 91,
+        "ENRICH_V024": 88,
+        "ENRICH_V025": 77,
+        "ENRICH_V026": 86
+      },
+      "distribution": {
+        "465": 1,
+        "122": 1,
+        "41": 15,
+        "74": 1,
+        "101": 1,
+        "91": 2,
+        "104": 1,
+        "65": 1,
+        "88": 1,
+        "77": 1,
+        "86": 1
+      },
+      "generic_generation_probability": true,
+      "fixed_41_volumes": [
+        "ENRICH_V003",
+        "ENRICH_V004",
+        "ENRICH_V005",
+        "ENRICH_V006",
+        "ENRICH_V007",
+        "ENRICH_V008",
+        "ENRICH_V009",
+        "ENRICH_V010",
+        "ENRICH_V011",
+        "ENRICH_V012",
+        "ENRICH_V013",
+        "ENRICH_V014",
+        "ENRICH_V015",
+        "ENRICH_V019",
+        "ENRICH_V020"
+      ],
+      "fixed_41_count": 15,
+      "verdict": "HIGH generic risk: 15 volumes share identical count 41 matching build_enrich_generic.py fixed产量",
+      "quarantine_volumes": [
+        "V003",
+        "V004",
+        "V005",
+        "V006",
+        "V007",
+        "V008",
+        "V009",
+        "V010",
+        "V011",
+        "V012",
+        "V013",
+        "V014",
+        "V015",
+        "V019",
+        "V020"
+      ],
+      "invalid_entries_count": 615,
+      "invalid_entries_by_type": {
+        "evidence": 240,
+        "character_profiles": 45,
+        "behavior_cases": 120,
+        "detailed_events": 60,
+        "world_rules": 30,
+        "beliefs": 15,
+        "relationship_changes": 15,
+        "speech_profiles": 15,
+        "character_quirks": 15,
+        "character_preferences": 15,
+        "body_language_profiles": 15,
+        "character_personas": 15,
+        "canon_gaps": 15
+      }
+    }
+  }
+}

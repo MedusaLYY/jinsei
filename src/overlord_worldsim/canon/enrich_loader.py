@@ -26,6 +26,7 @@ from overlord_worldsim.canon.enrich_model import (
     BodyLanguageProfile,
     CanonConflict,
     CanonGap,
+    CharacterBehaviorRule,
     CharacterPersona,
     CharacterPreference,
     CharacterProfile,
@@ -85,6 +86,8 @@ _ENRICHMENT_TABLES = (
     "character_personas",
     "canon_conflicts",
     "canon_gaps",
+    "character_behavior_rules",
+    "character_behavior_rule_tags",
 )
 
 _SCHEMA_SQL = """
@@ -601,9 +604,40 @@ CREATE TABLE IF NOT EXISTS character_quirks (
     visible_to_volume INTEGER,
     evidence_type TEXT NOT NULL,
     confidence TEXT NOT NULL,
+    simulation_weight TEXT,
+    overplay_warning TEXT,
+    is_private_tendency INTEGER NOT NULL DEFAULT 0,
     batch_id TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_quirks_character ON character_quirks(character_id);
+CREATE TABLE IF NOT EXISTS character_behavior_rules (
+    rule_id TEXT PRIMARY KEY,
+    character_id TEXT NOT NULL,
+    phase_id TEXT NOT NULL,
+    condition_text TEXT NOT NULL,
+    trigger_event TEXT NOT NULL,
+    response TEXT NOT NULL,
+    psychological_reason TEXT NOT NULL,
+    known_at_time TEXT NOT NULL,
+    unknown_at_time TEXT NOT NULL,
+    public_vs_private TEXT NOT NULL,
+    simulation_weight TEXT NOT NULL,
+    overplay_warning TEXT,
+    visible_from_volume INTEGER NOT NULL,
+    visible_to_volume INTEGER,
+    evidence_type TEXT NOT NULL,
+    confidence TEXT NOT NULL,
+    batch_id TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_behavior_rules_character ON character_behavior_rules(character_id);
+CREATE INDEX IF NOT EXISTS idx_behavior_rules_volume
+    ON character_behavior_rules(visible_from_volume, visible_to_volume);
+CREATE TABLE IF NOT EXISTS character_behavior_rule_tags (
+    rule_id TEXT NOT NULL REFERENCES character_behavior_rules(rule_id),
+    tag TEXT NOT NULL,
+    PRIMARY KEY (rule_id, tag)
+);
+CREATE INDEX IF NOT EXISTS idx_behavior_rule_tags_tag ON character_behavior_rule_tags(tag);
 CREATE TABLE IF NOT EXISTS character_preferences (
     preference_id TEXT PRIMARY KEY,
     character_id TEXT NOT NULL,
@@ -1475,8 +1509,9 @@ def _insert_quirks(
             "behavior_patterns, verbal_patterns, body_language, emotional_reward, "
             "emotional_response, boundaries, exceptions, start_date, end_date, "
             "visible_from_volume, visible_to_volume, evidence_type, confidence, "
-            "batch_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, "
-            "?, ?, ?, ?, ?, ?, ?, ?)",
+            "simulation_weight, overplay_warning, is_private_tendency, batch_id) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, "
+            "?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 quirk.quirk_id,
                 quirk.character_id,
@@ -1504,10 +1539,52 @@ def _insert_quirks(
                 quirk.visible_to_volume,
                 quirk.evidence_type.value,
                 quirk.confidence.value,
+                quirk.simulation_weight,
+                quirk.overplay_warning,
+                int(bool(quirk.is_private_tendency)),
                 batch_id,
             ),
         )
         _link_evidence(connection, "character_quirks", quirk.quirk_id, quirk.evidence_refs)
+
+
+def _insert_behavior_rules(
+    connection: sqlite3.Connection, rules: Iterable[CharacterBehaviorRule], batch_id: str
+) -> None:
+    for rule in rules:
+        tags = [tag.value for tag in rule.tags]
+        connection.execute(
+            "INSERT INTO character_behavior_rules(rule_id, character_id, phase_id, "
+            "condition_text, trigger_event, response, psychological_reason, "
+            "known_at_time, unknown_at_time, public_vs_private, simulation_weight, "
+            "overplay_warning, visible_from_volume, visible_to_volume, "
+            "evidence_type, confidence, batch_id) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                rule.rule_id,
+                rule.character_id,
+                rule.phase_id,
+                rule.condition,
+                rule.trigger_event,
+                rule.response,
+                rule.psychological_reason,
+                rule.known_at_time,
+                rule.unknown_at_time,
+                rule.public_vs_private,
+                rule.simulation_weight,
+                rule.overplay_warning,
+                rule.visible_from_volume,
+                rule.visible_to_volume,
+                rule.evidence_type.value,
+                rule.confidence.value,
+                batch_id,
+            ),
+        )
+        connection.executemany(
+            "INSERT INTO character_behavior_rule_tags(rule_id, tag) VALUES (?, ?)",
+            [(rule.rule_id, tag) for tag in tags],
+        )
+        _link_evidence(connection, "character_behavior_rules", rule.rule_id, rule.evidence_refs)
 
 
 def _insert_preferences(
@@ -1704,6 +1781,7 @@ def apply_enrichment(
         _insert_personas(connection, batch.character_personas, batch_id)
         _insert_conflicts(connection, batch.canon_conflicts, batch_id)
         _insert_gaps(connection, batch.canon_gaps, batch_id)
+        _insert_behavior_rules(connection, batch.behavior_rules, batch_id)
     connection.executemany(
         "INSERT INTO enrichment_manifest(key, value) VALUES (?, ?)",
         sorted(manifest.items()),

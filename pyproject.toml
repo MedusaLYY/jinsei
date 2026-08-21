@@ -58,6 +58,8 @@ select = ["E", "F", "I", "N", "UP", "B", "SIM", "RUF"]
 # part of the corpus data and must not be flagged as ambiguous.
 "src/overlord_worldsim/canon/*.py" = ["RUF001", "RUF003"]
 "tests/canon/*.py" = ["RUF001", "RUF003"]
+"tests/test_canon_quality.py" = ["RUF001", "RUF003"]
+"tools/*.py" = ["RUF001", "RUF003"]
 
 [tool.ruff.format]
 quote-style = "double"
